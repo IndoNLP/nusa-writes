@@ -1,0 +1,1201 @@
+id,text,label
+indolem-train-1092,"Ghu'-ghenggu'en ma' tade', ",negative
+indolem-train-1608,Aeng panassah semmoh korang panas...,negative
+indolem-train-984,"Partai Demokrat adukung RUU otsus Papua dheddhih Undang undang,kiita dukung rakyat papua maju @PDemokrat  http://www.beritasatu.com/nasional/252744-demokrat-terima-kunjungan-majelis-rakyat-papua.html ?",positive
+indolem-train-3527,"AC korang cellep, bhantal bau jhail",negative
+indolem-train-910,"Ngadeppin Pilkada se abereng kabbi , PDIP tak manfaataghi efekkah Jokowi pole http://www.tribunnews.com/nasional/2015/02/21/hadapi-pilkada-serentak-pdip-tidak-lagi-manfaatkan-jokowi-effect/ ? via @tribunnews",positive
+indolem-train-2905,Areh sabtoh kol seriyah ghik neng kantor ben samsat ghik adek dhe-tandhe bisa ekalak :| (neng Bank Jateng Cabang Klaten) ? https://path.com/p/IqBDA ,negative
+indolem-train-3041,"Pelayan korang gheteh, adek senyum deri customer service ben justru engkok dheddhih tamoy sempet e kocokoh mala, adek lemareh, sapo' ben andok keng kareh sittong, tv kabel keng bedeh 3 channel se bisa e tegghuh",negative
+indolem-train-1469,"airy brengsek. ajhuel kamar ancor cer-kalacer. kalian jhuel kamar ghebey tamoy esek2 yeh??? kamar kotor beuh rokok. tade' anduk tade' aeng. labheng jeddhing rosak. komplain ka airy ta' e tanggeppih. ngecewaaghi sa. totop beih airy ta' pantes jhuelen kamar nga' jiyah. sekalian beih ajuel jasa pelayanan esek2. hotel ma' ancor sarah dha','yeh.",negative
+indolem-test-357,#Jokowi #PDIP PDIP Ngamok Rajeh E Bektoh Jokowi Mele BH - http://bit.ly/1AZaeWB  @PDI_Perjuangan,negative
+indolem-train-2908,"Adda """"@kangdede78: mantan se aghighir-> Demokrat Aprotes Pimpinan KPK Osolan SBY Ta' Epele Jokowi - http://kom.ps/AFploc @Vie_Kumalasari",negative
+indolem-train-28,Selamat pagiii engkok bhunga rapah nyeling riyah @RaffiAhmadLagi @Lady6igi @ruben_onsu @sarwendah29 mandher lancarrah se rembi'eh degghik,positive
+indolem-train-1591,"kamarra bhaghus,  fasilitas keya enga' hotel,  engko' ta' nyana enga' rowa..  coma bakto terro maso'a abit,  se ajaga ta' tao jha' bada se meesen kamar,  kodhu nelpon dissa dinna',  mon bisa daftar tamoy la bada e pajaga,  dhaddhi dhuli tao,  ban ta' abit,",negative
+indolem-train-822,"pelayanan bhagus, kondisi kamar bhagus, pera` tolong eperhatikan jedding begh bau sakone` tape kabbhi puass mun ka bandung pole insyaalloh bhakal deenje pole regghe mode kualitas tengghi kaso`on ruang airy",positive
+indolem-test-66,"Pacar se sae engghi paneka teppak nekah sibuk otaba handponnah lowbat, neka tettep """"o osaha"""" ghabay aberri' """"kabhar"""", minimal menjem hp kancannah. :)",positive
+indolem-train-1831,"Kalo ngomong pake fakta, Bung @kompascom: Mon PDIP NangTennang, Artenah Badha Persetuan Epelenah Badrodin http://kom.ps/AFqKLU  @PintarPolitik",negative
+indolem-validation-188,"kamarrah cek gentengah, nyaman keng sittong se ngebey kecewa ben lok lebur ajiah oreng se noghuin / CS'eh alias pelayannah lok gheteh sekaleh. keng nyelingin kadik oreng nyengnget. teros alek-ghellek ngebey tamoy lok nyaman. tolong pabeccek ghebey CS/ Pelayan mbak mbak'eng. sekelangkong",negative
+indolem-train-2550,"wifi ta' afungsi, anduk cebbeh, jendela ngangguy kacah blur deddih ta' bisah econgo' deri lowar. tapeh yeh lumayan la jeddhingah nyaman, aeng anga'. kru ramah sarah ben respon ceppet. sakalangkong kiyah....",negative
+indolem-train-2473,"cokop begus, jeddeng korang berse, pengro'om ruangan mateh, remot tv rosak.",negative
+indolem-train-1946,AC ta' ajhalan ban kamar ta' patot so ghambar,negative
+indolem-train-2704,"haghag *dhugaan* """"Manabi PDIP Adem Ayem, Artennah Badha Kasapakadhan e Bhalik Ghun-tegghun Badrodin Daddhii Kapolri"""" http://kom.ps/AFqKLU  dhari @Kompascom",negative
+indolem-train-402,diskon 30 % -konci ben konci -pakakas ngakan ben nginum palstik +diskon 10 % ben kartu kredit bank mega #promoakhirpekan,positive
+indolem-train-1419,#Berita [NGEJHITIN !] Reng Tuanah Raffi Ahmad E Tangkep Polisi http://dlvr.it/8dNxRs  #Assadiqulhaq,negative
+indolem-train-55,"kamar bhegus, bherse, wifi lancar, ghun siaran tv tade'",positive
+indolem-train-19,"Ivan adhabu """"Daddhi kesah neka abadi sampeyan lah? ? Sampeyanlah tang Takdir dhari Raffi Ahmad & Nagita Slavina ? https://path.com/p/2jlXXK ",positive
+indolem-test-123,"Kaula ampon ngenep 3x e ka'dhinto. Kennengngah cek salarasseh Sareh regghanny. kamarrah berse, jeddhingngah berse Keng coma selaloh masalah sareng aeng panassah. Sakabbinnah ce' recommended",positive
+indolem-train-2314,bed cover ban spre kadhi'eng jarang e ghante. ghi' badha ketarah karennah obhu'eng ireng sabelunnah.,negative
+indolem-test-934,"check in kol 7.30 malem, e berrik kamar 221 paleng ujung cek jheunah deri lift deddhih bok-ebok ngandung tuah se teppa' lessoh kodhu ajhelen lumayan jheu dek kamar. pas masok kamar, wc adek tutuppeh ben adek pis-lapisseh, deddhih mon angenge'/akemme buri' sake'. TV channel biasa ben wifi jhubek, aeng panas cek abitteh se panasseh, ac lok pateh gressah. Ngenep 2 malem, kapok.",negative
+indolem-train-527,bile kenning ngusok bi` mak ayah paste acerreng esoro ngakan malem.,positive
+indolem-train-2220,Ango'an meyos daripada e kewaen teros..ango'an meyos daripada badha tape selaloh eangghep tadha'.,negative
+indolem-train-1231,pebegus poleh peladinannah,negative
+indolem-validation-199,"jiwa lakar seh neng sekolah, tapeh lok taoh pekkeran teppak mangkat kammah.",negative
+indolem-test-566,"Wifi ta' bisah, para' 3 areah se ebecce'. Kabhersean tempat tedhung korang, seprai ambung ben kedde' korang bherse.",negative
+indolem-test-567,"korang muasaghi, biasa bhein, abeuh,kotor andukkeh",negative
+indolem-test-661,parabhut korang genna remot ac mate sower en-maenan wifi ta' bisa e ghunaaghi. samogha epateppa',negative
+indolem-train-1585,"aeng panas ta' aghuna, andok lambat",negative
+indolem-train-3270,aeng panas segghut ta' aghili,negative
+indolem-train-200,jumlah penumpang se maburung tiket e kantor penerbangan lion asosot: Para penumpang se terlantar polana maburung par... http://bit.ly/1vRUg9f,positive
+indolem-test-71,terimakasih cinta untuk segalanyaaa? ? terima kasih cinta dari Afgan (bi` Briyan) ? http://path.com/p/3DYm8C,positive
+indolem-test-884,andhi' pacar settong kantor neka nyaman tape badha njek eng kyah hahah lok bisa selingkuh sareng se laennah wkwkwk lok bisa? ? https://path.com/p/oJQK5,negative
+indolem-train-1283,pasughan zionis ngallange nak-kanak ka sakolah >Salengkabbha> http://sahabatalaqsha.com/nws/?p=16239,negative
+indolem-test-785,Katowa DPD PDIP Riau Nyoret Rekaveny ban Nuryanto dari Calon Balli Kotta http://aktual.co/148194,negative
+indolem-train-1877,"bherseh tape begh Gheddhe`, tolong e tingkataghi kabhersean kamar bi` jedding.",negative
+indolem-test-401,"Kamar lok padeh bik ghember neng foto,  aeng shower panas mateh.",negative
+indolem-train-2319,sepreinah ben andokkeh kotor. tehellah korang bherse. adek juk-ketojuk'eng kom neng ghembher.,negative
+indolem-train-2600,"dhalem bhakto 3 are lastarennah Sampeyan Adingghal omor, enzim se biasannah acerna kakanan malem bhakal molae 'ngkan' bhadannah sampeyan.",negative
+indolem-test-231,"Engko' senneng mon oreng congoco engko' parkara bharang se engko' la tao, engko' terro nyongngo'a ghan dimma jiya andi' bharang olle buru.",positive
+indolem-train-1576,wifi jhubek korang maksimal,negative
+indolem-train-2860,@zulhaq_ Kak!!! *langsong lok nafsoh polanah beh-ngibeh Syahrini* :))),negative
+indolem-train-798,"Manabi kaula meyos, kaulah terro sampeyan jha' pervajeh ka pasapah . percajeh dha' badhan sampeyan dhibi' . kaula sayang sampeyan ? """,positive
+indolem-train-875,emelleagi jejen ambik Yu gebei egibeh ke kantor gebei alembur# bunga #perak sarah#kasoon Yu devi#ocakakhir ???????,positive
+indolem-train-1452,"Kamar oke, WC Korang bherse WC nah Ben horden mandinah kiyah ",negative
+indolem-train-1948,"aghabay Video Klip, Syahrini Ngangghuy Konsep Absurd http://bit.ly/1LlOaVR  #maseggherbenua",negative
+indolem-train-3426,Nanges nyongngo' My Ideot Brother akakak ? ? Untukmu Aku Bertahan  bi' Afgan (Dantos Dinda) ? https://path.com/p/8epN3,negative
+indolem-train-421,"Mon pacar ondhur adina'agi kita? Ye lepas beih, berarti jiyah benni jodoh kita. Tapeh, mon sahabat? Rangkul ben tettep pertahan aghi.",positive
+indolem-train-98,"Melanah kadhineka, Didik tetep ngapresiasi langkannah Jokowi se tetep ngajagha KPK dhari ... http://bit.ly/1AJJlWL  http://bit.ly/1vxQHY9",positive
+indolem-test-281,"Fasilitasseh lumayan lengkap badha aeng panas, tv, ghu'-ghenggu', AC, ben peralaten mandih, kasor lembu', parkiren tapeh se korang jih olesseh bhental se bhernah ambung deddih terkesan lotoh ben kotor, cat tembok se la akollet ben salemot tepes....keseluruhan lumayan bhegus untuk argeh sa dha'yeh kaade' mungkin lebbhi e tingkataghi pole untuk fasilitas kamarrah",positive
+indolem-train-2090,"ok lah...,,, bisa ededhiaghi pelehan keng shower panassah tadek kamar laen bein yeh",negative
+indolem-train-2402,"Sim salabim """"@inilahdotcom: Anas Nilai Badha Sengenjhellin neng Konflik Golkar http://bit.ly/1yZh49n",negative
+indolem-train-1062,F-Demokrat: kapotosan Presiden Berri` kapastian http://brt.st/4tet,positive
+indolem-train-2383,"wifina e lantai 2 rosak, bannya` serangga2 kene`, sinyal telkomsel ben 3 ta` masok dhaddhi hp ta` bisa e hubungi, pelayanan kamar bhagus. kabbhi fasilitas afungsi.",negative
+indolem-train-3164,lok standar lemareh rosak beunah kamar lok segher suap lampu bedeh se mateh e pentah dek cs'eh lok e ghenteh,negative
+indolem-test-883,"kabbi la begus keng jeddingah bek laseng, pola polannah salurnah aingah? ngoddih e preksah pole makle beu lasengah bisa ekorangin. kaso'on.",negative
+indolem-train-448,"#LalinBpn Pkl 16:00 Bada Razia Kendaraan Bermotor e Kantor Samsat KM.2, Jl.Soetta, Nyo'on tarteb ban lengkapbhi rat-soratdha sampeyan.",positive
+indolem-train-1929,Petingginah PDIP Kota Tarakan e Gerebek Pas Sabung Ajem - Indopos http://goo.gl/fb/tfH3af  #tarakan,negative
+indolem-train-3214,"Lokasi pas ghempang etemmoh, kamar nyaman, tapeh fasilitas wifi korang Sarah. jenis kakanannah",negative
+indolem-train-3039,"la bhagus ra, pera` kasorra ta` lembuk padahal ruwa kamar paleng bhagus benni biasa, ben wifina kiya korang kuat sinyalla",negative
+indolem-train-2153,mapan: 1. kenengnah pas 2. suasananah se nyaman korang 1. spreinah kedek 2. aingah korang nglocor,negative
+indolem-train-3435,oke. Sayang signal wifinah e kamar attas jubek,negative
+indolem-test-864,lumayan.. keng mon malem aeng korang gheccang ben aeng panasseh lok gheressah..,negative
+indolem-train-2169,cek kotorrah ben abeuh sarpaan nyengnga',negative
+indolem-test-873,"kamar panas, AC rosak, jeddhing bucor, lok nyaman sarah, ontong keng transit tok.",negative
+indolem-test-523,"Sampek panjhennengngan sadar, coma kulah kenengngan sampeyan a bhelih? Sadis. ? Sadis dhari Afgan (at Perumahan Bekasi Jaya Indah) ? https://path.com/p/2REF9l",negative
+indolem-train-2098,"Jha' toman nyenggha dari ada'en oreng bakto kita la aberri' arepbhan se raja ka rowa,pas edhinaaghi rowa briya tada' settong alasan.",negative
+indolem-test-190,"Ngenom aeng pote lastarennah ngakan salad. Sareng samangkok salad aesseh sayuran ijo se sehat, jha' kalep tambaen aeng lastareh ngakan.",positive
+indolem-train-746,"kamar berse, tape sayang sapok semmoh bhau apek akadhi abit lok eangghuy. aeng panas lancar, nyaman sarah. sadhajana staf ah andhap.",positive
+indolem-train-2211,terro melleah iphone lekkah sobung obhangngah terro ngakannah ice cream pole pon sobung obhangngah ,negative
+indolem-train-1712,sobung camelannah ban roangannah sobhung jendela,negative
+indolem-train-2551,"Deri lowar bhegus badha kolam renang, balkon se langsung ka kolam renang. tapeh pas masok kamar, sengko' olle kamar nomer 6, AC sering mateh dhibi', udara se ekaloar aghi ac bek beih. beunah bhental ta' pateh nyaman.",negative
+indolem-train-2635,"Jha maenen perasaan oreng se serius. Takok'eng neka bendherran meyos. lebbhi takok pole, teppak sampeyan terro serius sareng se laen,malah emaen aghin.",negative
+indolem-train-654,"Neng Arab, pajak ajiah haram. Dheddhih arghe mobel cek modenah dissah. Mangkanah oreng Arab lebbi senneng melleh mobel deripada motor, kecuali ghebey Harley bik Ducatti.",positive
+indolem-train-1500,Leddu'en Oil Refinery Exxon Mobil e California http://abcnews.go.com/US/wireStory/blast-hits-southern-california-refinery-29054161?cid=fb_abcn ?,negative
+indolem-train-1497,"kamarra abak kotor, bannya' abu ban keddha'",negative
+indolem-test-853,petenggi PDIP kotta Tarakan Egerebek Pas ngaddu Ajem - Indopos http://goo.gl/fb/AxllhL  #tarakan,negative
+indolem-test-431,kotor,negative
+indolem-train-3288,"engkok booking kamar airy room masa neng kamar benne kadik se neng extra nett adek jhejhen airy, adek bhental airy, adek bed runer airy, lok sesuai kadik se neng foto airy room, resepsionis lok gheteh se nyegeh neng shif sorenah binek, hexos monyeh nyareng, aeng angak lok afungsi, hotel city icon residence rammeh polanah bedeh pesta acara ultang taon. se gheteh keng staf bapak securitynah bhein se nyegeh teppak ajiah.",negative
+indolem-train-2094,"aeng e kamar mate, aseram e kamar laen. petugas malem korang andhap ban tak ghellem nolonge",negative
+indolem-test-898,"RT @detikhot: Ngangghuy Tema Spontan, Syahrini Lok Mentah Izin ghebey Alakoh Video Klip http://tinyurl.com/nc766gg  ",negative
+indolem-test-221,"Riyah ajiah se kedueh ngenep neng Airy Anggrek Sittong 18. AC lebi cellep deri se pertama, kamar lebi luas. emannah e berrik ruangan ghebey arokok, padahal setaonah engkok Airy lok rokoken kabbhi. dheddhih se pertama masok abeuh asap rokok. Tapeh sejheunah riyah seh neng-seneng bhein ngenep e dinnak.",positive
+indolem-train-1913,pertama masok seprei semmoh abeuh minnyak angen..pola deri se ghik bhuruh check out.. tapeh dhulih e ghenteh marenah e berrik taoh..oh iyeh..aeng panasseh lok pateh afungsi...tapeh kennengah tenang ben nyaman..sekelangkong,negative
+indolem-train-584,[nasional] diskon - lindungi gadgetta ba`na ben pelindung anti aeng ghebey gadget pera` rp... http://gpon.co/ixnhv,positive
+indolem-train-3004,"Kamarra bau owen, ta' pada bi' ghambhar se bherse.",negative
+indolem-validation-304,JHUBEK SARAH!! engkok deteng dek kassah malem areh mala kadik pengemes lok e bukkakaghi labeng. e telpon pihakkeh mala adek,negative
+indolem-test-216,"bhagus, kamar bherseh, kennengan tedung se cokop lembuk.pelayananna cokop bhagus. korang, kamar banyya' renggi'na ben toilet possa' coro.",positive
+indolem-train-1957,Kantor Statistik Nasional neng Inggris nemoen 16-17 persen kasus bunuh diri kejadien neng areh senen.,negative
+indolem-train-870,"Roangannah arassah sempet, airy coman olle kamar neng lantai 1, sobhung jendela, sobhung shower panassah. ruko se e padaddhi hotel daddhi semmoh boring bein neng kamar teros lok bisa ngatarah situasi luar kamar. pelayanannah sae, wifi tandes, aeng minerallah dhari galonn (esse dhibi'). hotellah kodhu masok neng eco benne standart.",positive
+indolem-train-1047,"kabbi begus deri segi fasilitas ben pengladinan , koranggah e ac se korang cellep",positive
+indolem-test-6,semangat sakolah kare 2 bulan pole >.< mare ruwa preian la hahay :3,positive
+indolem-test-128,montor indonesia paleng ekonomis 2015 #jktotomotif http://ow.ly/JlofE,positive
+indolem-train-1639,Seprei lok e ghenteh... bennya' paser.,negative
+indolem-train-1467,Mobil baghus tape ghi' muang sampah dhenbedhen? todus rapaaah.... #jema'rapaaah,negative
+indolem-train-2661,"hotel se ta` muassaghi, padena bangunan se ta` eromat. ta` olle camilan ghu-lagghu, kasor tween se epadhaddhi settong dhaddhi duwe`. ta` olle kalengkapan mandi(sabun, skiat gigi ben shampo). AC ta` afungsi bhagus. tade` bhantal kene`na airy, tade` sponsor airy settong kanan. kamar bau, kasor gheddhe`. selang toilet ta` layak angghuy.",negative
+indolem-train-735,mbak sajen lucu bhein @melodyJKT48 RT @frieskaJKT48: Plinces belle ngangghuy kelambhih frozen uuuu. Cak-ocak sekelangkong ghebey ghellek xixi ?,positive
+indolem-test-327,Sampeyan segghut anatep layar laptop? otaba layarrah telpon? Awas mtanah rosak! Atasaghin sareng ngakan sushi! http://idws.id/portal/read/2015/02/27/477/Sering-Menatap-Layar-Bisa-Picu ?,negative
+indolem-train-77,Komunitas motor riah adukung jelen aman selamat sekolah e Bantaeng - Berita Bulukumba http://goo.gl/fb/tr4cN2  #Bantaeng,positive
+indolem-train-283,"Kamar OK, bherse, rapi ben fasilitas OK. Ghun AC se ta' bisah cellep, meskeh la e atur suhu rende ben Kipas Tandes. Nyo'on Becce'aghi. Kaseluruhan OK. Sakalangkong",positive
+indolem-test-430,"kamarra korang bherseh, banyya' abuna e lantai ",negative
+indolem-train-1516,"eman, aeng panasseh lok pateh panas , deddhih mon mandih kecellepen. hhehe",negative
+indolem-train-2216,"ghi' bada obu' e soprena kasor, ban soprena kasor ta' bherse bada dha'-keddha'..",negative
+indolem-test-650,"#beritasantai: Aneh, Arapa Menkumham Standar Ganda Pangesahan Pengurus PPP bi` Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-2096,"sinyal wifi lok terlalu kuat, nyo'on pabecceaghin ghabay sinyal wifi",negative
+indolem-train-2853,Se Ajegeh Korang ramah,negative
+indolem-train-262,"pengladinnah santak, kamarrah berse, toilet berse kiyyah, keng sayanggah berik tadek minibar se gratis engak biasannah, keng kenengngan penginapan gempang  ejangkau ben gempang nyareh kenengan gei ngakan mander ollah enengan se lebi begus pole.",positive
+indolem-train-1558,abang abangah judes,negative
+indolem-train-1882,jeddhingngah badha kacoa'. banthal biruh a bhau apek. laennah oke.,negative
+indolem-train-2038,"wifi pera` e lobi e kamar tade` , ben kodhu majer 5000 mun e kamar",negative
+indolem-train-3240,Ghabay sempenen ce' saennah.. coman panjagannah lok gellem mukka' labhang lebhat dhari kol 11 malem,negative
+indolem-train-1000,Jha' hoso' da' apa se la nyenggha dari aba'en. Hoso' da' apa se bisa kake lakone kaangghuy aghabay odi'en lebbi bhaghus. -@WilzKanadi,positive
+indolem-train-2603,#Golkar #ARB 45 oreng mate dhalem pangebboman mobil e Libya Temor http://bit.ly/1AWa82b,negative
+indolem-test-310,"aeng panas lok a fungsi, kebersean kamar korang",negative
+indolem-train-3390,"kamar 617 panas. are pertama minta ebhenderraghi. are kedua gi' panas. protes ka pajagana ta' nyaot bi' tim pemeliharaan. samaleman ac ta' odi', terpaksa mukka' jendela ",negative
+indolem-test-209,"Engkok rela mangkat lagghuh mole lagghuh keng ghebey nyareh rejhekeh,demi manjaagi tang calon bineh degghik neng dhunnyah ben akherat.. #Ammmiiin",positive
+indolem-train-500,"Bhegus, nyaman Ben bherse. Mon bisa untuk saluran Chanel tv nah e tambeh pole ma'le bisah nyongo' siaran TV SE Laen. Gun jiyah se Laen bhegus lah",positive
+indolem-train-2474,#BeritaSinaga VIDEO: Roba Raddhin Merah Esindir soal Shaheer: Ayu tagherjhat bi` sindiran Raffi Ahmad. http://bit.ly/187RFmE,negative
+indolem-train-486,ebok..... ??? ebok ngandung..... ????? ruwa tabu'na lah molae etangale... ??????? bidadarina raffi ahmad... ???   nagita slavina ben raffi ahmad ,positive
+indolem-train-2768,andok kerso' jiddeng korang bherse tisu e kamar tada',negative
+indolem-train-3486,aeng anga'en ta' bisa eghunaaghi wcna bau.. tada' andok,negative
+indolem-test-496,Syahrini Sangaja Ta' Menta Edhi Kaangghuy Karammean e Kennengngan Umum http//ift.tt/1AZQIHU #MentionSettong,negative
+indolem-train-3474,"PDIP ngamok BG batthal e lantek, Manuever apah se bhakal e lancaraghin? http://dlvr.it/8g6JjV  ..",negative
+indolem-train-689,senneng terros yee ba`na kabbhi kon-rokon... jhe` edingaghi reng-oreng se ta` senneng ka ba`na kabbhi @raffiahmadlagi @lady6igi kami  ? ba`na kaduwa,positive
+indolem-train-1496,"jeddingah beuh, alat gebei mandih korang maksimal engak jedding kosan, se pas cek mekecewagi bedcover alias selimuttah geddek ben spreinah tak egenteh kiyah sampek engkok eperre telgetel tak bisa tedhung. iye se reggenah mode kenengnah strategis semmak reng ajuelen kakanan keng paggun tak bisa tedhung. sarapan jejennah berui",negative
+indolem-train-3397,"Aghu'-ghengghu' kakanan manis e antara bhekto Ngakan, Bahaya le http://republika.co.id/r/nkbqmh",negative
+indolem-train-54,"Olle bonus raja Rp 384 triliun, warga Arab Saudi ghante HP sampe' kabin pole http://tinyurl.com/oem5tvp",positive
+indolem-train-2574,kamar jhubek kasor per-perreh amblas. bedeh ac tapeh lok afungseh deddhih panas le akadik adek udara,negative
+indolem-test-875,"hotel bhagus ben pemandanganna kiya bhagus. tape kursus ghebey kamar Airy bhender2 bhidhe sakale bi` kamar laenna, kamar airy bannya` sarang laba2 kennengan tedung se la ta` nyaman polana perra arassa sara e bhadhan ben la reng-mireng, AC e kamar kiya ta` cellep apa pole kamar tade` fentilasina sakale dhaddhi tambe arassa pengap.",negative
+indolem-train-915,bangga endi' kanca enga' ba'na kabbhi bisa ghebey kalambhi gaya dhibi' @infoMAN2BJM,positive
+indolem-train-1683,"Tape Om, abdhina takok sukses, kadinapa? - Lok poron akadhi Kak Afgan? Ghi' ngodha sukses, dhap ate. ???",negative
+indolem-test-212,#Golkar #ARB Rena Nozawa AKB48 tettep ajhar bhasa Indonesia http://bit.ly/1LjKjsr,positive
+indolem-train-658,Diskon 30 %- Lock & Lock - Peralattah ngakan ben nginom plastik + diskon 10 % bik kartu kredit bank Mega #PromoAkhirPekan,positive
+indolem-train-2316,Taoh nje' ba'an Mon 100% kajadian hp se gheggere jeddhing e akibataghi bi' oreng se ngibeh hp ka jeddhing #ProfessorMimin,negative
+indolem-train-1853,"Ta' sa ghempang jiyah sadar badha oreng se sayang sarah ka ba'an, sampek akherrah jiyah mele ondhur ben ta' ajuang aghi ba'an pole.",negative
+indolem-train-2284,seandayya kennangan ruwa bisa epatade` padena foto e hp kare mece` tombol 'ghusot' #jhujhur http://instagram.com/akujujurid,negative
+indolem-train-1782,"AC lok cellep, Kalengkabhan Airy mesteh e penta",negative
+indolem-train-65,Tade' pembetesen ghebey kode kalambih se teppa' e kantor Google.,positive
+indolem-train-1981,"Jedwel Padhet Sampe Lok Sempet Istirahat, Syahrini: Engkok Deddhih Oreng Binek Udara: Sosok Syahrini bisa e kocak deddhih... http://bit.ly/1Jve0uR ",negative
+indolem-test-943,"kotor, subhung aengah, crokong, lok nyaman.",negative
+indolem-train-1402,Syahrini Pole Lok Menuhin Pangilannah Mabes Polri http://goo.gl/fb/f5x3mf  @tabloidbintang,negative
+indolem-train-2648,"Pimpinanah KPK Usulanah SBY Tak Epilih Jokowi, Demokrat Protes http://palembang.tribunnews.com/2015/02/19/pimpinanah-kpk-usulanah-sby-tak-epilih-jokowi-demokrat-protes ? lewat @tribunnews",negative
+indolem-train-1805,"jeddeng kotor, kasor abeuh apek kakanan lok nyaman",negative
+indolem-train-1932,Mon teppa'en acinta maso rowa kake la  lesso ngakan ate. Dhinaaghi bhai. Molae odi' anyar kalaban ngakan bharang bharang sehaseyat keya.,negative
+indolem-test-447,Ac korang cellep,negative
+indolem-validation-302,"Pelayanan ta' memuasagi, kakanan adhe' bhekto Saor, kamar 2 areh ta' e berse'eh, bhegien se neremah tamoy ta' sopan Ben ghel-meghelli",negative
+indolem-train-2083,lantai kamar cek kotorrah kadhi' lok e pel.,negative
+indolem-train-1869,Kasorrah kerras. AC cellep Suasanannah nyaman. TV bhannyak bilissah. Lokasi e phenggir jhalan rajha daddhi aksessah ghampang.,negative
+indolem-train-268,India endi' kantor pos ben kantor polisi paleng bannya' e sakabbhi dunnya.,positive
+indolem-train-467,"kenengan berse, rapi, nyaman , sesuai regganha la, keng Wifi eyattas tadek deddi mon entarrah wfian koduh entar ka bebe.. sekabbiknah begus",positive
+indolem-train-3371,"syoteng video klip e pasar Glodok, syahrini ghebey heboh http://bit.ly/19NuY7E",negative
+indolem-train-1411,"@jpnncom: PDIP Bhellis Sara Bakto Jokowi Mele BH http://m.jpnn.com/news.php?id=288565 ?""""- partai bisa boneka, tape presiden banne bonekana partai @fadjroeL",negative
+indolem-validation-319,"Staf korang lebur , sarong bhantal geddhe`, labeng jedding rosak",negative
+indolem-train-1721,aeng panas lok pateh panas,negative
+indolem-train-2834,tempat ok..kabhersean korang ben perlekapen mandinah korang. untuk pelayanannah ramah ,negative
+indolem-train-2138,Ghebey apah asekolah mon kuliah jurusennah sesuai minat ben lok 'e paksah' kom neng sekolaan,negative
+indolem-train-1597,Bhegus kamarrah luas. ghun lantai ah kotor Ben petugas se alayanih bhektoh masok Korang ramah,negative
+indolem-train-3529,"pelayannah beghus, kamar mapan sesuai argenah, gun jeddingah bein se butoh pengroom polannah bek abeu laseng. selainnah jriyah slaurnah TV benyak se bisa e congngok polannah signallah lemah. sedejenah, hotel riyah kenengnah strategis cocok kaangguy se bede urusan e daerah kuningan. begien mapan lainnah nyareh kakanan e semaken hotel gempang sarah.",negative
+indolem-train-896,SBY Terro Demokrat Berjaya Pole neng Jhebeh Temor - Republika Online http://goo.gl/fb/B9wWL8  #Situbondo,positive
+indolem-train-1880,"#MakassarLokAman """"@Koran_Mks: 23.05 sepasang bhekal E Jambret HP nah neng Jl Batua raya 10 . Pelakunah 2 oreng kabur dek Borong",negative
+indolem-train-2515,"Sajhen abit Sampeyan kenal kaula, Jhen bannyak kakorangan se Sampeyan bhakal ngataoeh. Bhakto neka, Sampeyan badha duwa' pelean. """"Terro meyos otaba tettep sareng kaula",negative
+indolem-train-612,"karammian rakyat saudi olle bonus dari raja, melle montor sampe` kabin pole http://bit.ly/1w9JU4B",positive
+indolem-train-263,Sakalangkong cinta kaangghuy sakabbhinna. ? Terimakasih Cinta bi' Afgan ? https://path.com/p/mGfgQ,positive
+indolem-train-1949,"Kamar sabedena (cokop ghebey tedung malolo, korang nyaman), tade' aeng panas kennengan bacco bhucor. Kamar petteng (maske bede lampu)-kawasanna hotel korang bherseh.",negative
+indolem-train-1875,kamarrah semmoh kotor + petteng tehellah akadik lok toman e pel,negative
+indolem-train-59,Kamarrah bherse ben rapi. Jeddengngah lumayan. Kakanannah kiah man-nyaman ben mode. tapeh eman wifinah lemot. sekelangkong,positive
+indolem-train-1777,#BritaBaLam | Politikus Partai Golkar Bambang Soesatyo nyangka badha persetujuan antara Presiden Joko Widodo bi' part... http://bit.ly/18b9QYI,negative
+indolem-train-3567,"Kabersean ce' korangah. jhedding a bhau, sampae settong kamar bhau jeddhing. sprei kotor. kasor a debu. wifi sobung. seporannah bi'abi' seporah, lok sesoai ghambar & deskripsi",negative
+indolem-train-207,F-Demokrat: Kapotosan Presiden Aberri' Kapasteyan http://bit.ly/17hQVKB,positive
+indolem-train-2725,"Ekspresi pertama masok kamar..kadik lok toman e kennengin. Perabotteh tuah, tv tabung bernah abe-obe. Pelayanan gheteh, tapeh seprei 3 areh ngenep lok e ghenteh. wifi gheccang. malem bennyak hewen, sossa tedung polanah ghetel.",negative
+indolem-train-691,"Tolak HAMAS, Carana Pamarenta Epojhi PDIP http://bit.ly/1KwhWtq  AS retas kartu SIM kaangghuy ata-matae komunika... http://bit.ly/1AXi8Qr",positive
+indolem-train-2614,"Jonan deddie Mentri Pencitraan tedung e gerbong sepur, deddi Mentri Pencitran amodel gigir sidak e Kantor AirAsia. Kasus LION? pas dung matedung.",negative
+indolem-train-3301,Serangan Bunuh Diri Narget Mobil Kedutaan  Turki e Kabul http://republika.co.id/r/nkd67a,negative
+indolem-train-3613,"Warga: ruwa syahrini ye? raddhin sara, tape kene`... http://fb.me/6Elu1t8yP",negative
+indolem-test-7,"@Pdemokrat mara tolong pak Jokowi, lanjutaghi Program se positif e jemannah pak @SBYudhoyono @PintarPolitik ://www.republika.co.id/berita/nasional/politik/15/02/19/nk0thc-demokrat-minta-proyek-mp3ei-tetap-dijalankan ?",positive
+indolem-validation-135,"Je' ba'-nyoba' pacaran so ni'-bini' sittong sakola'an. Sittong oreng beih rowet, apa pole sittong sakola'an ",negative
+indolem-validation-203,Nganu apa ngabes hp malolo? dente` kabhar jeriya? Parcoma! jeriya la aberri` kabher ka reng laen.,negative
+indolem-test-369,Eman-dimman se nyamana mantan lako ngalemes! @kompascom: Demokrat Protes Pimpenan KPK Osolan SBY Ta' Epele Jokowi http://kom.ps/AFploc,negative
+indolem-train-2164,"Mon ghi' bada kasempatdhan, engko' coma terro ngoca'a, jha' nyenggha pole ya.",negative
+indolem-train-578,"Kulah sadar dhibi' kok.. Kulah lakar benne pa-sapahnnah sampeyan! tape kulah bhakkal """"selaloh"""" badha ghabay sampeyan e bhakto neka meyos ningghalin sampeyan. :)",positive
+indolem-train-2014,"Posisina kamar eppas ebudina Mak Beng barung, dhaddhi kamar bau jhuko' ghuring ban cengi acan ",negative
+indolem-test-506,"Pancoran aeng panas tada', nyama produk airy tada', ghu'-ghangghu' ban ettas paket parabhut mandi airy tada' kamarra keya ta' bherse",negative
+indolem-train-362,"Staff gheteh ben leghis tangghep, kamar bherse, eman sinyal wifi korang depa' dek akamr",positive
+indolem-train-1660,"ruangan korang bherseh, bede bhuceng rokok e dalem kamar, plastik pancoran e jedding molae celleng, bharang gratis kadaluarsa",negative
+indolem-train-588,senneng ngakan dhurin? kodhu noro` festival dhurin e semarang! http://ow.ly/JFu87,positive
+indolem-validation-343,Pasteh seru Shaheer so Syahrini maju nyorot raddhin ~ Syahrini roh pegghe' ta' kerah epamasok ka ateh :p,negative
+indolem-train-1578,"kami apinda kamar sampe' 2x marghenah ac neng kamar se pertama mateh, se kedue' lok cellep ben e soro adentek",negative
+indolem-train-1620,kotak pegrempean kosong,negative
+indolem-train-2625,Partai Demokrat : Jokowi Lece aghin DPR http://bit.ly/1A9c4SE  @PDemokrat @DPR_RI,negative
+indolem-train-1990,"Jhenjhinah, hedeh terro ngobhetin tang lokah kan? Mek hedeh mala mangkat teppak tang lokah parak bhein beres? Hedeh namba lokah jiah.",negative
+indolem-test-126,"RT @nogoyoso: Indonesia jiyeh indah tretan, lebbhi indah deri buri'en Syahrini. .",positive
+indolem-test-606,"Hiiihh tellat coman amargha lak-balih dhari ngalak file se ceccer, abalih pole ngalak hp ban dompet se ceccer,? ? https://path.com/p/1QvUW7",negative
+indolem-train-3362,wifi tak bisah nyambung ka internet,negative
+indolem-train-1201,kotaknah geddek,negative
+indolem-train-3028,"aeng panasseh adek, wcnah korang bherse.. laennah bhagus seh..",negative
+indolem-train-2971,PDIP Bhellis Budi Gunawan Ta' Dhaddhi Eilantik http://cnn.id/33754,negative
+indolem-train-456,Ternyata riya rahasia Sehat ta` ngakan nase`: Pola ngakan se ejhalani lena ruwa? http://goo.gl/fb/I6HOK9,positive
+indolem-test-733,internet mateh andok beuh,negative
+indolem-test-612,pangendere Motor se kaseret Mobil 30 km e makamaghin http://bit.ly/1zpnVHf,negative
+indolem-train-3031,Sadhajana OK.. Keng perloh e tengkat aghin pole kaberseannah lantai kamar ban andhuk.. Staff andhap ban segep.. Pokok jago! Manabi bisa airy nyeddhiaaghin kamar se badha sarabhannag saenggha bisa nyoba food beverages geh kadhinapah..,negative
+indolem-train-2745,tv nah korang rajeh + burem kabbhi,negative
+indolem-train-1943,"Kabbinnah sae, lokasinnah e tenga kottah, se parlo e pabecce' kaittannah layanan engghi paneka : 1. kabadheen sarabhan (kami torion pokol 9 korang, nasi goreng sobung ban roti sobung sareng  mejha kotor /pelayan coma 2 ngarangkep resepsionis) 2. lift sobhung alasan se bisa bendher epate'en (padahal sobung perbaighan) Melanah abdinah se tapeleco' ban reng seppo 80 taon kodhu lebhet tangga",negative
+indolem-test-891,"#BreritaAnyar: Aneh, Anapah Menkumham Standar Ganda Pangesahan Pangurus PPP ban Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-1318,bannya' rengngi' ban ngirengi.... tehella keya kotor sara!!! band talebat enger heeeee jiya se ta' bhaghus hmmmm.,negative
+indolem-validation-274,Labheng wc rosak ben palayanannah karyawan korang ramah,negative
+indolem-train-285,"Hal se paleng uoama bakto nyare settong bhakal lake reya nemmo oreng se dhibasa. Montor dhibi', roma dhibi' ban kollam langngoy dhibi'.",positive
+indolem-train-787,"Red-mored sekolah juara ngebecain ceretah delem bhesa cenah, pengalaman anyar ghebey mereka ajher bhasa cenah.",positive
+indolem-train-3449,"Demokrat Aprotes Pimpinan KPK Osolan SBY Ta' Epele Jokowi http://nasional.kompas.com/read/2015/02/19/15225701/Demokrat.Protes.Pimpinan.KPK.Usulan.SBY.Tak.Dipilih.Jokowi ?"""" apa ghi' korang Ruki ban Indriyanto? #Ba'enSangghuRakyatBhudhuApa",negative
+indolem-train-64,#Paleng Anyar Charles Asiap Ajuangaghi Kebebasan Beragemah http://bit.ly/1KwfyTv  #kerangkanahberita ngocak tadek persetujuan? http://dlvr.it/8ftGxX,positive
+indolem-test-360,"beeri' pas kaluwar jhalanna bandara, mu-temmu 'ceklek'..... blitz DSLR kaarahna engko' ekera e cetak terros e jhual enga' wisuda ? nyatana orengnga ngalle. ",negative
+indolem-train-767,"Hotel se ani, bherse paladhinan bhaghus emanna arapa bakto malem rowa kami ngenep banynya' sara rengngi', dhala ta'bisa tedung. ..",positive
+indolem-train-1091,Jha' salaen reng bhinek manabi e bhakto legghi' reng bhinek neka meyos amargha neka lessoh sareng sifat tah panjhennengngan se cuek ban tak perna ngaregghain parjuangannah ajyah :'),negative
+indolem-train-2547,biasa e airy bese camilan sateya tade',negative
+indolem-test-132,"Alasan arapa kanca sejati pera` sakone`, tape kanca biasana bannya` se nyingla http://mlsbgt.de/1wtspC4",positive
+indolem-test-450,"22.55: Kecelakaan beruntun 3 kendaraan (mobil Inova, mobil Avanza, mobil Carry) e lajur kanan Km 9 Tol Jagorawi arah ka Jakarta. | (P. Rommy)",negative
+indolem-test-211,"reng binik se eromah. tak jeuh deri tedungah, maenah hp, ngedingagi gu lagu & nyongoah tv. mon ajiah lah sompek sarah e romah, ajiah meleh tedungah.",positive
+indolem-test-88,Ghebey apah sossa nyereh dek kassah dek kannak Le e adek'eng matah? ? Kamulah Takdirku deri Raffi Ahmad & Nagita Slavina ? https://path.com/p/1EE5QZ,positive
+indolem-train-934,detikcom lema` fakta parkara afgan: afgan syahreza ekenal dhaddhi salah settong solois atalenta tanah air. nyama... http://bit.ly/1w1aDk2,positive
+indolem-train-2862,"sprei, oles bhental, handok la parloh egenteh. shower kyah kodduh ebecce'.",negative
+indolem-train-1342,"tantoh lah yeh RT @morry_osd: Mon la siap ngakan acok taraso kanyang, siap tu mato mangantuak #TaruihTarang",negative
+indolem-test-153,salamet lagghu! siap2 ka sakolah! mandher are riya nyennengaghi? mander dhaddhi are se eberkahi ya!,positive
+indolem-test-1009,bennya' abunah ben korang menarik,negative
+indolem-test-490,Pelayanan receptionis sah se anyamah lolita ban syarif neka ce' lok sopannah ban lok andik etika. Hotel laen se lebbhi bhagus ghi' bannyak.,negative
+indolem-train-3103,"Pas neng mobel engkok anyanyi Pada Sebuah Ranjang, tang anak ngocak, """"Ssst, neng-enneng, Pak, nyamanan Anji se ngibeh.."""" Pateee'?Pengeran Maha Asyiiiiik",negative
+indolem-train-2558,RT @VTAURAN: tolong e bhentoh yusi mored smkn1 bandung le 4 areh elang teppa' mangkat ngibeh sepeda vario,negative
+indolem-train-375,"bhuru dateng e berri` kalambhi bhuh ma` tager haha, kaso`on #voil la aberri` ghebey #matalayu [pic]? https://path.com/p/4umLN6",positive
+indolem-test-205,Tapeh ba'an tak kerah kadhibi' sengko' badha edinna'? ? Untukmu Aku Bertahan deri Afgan ?https://path.com/p/3IhAUj  ,positive
+indolem-test-867,"se kaleh riyah kecewa, kamar bennyak rengngek, lok olle lat-alat mandih, bik jhejhen pelengkap akadik biasa. mandher bisa e pabeccek pole",negative
+indolem-test-115,"Download aplikasi ghabay download video 9x lebbhi ceppet ban gratis, cocok ghabay sadhajannah hp http://bit.ly/1rzX0cK",positive
+indolem-test-116,Setiah fans aa bede duek Raffiah bik RANS bik aa tak toman dak bedaagin fans fans nah mesteh geteh . begus genteng @RaffiAhmadLagi :),positive
+indolem-train-1923,tadek aing panassah,negative
+indolem-train-1314,"resepsionisseh sarah kol 12 malem ghilok bisa tedung wifi bik tv kabel e pate'en deddhih keng bisa negghuh bilis sambih nyareh bilis neng kamar,labeng keluar e konci deddhih lok bisa nyareh ngakan otabeh messen gofood.tapeh sarah soal tv bik wifi",negative
+indolem-validation-113,Bidang Perempuan Golkar Makassar e sangoe elmo Keprotokoleran : http://fajar.co.id/fajaronline-sulsel/2015/02/21/bidang-perempuan-golkar-makassar-dibekali-ilmu-keprotokoleran.html ?,positive
+indolem-train-3049,korang bherseh,negative
+indolem-validation-129,Kantor DPRD Makassar Daddhi kennengngan Massak ban Tedung: Mereka ngakan ban tedung e selasar kantor. http://goo.gl/fb/bkhYfi,negative
+indolem-train-216,"Solusi abadhi rasoghan 1 bighi sareng Gambhar sasenengngah ateh, Ngibeh Cora'/Gambhar se ekaterroe-Kami wujudaghin daddhi rasoghan pangaterroan",positive
+indolem-test-529,"Raffi Ahmad ben Nagita Slavina - Raffi Ahmad Sake' sarah, Gigi Kobeter | 19 Februari 2015 http://youtu.be/7nZLBtxbt7g?a",negative
+indolem-test-270,"kamar bherseh, rapi, kabbhi nyaman, parkeran nyaman, kenneng tedung nyaman, AC cellep, aeng anga' lancar, tv raja tape kakoranganna pera' e handok bi' salemot ta' e sadiaaghi.",positive
+indolem-train-1592,"Ghi'Korang resepsionis sah Bein se semmoh Abit kodhu adhantos Abit buruh dhateng Lok standby e kennengngah ,  sakabbinnah lah reggha ampon mode fasilitas oke",negative
+indolem-train-808,"baru ngakan pole, ghilok tedhung, lagghu' ghulagguh lari 21K. Sampeyan kodhu kuat.. (neng Aroma Coto Gagak) [pic] ? https://path.com/p/1iqagL",positive
+indolem-train-61,Antara #tekno | Kopi ngorangen resiko e kenneng multiple sclerosis http://bit.ly/1BHg7bi  | http://goo.gl/16Qox ,positive
+indolem-train-1449,"Lok olle jhajan sareng peraladhan mandi, andhuk ne' asedia coman 1..",negative
+indolem-train-2618,#Ruangkita_tvone:Kontroversi Rasoghan Tokol Are'  http://bit.ly/1wvrNox,negative
+indolem-test-808,AC nah ta' cellep showerrah tadek aeng panasseh mala mateh.. anehh..,negative
+indolem-train-1148,"suasanannah korang nyaman. mon nginep kodhuh deposit 300,000. tapeh bisa e ghenteh bik KTP.",negative
+indolem-train-1642,Lomayan bein. Wifi jubhek. Lokasi lomayan,negative
+indolem-train-379,"terlalu bennya' drama, nyongngo' konser afgan beih yehhh ? ? Demi Kamu Dan Aku deri Afgan ? https://path.com/p/1g3olJ",positive
+indolem-train-2084,Sinetron poleeee.. !! @PintarPolitik: #NEWS Trimedya PDIP: Kami Kecewa Keputusen Jokowi http://goo.gl/KDhhLB ,negative
+indolem-train-1420,Engko' oke mon mennya' onggha 25sen. Mon berra'en kake onggha 25kg rowa ta' osa ghimeng. engko' ghimeng kake ngakan kaangghuy odi' otaba odi' kaangghuy ngakan?:'),negative
+indolem-validation-291,Settong bakti engko' ghu-ongghu bhakal nyenggha. Bila'a bhai rowa bisa bhai dhaddhi. Jaga aba'.. Jha' melleng.. Engko' neser ka dhika({})  ?,negative
+indolem-train-1462,molean #10 taon lambek dele satiyah conan gik tak jerajeh. Duh la ngebe apes dimma ajiah mios maste bede se mateh,negative
+indolem-train-433,"hotellah genteng,pelayanan cokop ben korangngah ac korang cellep",positive
+indolem-train-1910,bak mandinah lok bisa e angghuy polanah adek penotoppeh. ben adek aneg panasseh.,negative
+indolem-test-609,kamar nyaman ben luas..bherse...ghun tade' wifi so aeng panas...,negative
+indolem-train-451,Dompet Dhuafa Sulsel Agi bhegi Perlengkapna Sakolahhttp://www.dompetdhuafa.org/post/detail/749/dompet-dhuafa-sulsel-berbagi-perlengkapan-sekolah ?,positive
+indolem-train-871,"Sekabbhinah nyaman lah. Lokasi semmak stasiun, bennyak beurng ngakan ben laundri neng sekitar. AC cellep, jeddeng lumayan adek pemanas, tv oke. Keng semmoh sellak bhein ben wifi lok bisa e akses.",positive
+indolem-test-200,Robana aghudha tang ajahr ? ? Ku Mohon bi' Afgan ? https://path.com/p/KZNUg,positive
+indolem-train-9,"kanak, ibu ben bapak hedeh mangkat benne a makna ajiah  a ghin-agin hedeh tapeh, allah sayang mereka. sayang mereka? dheddhih oreng pelak duweaghi mereka",positive
+indolem-test-227,kamar korang bherse .. aengah keni' ben sering mateh. bennya' rengngi'. daeranah enger. bennya' nak-kanak ngodeh akalakoan ta' nyennengih. ac lumayan cellep. pelayanannah cokop bhegus.,positive
+indolem-test-994,"bhekto nginep ta' Olle ghu'-ghenggu' Ben aeng enom, WiFi ta' gratis",negative
+indolem-train-947,Jumla Panompang se Refund tiket memg kantor Lion Nyosot http://dlvr.it/8g7CCv  #Indonesia,positive
+indolem-train-2718,keseluruhan bhegus ghun ac nah ta' cellep. aeng panas korang gheressah.,negative
+indolem-train-2979,"sellak,aqua keng 1 bhutol,chiki adek,sabun,odol,sek-kosek kiah adek.",negative
+indolem-train-2046,jeddengah korang bherse sarah,negative
+indolem-test-177,kennengngan na bherse ro'om rapi. se ma kasta AC na bhucor alias rosak dhaddhi korang cellep,positive
+indolem-train-1223,"La cokop, ghun parloh eatasih beuh apekkeh beih",negative
+indolem-train-414,"pelayanannah andhap, kennengah strategis&bannyak kennengah ngakan. Sareng budget mode ampon olle sarabhan, cemelan&fasilitas kamar se lomayan. Demi kanyamanan, ghabay kabersean e tingkataghin pole. Salanjuddeh..abelih pole dha'kannak",positive
+indolem-train-1737,Demer Nyerang Kubu Sudikerta Pole: Demer noddhing kubu Sudikerta lok paham mekanisme hukum neng bhedhen Golkar. ....http://bit.ly/1AWy7ht,negative
+indolem-train-781,Nang-kennangan dari Afgan reya bisa kake kaolle mon noro' #COTM_Afgan. Klik http://bit.ly/COTMafgan  kaangghuy tao cara ngaollena,positive
+indolem-train-1327,"kamar mrenges ban kotor, kadik'eng bedcoverrah lok e ghante amargha bannyak bercak noda",negative
+indolem-train-992,Kamulah Takdirku - LAgunah Raffi Ahmad ben NAgita Slavina https://itun.es/id/M8Jr5,positive
+indolem-train-2229,"Tehel kamar enga' bada ka'-rekka'en, bisa polana ghita' eyeppel",negative
+indolem-train-993,"35 mored, 9 sakola'an, 3 kecamatan abekkelleh #Bima!! Road to beasiswa 5 taon ajher e SMP-SMA @smartekselensia! ?",positive
+indolem-test-703,"adek fasilitas deri airy, tolong e cek pole. kamar lok sesuai pesenan. teppak deteng e soro",negative
+indolem-train-3374,Atosan Wartawan Gheruduk Kantor DPD PAN Kota Bekasi http://beritabekasi.co.id/2015/02/ratusan-wartawan-geruduk-kantor-dpd-pan-kota-bekasi/ ?,negative
+indolem-train-2348,korang nyaman bi` sella`. Ta` terlalu bherseh spreina ambung,negative
+indolem-train-3090,"kamarrah mapan, esaranagi gebei nginep. Jeddingah mon bisa eberrik om room makle sajen nyaman",negative
+indolem-train-1328,"Ngengale """"""""Tanges Dhalem Lagu Cherrybelle Ghabay Raffi Ahmad"""" | GoSpot RCTI | (10/04/2013)"""" neng YouTube http://bit.ly/17hA2jl",negative
+indolem-test-362,wc abeuh pola ghik ngangghuy saluran pembuangan. seprei ben sapo' kotor. mentah e ghenteh tapeh adek HK malem. e bhentoh resepsionis ghebey masangaghi lapisan. ghu-lagghuh sokoh bik tanang tel-ghetel tol-bentol. kadik'eng tungau. LOK RECOMMENDED,negative
+indolem-train-1096,Groaking jiyeh tengka lakonah oreng se terpa'en aejhelling oreng laen ngakan sambih ngarep oreng jiyeh bhekal abherri' sakoni' kakannah.,negative
+indolem-test-57,#Berta #Indonesia Demokrat aniai kapotosan presiden aberri' kapasteyan: Sekretaris Fraksi Partai Demokrat e DPR R... http://bit.ly/17Z0dMC,positive
+indolem-train-1575,"Wc rosak, e soro mabecce' pagghun bhein rosak, jeddeng beuh laseng, pokok'eng kabbhi masalah bedeh neng jeddeng, shower macet, pokok'eng sarah rapah...!! Jhek mode tapeh cek murahan sarah neser se ngenep",negative
+indolem-train-183,"Nek-binek lok parloh raddhin, se penting bisa adhendhen, kelambhih genteng, ben se paleng penteng... Lok gendeng.",positive
+indolem-validation-59,syahnaz sayang masraffi? hat-sehat yegan teng? @RaffiAhmadLagi,positive
+indolem-train-3000,"kamar seh standar lah yeh bik argheh sejiah, sarabhen kiah bisa e teremah, tapeh adek tisu, kamarrah abeuh rokok, adek sampo. tapeh ghebey se keng ghebey tedung malem bhein, cokoplah yeh",negative
+indolem-test-497,"Jreng! Neka baru berita! """"Demokrat Protes Pempenan KPK Osolan SBY Lok E pele Jokowi http://kom.ps/AFploc ",negative
+indolem-train-1159,"@s3cretpers0n Alhamdulillah. Sokkor, Mbak. Jhek sampe elang pole HP nah :))",negative
+indolem-train-1048,Yeh ! Songai neng Seddhi'eng Kantorrah Ridwan Kamil Sajen Raddhin http://bit.ly/1wa8FxR,positive
+indolem-test-445,polana ce' bannya'na kamar dhaddhi ta' e perhatikan masalah kabhersean.,negative
+indolem-train-3601,kamar bau cet ben jedding bau ta' seddhep :(,negative
+indolem-test-595,Ngala dek nafso ngakan se cek rajenah degghik ngegagalaghi program diet se hedeh lakonen. #Diet,negative
+indolem-test-350,"cc @DpsCallcentre RT @giri_sujana Ka'-Bhungka'an robbhu merre mobil e ade'en Popo Danes Hayam wuruk, tolong hubungi DKP Denpasar",negative
+indolem-train-406,"#tellatnyaba' alhamdulillah.. Ta' parcoma lateyan band e kantor bakto tangghal merah hahaa.. sakalangkong kana',? https://instagram.com/p/zqccALpLDL/ ",positive
+indolem-validation-370,"Charles Honoris: Motongen Pilkada Langsong, KMP Ngianateh Rakyat http://bit.ly/1y125zo  #Pilkada U.S. refinery? http://dlvr.it/8fzf4m",negative
+indolem-train-1416,Ta' sesuai so e foto. .  ghu'-ghenggu' tade' terros badha rengngi',negative
+indolem-train-338,"la ka 2x nenep edinna' , kamar lebar, loaksai strategis, segghaanna nyaman, paladhinanna andhep, WiFi aoleng sakone'",positive
+indolem-train-554,ciee se massak depade haa @bangbily @raffiahmadlagi romantis kiya yee remaja ke aa haa @realsyahnazs,positive
+indolem-train-3557,"prettt, kadhi' neka kok e liput"""" Se-berse Kantor ESDM, Sudirman adhabu: Neka bhagian Revolusi Mental lebhat @detikfinance http://tinyurl.com/l723n8m",negative
+indolem-train-314,http://samuelamtiur.com   Tribun: Syahrini ajhenji deteng pole mun abeli e cellok Mabes Polri http://dlvr.it/8g26dL   #beritaareriya #DKK,positive
+indolem-train-174,"cyra anak se andi' benya' bakat. salaen penter anyanyi, jiye andhi' sagudeng prestasi e Sakolah, jiye kiyah deddih penyiar radio.",positive
+indolem-train-2297,"ac ta' cellep, aeng shower keni'..",negative
+indolem-train-2775,kadibik? RT @dillaselia:caca@radityadika engkok tepaen ngakan mrtabak lo,negative
+indolem-train-1407,"kabherseyan parlo etingkataghi,",negative
+indolem-validation-334,kasurah geddek,negative
+indolem-train-780,Sekelangkong cinta ghebey sekabbhinah hedeh a berrik pole kasempaten jiah njek? ? Terima Kasih Cinta-nah Afgan (bik Hady) ? https://path.com/p/17rR8c,positive
+indolem-test-505,lok e rekomendasiaghi pelayanan korang beccek.. lok andik etika.. mon bhein engkok niat lok beccek pasteh nyelundup riyah rang-terangan.. biasanah bektoh check out ghik bhuruh e total misal kenneng charge.. lah riyah lem-malem langsong mentah e labeng . neng kamarrah adek kacah..,negative
+indolem-train-2521,"E Banda, 2 roma ben 28 sapeh, talanyo'. 400 roma, 30 hektare padih ben duhektare jhegung tasellem, pagher sakolah ben kantor dhisah rosak.",negative
+indolem-train-2180,kamar jarang ebherse'e,negative
+indolem-train-3314,"E terkah Merkosa 2 Mored, Kepala Sekolah E Laporaghi dek Polisi http://republika.co.id/r/nk8dom ",negative
+indolem-test-366,"Patugas pangenebhan becce' ban andhap, tape saeong bhantallah semmoh apek ban spreinnah korang berse.",negative
+indolem-train-143,"PT Semen Padang Saluragi Rp4,55 Miliar gebei Sekolah e Padang http://bitly.com/1anmEfd",positive
+indolem-test-230,"Lokasinah e daerah komplek,. Mon ghebey kamar se ruangan sittong lakar la keni', tempat ghebey abhejeng cokop keni', mungkin dhagi' bisa eghenteh spreinah polana badha kotoran se ta' nyaman eyabhes, tapeh secara keseluruhan ghebey se nginep saareh pas ghebey se andhi' pesse sakoni', salaen jiya bdha aeng panasseh",positive
+indolem-train-3488,sobung aeng panassah. lok sasoai sareng promosi,negative
+indolem-validation-158,"Lok taoh bilennah jyah,adhantek neka lebbhi lerres dhari n yare,?? ? Kamu Yang Kutunggu (sareng Afgan) dhari Rossa ?  https://path.com/p/15tpWQ",negative
+indolem-test-20,@detikhot: Selamet Ngolang Taon Raffi Ahmad ban Nagita Slavina http://tinyurl.com/o8j2kdw,positive
+indolem-train-3515,Argeh bi' fasilitas se e sediaghi sanget ta' sesuai. Bhekto masok anduk tade' koduh epentah gelluh bhuruh badha. Ben kabhersean ongghu jheu deri kata bherse ghebey standar hotel. Bennya' Sarah abuh apapole Bhektoh mukka' horden badha abuh se cora' la a len-bulen ta' e bherse'eh. Jeddhing beuh ta' nyaman. ,negative
+indolem-train-1945,sakabbhinna makobassa coma bahi AC kamar 203 ta' cellep ban jiddeng abak bau,negative
+indolem-test-981,padahal engkok le ngangghuy kelambhih lengan lanjheng ben celanah lanjheng. Ngangghuy jaket kiah. Ariyah ngebey tang rasah bejhik dek le-cellep sajen rajeh ben rajeh,negative
+indolem-train-46,Sampeyan pecinta mobil tamiya? #SapaIndonesia lagghu satiya kadhetengngan Komunitas Tamiya! Marah ngoladhi samangken https://www.youtube.com/watch?v=u1cusoD1zcM ?,positive
+indolem-train-2795,lencak ban bhantal bau apek,negative
+indolem-train-3576,"Bhakto check in abdhina kodhu adhentos dhele para' 1 jam, neng kamar ac abdhina lok cellep.. pas neng kamar batiba kamar abdhina e bukka'ah dhari luar sareng karyawan hotel se ternyata double booking, kesalahan dhari hotel",negative
+indolem-validation-244,#NEWS Trimedtah PDIP: Abeen dibik Kecewa Keputusanah Jokowi http://goo.gl/KDhhLB,negative
+indolem-validation-310,"mon kebihnah mapan, keng bede sekunik cacatan gebei jedingah beuh, benyak engak lalak kinik, tadek aing panasah.",negative
+indolem-train-1,"Kerrong NaBil @RealSyahnazS @bangbily RaGa @RaffiAhmadLagi @OlgaSyahputra82 settong acara, sa mesra'an & kar-bungkaran Ya Allah",positive
+indolem-train-2891,#info : Syahrini ngakoen Lok ngantonge ijin syuting video klip e tempat umum http://owl.li/2UXB3k,negative
+indolem-test-427,Palayanan Korang maksimal lift mateh WiFi mateh terpa' badha kelap.,negative
+indolem-train-1074,"kamar sip, fasilitas sip. Kasor geli, pola bisah lebbih eperhati agih kebersennah",negative
+indolem-train-125,"pacarrah anyar ghi? :DRT @PutriKodok76: Neh min klambih anyar, obhu' anyar, semangat anyar, pendakian anyar sareng se anyar..",positive
+indolem-test-389,Dheng-sakadheng cemburu kiya bi` reng se ngakan bannya` tape ta` pernah lempo.,negative
+indolem-train-2512,Pelayanan ce' jhube'eng. Nyo'on pebecce'aghin,negative
+indolem-test-865,sapo' ban andok bada keddha' kecceng.,negative
+indolem-validation-175,parloh pengharum e jeddeng ben aeng angak eng mateh.,negative
+indolem-train-483,Malem minggu nyongngo' Konser Dari Hati Afgan beuuuhhh ????? ? Knock Me Out bi' Afgan ? https://path.com/p/3NGuhR,positive
+indolem-train-2245,"pengladinnah korang moassaghi, benareh tak eberrik pegrempean ben perlengkapan mandih hotel. kamar ye tak padeh bik se bede e gember..",negative
+indolem-test-824,"Agebei Video Klip, Syahrini nganggui Konsep Tak jelashttp://dlvr.it/8fsPMl",negative
+indolem-train-2447,anduk rajeh koduh siap bhekto tamoy masok. ben ghebey reception koduh siap e loby. kabhersean kamar Korang bhegus ,negative
+indolem-train-1374,gheddhe` sarapan nasek ghuring bhai. tape ebokna baik bhagus lebur,negative
+indolem-train-3044,jhajhan na ta' eberri'...awalla andok coma eberri' 1..tape kapa menta bhuru eberri' 2,negative
+indolem-train-2136,"pelayanan begus, cek nanggemanah.. keng ac korang cellep ben salurnah tv korang lengkap",negative
+indolem-train-949,"tao je' ba'na, e Jepang bede lowongan kalakoan dhaddhi tamuy kabinan palsu, salaen olle gaji saraja Rp. 1,6 juta/are ye olle ngakan gratis.  ",positive
+indolem-train-806,"Sakalangkong ghebey Sakolah Harapan Bhengsah acaranah sukses, rammih, serru",positive
+indolem-train-3569,"labeng jeddingah tak bisa e totop, tv-nah tadek remotah & ben tadek andok'en e perlengkapan mandinah.",negative
+indolem-validation-367,Nak-kanak jheman lambe': Sabelumah Ngakan foto kakannah. Nak-kanak jheman satiyah: Sabelumah futsal foto sepatu futsallah.,negative
+indolem-train-1367,"Paladhinan bhaghus, tape... kamarra abak owem AC abak towa ban enger.",negative
+indolem-test-856,Politikus Golkar Anilai BG Sake' Ate Polana Jokowi:   Presiden lambat ngala' kapotosan. http://bit.ly/1LmOHGZ,negative
+indolem-test-305,Syahrini Nantang KPK: Klaim polisi ben KPK lok andik bhukteh semma'eng jiah bik Fransisca alias Feriyani. http://bit.ly/1LoweM5,negative
+indolem-train-3188,"ketelaknah mapan, kebih kenengnah bek tak erabet, nyatanah jedingah kenengan camping bede e loar mesteh keterangannah e trafeloka rahasia jeding, jedingah tak erabet showerah neyeng bik kramikah plesterannah kerakan, engkok komplen mon tvnah tak odik e ecek dik penerimatamunah caen wifinah gik rusakah ajiah agebei tv nah tak odik akhirah engkok pebecik dibik e gantiah batre bik engkok pas odik pola penerimatamunah sengkah se ngecekah ka kamarah polanah jeuh deri kenengnah, bik e kamarah tadek telponah mon abeen dibik tero nyelokah peladinah/tokang sehberseh kuduh jelenah. tadek aksesah jelen se semak ke tasek bik kolamah dedih sengkah seh toronah ka tasek/kolamah. ngakanah se leguk gun nasek guring+ayem+telor+nutrisari jeruk",negative
+indolem-test-783,"korang bhagus,kamarrah sella',jeddeng'ah korang bherse,menu sarabhennah kiah standar bhein.",negative
+indolem-train-3627,"Cyclops :F """"@vikingcampaka: E sangghunnah  ryah roboCop :))) """"@YogaPHB: Syahrini reh dha'badha'ah bein...",negative
+indolem-train-140,"Arghe se mode bik kenyamanan ben kabherseyan se bhagus. Le termasok sarabhen prasmanan. Lokasi neng semma'eng jl. Lingkar utara, keng masok neng jhelen buntu, deddhih lok me-rammeh suaranah bel-mobel. Parkir mobel kiah luas. Korangngah? korang staff se ngelajjenin (adek se abentoh",positive
+indolem-validation-264,camilan tade' padahal nginep sampe' 4 are ros-terrosan,negative
+indolem-test-741,"politisi Demokrat Regghe berras ongghe, jokowi jhe` pera` akabher bhei tade` aksi http://www.tribunnews.com/nasional/2015/02/26/harga-beras-naik-politisi-demokrat-bilang-jokowi-jangan-berwacana-saja-tak-ada-aksi ? @didiemukri",negative
+indolem-validation-6,"sateya sakolahna la bhagus, lambe` jhamanna engko` atappa long-bhullong, nak-kanakna gi` bede se angghuy sandal ka sakolah, terros sabangku 5oreng",positive
+indolem-test-540,"pendhenan nyaman, pera' AC korang cellep ben kebersihan parlo e tingkataghi",negative
+indolem-train-3544,pelayanan muasaghi. keng bhental airy kotor kadik lok e kombe. ben kennengah penyimpanan bhental bungoh airy kotor.,negative
+indolem-train-1771,Petugas lok gheteh,negative
+indolem-test-261,Bhegien ni'-bini' Golkar Makassar Ebherri'  Elmoh Keprotokoleran- Fajar http://goo.gl/fb/EUPFDo,positive
+indolem-train-1951,"#Lounge 5 mobel bhagus taon berik, kpdhu e peambu produksi taon riyah http://dlvr.it/8mdWsf  #Assadiqulhaq",negative
+indolem-train-322,"Boh, padahal KPK ghebeyennah Fraksi Demokrat ben Pak @SBYudhoyono berik jiah lakonah genteng abasmi korupsi http://www.beritasatu.com/nasional/250213-istana-ingin-bersihkan-kpk-dari-rezim-sby.html ?",positive
+indolem-train-324,Cokop bhagus keng parloh perabeten bhein neng begien jeddeng. ruangan cokop bherse. keng rengnge' ghik bennya'.,positive
+indolem-train-1336,"ruanganna bhagus, camilanna paleng etambe roti otabe kopi ben teh na regghe ongghe 5-10ebu ta'rapalah ma'le padena bintang 4, oh iye e bengko fulmar fasilitassa esadiyei aeng panas tape e webpa ruangairy fulmar ta' esadiyeaghi aeng panas, bi' satpamma ngintimidasi ta' lebur kiya ka tamuy.",negative
+indolem-train-942,Rani Bela Syahrini... http://j.mp/1AZGo2D  #nostweet,positive
+indolem-train-1086,"Prei lanjheng ellun = Ngebhusenin. Prei cek sakejhik'eng = megghelin. Teppa' prei terronah masok asekolah, teppa' masok terronah prei",negative
+indolem-validation-159,#KabharNdoroMoe Katowa DPD PDIP Riau Nyoret Rekaveny ban Nuryanto dari Calon Balli Kotta http://bit.ly/1LmOJ1C  #Nalosso'eDhunnyaMaya,negative
+indolem-train-1171,"Jhon ngakan siang majuh | nje' la | arapah ? ba'an kan ghita' ngakan deri ghu-laghuh | iyeh ghi' kennyang | ngakan kenangan yeh ?  upps | fak -,,-",negative
+indolem-test-831,"Lok Lantek komjen BG, Golkar sebbhut Jokowi maenaghin DPR http://www.jakpro.id/tak-lantik-komjen-bg-golkar-sebut-jokowi-permainkan-dpr/ ?",negative
+indolem-train-2733,"Sapo' ban bhantal bau enga' ta' esassa, ghi' bada obu' atalabuyan e bhantal",negative
+indolem-test-114,KATERROSAN CARETA.. Digo ngone'en sisi ghabay entar ka kampus bhareng ;) aiiih ce' manessah sampe' e tonton kadhi' neka [cr as wm]   Prilly Latuconsina ban Alliando Syarief,positive
+indolem-train-1589,"AC ta` cellep tade` usaha lanjutan dari karyawan, kabhersean ce` ce` korang.. bhuru kale riya kecewa ngangghuy airy..",negative
+indolem-train-3225,11.19: RT @iskpage: Kebakarhen roma ngakan neng margonda..,negative
+indolem-train-3106,WiFi Korang becce',negative
+indolem-train-2200,Ups! Klambi Model Ngelosot Bhakto Show Ardistia New York neng IFW http://tinyurl.com/okjpcxz,negative
+indolem-train-1093,"Dek-adek'eng masok kamar, TV lok bisa afungseh becce'. teros mentah apinda kamar se tv nah adek masala tapeh kamar anyarrah lok becce' e siapaghi... tehel ghik kerassah apaser.. beunah kamar korang nyaman ben amenities ben jhejhennah adek. teppa'eng jiah adek sittong bhein pegawai se ngemotin hal jiah. bedeh sinar mata areh se masok cek terikkeh lebet jendela kennek.. adek hordeng otabeh lapisen kacah se bisa ngorangen sinarreh. cokop ngeganggu. Akhirreh engkok mentah e pebelihaghi dek kamar se awal bik mentah siaran tv dhulih e pabecce'. beuh jeddengngah kiah korang nyaman dek-adek'eng tapeh mon le e angghuy beunah elang. selaennah ajiah bhagus. kennengah nyaman tennang ghebey istirahat , pegawaiyeh teh-gheteh ben bedeh konterrah se nyediaaghi kopi te + enoman sereal gratis 24 jhem.",negative
+indolem-validation-227,"WiFi cora'en tada', jiddeng korang bherse.",negative
+indolem-train-1403,"Ce' kotorra,,, bannya' bilis,  sapo'en ban andokgha kene', taokang bhersenna ta' enda' mowang sarpa magghi engko' 2 malem,etorot bhai nompo', sapo' keya ta' eghante. mon ta' esoro bherse'e kamar ta' ebherse'e... engko' li-bali asapowan dhibi' sakeng bannya'en bilis ban mon kalowar sakonne' dari labang kotorra banni la.  engko' kasta neng airy reya.",negative
+indolem-train-3410,"gheddhungnga tade' plang alogo airy ben tade' nomerra. kol 8 malem, pas e tanya kennengan riya airy otabe benni, petugassa arespon ben ce' ta' leburra... jhube' sakale pelayananna...",negative
+indolem-test-689,"jhajannah sobung, sampo sabun parlengkabhan mandi sobung, sprei nah semmoh komel/kotor",negative
+indolem-train-905,"tepa' sabrllunna dhaddhi pendirina HP, Whitman jeriya pendiri eBay, salah settong perusahaan e-commerce se paleng raja sa dunnya. #inspirasi",positive
+indolem-train-1236,"seneng sarah se oleh jejen tambahan deri airy. kenengnah hotelah mapan, semak bik pusat kota. gun korang empuk kinik bantalah hihi",negative
+indolem-train-981,"Onggu Allah onggu onggu ridho ke kabulennah mon pas ngakan aps mojih ka Ajunanna Allah eyatassah kakanan jriah, mon nginom teros amojih kelaben enoman ajiah (HR Muslim)",positive
+indolem-train-2616,"sprei ben salemot tebel ta` bherseh, aeng panas ta` odi`, wifi e kamar ta` asadie.",negative
+indolem-train-2292,tade' wifi pade se e iklanaghi..,negative
+indolem-test-538,jedding begh bau korang seddhep,negative
+indolem-train-3135,"engko` senneng, nyaman ben tenang, pera` bhai jedding sakonni` bau tape ghebey engko` ta` masalah pagghun puas",negative
+indolem-train-2650,#GhuInfo #GhebeyBa'an PDIP Enilai aneh Mon Naremah Badrodin Kapolri http://bit.ly/1Lp6W0d,negative
+indolem-train-1969,"saluran tv gun bede 3 channel lokal, pegrempean tak sesuai(korang), Wc beuh, polannah ariyah kost2an deddi bek enger mon malem pas selimuttah tepes kiyah.. plussah gun penerima tamoyyah nanggemah..",negative
+indolem-train-2746,Manabi PKS ban PDIP ampon 'koalisi'... kadhik'eng Ahok bhakal sagera ngangkak sokoh http://dlvr.it/8jfFPB,negative
+indolem-test-929,Jhek teros nangesen jiah se le mangkat. Patah ateh keng caranah Pangeran nyadaraghi hedeh jhek jiah benne oreng se becce\ ghebey hedeh.,negative
+indolem-train-2439,"semmak areng halte ban stasiun. se parlo e pabecce' menu sarabhan korang variatif ban wifi ngadhat.. kamar menta e berseen tape korang berse, andhuk lok e ghante.. tape ghabay laennah ampon oke.. mator sakalangkong ",negative
+indolem-train-2171,Malem Minggu? Owhh.. yella e roma bheih e kancaeh ka' Afgan Yee kan.. *biasanahyehdha'remahsihmbloo* ? [pic]  ? https://path.com/p/1A7l97,negative
+indolem-test-534,"Tembok kamar kotor, channel TV jhubek lok bisa negghu bennyak bilis. Adek jhejhen airy ben suasana kamarrah benne Airy Style bungoh pote.",negative
+indolem-test-453,"Sakalangkong ghebey perhatiannah se ghun sakejji', terros ondhur :')",negative
+indolem-train-3257,jeddhing semmoh bhau ban eng kenne',negative
+indolem-validation-196,"Kamar rammeh polanah jetpump. AC lok afungsi beccek, udara suap ben panas..",negative
+indolem-train-932,toman engko' nyongngo' lukesan raddhin petto' bhidhaddhari? ? Kamulah Takdirku bi' Raffi Ahmad & Nagita Slavina (engko'/ Melinda) ? https://path.com/p/3TjsmH,positive
+indolem-test-791,"11.08: DPK Jakut: Kebakaran Kapal e Pelabhuen Muara Karang Jakut ben la ekerem 10 bhigi' mobil pemadam ka lokasi, ekoneteraghi merre ka kapal laen. ",negative
+indolem-train-491,Keng hedeh ben engkok se taoh artenah cinta se le eandik'in kita *eakk=))?? ? Untukmu Aku Bertahan-nah Afrgan ? https://path.com/p/464y1W,positive
+indolem-train-1759,"Standar, gheddhung towa.. Tape skakel lestrek la ta' kowat manaccek ka gheddhung, ac cellep parlo bakto abit, lift coma sampe' tingkat 4 jha' kamar bada e tingkat 5",negative
+indolem-test-400,"Kecewa sarah, e molaeh deri pelayanan e awelleh se lemmot sarah abherri' kunci kamar, penjegenah mala atokar Kadek, kamar se kotor (nga' jarang e bherse'en) abuh e man-dimman, peralaten tedhungah beuh apek, AC rosak jeddhingah kotor sarah, tade' peralaten mandih e airy laen, poko'en kecewa sarah ta' sesuai so se etaberaghi e aplikasi airy",negative
+indolem-test-82,"Waw! :D RT @CupyDevil: @caripenulis_com @jpg_pjay se ekatela' ta' kera dhaddhi pola dalem karja sastra, conto tang kabinan & Afgan :3",positive
+indolem-test-527,senneng. coman wifinah semmoh lemmot.,negative
+indolem-train-2476,"kamar bi` ruang tamuy pendhe luas, kennengan ce` strategissa pera` se kodhu e tingkataghi pole.",negative
+indolem-train-3630,Proses cekin cek abitteg. Staffeh bhingong.,negative
+indolem-train-2385,"Jeddhingah Korang bherse, ben korang lengkap fasilitasseh ghebey jeddhing, untuk se laen lumayan",negative
+indolem-test-285,Akadik riyah mobel penter se e keluaraghinah bik Apple! http://ow.ly/Ju9fo ,positive
+indolem-train-1774,pasteh bede deal. buktenah PDIP santai bein Jokowi nuding Badrodin. tokang politik deri Pratai Golkar Bambang Soesatyo men... http://bit.ly/18b9QYI,negative
+indolem-train-775,Syahrini ngaghumi Dhisa Singaraja - http://Tempo.co  http://goo.gl/fb/JPR6nW  #singaraja #bhali,positive
+indolem-train-652,Kebengalan Raffi Ahmad anggui Gigi @dahSyatMusik http://youtu.be/Lc4_J28QK-U?a,positive
+indolem-train-1293,"Kamar abeuh rokok, jhejhen ben pelengkap deri airy rooms adek",negative
+indolem-test-896,kabersean kamar korang semmoh e jhaga..,negative
+indolem-test-530,"Kalian Nyaman Elmonah Akembeng Leghis :') Lah Engkok? Keng Modal HP, Internet Kiah Gratisen :'( Deemmah terro... http://fb.me/1BvR2WkqB ",negative
+indolem-train-1819,"AC lok cellep, lampu korang terang",negative
+indolem-train-687,Raffi Ahmad Lateyan Ijab Kabul  Nyareh Malem 16 Jul?: http://youtu.be/OfgXsS2jnEc  kerrong xan deiyyeh aja-manja @bangbily @RealSyahnazS,positive
+indolem-train-2798,toilet korang berse,negative
+indolem-train-1524,"Kamar bau apek sara, toilet kotor",negative
+indolem-test-59,"pacar se pelak jeh;''''''mon hpnah mateh,rela menjem hp kancanah ken gebey sms ben merrik kaber ke pacarrah",positive
+indolem-train-1791,AC lok a fongse sampornah daddhi panas.,negative
+indolem-train-2925,"tas Hermes Rp 1,5 Miliar Eangghuy Bhalanja Sayur bi` Syahrini: Kamunculanna ngahebohaghi reng-oreng se bede e... http://bit.ly/1Lopq18  ",negative
+indolem-test-684,"kamar luas, badha restoran, kolam renang, & layanan kamar, sayangngah: kamar kotor & lembab. lingkungan sakitar kotor, jeddhing kotor, aeng kenne' & bhau. lokasi kamar ka parkeran cokop jhau saharossah neka mobil golf stand by nganter ngone'en tamoy. se mlarat pas check out kodhu ngangka' bharang kadhibi'. jhalan jughan lok a sohabat ghabay ngeret koper.",negative
+indolem-train-2643,korang bherse,negative
+indolem-test-636,"hotel tuah, cokop bherse, cokop nyaman. airy lok aberrik jhejhen?, arghe bhagus, remot ac adek,",negative
+indolem-validation-162,GWRS Ton (ben bannya' at kantor instalasi rawat jhalan RSSA) ? http://path.com/p/1k0wl9,negative
+indolem-train-546,Cara Ngatur Pola Ngakan ghebey emma' Se Nyosoeh Ma'le Ceppet Toron Berre' Bhedenah http://tinyurl.com/qbbptuz,positive
+indolem-train-1866,WiFi nah mlarat,negative
+indolem-train-3585,"Jhedding nga lok berse otaba ngaluaren bhau se lok nyaman neng elong. Showerrah jughan rosak. Siaran tv nah diddhik. Roangannah sobung jendela, daddhi pengap e dhalem. Ge-mogha bisa epebecce'. Salebbinnah bhagus. ",negative
+indolem-train-1686,"Massa Santa', Montor W06 Hamilton Amasala http://dlvr.it/8lkkwC  ",negative
+indolem-train-2339,*cacannah jongos neka anelae Sampa*PDIP Arassah Mega E diskriminaliasi http://www.jawapos.com/baca/artikel/13275/PDIP-Merasa-Mega-Dikriminalisasi ?,negative
+indolem-train-1459,"engko` pernah ce` ngareppa ba`na abeli, ben ka akherra engko` kodhu rela ba`na ongghuan nyingla",negative
+indolem-test-569,"Teros dhe-ngindeh sake' Makle bisa tedhung e UKS sakola'an ??? Mon ta' alakonih PR Soro lakonih e perpus, akherrah tedhung e perpus wkwkw ??",negative
+indolem-test-592,"korang berseh, adel lobbynah, servisah tak adek meloloh",negative
+indolem-train-3268,plesteranah kamarah lecen.... bik se perloh e tambahagi ajiah sandal e delem kamar. mon se lainah lah mapan bik begus,negative
+indolem-train-3016,"kamarah korang mapan, lampunah tak odik sebegien, peteng sarah, ruanganah beuh sarah, jedingah kedek",negative
+indolem-train-3636,Iklan partai Demokrat Ngoca' Enja'' Da' Korupsi. La barampa se epenjara #comangeng'e,negative
+indolem-train-867,mandher tuhan membalas semua yang terjadi kepada mu suatu saat nanti hingga kau sadari? ? Sadis by Afgan ? https://path.com/p/4wkUis,positive
+indolem-train-2652,E denmark engghi paneka ilegal ghabay ngakan dhaging matta e bhakto badha bhulan pornama.,negative
+indolem-test-788,"Kennengngan saongghunna strategis, kamar kene' pas AC-na enger, TV ghi' ngaghuy antena dalem bhantalla ghi bau bakto engko' da'essa. Jiddeng cope' keya.",negative
+indolem-train-1456,"fasilitas eh parloh ebecce', bhekal lebbhi bhegus etambeh bi' sandal hotel. penyediaan kasor extrakorang memadai. jaringan wifi bhekal lebbhi bhegus epasang e sabhen sudut sopajeh jaringan internet koat e sabhen kamar. pelayananah hotel la bhegus, tapeh bhekal lebbhi bhegus sabhen se alakoh hotel lebbhi ramah ka tamoy",negative
+indolem-train-528,"Wah, Berat Badan Afgan Toron 19 Kilogram: pan berempan bulan tak ketemoh Afgan Syahreza (25), abeen dibik pangling. ajiah... http://tinyurl.com/kftjjgw",positive
+indolem-train-1050,Tang Tretan Bhudhu ?? Lebur ka reya filem sompa !!! ? Untukmu Aku Bertahan bi' Afgan ? https://path.com/p/4fRWyk,positive
+indolem-train-1165,nasehat nyingla esse minnyak sateya. Olle jhimat 25 sen/liter. ta' kasoh alayani oca'na pembangkang. minyyak ongghe polana pasaran dunnya bhai salah BN?,negative
+indolem-test-402,kabbhi se dateng paste bhakal nyingla. innalilahi wa'innailaihi rojiuun bapak engko' tercinta.,negative
+indolem-train-383,senneng ngakan e Kenny Rogers roaster? sateya bede diskon 15% kabbhi menu ben are sampe' 31 Jul?15menit trans 250ebu bi' @KartuKreditBCA!,positive
+indolem-train-2417,"kabherseyan kamar parloh e pabecce', beuh laseng, pola deri tamoy seghilok'eng se ngibeh nak-kanak kennek",negative
+indolem-test-970,"kamar nyaman ben berse, gun jeddingah  beunah korang nyaman ben sek agangu ben kasorrah agebey tel getel kiyah. Sarapnah biasa",negative
+indolem-train-1919,ac na kamar 309 bhucor,negative
+indolem-train-198,Golkar: Tade' persetujuan Politik bi' Partai Koalisi http://dlvr.it/8fmKYx,positive
+indolem-train-2910,ac korang cellep ben lantai jedding tolong ebherse'e sabellun tamuy dateng.,negative
+indolem-test-405,"Tas Hermes Rp1,5 M E Angghuy Abelenjheh Sayur bik Syahrini http://tinyurl.com/mjo5lbg ",negative
+indolem-test-991,"kabhersean e kamar, WC, palayanan resepsionis, e WC kotor. lantai ah koneng, badha bhungkos kondom se ghita' e bherse'eh",negative
+indolem-train-2364,"Aengnga korang lancar, bau kokos roko', olessa bhantal ghita' eghante. Esse kotak kosong tada' aeng enom ban ta' enga' e ghambhar.",negative
+indolem-test-969,"kamarah berseh keng tadek pemanasah aing e delem kamar, wifinah lemot, siaranah tv asemutah, ngakanah nasek guring.",negative
+indolem-train-499,"Lagu balonku bedeh , ngajheraghi kita male negghuk lebi gheccang apah se ghik bedeh, benne nangesen se le mangkat.",positive
+indolem-train-447,Nostalgia zaman selokah sekunik.,positive
+indolem-train-668,"Se Ali repot sara cora'en maso hp, oiya mesemma rowa la manis sara!! SAROJU'? NGETWEET POLE!! @alysyarief @PrillyBie ",positive
+indolem-train-1789,kamar ressek keng jeddhinggah geddhek tak karomat.,negative
+indolem-train-764,@EdwardBosker gebei kantor GA terminal 2 e bandara Soekarno-Hatta gik beroperasi. Kasoon. - Fuadi,positive
+indolem-train-1026,"Stres akademik neng sekolaan bhakal aberri' kaontongan, salah settongngah namba cerdas siswa. [Panaletean Indikator Sosial]",positive
+indolem-test-474,PDIP maksa Jokowi alantik BG Kapolri kaangghuy nyalamettaghi Mega. BLBI 647 Triliun! http://chirpstory.com/li/250482   by @RBicara,negative
+indolem-train-3060,"AC mateh odik, ben mon odik suarah AC nah rammeh..",negative
+indolem-train-2525,Kbhersean kamar e perhatiaghi,negative
+indolem-train-2790,"aing panassah bek jubek, romoro gilinnah kennik, ben tadek lemarinnah, benyak bilir e kamar",negative
+indolem-test-576,"ac lok cellep tehel kotor pemesanan seghilok'eng,lok olle cemilan",negative
+indolem-train-2993,ebuwan nelayan ekarobhungi kantor menteri susi http://dlvr.it/8l4g0q,negative
+indolem-train-170,"lumayan, sakabbinah nyaman sayangah, badha beberapa hal se koduh eperhatiaghi, korangah kabhersean e kamar, bedeh bekas rexona e bebenah kasor Deri tamoy sabelumah, tapeh salebbinah luar biasa. nyaman, wifi ceppet. Palayananah bhegus. sakalangkong. e rekomendasiaghi ghebey backpacker se bhingung nyareh tempat nginep, sakalangkong airy. ba'an lakar keceeee",positive
+indolem-train-916,Forum Komite Sekolah Dukung Wali Kota Makassar Aberantas Geng Motor http://bit.ly/1LBlquh,positive
+indolem-train-3583,"Haha""""@JosephSiahaan2: RT """"@kompascom: Demokrat Protes Pimpinan KPK Usulannah SBY Lok E Pele Jokowi http://kom.ps/AFploc """" @MohammadMakruf",negative
+indolem-train-1298,kamarrah lomayan tapi WiFi nah Lok bisa e gunaaghin...,negative
+indolem-train-3439,"engko` dentek 3 are, tape camilanna pera` sakale bhai heheheh",negative
+indolem-test-765,"Tas Hermes Rp1,5 Miliar Eyangghuy Abalanjha Ghangan maso Syahrini  http://bit.ly/1Lopq18  | Klo ke Calon Mertua harga berapa yaa ^_^",negative
+indolem-validation-396,"lok pameten, Syahrini Blusukan teppa'eng Syuting MV 'Seperti Itu'"""" http://ift.tt/1CYHLhi  #hiburan",negative
+indolem-train-2970,1. Lampu kamar terlaloh kodhep 2. lampu neng jheddhing salah settongngah mate 3. sobung peraladhan mandi 4. ac lok a fungsi normal (lok kerassah ac-nah makeh ampon e kenne'en) 5. aeng panassah kadhang bisa e guna'aghin & kadhang njek,negative
+indolem-train-1434,@JANJISUCI_TTV: lhooo.. neka @RaffiAhmadLagi anoapah ghi ka pangkalan ojek ngangguy kostum marmoci?? #JANJISUCITTV,negative
+indolem-train-436,Demokrat anilai Jokowi aberri' bhukte banne jhanjhi http://goo.gl/fb/CeJIjv,positive
+indolem-train-339,Poros Ngoda Golkar Anilay Jokowi Bisa Negghu' kabada'an setiya - BeritaSettong http://dlvr.it/8ft7y8,positive
+indolem-test-697,"Ghi' badha kalakoan begien delem, kondisi WC ghi' becca, lantaiah jedhing ghi' Korang bherse Ben sprei bennya' obhu'",negative
+indolem-train-3009,Degghik bedeh masanah se mangkat dheng-bedheng abelih pole ben cek entengngah ngocak aseporah. Kitanah? Enteng kiah ghebey lok peduli sama sekaleh.,negative
+indolem-validation-190,"Engkok ngetelah kamar ghik korang bherse yehh. Neng budinah korseh, mejeh ghik bedeh debu.",negative
+indolem-train-1461,ac abit cellepeh,negative
+indolem-train-3105,wc nah lomodhan..ghabay bheji',negative
+indolem-train-2254,"dateng kol 1 aban ta` olle maso` sampe` kol 2 padahal la kasoh sara. sprei jhabbha, kennengan lembab, jhauh dari kota, pade lah regghe mode. ta` esaranaghi lah.",negative
+indolem-test-371,"fasilitas ghennak ben ghuk-ghengghuk e kamar le Ok. tapeh kennengah tedung korang nyaman, gheressah sarah perreh e bhedhen, teros bhental kennek se bernah biru semmoh beuh, kadik le abit lok e ghenteh, tapeh sekabbhinah bhagus.",negative
+indolem-train-1854,Hotella bhaghus paabasna.Tape AC nyo'on epateppa' ma'le cellep sopaja tamu tamba perna pole.,negative
+indolem-train-2710,jeddingnga korang bherseh,negative
+indolem-validation-119,paleng males pas tangeh ghu lagguh yapseap ka sakolah. napahpole manabi cuaca ondhem otaba rese' #anakSMA,negative
+indolem-train-3472,"paladhinan pegawai korang andhep, ban suasana talebat enger",negative
+indolem-test-847,Tolong la terro sara matena oreng ?? ? Sabbhar bi' Afgan ? https://path.com/p/1VUm4E,negative
+indolem-train-539,"Twitter mokkah cabang e Indonesia, Alasnah apah? Ariyah penjelasnah ngangguy http://ngi.cc/n45c",positive
+indolem-train-3357,"Ac ta' cellep, salemot ben sprei ghetel nga' 10 taon ta' egenteh",negative
+indolem-train-2420,ac kamarrah ngeluaaraghi suarah rammeh,negative
+indolem-train-2409,Demokrat Protes Pimpinan KPK Usulan SBY Ta' Epele Jokowi: intelijen - Fraksi Partai Demokrat menyesa... http://bit.ly/1Lh7jYS  #Kabherih,negative
+indolem-test-443,riya bhukte PDIP belle kenning `jurus` jokowi: setuju jhe` parkara pelantikan komjen budi gunawan... http://bit.ly/18adtOz  #kabhare,negative
+indolem-validation-284,bhagus ben kobassa tape gi` bede kakoranganna bakto engko` mesen ruang airy engko` meleh 1 kasor tape pas engko` maso` se eberri` 2 kasor.! tolong e tingkataghi pole.. kaso`on ruang airy.!,negative
+indolem-train-634,kamar sasoai reggha.. pelayanan staff cel aennah. badha eng panas. tape seprei koneng sadhaja. andhuggeh coklat bhau ghilok kerreng. sobhung lift tape kulah betta e kassah,positive
+indolem-train-914,Demokrat nilai presiden merrik kepastien http://ift.tt/17ZrApC  #MentionsFor #DoraemonPic #STMkerasbosss,positive
+indolem-train-3484,"Lomayan ayem, sayang AC nah bannyak se rosak daddhi korang cellep",negative
+indolem-train-3507,strategis. eman kabherseyan kennengah tedungangah korang. selebbinah sesuai argheh,negative
+indolem-train-1651,Yak..bedek se bek takok ageken RT @kompascom: Demokrat Aprotesah Pimpinan KPK Usulanah SBY Tak Epilih Jokowi http://kom.ps/AFploc  |@kurawa,negative
+indolem-test-743,"kamar bau & kotor, toilet bau, mare ngenap edina' engko' kenneng panyaket kole' (ghrindhang & tel-ghatel)",negative
+indolem-train-3536,"WiFi ta' odi', aengnga bau, pelayanan korang bhagus, padena akost",negative
+indolem-train-1190,"@InfoBDL: #infoBDL - Mored Bini' Epokol Kancah Twitterrah, HP Erampas http://bit.ly/1AZYjYM """" awallah atokartwit?",negative
+indolem-train-2217,"kamar ghi' badha bhaunna debu. jedhing showerrah mampet, sobhung aeng panassah jughan :')",negative
+indolem-train-1684,nyaman ghun sayang AC nah bhucor sarah ,negative
+indolem-train-2086,Demokrat Protes Pimpinan KPK Osolan SBY Lok epele Jokowi: Fraksi Partai Demokrat nyesselaghin langkanah Preside... http://bit.ly/1vlWdom,negative
+indolem-test-908,"Rasa bambungan se olle sepeda bekas, sareng rasa toko se pertama nompak mobil kapresidenan manabi ca'eng kaula PADHA. Senneng, teros terbiasa ban busen ?",negative
+indolem-train-608,"engkok ngenep 4 N, jatannah pegrempean ben perlengkapnah mandih (sabun ben lainnah) gun e beghi pas areh pertama masok. gebei kebersean ben sarapan ok",positive
+indolem-train-1632,"ac ta` cellep, la 3x lapor tade` tangghepan sakale, lantai keramik bannya` se rosak",negative
+indolem-train-3187,KPU nyolot pera`ngakoe golkar se epimpin ARB http://dlvr.it/8hT6pP,negative
+indolem-validation-187,"Pegawai Korang ramah, Korang informatif Ben kalako'nah Korang bhegus. Kamar MALARAT ghebey bhejeng",negative
+indolem-train-1610,"resepsionis korang gheteh, lift kotor ben abeuh, aeng jeddeng korang lancar tapeh aeng panas deri shower mantab, kabherseyan bhental ben seprei parloh e evaluasi pole. Cek emannah potensi se cek bhagusseh lok e dukung profesionalisme SDM'ah, fungseh kontrollah parloh e tingkataghi",negative
+indolem-validation-56,"Kenangan sae, & tokang tremah tamoy ramah. keng etenga malem bede tamoy se atelponan eyadeken penerima tamoy kalaben labeng dengaddeng etorot mokkak bik seajegeh malam se koros saenggeh keding cek ranyinggah. tapi mon secara sekabbihnah   mapan",positive
+indolem-train-2546,"Kamar cokop bherse, eman lok sesuai bik harapan neng ghember...pagghun kamar mateh bedeh rengnge' ac lok cellep adek paket jeddeng akadik biasa standar airy",negative
+indolem-train-2118,"Coman amargha kandhang ajhem, mobil satpol PP parak e obbhar Massa http://bit.ly/1FrmsVH ",negative
+indolem-train-430,"Sengko' bhekal selalu badha ghebey ba'an, maskeh harus bertahan e delem kaseddhien, Ben alabhen rassah ateh se selalu nyoro sengko' ghebey ondhur deri ba'an :')",positive
+indolem-test-557,jeddeng korang bherse,negative
+indolem-train-3256,"Syahrini e serbu warga: ""Eh juah Syahrini, ih cek raddhinah. Tapeh eman mek pande' yeh,"""" cang seseoreng? http://dlvr.it/8fvXBv ",negative
+indolem-validation-57,Nojhh labhang masok Soundwave Fest Ngagem rasoghan dhari band lejen..yap-siyap se areh bhenteng karna  e buai sareng? https://instagram.com/p/zoe2kXh7yc/,positive
+indolem-train-396,"97. Napahpole Demokrat, pasti bhakal senneng manabi PDIP ningghalaghin Jokowi ban manabi bisa dhap-adhhapin sareng Jokowi. Acorak Olle Durin geggher.",positive
+indolem-train-3124,pelayanan korang lebur,negative
+indolem-train-2434,"15.23: Kebakaran Mobil Mercy Celleng B1945 SH e Jl. S. Parman, tepat eh e ade'en Central Park deri Tomang ka Grogol Jakbar. (Pa' Momo)",negative
+indolem-train-946,Link obsesi= Raffi Ahmad Ban Olga Syahputra Eramal Sajan Eksis - Obsesi 19 Februari 2015: http://youtu.be/UjfYJCrlCfo?a lebat @YouTube,positive
+indolem-train-353,ngakan cang kacangan bhakto ngandhung bisa noronaghin risiko alergi ka anak se bhakal e laheraghin. [JAMA Pediatrics],positive
+indolem-train-1840,"tv rosak , wc geddek, tadek pegrempean... kecrewa mon setiyah riyah pas ngeenp e kenegan hawannah cepp",negative
+indolem-test-342,kamar bada bilissa. jiddeng amasala. ghilina aeng sompet..pas aeng aghili ka lowar kamar,negative
+indolem-train-2748,Rendem hp panjennenngan. RT @ndarahmat: @my_supersoccer Manabi pessen kaula keng e bhacah abdinah koduh alakoh apah min? #tanyasupersoccer,negative
+indolem-train-619,se ghebey males kadimma2 are riya konser dari ate afgan : * (bi' yodie at yodieandliya`s Castle) ? https://path.com/p/1E4W4E,positive
+indolem-train-1754,[NAKOEN] Raffi Ahmad Parak Atokar Bik Depkolektor @ Dahsyat 25 Sep....: http://youtu.be/KKpOfy7G_UI  lebet @YouTube,negative
+indolem-train-3236,mode ben nyaman tape toilet begh sakone' gheddhe'.,negative
+indolem-train-3368,Oreng setiah bennyak se mon ngakan neng kafe otabeh resto engak foto kakanan tapeh loppah adhuweh. Follow @GadgetGaul ghebey tips & info gadget keren,negative
+indolem-train-980,"positif: lokasi mapan, deri sedejeh Airy Hotel se toman eyentaren bik engkok, gun edinnak se ketedungan e resseken benareh, anduk e genteh benareh, pegrempean, aing ngenom ben alat mandih eberrik benareh. Deddih selama 3 areh engkok olleh pegrempean, aing ngenom , ben alat mandih 3 paket. Kebulennah sabber, Lokasi semmk rengsebereng, e seddiken hotel benyak se ajual kakanan kiyah, asli cek rekomended. keng minessah tadek lift, deddi koduh ongge tangga, pas pertama deteng, engkok ngangkak tas rangsel ben koper kadibik ke lantai 3. padahal petugas nyonggok engkok pay pay ambu e tangga ben lantai polannah keberreen bereng se eghibeh, keng peggun tak etolongin.. aing panassah tak odik.. e seddien mijeh tadek demar. deddi se alakoah tak bisa polannah petteng..",positive
+indolem-train-1056,Kerrong ba'an @raffiahmadLagi @lady6igi samoge'eh noro' lakenah ka pesbukers yehhh... kerrong e..,positive
+indolem-train-3284,"Ac koduh e cek secara Atahap, tanpa koduh nantos petugas keluhan pelanggan, sakalangkong",negative
+indolem-train-3021,Wifi ta'dapa' ka kamar,negative
+indolem-train-736,SMS deri oreng se ekeseneng ruah bisah agebei been tojuk nyaman bik agelek dibik meloloh nyongokah hp. Hihi,positive
+indolem-test-63,"tempatdeh bherse sarah ben nyaman bik pelayanannah sae, ken aeng panasseh lok agili",positive
+indolem-train-3455,"11.35: RT @Yudi_Lands: Imbasah tokolan reng oreng se unjuk rasa e PTPN4, Jl. Suprapto Medan, bede sittong montor deddi korban",negative
+indolem-train-1465,"wifi ta' nyambhung, suasana Korang tennang polanah badha renovasi e lobby, kamar lebbhi keni' deri jhellingnah, tade' alat aghebey kopi e kamar padahal e fotonah badha, badha lala' e kamar ben sossa makalowar polanah jendela ghun kacah ben ta' bisah buka.",negative
+indolem-train-2796,"MediPutra ; PDIP E nilai aneh melanah tarema Badrodin Kapolri: INILAHCOM , Jakarta - Anggot... http://bit.ly/1Lp6W0d    http://FB.me/mediputra.sh",negative
+indolem-train-1267,"beunah ruangan korang nyaman, sekabbiknah korang bersih bein aslinah",negative
+indolem-train-2764,Li-belien Mateh lampu Ben sprei so salemot korang bherse.,negative
+indolem-train-1348,spreina korang bherseh. gi' bede kare obu'na se kamar Attas.,negative
+indolem-train-1709,"jheu deri harapan.. untung ngenep diskon deri airy deddhih lok pateh rogi. tehel akelottak, seprei kom lok e kombe, sapo' akadik seprei cek tipisseh. remot ac lok afungseh. dhele andok bhein kodhu mentah keadek. jhejhen adek, keng bedeh aeng. saongghunah make bedeh engkok jarang ngakan, tapeh benne ajiah le standarrah neng airy? lok e saranaghi mon arghe normal.",negative
+indolem-train-2079,"Badha masa edimah ni'-bhini' badha e posisi ta' nyaman. Terro ondhurreh tapeh ghi' sayang, terro paghunnah tapeh sake' ateh. Ben jiyeh pasteh ta'' nyaman. :')",negative
+indolem-train-461,ghebey apara sossah nyare kadissa` kadiye la bede eyade`na mata? ? kamulah takdirku engko` dari raffi Ahmad ben Nagita Slavina ? https://path.com/p/xRE8V,positive
+indolem-train-2624,"Ba'an  korosen yangg, jhube'...Palempo Dhulih ? ? Pesan Cinta deri Afgan ? https://path.com/p/1Ly246",negative
+indolem-test-309,ac ban wifi kamar segghut ta'bisa,negative
+indolem-train-1065,"wifi nah korang stabil, sakabbhinnah oke, bhagus ban berse.. pelayanannah andhap ban atolong..",positive
+indolem-train-1221,"Mon terro ajharra,  hp bada kennengngan u-jhau dari kita. Mon semma', paste ta' kera ajhar.",negative
+indolem-train-2617,Lokasi korang bhagus tape kamarra korang bherseh.,negative
+indolem-train-351,"http://beasiswaindo.com/5239  Beasiswa poll, SPP & BPP Pokok - Sekolah Tinggi Manajemen Transpor (STMT) Trisakti ~0224",positive
+indolem-train-2037,"Bha'bendher manabi hatta mempen PAN selalo ebhabhanah jhang-bhajangah Demokrat?"""" dhari @SangPemburu99 http://chirpstory.com/li/252988 """" @M4ngU5il @PintarPolitik",negative
+indolem-train-1284,kaberseannah korang. tolong e perantenaghin pole. tape lerres lah sareng reggha saneka ban terjangkau.,negative
+indolem-train-3404,Kamarra saongghunna nyaman tape dari wcna ekeding bau leke jha' bada e tingkat 2. Samogha epateppa' lebbu bhaghus pole ya.,negative
+indolem-train-866,"ngasteteh e jelen cacak @RaffiAhmadlagi ben selamat ngaso, jegeh terus kesehatnah ben jek gempang lessoh mander olleah mimpi se mapan @Lady6igi",positive
+indolem-train-1077,"masok cek abitteh, ruangan kamar Korang bherse, ben wc ta' erabet, shower ta' bisah e guna'aghi",negative
+indolem-validation-350,Wifinah ta' bhegus,negative
+indolem-train-2900,Tempatteh kotor ben petteng mang-remang,negative
+indolem-train-1889,"kasiapan ben kasigapan anggota parlo e tingkataghi. pas tamuy bhuru dateng, kodhuna kabbhi fasilitas la bede. tamuy adentek jham-jhaman dalem kondisi kasoh ongghuwan ta' nyaman. ",negative
+indolem-train-72,"Tola' HAMAS, Tengka'en Pamarenta Epojhi PDIP http://bit.ly/1KwhWtq  Menag messen ommat Islam noro'e pandhengnganna mayor... http://bit.ly/1AXKYQv ",positive
+indolem-train-404,"Woh, mek bisa? :D RT @Arlaaan: sempet jughan nyobaen kimchi chigae ghabayyan Farah Quinn e kantor :D",positive
+indolem-train-2048,"kabada'an kamar standar sara... Engko' segghut aghunaaghi Airy Rooms... Tape setiya reya se paleng ta' nyaman... 1. AC korang cellep 2. tada' ghu'-ghangghu' 3. pamanas aeng ta' bisa 4. Kamar biasa bhai Ta' arekomendasiyaghi ra, mon menorulot engko'...",negative
+indolem-test-539,"peladinanah abit, tak mpan sekaleh kenengan bik pengladinnah, argenah keng mapan",negative
+indolem-train-3447,Jumlah panompang se refund Tiket neng Kantor Lion Air Manyosot: para panompang se telantar akibhat delay par... http://bit.ly/1vRUg9f,negative
+indolem-train-1510,"Terro nyenggha'a keng ghi' neser. Nengenneng, tape esake'e terros. Kadhang cinta saloco reya ya. Lako sala :')",negative
+indolem-train-3174,dari pangabesen pole bhagus mangkana engko` meleh. tape engko` olle kamar se bede abuna. bannya` sarang laba-laba. salemot bede abuna. tade` tisu. lantai ta' e sapo. pelayanan ramah bi` bhagus. kaso'on. mandher bede peningkatan.,negative
+indolem-train-629,Demokrat: Kapotosan Jokowi Parkara Kapolri Aberri' Kapasteyan http://www.gatra.com/politik-1/134860-demokrat-keputusan-jokowi-soal-kapolri-beri-kepastian.html ?,positive
+indolem-train-2752,(Bongkar Hambalang) Demokrat Aprotes Pimpinan KPK Usulanah SBY Tak epilih Jokowi http://bit.ly/17ZEVOV,negative
+indolem-train-3548,"AC ta' cellep, ekatela' kotor, ta' matabarra.",negative
+indolem-train-2882,"tenang, nyaman, tapeh TV nah rosak",negative
+indolem-validation-378,"#Teknologi Samarena ngangghuy berlian 5 M, Satiyah Syahrini dhendhen ta' nyambhung http://dlvr.it/8g8NZm  #Assadiqulhaq",negative
+indolem-train-169,"Ngakan buwe pepaya bisa abentoh ngatasaghi acid reflux, kondisi e dimmah asam lambung naek sampe dek kerongkongan.",positive
+indolem-train-676,"Montor kene`, gegek ben irit pajhet peleyan penter """"@AlexandraRacing: @Auto01_tvsettong #auto01tvsettong",positive
+indolem-train-1680,Tengate. Bada se manes aghunaaghi caca. Ban nyenggha mon la mare arassae.,negative
+indolem-train-1669,paladhinna korang makobassa ghun etanya aeng panas bhai robana marongo' ban kalaban tapaksa kaangghuy abhanto,negative
+indolem-train-99,Wanda Hamidah ambu deddi Randeh kalaben akabin bik reng lakek atato-Sriwijaya Post http://gpon.co/-y5si  http://gpon.co/b,positive
+indolem-validation-28,"sakabbhianna kennengan nyaman. parkiran kiya aman. AC, WiFii, ben aeng mandi Kiya lancar. pera' begh kecewa ka lantai kamarra benni keramik ben jedding sakone' gheddhe'na e attas2sa. sakabbhianna mun ghebey nginep ye bhagus lah",positive
+indolem-train-2581,"kamarrh korang loas, salebbbhinnah nyaman ban wifi nah lomayan ghabay kamar coma segghut ghe'pegghe'. ban manabi bisa sarabhannah e ater ka tiap kamar, amargha ghabay se tellat akherrah lok kabegien sarabhan. sakalangkong",negative
+indolem-train-119,Jokowi molae bengal Nyantap PDIP. Sapah se biasa Dikte Jokowi? Sobung! http://bit.ly/189Kryx  @PenterPolitik,positive
+indolem-test-511,"fasilitassah tak jubek!tingkanah karyawannah se tas mapuas, ben hotellah nakoen benyak cobeh",negative
+indolem-train-282,Samangken nyanyi lagu neka kadhibi'an ghe-mogha pansaponapan bhakto ka? ? Sapeyan lah tang takdir dhari Raffi Ahmad & Nagita Slavina ? https://path.com/p/1c5BM0,positive
+indolem-train-2846,"aeng panasseh tade', terros sebaikkeh ebherri' lobeng sopajeh ta' banjir, e ade'en jeddhing kiyah tolong bherri' lap sokoh, tv bherri' remot kiyah ye...ac nah kiyah ta' cellep.",negative
+indolem-train-1659,"pelayanannah gheteh , kamarrah genteng make sepreinah semmoh ambung tapeh lok papah polanah engkok ngibeh sapo' cadangan tapeh engkok bhingong mon abhejengngah kodhu toron ellun dek musholla ghebey nginjhem roko. ribet kanak terutama mon teppa' ojhen",negative
+indolem-train-1666,wifi na bhai tolong epateppa' ban aeng panassa tlebat panas,negative
+indolem-train-1319,jeddhing kotor...,negative
+indolem-test-119,"Syahrini Jenjih Hadir Deddih Sakseh, Kor? http://bit.ly/1F6pAWE  via @PojokSittong",positive
+indolem-train-933,"cc; @RaffiAhmadLagi """"@TRANS7:""""Mon bede reng lakek niser ka embu'en masteh niser ka bininnah """" #OkkyLukmanSaid @LawakKlubTrans7.",positive
+indolem-train-2534,"Kenenganna kotor, remot tv ta' aghuna, AC bhucor ban tada' remotdha.",negative
+indolem-train-988,"kaka' lagghu' sakola pole ya"""", koca'en sala settong krocel @SBMatahari sambi mesem manes lagghu reya *engko' pas alelle~~ :"""")",positive
+indolem-train-2844,"Kennengngan bherse, set mandi ghenna', olle ghu'-ghangghu' keya, eman bau roko' ban kabada'an ce' seppena. tape cokop strategis, man-da'emman semma'.",negative
+indolem-validation-46,"awalla engko' olle kamar se AC na ta' aghuna cellepbha. Ban engko' mamadhul ka resepsionis, pas engko' eyalle ka kamar se lebbi bhaghus. seanyar jiya nyaman, bherse, bada sonarra mataare se ma seggher, bada ghu'-ghangghu', aeng enom, parabhut mandi, ban salaenna. engko' kobassa",positive
+indolem-train-920,"Dalem odi' riya, bede se dateng bede se nyingla. tegghu' kenceng sapa se lawassa bi' abe' dhibi'.",positive
+indolem-train-2295,"ngantoggha pas teppa' ajher, manabi teppa' maen hp lok toman.",negative
+indolem-train-188,"Pilkada Sarampak, PDIP ta' Enda' Ngandhellaghi Jokowi - http://JPNN.com  http://gpon.co/emdns  http://gpon.co/b ",positive
+indolem-train-318,"Kamar luas, bherse, ben nyaman. Bedeh aeng panas. Korang TV adek siaran.",positive
+indolem-test-598,"keng bedeh 1 hal se ngebey ilfeel, ajjiah bhental bungoh khas airy room bedeh BEDHEK JHEIL se lok e bherseen & ketelak sarah, bedeh neng kedueh bhental bungonah, deemmah yeh riyah airy?",negative
+indolem-train-3224,"Lok sasoai sareng neng e foto kotor, sprei ban sarong bhantal koneng, ban bhau apek lok recomenadhhin sama sekaleh",negative
+indolem-train-3170,Bhau rokok lok oneng masok dhari kammah ban bhau wc nah molae dhari kami masok.. padahal kami ghilok ngangghuy wc nah,negative
+indolem-test-182,#TEAMFOLLOWBACK #TFB #alrasyid448ItuRasya Demokrat a niai putusanah presiden beri? http://dlvr.it/8dTP3s  ROH3 SmantiBatam #JFB #AutoFollow,positive
+indolem-train-1861,WC kotor. WC nah ta' afungsi so beumah dhepa' sampe' kalowar. AC nah cellep tapeh enger. ta' esediaghi anduk,negative
+indolem-train-2992,"Pesabbher lah cintaku, keng sementara.. ? Sabar'eh Afgan ? https://path.com/p/uBge3 ",negative
+indolem-test-895,"Paladhinan resepsionis ya bhaghus ya, andhep, pelak sara, matbar. eman kamar korang pada jhejjhera airy terros tada' ghu'-ghangghu' ban parabhut jiddeng dari airy-na. rapi ra, korang ro'om bhai hosossa jiddeng. Kabudina, Etingkataghi pole ya fasilitassa",negative
+indolem-train-241,tribuntemor: Rengbini' Golkar Makassar Esangowe elmo Kaprotokoleran: Palateyan reya nampellaghi narasombher? http://goo.gl/fb/TbBYix,positive
+indolem-train-22,jodoh pasti bertemu dari Afgan ? https://path.com/p/P9deN,positive
+indolem-test-628,"jedding gheddhe', hotel ampo eghebey acara neh-aneh",negative
+indolem-train-399,"wa kan, lambe' bannyak se pas kene' pernah endi' kalambhi parma. enje' lambe' ruwa tren apa benni ta' ngarte :') hahahaha",positive
+indolem-train-3378,"wifi mate, toilet rosak",negative
+indolem-train-3324,PDIP nyebbut bedena kriminalisasi Megawati: JAKARTA - Partai Demokrasi Indonesia Perjangan (PDIP) nyebbut... http://bit.ly/1AX7r0j  #Kabhare,negative
+indolem-train-1657,"Olle kamar lantai 3 lok bis anyambhung dek wifi, sempet bedeh kecoa neng jeddeng tapeh ghik bisa e atasen , jenis labeng se e sotok ( saran bhein lebi nyaman mele jenis labeng se biasa bhein male lebi rapet sang e konci, pelayan bhagus, kamar cokop bherse, mandher ke adek'eng sajen bhagus pole, lokasi cokop strategis.",negative
+indolem-test-814,AC nah panas,negative
+indolem-train-2231,"Amassak amassak dhibi'....ngakan ngakan kadhibiiii' asassa klambih kadibhii', tedung pon kadhibiii'~~ ??????? (at Chexoz) ? https://path.com/p/1g2xgZ",negative
+indolem-validation-394,5' Aksi rek-taregghan klambih Diaz sareng pemaen Selangor. Naseb lok koyak. Jellas ketarah tareghan neka.,negative
+indolem-train-1337,Ngantok -> mateen lampu -> narek sapo' -> ngecek HP -> online pole -> lok deddhih tedung -> abelih dek yadek. Deiyyeh bhein teros..,negative
+indolem-test-174,"Hp padeh, sello' padeh, kalong padeh, paleng laghu' alamat romanah padeh kiyah """"<~ badha se akomen dha'ye ghebey Mimin Deri ghi' buruh ngelkel =))",positive
+indolem-train-229,"Badha kabhar bhagus dhari WhatsApp, samangken bisa e gunaaghin neng PC, aseeek, bisa chat tanpa kodhu mukka' HP? http://instagram.com/p/zWtm1CSwfX/",positive
+indolem-validation-105,sokkor ben ikhlas iye riya konci senneng. aregghei apa se e tarema ben arelaaghi apa se kodhu nyingla,positive
+indolem-train-1070,FAJARonline: Bidang Binek'an Golkar Makassar E Berrik Bekal Ilmu Keprotokoleran : http://fajar.co.id/fajaronline-sulsel/2015/02/21/bidang-perempuan-golkar-makassar-dibekali-ilmu-keprotokoleran.html ?,positive
+indolem-train-2386,apa se ekedadih bek bileh paketah internetah HP abeen dibik mo moro tadek? apah se ekedadih bek bileh abeen dibik tak macah Al Qur?an?,negative
+indolem-train-897,Ghebey apa la sossa nyareh ka man dimman la e ade'en matah? ? Ba'an Tang Takdir deri Raffi Ahmad so Nagita Slavina ? https://path.com/p/1d1fcr,positive
+indolem-train-269,"Kamar berse, parlengkabhan mandih ok, coma keng kamar terlalo sempit ban lok ro'om",positive
+indolem-train-481,"Jihkan can ""abang"" afgan kiyah ? samoge'eh tuhan males sakabbinah se kadeddien ka sengko' dhagi'? ? Sadis deri Afgan ? https://path.com/p/3H9UkB",positive
+indolem-train-1843,"AC ta` cellep, remot TV rosak.",negative
+indolem-test-462,"cokop begus, sesuai bik Tarif. keng gun aing panas deri shower, tak keluar pas lagguh, teros kakanan gu lagguh korang nyaman",negative
+indolem-validation-316,Pendhanan....tape kabherseyan ghi' korang... sapo' ban bhantal la koneng... nyo'on etingkataghi pole... kabherseyan na,negative
+indolem-train-2192,"aing angak e jedding tak fungsi, mare e komplain keng taek solusi, malem ben lagguh mandih a",negative
+indolem-train-2445,"Kos-kosannah lomayan crokong, sprei kennengngah tedung semmoh leccek bharna potennah.",negative
+indolem-test-290,"Selalu badha kakobeteran ka ni'-bini' se edinaaghi ondhur bi' cowo'en, delem ateh acaca """"Jiyah terpa'en arapah yeh? So sapah? jegeh dia Tuhan"""".",positive
+indolem-train-571,"nyaman, berse, ro'om tape sayang fasilitas sah akadhi'remot tv ban saklar lampu Kamarrah Lok bisa e gunaaghin , Nyo'on tolong bisa e pebecce' pole ghii sopajha lebbhi muasaghin laghanan bhagus deh airyroom",positive
+indolem-train-2869,"K.E.L.A.R.R.T @vikrirasta:macet polannah angkot gitak beres, setiyah etambe bik kantor pemerintahannah se ngalle ka.... http://m.tmi.me/1eZxQB",negative
+indolem-train-1757,"Teppa'eng preien pertama: terro asekolah, kerrong dek kancah. Pas h-1 maso'an sekolah: terro prei pole seminggu bhein. Kenyataan pelajar masa setiah..",negative
+indolem-train-3473,Bheseh Tower Listrik PLN E Keco' Ghebey Ngakan ben Narkoba http://tinyurl.com/ohuqjhh,negative
+indolem-train-1087,anduk'en la tak pantes eyangguy. :( showerrah bucor.,negative
+indolem-train-1600,engkok borong ngenep kacooooo terro ngota'ah bik beunah kamarrah,negative
+indolem-train-2423,seprei ben les-olesseh bhental lok sesuai foto..,negative
+indolem-train-36,"Sengko' tes lun tang suarah, sapa taoh lebbhi bhegus deri Afgan? Untukmu Aku Bertahan deri Afgan? https://path.com/p/2W4uxp",positive
+indolem-validation-198,"Pohon tombhang merre ka mbil ade` Popo Danes hayam Wuruk, tolong hubungi DKP Denpasar cc @baleBengong",negative
+indolem-train-3053,ghebey nginep se be`eri` kennengan tedung korang bherseh..,negative
+indolem-train-230,Empa' Produk Mobil Honda Olle Pangargeen Loyalitas Pelanggen http://bitly.com/1aucQQE,positive
+indolem-train-2950,"Tade` camilan sakale, tade` aeng nginum, tade` aeng panas, kamar bhidhe den",negative
+indolem-train-1565,cek lok muasaghinah tang kancah u-jheu deteng deri bogor keng bisa nyepper sampe kol 8..e larang arokok petugasseh korang gheteh,negative
+indolem-test-330,"lebbi deri sepertelok pelajar, entar asekola polannah paksaan deri reng seponah",negative
+indolem-train-3180,"Engkok toman deiyyeh ngarep hedeh abelih, ben neng akhirreh engkok kodhu rela hedeh ongghuen mangkat.",negative
+indolem-test-664,"babu sakolah jaman sateya semma` luar , dalem ghambhar macem 18 ka attas . jhe`gegek la gf sakolah bf kiya kolej . beh",negative
+indolem-train-2172,bau laseng. tolong e perhatikan. gheddhe` kiya,negative
+indolem-test-675,"serem, wcnah abeuh",negative
+indolem-train-2898,"Haha... Takok e kocak ane. teros paste s solak? """"@inilahdotcom: PDIP E nilai Ane Manabi Narema Badrodin Kapolri http://bit.ly/1B0gBaC",negative
+indolem-test-545,aing panas melarat… cek sekunni'in.. Karo lema menit tadek langsung.. Kamar sip she,negative
+indolem-train-2955,"Aingah beuh ngak aing pecarren, deddi se mandieh otabeh asikatan sengkah . ruanganah copek .",negative
+indolem-train-679,# Lounge kelaben 35rb sinyal Hp nah been bisa full mase e sokplosok!! Full TEST http://dlvr.it/8m19sg  #Assadiqulhaq,positive
+indolem-train-2042,"AC, Toilet ban Lantai Korang sae, Badha rengnge'neng Kamar ",negative
+indolem-test-194,afgan kata se penting ghebey calon bininah jegeh penampilen ben paleng penting solehah... bagus3.  http://www.wowkeren.com/berita/tampil/00067823.html ? ..@MY_Afgan @ALLABOUTAFGAN,positive
+indolem-validation-379,"Nonjhuk badrodin, Bamsoet nugha badha kasepakadhan Jokowi sareng PDIP: mangeteggeh Partai Demokrasi Indonesia Perjuangan? http://goo.gl/fb/xrmnuR  #MedanHits",negative
+indolem-train-1614,neka se bisa sampeyan lakoneh manabi kantor sampeyan telat ngeji sampeyan http://mlsbgt.de/1A58YKC,negative
+indolem-train-2509,Engko` pera` minta settong ka ba`na; Jhe` mangkat se tade` alasan e bajana engko` gi` sayang-sayangnga bi` ba`na.,negative
+indolem-train-655,"Bhekalan bedeh ebktonah hedeh kerrong tojuk neng korseh sekolaan. Deddhih, ghebey se ghik asekolah, jhek sia-siaaghi toh-bektoh penting bhereng cah-kancah sekolanah hedeh. :)",positive
+indolem-test-241,Selamat ghebey tang alek Zana Roli Afgan hedeh le metaoh sikap dewasa ben bijaksanah se hebat. Hedeh Pemimpin se istimewa Salam hormat,positive
+indolem-test-433,"alamattah mlarat sareknah, ac tak cellep tadek aing panas",negative
+indolem-train-3412,"tadek shower aing angak, Tv tabung, kamar geddek a'abuh beu rokok, kolam langnguy geddek",negative
+indolem-train-1870,"Bedeh kiah kancah ceretah jhek ajiah kodhu ngerem foto bhukteh lokasi dek kammaah ajiah mangkat, neng kantor, meeting, degher neng roma!",negative
+indolem-train-1768,"Shower zonk, resepsionis se binek nyengnget",negative
+indolem-train-3037,"Ac korang cellep, kondisi teras kamarrah molae a gelombang",negative
+indolem-train-3400,"luas kamar la etoles 20 m2 nyatana ta' depa', ben AC korang cellep, sobbu tajhagha polana ojang",negative
+indolem-train-1611,"kualitas airy sajen toron, shower rosak, ac nah lok cellep.",negative
+indolem-train-1936,kamar geddek. Jedding korang berse,negative
+indolem-train-1412,"kondisi kamar sesuai argheh, seprei parloh e ghenteh.",negative
+indolem-validation-226,"iya lakar, coma fasilitas aeng enom bhai ta' eparatene, saban bada dispenser se galonna ta' ete-ghante.",negative
+indolem-train-2980,jhejhen kamar lok esediaaghi teppak engkok ngenep,negative
+indolem-train-994,"yeh iyelah kak rafi spaah kiah se lok lebur dek abang, @bangbily le cocok sarah e padheddhih alon alek epar, colek @RaffiAhmadLagi",positive
+indolem-train-537,keso'on nisbur... mare kaloar olle enmaenan anyar e kantor  ??? (bik Nisbur bik Yepe) [pic] ?,positive
+indolem-train-2446,"sarabhen lok nyaman..parkir mejer..kamar sepreinah kotor,tehel korang bherse..",negative
+indolem-train-1664,Nova Rialni @NovaRialni     :are samangken skenarionah bannyak se akelarkaran @TRANSTV_CORP @RaffiAhmadLagi @WC...  http://goo.gl/m0Xsrk,negative
+indolem-train-3539,"Rajeh seh akmarrah, bherse tapeh jeddengngah cek beunah..",negative
+indolem-train-2872,ruang airy aberri` garansi aeng panas gratis ma` riya nambe Rp 10.000/malem kamar kiya ta` pade bi` foto lebbih jhube` tv kiya maseh tv tabung gi`ta` LED,negative
+indolem-train-1952,"ta' olle adhandhan, jhe' sampe' tambe raddhin...padena ruwa?? ? padena ruwa? dari syahrini ? http://path.com/p/4fPqtX",negative
+indolem-train-1607,"Wifi tak depak ka kamar, tadek heater kangguy kopi/teh otabeh sispenser ben tak esediaaghi korseh eyadekeen kamar keangguy arokok dele kodu tojuk e plesteran",negative
+indolem-train-3610,"sobung fasilitas airy ,",negative
+indolem-train-536,Nabi Dawud andhi' kemampuen ghebey maleca' beaseh ghun ngangguy tanangah tanpa koduh nempa so apoy terros eghebey deddih klambih ziarah,positive
+indolem-train-312,Bhektonah andhi' ca' caca'an malem se santai bi' duwe' host kesayangan kita @RaffiAhmadLagi & @mrsayudewi di @latenights_ttv pokol 23:00 WIB,positive
+indolem-train-1656,"Tambaen..""""@republikaonline: Poros Ngoda Golkar: Pamerenta Australia Korangajhar http://republika.co.id/r/nk2iak",negative
+indolem-train-936,"Ben teppa' HP kulah amonyeh, kulah selaloh ngarep neka dhari sampeyan. :)?",positive
+indolem-train-504,Foto: Pejabat UMNO entar ka Golkar: Mesekken hubungan Politik ben nyopre ilmuh Partai golkar. http://bit.ly/1ATTyjb  #Kabari,positive
+indolem-train-1067,"Alkherrah bos se settong neka nongngol kiah neng kantor, ngibeh pesse sekarong ??? (sareng raden fandy neng dago Holiday) ? https://path.com/p/3PlAkl ",positive
+indolem-test-646,RT @Alifreak17: Settong montor honda freed abali' e seddhi'en rel seppor jhalan raja klender.  (via @nabilaaII),negative
+indolem-train-1492,"mon emma' ngamok kita mare jiya epaksa toron ka baba ngakan"""" ce' sennengnga......",negative
+indolem-train-1873,nyaman seh tempatdeh tapeh aeng panas e jeddeng lok endek teros adek se aberrik aeng ngenom,negative
+indolem-test-29,"Nola' HAMAS, Tengka'en Pamarenta Eylem PDIP http://bit.ly/1KwhWtq  Pangabbherran """"etunda"""" saare, panompang Lion A... http://bit.ly/18aqpUr ",positive
+indolem-train-2861,"Roangannah cokop nyaman. Standar Airyroom lah. namong badha pansapanapan kakorangannah akadhi cupcubhan diddhi', WiFi mate, aeng semmoh a bhau, Sobhung gantongan klambi neng jeddhing.",negative
+indolem-train-2767,09.36: Badha mobil masok ka rongjorong neng Jl. I Gusti Ngurah Rai arah ka Pondhugen kopi. cekka' duwa' arah dhari @rzvdk,negative
+indolem-train-1285,Aeng anga' lok odik neng delem jheddeng,negative
+indolem-test-614,"tape emanna tvna bannya' bilissa ta' bsa e congngo', nyo'on epateppa' pole hehe",negative
+indolem-train-833,Konstruksi 'Jharing Ba-labba' Kantor Puspemkot Tangsel Ghabayan Ana' Indonesia http://www.detaktangsel.com/advetorial/item/5050-konstruksi-jharing-ba-labba-kantor-puspemkot-tangsel-ghabayya-ana'-indonesia ?,positive
+indolem-train-597,"RT @VIVA_log: Eyojuk dari Sakola, Lake' reya sateya Andi' Rp220 Trilliun http://dlvr.it/8kmNtq",positive
+indolem-train-2198,jiddengnga aeng anga' rosak,negative
+indolem-train-1638,wifinah,negative
+indolem-test-535,"Ghridu, Para Maleng Nompa' Mobil Avanza Aberkleber e Medan @ramadhanpohan1 @MedanBangkit http://jurnaldemokratmedan.com/index.php/berita/medan-kita/item/327-ghridu-para-maleng-nompa'-mobil-avanza-berkleber-di-medan#.VOWwm1YsONg.twitter ?",negative
+indolem-train-2632,"(+) kamar rajeh, anyar, berseh. areh ke 1 AC tak celep, keng eganti pihak homestay bik kamar se lain (-) tadek lift, wifi abit, ngakanah gun e berik 2 piring. cocok bik reganah.",negative
+indolem-train-2065,Ngakan siang bik menu alemak bisa namba hormon Galanin (hormon se nyebabaghi rassah lapar ros-terrosen). [foxnews],negative
+indolem-test-259,#aurruz <3 #Afgan Terro Go Internasional & A Duet bik Adele http://www.aurruz.com/topic/4310/afgan-ingin-go-international-duet-dengan-adele/new/posts/ ? 3:),positive
+indolem-test-244,#Sosok Charles Honoris: Jokowi Lebbi Bengal Laben Kapitalis http://bit.ly/1Csp0Bf Demokrat niai potosan presiden be...  #ProfilTokohDPR,positive
+indolem-train-2225,"fasilitassah OK, tape korang ghabay pelayanannah.",negative
+indolem-train-754,engkok puas nginep e hotel riyah deri segi argeh cek terjangkauah ac begus keamaana begus keressekan ye begus kiyah keng gun aing se tak panas,positive
+indolem-train-3430,"Noddhu Badrodin, Bamsoet Adhuga bada Koto' Jokowi kalaban PDIP: Mon PDIP ceelp ayem bhai, nerrangaghi jha' deal-deal? http://dlvr.it/8fvJGp",negative
+indolem-train-1429,"nyaman ra, pera' spreiya ma' begh bau ya ben bede nodana padena bercak dara.",negative
+indolem-train-2023,ac korang cellep,negative
+indolem-validation-311,"Kadik'eng hedeh sae-sae bhein ben biasa bhein mon adek engkok. Oke, engkok amet mangkat. :)",negative
+indolem-train-2959,Riyah Nasib Pemenang Konvensi Mon Demokrat Lok Olle 20 % Suarah Pemilu http://tinyurl.com/m9mbuz4 ,negative
+indolem-train-2072,Sakabhinah se dheteng  pasteh bhekal abelih. Innalillahi wa'innaillaihi rojiuun tang bapa' tercinta.,negative
+indolem-train-1653,cokop begus keng wifinah butoh ebeccek sekunik..,negative
+indolem-train-2675,Politikus Golkar Todung Presiden Peralatah DPR gebei Nyinggahagi BG:   Bambang Ngocak DPR tak sampek ngakan jeba... http://bit.ly/1vSfEuU,negative
+indolem-train-968,Charles Honoris : Indonesia kodus andik pengaruh e ASEAN  http://bit.ly/14FyWwp   jadwal padat dele tak sempat I... http://bit.ly/1vQMAEj,positive
+indolem-train-3350,"pajegena se maso`a korang lebur, rammi, tade` tisu,",negative
+indolem-train-195,"Kamar abak bherse, magghi bada pan-barampan topo abu tape ghi' cokop nyaman. Aeng anga', ac cellep, wifi ceppet, palako abak korang andhep, ngenep pan-barampan are, kodhuna bhan are eghante ghu'-ghangghu' otaba matabar andok anyar",positive
+indolem-train-374,"RT """"@RNJunior172: Karir raffi ahmad bhakal lebbi tengghi dari taon sebelunna *selebritasiyang trans7",positive
+indolem-test-654,"Pan-barampan oreng sukses sengka asakola, tape ta' sengka kaangghuy ajhar. Bannya' oreng asakola ghagghar polana ta' enda' ajhar, coma terro nyareya ijazah.",negative
+indolem-train-962,"kamarrah bherse, sarabhen nyaman, keng eman seprei lok anyar",positive
+indolem-test-458,"Setiah lok mandhih! RT @tribunnews: Ngadhepen Pilkada Serentak, PDIP Lok Manfaataghi Jokowi Effect Pole http://www.tribunnews.com/nasional/2015/02/21/hadapi-pilkada-serentak-pdip-tidak-lagi-manfaatkan-jokowi-effect/ ? via @tribunnews",negative
+indolem-validation-266,"kamarrah kotor ben sellak,andokkeh tipis ben abeuh aeng mani.jeddengngah banjir aeng abit se ngalir.engkok langsung cek out sang nyeling kondisi kamarrah.Pokokeng lok rekomended sarahhhhh.Nyesel kiah lok sesuai bik fotonah nipu sarahhh kapok rapah.",negative
+indolem-train-3280,Andok abesenna gheddhe' ben bede bercak-bercakka... ta` pote pole  ben bhit-sebbhit pengghirre. ,negative
+indolem-train-484,Molae kuliah Syahrini molae investasi Berlian  dhari @detikhot http://tinyurl.com/ndk3dht,positive
+indolem-train-774,Neng baliggha caretah Donor Dhara Karang Taruna Unit 010. Semangat ca-kancah !!!!!! @ Kantor Sekretariat? https://instagram.com/p/zqalRCDrWn/,positive
+indolem-train-1064,Anggota Komisi I Dewan Perwakilan Rakyat RI Meutya Hafid adukung langkanah Kementerian Luar Negeri narek dut... http://bit.ly/1LnkE1V,positive
+indolem-train-1443,"Du Mekkerra RT""""@VIVAnews: RT @VIVA_log: Tas Hermes Rp1,5 Miliar Dipakai eyangghuy Ghangan bi' Syahrini http://dlvr.it/8fs9jm",negative
+indolem-validation-31,"Saangken bhaktonah se sakolah,ujian,alakoh ayo lanjudaghin pole. Semagat ghi :)",positive
+indolem-train-33,Tenyatah neka rahasiannah sehat tanpa ngakan nase': Pola ngakan se e jhalaneh Lena kasebbhut sabendherrah ampon abit menj... http://bit.ly/1LUZrN7,positive
+indolem-test-915,"salah setong ajeran ngocak, nak kanak bik tas sekolah se berek bede resikonah sakit ngeloh e tengah bik Scosiolis.",negative
+indolem-train-1204,"#Lounge Todhus etemmoh mobilleh mogok, Adam Levine Langsong melleh mobil anyar! http://dlvr.it/8hkwgt  #Assadiqulhaq",negative
+indolem-train-848,"Hotellah berse, kakanan nyaman, pelayanannah andhap ban sae. coman badha 1 se kodhu e pebecce' atap bekkas bucor neng kamar eketarah kotor. Dwi Bidyawati, 16-17 Desember 2017",positive
+indolem-train-1887,agebei Video klip. Syahrini nganggui konsep Absurd http://dlvr.it/8frt2D,negative
+indolem-train-3448,sar kamarra. ac bhucor. pamanas aeng ta' aghuna. aeng kotor. jiddeng kotor kamar bau. sopre bada dhrisdhissan pejjhu,negative
+indolem-train-309,Engko' bhakal pagghun ncinta kake ? 50 Taon Pole (bhareng. Raffi Ahmad) bi' Yuni Shara ? https://path.com/p/1OSK72,positive
+indolem-test-848,[Korupsi info] PDIP nyebbut bede Kriminalisasi Megawati  - Indopos http://bit.ly/1LlJkrD,negative
+indolem-train-88,Laghu duet sepaleng-A+ sarah dhari teh Rossa (amargha duet sareng Afgan) :'D >Panampelan - Rossa sareng Afgan - Panjennengngan se edhente': http://youtu.be/L4SEVuJK_eg,positive
+indolem-train-1229,"Bagina andi' pacar raddhin ??? ? Enga' rowa? by Syahrini (bhareng Fitria, Kaneka Putri, ban 2 laenna) ? https://path.com/p/47C75r",negative
+indolem-train-3590,"tak usah ngakan jerok, nanas, anggur, & berries, e lem malem. kecutah bisah gebei masalah ka kesehatanah empedu.",negative
+indolem-validation-107,"Kaimmah bein #Pisces meyos otaba jhau dhari reng oreng se aneka sayang, atennah bhakal tettep ban lok bhakal apinda ka laen ateh.",positive
+indolem-validation-9,"Nengale konser afgan neng trans7 daddhi enga' masa kepo nengale afgan neng tiara sampek nengkong"""" sareng pika? (sareng Bagus) ? https://path.com/p/1CAPd6 ",positive
+indolem-test-904,"Pemandangan bhagus Kabherseyan korang, jeddeng beuh laseng",negative
+indolem-validation-371,"Ta' pada bi' ghambhar ban ropa e foto, sakabbhina fasilitas la towa, wc kotor.",negative
+indolem-train-1635,tadek se eberik alatah mandih ( kajebeh anduk bedeh). tak e begi aing mineral kiyah.. tadek wifinah .. laenah begus lah,negative
+indolem-test-287,"Mon cowo' se kake katwrri reya se senneng ngajhak lan-jhalan nompa' montor pas ka mall ban cafe, terros? http://instagram.com/p/zWs6FElP5X/",positive
+indolem-train-1542,"kadhaddian bile ba`na rennung laci otabe lemari kalambhi, pekker kalambhi apa se eangghuye lagghuna pekker macem proyekka 60 juta. berra`na. mabuddhu.",negative
+indolem-train-2311,sekabbhinah becce' tapeh kamar semmoh abeuh ben neng lemareh bedeh kecoa mateh,negative
+indolem-train-2535,Wifina jhuba'. La madhul. Tape ta' epateppa',negative
+indolem-train-2680,Hotel ta'omes bannya' bilis,negative
+indolem-train-3370,"jheddingngah lok ro'om, sobung aeng panassah neng shower. Awwallah ac nah korang cellep",negative
+indolem-train-1551,Sapok se lebi tebel lembuk ben bherse. Ben parloh bed cover. Pelayanannah korang beccek,negative
+indolem-train-2436,Kamarrah sellak ben engap. unik lakar desainnah..mon luas dhiddhik agghik bhein pasteh genteng. ben ventilasi/ blwer..jiah parloh sarah. posisi ac parloh e ghenteh.,negative
+indolem-test-722,kennengan se becce' keng wifi ghik rosak e bektoh ngenep,negative
+indolem-train-593,jek esesali se la nyinggeh. jek tangisagi se la tadek. tapeh majulah bik bina poleh apa se lah tadek bik anyenggeh.,positive
+indolem-train-3029,wifi tade` ben labeng jedding ta` bisa e konci...,negative
+indolem-train-2069,Berkesan polanah ka mand-dimman semma' tapeh se aghebey sengko' kecewa kamarrah cebbeh,negative
+indolem-train-950,Male sampeyan oneng Afgan taon neka bhakal daddhi juri tettep XFactor Indonesia otomatis daddhi mentor pesertannah jughan. Nah sapah dhari kalian se norok'ah XFactor? ??,positive
+indolem-test-992,ben idk mun engko` loka otabe kecewa pole mare riya polana engko` pajhet la asadiye ben situasi nga`ruwa. embina la biasa oreng dateng ben elang.,negative
+indolem-train-3345,"tade` wifi e kamar lampu e kamar petteng, wat kene` kamar kennenganna paling konco` Wc gheddhe`, sompet tade` aeng panas banyaa` fasilitas e wc ta` afungsi andok gheddhe` ce` jhube`na",negative
+indolem-train-1772,"Kamar korang bhagus pola polanah bangunan lambenah,jeddeng lok bherse labeng jeddeng jasul sarah,aeng kran tes-tesen teros,korang bherse yeh..",negative
+indolem-train-3405,lebbi benyak montor se e kecok e tanggel 1 januari . [statistik derih Biro Kejahatan Asuransi Nasional As],negative
+indolem-train-3127,adek kakanan kennek yeh,negative
+indolem-train-3067,"semmoh kecewa amargha salah aberri'kamar, sobung nuan kamar Airyroom sama sekaleh. Laen pole jha'akadhi dha'neka pole ghi",negative
+indolem-train-1241,"jedding bau, tade' babuna",negative
+indolem-test-118,"Berri' oreng jhuko', maka rowa bhakal ngakan kaanghuy saare.. Ajhari oreng rowa manceng maka rowa bhakal ngakan saomur odi'en.. (Lao Tzu)",positive
+indolem-train-2685,SInyal hp jhubek. wifi kiah terbetes,negative
+indolem-test-750,Pelayanan korang gheteh,negative
+indolem-test-43,"#Jokowi #PDIP Ngadhepbhi Pilkada Sarampak, PDIP LabTa' Amanfaataghi Jokowi Efek - Tribun Lampung http://bit.ly/1LpxM8A  @PDI_Perjuangan",positive
+indolem-test-554,"Ngehek, sonarra bhai ngangghuy lestrek """"@despar54: Tasmak Futuristik Syahrini Ngatela' Oreng Transparan http://m.detik.com/hot/readfoto/2 ? @Gombez_875 @KodratArief",negative
+indolem-train-3359,"pengalaman hotel jhube', labenga hotel jhube', AC towah Korang afungsi, areh pertama ta' sediaaghi salemot, salemot kotor, sprei Ben tempat tedhung kotor, tempat tedhung Benni spring bed, ventilasi WC jhube', deddih beuh, lantai kajuh, tv keni' Abit ta' Taurus, pelayanan ta' memuaskan, hotel airy paling jhube' se pernah badha.",negative
+indolem-train-10,"#SoloAcaca Aghabay Video ? Enga' jiya? e Kennengngan Panas, Syahrini Kobassa http://bit.ly/1LoBnnw",positive
+indolem-train-152,"Subhanalloh, ghik bhuruh ngeding nyanyi bhein suaranah Afgan le ngebey grimeng, deemmah mon Afgan adzan ben ngajhih yeh? >> http://youtu.be/GcYHv5K5MrE  ",positive
+indolem-test-521,#JombloJiahBhunga - jeringan hp-nah hedeh ampo lemot njek ?,negative
+indolem-validation-42,"caen ollenah penelitian e USA, metepok deih selam 30 detik bisa ngurangih pengetero ka angkui ngakan.",positive
+indolem-train-3442,2 Kantor Dinas Pemerenta Provinsi riyah Ngibaraghi Bendera Mera Pote Rosak http://dlvr.it/8g7sWS,negative
+indolem-train-1155,Ane bin ajaib :) >> PDIP E Nilai Ane mon Neremah Badrodin Kapolri http://bit.ly/1B0gBaC  ||@PintarPolitik,negative
+indolem-train-2741,"beberempah fasilitas kamar molaen rosak polanah omor, cat ambung ngebey kesan kotor. lingkungan hotel (lorong, lobby, lift) kiah korang bherse. lokasi strategis, ghempang e akses, semma' kennengan ngakan",negative
+indolem-train-1304,"kamar bannya' abu,  fasilitas aeng panas e tingkat 3 tada', telpon keya tada'.. tape palakona andhep sara..",negative
+indolem-train-71,"secara sekabbhinah le bhagus, kamar bhagus ben bherse, pelayanan kiah muasaghi, se parloh e pabecce' fasilitas aeng panas polanah jeddeng se engkok kennengin lok afungseh sedeemmah mestenah. sekelangkong airy room.",positive
+indolem-train-2430,mik pola SBY meancor Demokrat kalaben Nazaruddin ? @ TPK_RI sby meancor Demokrat kalaben ,negative
+indolem-test-234,rancangan gember montor balap genteng- Yellow Lamborghini Aventador LP720 4 50 Anniversario http://goo.gl/12VGsg ,positive
+indolem-train-2766,"Engko' se talalu ceppet motos kaangghuy nyenggha, apa kake se lemet sadarra. Tape, da'remma bhai kita ta' bisa pole narek olor bakto",negative
+indolem-train-2544,"Ghebey kultwit se ke-5 riyah engkok berrik judul: """"Bhender Njek Jhek Hatta Mimpin, PAN Selalu neng Bebenah Yang-bayang Partai Demokrat""""? cc @tjatursaptoedy",negative
+indolem-train-2122,"saomorrah odik, nak kanak lakek riyah nyetir montor gun ngangguy sokoh! http://bit.ly/1Lm1BoD",negative
+indolem-test-129,[Politik] Yorrys Himbau Elemen Golkar Bisa Tegas bi` Netral http://www.jitunews.com/read/9858/yorrys-himbau-elemen-golkar-bisa-tegas-dan-netral ? #beritajitu,positive
+indolem-train-881,Sala settong cara ghabay ngehibur badhan dhari rutinitas kantor engghi ka'dhinto Lan-jhalan http://kom.ps/AFnWQt,positive
+indolem-test-747,"Jokowi meleh Badrodin, PDIP, ben PKS esebbhut bhakal ajegal - http://Tempo.co  http://bit.ly/19P54jX",negative
+indolem-train-3564,"mantep riya, sayang wifi sinyalla Korang bhagus dalem kamar, masena polana kamarra engko' e lantai 3, mun dari ade' kamar ye bhagus sinyalla. ",negative
+indolem-train-2559,"badha korangngah badha lebbhinnah... korangngah pelayanannah lemmet, bedcoverrah badha tik-titik noda/lok berse, e jhanjiin bhakal e aterraghin jhajan tape sampe' checkout sobung. kalebbhiannah sarabhannah nyaman, fasilitiassah lengkap.",negative
+indolem-validation-312,semmoh crokong wc nah ban spreinnah lok berse,negative
+indolem-train-405,"Mon ca'en mored se misem leber bhektoh e foto buku taonan Sakolah, cenderung lebbi sukses delem karir ben pernikahan e masa se bhekal deteng.",positive
+indolem-train-2930,"#RadjaInfo Tero Agebey Rammeh, Syahrini agebey Klip se akonsep Tak Jelas http://goo.gl/fb/qOir6d",negative
+indolem-train-2486,"jedding gheddhe`, pas nginep 3are2 malem pera` 1 e bherse`e, kamar gheddhe`, minta keset jedding abit, pera` 1x e berri` aeng pote",negative
+indolem-test-955,#Capricorn olle andhi' napso ngakan se ekstrim.,negative
+indolem-train-259,"Dhaddhi mun ca`na kanca kantor, engko` anakna ta` ghampang e pengaruhi. Dhaddhi oreng otabe keadaan ende` enga` beremma kiya engko` pagghun ta` areken.",positive
+indolem-train-1396,"@yunuartowijaya: Ouwwww... *ngejjhit* """"@kompascom: Demokrat Protes pempenan KPK Osolan SBY Lok Epele Jokowi http://kom.ps/AFploc """"""""wkwkwk",negative
+indolem-train-1258,tak padeh bik e fotonah sepreinah longset bik kedek,negative
+indolem-train-1971,"(grand deluxe lantai bebe) kamar luas, jeddeng luas (make beunah korang nyaman mon pertama e bukkak) aeng",negative
+indolem-train-2569,Mobil riyah Kala e soguk Badak http://dlvr.it/8jTZbc,negative
+indolem-test-899,kamar bherse nyaman..tapeh korang sesuai so se etaberaghi fasilitasseh..ac mateh..wifi ta' bisah nyambhung..ben kamarrah terlalu cope'..,negative
+indolem-train-2145,kennengan nyaman keng chanel tv lok ghennak mon ghennak bhagus nyaman sekalen keng bedeh 4 chanel se bedeh,negative
+indolem-train-3483,"Bang, melleh kondom blekberi | Terro se rassah apah? | Njir!! Ghebey HP banggg | Ohh seporanah lok fokus.. Tang bineh le abit neng kampong polanah | -__-",negative
+indolem-train-2133,bennya' rengngi' ben kamar beuh apek tadek wifi e ruangan lantai 2,negative
+indolem-validation-1,Lagghuh @raffiAhmadLagi @Lady6igi jumat beroka ghebey kita kabbhi,positive
+indolem-train-2737,"kamar kotor, jiddeng kotor, aeng kene' panempatdhan jiddeng ta' patot",negative
+indolem-train-3633,"ac ta' cellep,  bangunan kona, onggha kabtingkat 3 kalaban andha, tada' Wifi,  paladhinan dari para palako hotel se korang poko', kualitas kabherseyan korang,  ta' enga' biyasan kualitas hotel airy laen na, nyo'on standard hotel airy room lebbi e tingkataghi pole, sakalangkong ",negative
+indolem-train-869,dompet dhuafa Sulsel agi-bagi pakakas sakolah http://bit.ly/1wis6Kj  @DDsulsel,positive
+indolem-train-3108,inisiatif gebei afasilitasin aing aqua ben perlengkapan ben pegrempean gik korang. cek lebbi begusah mon eberrik tampa epentah.,negative
+indolem-train-3088,"pelayanannah bagus tape fasilitassah Lok nyaman, AC Korang cellep, tv chanellah terbatas, jeddhing ban kamar kotor, bannyak rengnge ' tedhung lok nyaman",negative
+indolem-train-1376,iye lah ta` bhusen ra pera` kamar sompek tade` ventilasi otabe pengap,negative
+indolem-test-582,"Kakanan ta' nyaman, jiddeng kotor, tada' lift onggha dhak-ondhak kantos tingkat 3, bannyak kokos roko' ban bhuceng roko'",negative
+indolem-train-529,"Ghabay sampeyanse ngalamen kadinapah indannah ngangguy hp jadul, Yok sejenak anostalgia! http://buff.ly/1DDcjbj",positive
+indolem-train-1379,bede karena tisu pelanggan sabellunna,negative
+indolem-train-1099,"kamarrah segghut e cek, soallah jeddhingngah kadhang mampet, badha kecoak, ban spre segghut e ghante ghiiii",negative
+indolem-train-121,"nengghu konser Afgan lambe' ahh ayok jeriya sennenganna engko' penyanyi lake'. Riya bhuru nyamana konser, laguna bannya` ben terkenal pole.... Ayyee!",positive
+indolem-validation-207,Mon wifi lakar adek.. Jhek e ghebey bedeh.. Lt 4 ribut.. Pola bedeh keluarga otabeh apah lah.. Kamar rajeh..,negative
+indolem-train-3008,#faktasohabat neka tokang ngenjemin hp manabi kita sobung pulsannah,negative
+indolem-train-3629,"sompa ya ta' enda' pole ngenap edinna', paladhinan ta' andhep ban kabherseyanna korang eparatene...",negative
+indolem-test-704,"ghabay pertama kale kaula ngenep e dhinto sareng kaluarga, pangororssah a dhabu, manabi nak kanak kennek kenneng charge? ANAPAH?? alasannah tak logis! kaula lok terro abelih ka hotel neka pole. sobung tong sampah neng kamar otabha neng jeddhing. nilai plussah fasilitas akadhi dispenser microwave. Kolkas bisa e ghunaaghin asal e arapiaghin pole. sakabinnah jhube'. lok rekomendasi",negative
+indolem-train-1816,"Badha jughan kanca careta manabi neka kodhu ngerem doto bukte lokasi e ma'dimma'ah neka meyos, e kantor, meeting, sampe' neng roma!",negative
+indolem-train-197,Fadel: Mahkamah Partai Golkar Kodhu Netral ben Jhujhur http://dlvr.it/8l9pRk ,positive
+indolem-validation-181,Nyennengen. Keng bhein jeddeng otamanah wcnah flash'eh rosak ben semmoh kotor dheddih ongghuen lok bisa e angghuy. Bedeh deposit 50k make degghik e pabelih.,negative
+indolem-train-2011,bhagus. pera' bhai ghebey aeng panassa korang. polana gi' arassa celleeeeeep oy.. ghebey kennengan tedung ye bhagus ben nyaman.,negative
+indolem-test-655,lolong pebegus poleh kebersenah papoleh e sepreinah bi andukah,negative
+indolem-train-598,Ngakan siang seghilokeng kol 3 sore bisa abhentoh hedeh noronaghi berrek bhedhen e bandingin bik ngakan siang marenah lebet kol 3.,positive
+indolem-train-260,Bahagia Terros ghebey ba' kabbhi {} ? ? @RaffiAhmadLagi @Lady6igi  @ruben_onsu @sarwendah29,positive
+indolem-train-2583,"Telat bhajeren Sakolaan, kalimat sakte neka se biasannah e angghuy para mored http://mlsbgt.de/1vqFdZm",negative
+indolem-train-2475,Lumayan recommended . Tapeh bhen areh lok e berrik enoman bik kakanan enteng. Keng 1x tok pas,negative
+indolem-train-1150,"pendhanan la,tape jiddeng korang bherse ",negative
+indolem-train-25,Temmo Fans e Molang Taon Raffi Ahmad - Nagita Slavina http://www.youtube.com/watch?v=EBmcbwBvbNg&sns=tw ? ? via @youtube,positive
+indolem-train-2645,kamar lok berse,negative
+indolem-train-2934,"Ghik istirahat, kamar dhibannah e bukka' ngangghuy acces sareng patugasseh hotel, bi' alasannah sala ngecek kamar, Dhaddhinnah privasi kaula terganggu. Saharussah manabi lakar ngecek kamar harussah badha SOP nah otaba badha daftar list kamar se lastare aesse, daddhi tak amaen masok kamar kalaban sobung atoktok labhang ghelluh. Ce' kecewannah ban lo profesional sekaleh nanganaghinnah.",negative
+indolem-train-1764,"lantai kamarrah a Paser, sprei kotor Lok e ghante, lantai jhedding ngah bannyak obhu'eng, shower closet Lok odhik.",negative
+indolem-train-2836,"kamar beuh, perabut la tuwah sarah",negative
+indolem-train-1674,"oke bein lah, wifi nah sobhung",negative
+indolem-train-2387,"ce' ce' ngacewaaghi, kamar se bau etambe ben fasilitas tv se jhube' ben jedding se jhabbha",negative
+indolem-train-1286,engkok reh apah seh keng bisa a selfie mon hp nah teppa' seppeh????,negative
+indolem-train-512,Tips Sehat Ngakan cepat Saji Sareng Carah Sehat #JktHealth http://ow.ly/JFHo2,positive
+indolem-test-937,Adegan dek peddeken montor gebei 'spectre'. Daniel Craig Cedera begen cetak http://tinyurl.com/ohxfdnq,negative
+indolem-train-2941,"Lampu meng-remeng, jeddhing kotor, nginep 10 areh tapeh ghun Ebherri' peralatan Mandhi sakalean beih e bhekto masok",negative
+indolem-train-1663,"cokop ghebey anggaran kenne'.. tape acarana kadhang ta' sejuk, dhaddi korang nyaman bakto istirahatta. kaso'on ",negative
+indolem-train-308,ma`le jeriya tao iye sateya engko` jatuh cinta ! ? Pesan Cinta dari Afgan ? https://path.com/p/2uk74d,positive
+indolem-train-1027,pesbukers 18 juli 2014 :kabersamaan raffi ahmad ban bella cie cie pesbu...: http://youtu.be/rd1yxjiy5h0  lewat @YouTube,positive
+indolem-train-2432,"Tas hermes RP 1,5 Miliar egibeh abelenjeh kolopan bik Syahrini http://dlvr.it/8fstRf  #viva",negative
+indolem-train-3591,"Mon kita lok toman taoh kita mangkattah dek kammah, maka kita ampo terjebak neng jhelen se sala. #LSS",negative
+indolem-train-2566,"Ondur Been Mabuk...!RT """"@detikcom: Jadwallah ramme dele tak sempat ngasho,  http://tinyurl.com/mt6kng2  via @detikhot",negative
+indolem-test-573,"Jeddingngah korang berse, kamar lok pateh nyaman",negative
+indolem-train-695,"Kamar berse, AC cellep , keng orongah bental +sprei tak berse , gik bede nodanah , deddi korang nyaman , mentah se anyar keng pagun bede nodannah",positive
+indolem-test-640,Dha'nekah bein teros sampe Syahrini dhaddi reng bine' biasa RT @dedysatriono: dhabuan tadha' akherrah https://twitter.com/H_NinaJKT48/status/569033429062262784 ?,negative
+indolem-train-1698,#berita Siswi SD e pekanbaru e perkosa om-om e babah tangga sakola http://dlvr.it/8kd7Ym  #Assadiqulhaq,negative
+indolem-train-3532,"Kamarrah ro'om karb se ce' nyenga'en, sengko' curiga freon se bhucor. Tolong perhatiagi sopajeh ta' sampe' karaconan. Sakalangkong#101",negative
+indolem-train-181,Partai Demokrat: Potosan Jokowi Soal Kesruh KPK ben Polri berri' kepasteyan http://bit.ly/1vKaocZ  #politik,positive
+indolem-train-1113,"Kamar nyaman, kolam rennang oke. tapeh jhedding nyo'on eberrik pero'om/kamper.",negative
+indolem-test-578,"ladhinanna korang, paladhinanna korang ceppet nyangghem,",negative
+indolem-train-1339,"bagus, keng beunah aingngah korang adukung pas mandih engak aing pecarren",negative
+indolem-train-3101,"Anekah pengalaman PALENG JHUBEK kaula ngenep e hotel, fasilitas se e berri' sakabbinnah JHUBEK, Molae dhari bhantal, jeddhing ban sprei se kotor, Sofa se bannyak bilissah, Ac se tak a fungsi, Lomare se rosak, TV se lok olle sinyal sampe' wasthtafel se akadhi roma makan ! Aneka se paleng jhubek,  ban lok sasoai sareng harabbhan.",negative
+indolem-validation-167,"ra-gara terro klambih kadhi; raffi ahmad, ter-moter toko sampe' gempor danangplenthis #telatngepost#kengabegi http://instagram.com/p/zTpWswwmpn/",negative
+indolem-train-2194,tempatta nyaman pera' e AC na bhai Korang cellep,negative
+indolem-train-1626,"kamar bhau, shower lok sae. pertama kaleh kulah ngenep e dissah. soasanannah kamar nyaman. tapeh pas ghabay kadukalennah ngenep e dissah soasanannah kamar lok nyaman. apah pola amargha kulah ngalak sareng potongan diskon mangkannah kulah olle kamar se lok sae",negative
+indolem-train-1008,#Football Demokrat anilai potosan presiden aberri' kapasteyan http://dlvr.it/8dTQsF  #Assadiqulhaq,positive
+indolem-train-400,"suasananah mebunga, jeddingah bek geddek.. Lobengah showerah bek sompet, pelayananah begus… e paddunah lorong , bede jendela se bullong tadek kacannah.. Deddi tang anak parak la se aterjun bebas… polannah olle kamarrah pas e padduh.. Kasorah berse, ac lumayan cellepbede kolam renang berse, lokasinah gempang e jangkau, regganah begus,,",positive
+indolem-train-3153,Bannyak mitos se ghabay sala kapra. Salah settongngah se ngocak suka Batak dhujen ngakan oreng http://mlsbgt.de/1ArGO1d,negative
+indolem-train-3595,Lambe' Sisil perna sala ngangguy seragam sakolanah e areh senin polanah telat ben ebektoh jiyah Mala ngangguy kalambih seragam pramuka.,negative
+indolem-train-2797,"njek sarah,kamarrah bennyak beng-sabeng ngeres-nges,lampu jeddeng mateh,jeddeng lok bherse cek saranah",negative
+indolem-train-496,"Ghun 25 ebuh Hp nah ba'an kabbhi bisa genteng dha'yeh. Yuk pessen garskin nah, ghemberreh bisah sesuai permintaan",positive
+indolem-train-1502,"Ce' kecewannah !!!! .... Resepsionis mok-ngamok ka oreng seppo, lok sopan ngajelasaghinnah, service room sobhung, Roangan BHAU, Maksah mejer lebbhi ghabay pinda roangan. KACEWA ... !!!!",negative
+indolem-train-831,Bhunga ajiah pas bisa ngakan bik keluarga deri hasel pellonah dhibik.. alhamdulillah ya Allah,positive
+indolem-test-284,Cita-citana Raffi Ahmad Dari Kene' - http://KasaKusuK.com  http://shar.es/1WfAgg  via @sharethis,positive
+indolem-test-87,#AntaraNews Demokrat anilai keputusen presiden merrik kepastean: Sekretaris Fraksi Partai Demokrat neng DPR RI e Ajherin... http://bit.ly/1Lh2z7p,positive
+indolem-train-2828,"Aengngah kennek ban sprei lok eghante, ghi' badha noda bekkas tamoy sabelunnah",negative
+indolem-train-2933,"Mun bede mantan se mu-temmu bhagus ka ba'na, atanyalah, """"la nyingla ma' abeli? bede se ende' ekala', mare ruwa nyingla pole?",negative
+indolem-validation-253,"kamarra sella`, tade` aeng nginum ben camilan khassa airy, bhantal airy ya tade`. pajagana korang lebur. jheuh bhidhe bi` kennengan airy se regghena e babah riya.",negative
+indolem-train-3104,la begus... gun ac korang cellep.,negative
+indolem-test-690,"Osolan SBY ta' epele Jokowi, Demokrat ta'tarema http://ow.ly/JlTmg",negative
+indolem-train-225,"Jhek Kebeter Lempo Polanah Bennyak Ngakan, Ariyah Informasinah #JktHealth http://ow.ly/JCERY ",positive
+indolem-train-555,PDIP Pede Ta` Angghuy Efek Jokowi e Pilkada Serentak http://bit.ly/19PXNk5  @PintarPolitik,positive
+indolem-train-247,TIPS SEDERHANA NGANGGHUY HP SE BHENDER (GHEBEY PANGLAKO UKM)   | dari @PartaiSocmed endi`.. http://chirpstory.com/li/253129,positive
+indolem-train-100,Beban Golkar Setiah Lebi Dhemmang E Bhandhing Awal Reformasi http://goo.gl/YIx6zX,positive
+indolem-train-1224,6 montor terlibat tabra`an aronton e sitinjau tase` http://dlvr.it/8lGPzK,negative
+indolem-test-874,"Berliannah Opick Ta' Pajuh, Kalambinah Melly Tebbhus Rp 20 jt http://bit.ly/1vZjvXp",negative
+indolem-train-3621,"kamarra bhaghus, rapi, nyaman , AC na bhai se korang alus sowarana, maso paladhinan korang makobassa. ban, mon nyeggha rowa kodhu messen se epenta, apa kodhu la esadiyaaghi ya? ",negative
+indolem-test-837,kamarah beuh tak nyaman benareh.,negative
+indolem-train-2296,#Golkar #ARB BNN sita dua' kilogram sabu dhari Malaysia http://bit.ly/1LlnbeP,negative
+indolem-train-556,Mentah e cie-en ongghu mon riyah. Cie RT @SuaraGolkar: Langkah PRO RAKYAT GOLKAR neng Pemerentaan Jokowi-JK sampe setiah.,positive
+indolem-train-1580,"Bhantalla bau jhail, kamarra bhidha kalaban se e foto, jhauna maso bandara lakar semma', tape akses",negative
+indolem-train-3158,untuk kamar....lumayan bhegus. ghun pelayanan se korang bhegus. ka tamoy korang ramah. samoge'eh... kaade'en sajhen bhegus,negative
+indolem-validation-288,kamar bau apek,negative
+indolem-train-2595,"pas taon 1920-an, ba'na e larang ngakan jhaghung kembang e bioskop polana ce' engerra.",negative
+indolem-train-469,Malem mingguwan e kantor ya.. #antidapada (bhareng Dita bi' Agung e Kantor 8) ? https://path.com/p/2c6Nfp,positive
+indolem-validation-197,Paladhinan pa lebbi bhaghus pole,negative
+indolem-test-21,"Lokasi semma' tapsiun Solo balapan, kamar bherse& ro'om, coma jiddeng e 311 bada bau korang nyaman, bhidha kalaban hotel laen edinna' bada ghu'-ghangghu' pamokka' bhagus, argha pendhanan sae. oddhi bada lift ya.",positive
+indolem-train-209,Demokrat Anilai Kapotosnah Jokowi Bherri' Kapastean Etenga Kisrunah KPK vs Polri http://dlvr.it/8dzbWm,positive
+indolem-test-562,internetteh lambat,negative
+indolem-train-724,Ngenom 2 gelas aeng pote seghilok'eng ngakan bisa mentoh hedeh noronaghi berrek bhedhen ben ngelaben obesitas.,positive
+indolem-train-2823,"JHEK MELE KAMAR E DINNAK Pelayanannah ngecewaaghi. Kami e ghighirin teppa'eng a-checkin-ah alasannah polanah nyamanah kami ghilok e update. kamar cek kotorrah & lok e bherseaghi. Bennya\ obu' neng wc. AC mateh, ben lok olle andok. CS Airy kiah lok ngemottin komplainannah kami. Kami sampe noles sorat pembaca dek koran ghebey properti den-bedenan kom riyah",negative
+indolem-train-205,"Sekolah juara ngajheraghi mored tata busana, Yudha mored SD Juara Pekanbaru setiah le bisa ajhei' kelambhinah dhibik",positive
+indolem-test-666,bhegus tapeh wifi ta' bisah e gunaaghi,negative
+indolem-train-2021,klambi kaula jhaman satiya lebbhi ketat daripada undang-undang jhalan rajha.,negative
+indolem-train-2878,"sobung wifi neng lantai 2,jeddhing sobung ghantongan anduk otaba klambi,sakabbinnah bhagus,ban recomended",negative
+indolem-train-3423,"AC NAH KORANG GRESSAH, KAMAR BHUCOR, PETUGASSEH KORANG SIGAP DELEM PELAYANAN,JEDDENG KORANG BHERSE",negative
+indolem-train-2772,bhuhla ende` nengghu tang abang malah epamare????? ? knock me out dari Afgan ? https://path.com/p/zkjvp,negative
+indolem-train-2452,"Hedeh ngolleen apah se hedeh bhejer. Argheh total ghebey 3 kamar 1 malem keng 324ebuen (ngangghuy promo airy) & neng daerah Kemang! Lokasi oke, semmak kemang. Kamar lumayan rajeh tapeh semmoh lok sesuai foto. Polanah bangunannah roma, okoran kamar dhe-bhidheh. Kolam renang oke. Adek aeng panas ghebey mandih ben Wifi nah lok ajhelen (padahal username bik kata sandinah bhender).",negative
+indolem-test-503,"Hotellah lok nyaman polanah rammeh. Para pegawai se lok penter deri tengnga malem sampe sobbhu awat-tuwat neng luar sambih mette' TV cek nyarengngah. Pegawai keng mekkeren kenyamanannya abek dhibik ben lok mekkeren tamoy se le tedung siang, apah pole",negative
+indolem-validation-317,"Jadwal Padet Sampe Lok Sempet Istirahat, Syahrini: Engkok Dheddhih Oreng Binek Udara: Sosok Syahrini bisa e kocak dheddih... http://bit.ly/1vQMNqQ ",negative
+indolem-train-1282,WiFi tade' kaso'on,negative
+indolem-train-3520,"sprei ben bhantal ghuling korang bherseh, kamarra nyaman ben tenang.",negative
+indolem-train-1756,21. Abherri' manuver-manuver politik SBY e araaghi ka Anas kalaben carah malema'aghi posisinah sebagai Ketua Umum Partai Demokrat.,negative
+indolem-train-3234,sprei ben bed coverrah cora'en parloh ghenteh polanah la jellingnah ambung.,negative
+indolem-validation-238,korang bherse bhein,negative
+indolem-train-1302,"Baghus nyaman,  sayang bhakto kaula ngenep jheddingngah bhau sarah,  gemogha lebbhi baghus pole ka'adhe'eng, Nyaranneh sarah",negative
+indolem-train-2909,"Kamar geressah soap, addmill ta' sesuai",negative
+indolem-train-928,@wow_keren: Raffi Ahmad-Nagita Slavina ollet Kado Umroh sareng Liburan ka London http://ow.ly/2ULvEU,positive
+indolem-train-1213,pelayanan airynah korang...teppa'eng depa' pengatorannah benne pengatoran airy...ghik pengatoran hotel biasa.,negative
+indolem-train-1722,"sobung wifi , tv lok bisa odhi' amargha  kabel antenannah epapegghe', ac nah se cellep din",negative
+indolem-test-151,"nyaman, mode,bherseh,,, kabbhianna la bhagus,camilan,aeng nginum,tv,aeng panas,ac,pakakas mandi. kare ac se korang cellep.  ",positive
+indolem-train-3499,selama ngangghuy airy rooms neka airy se paleng ngacewaaghin 1. WiFi Lok connect dha'kamar 2. labhang jeddhingngah Lok bisa e totop manabi Lok e konci dhari dhalem 3. AC netes tok/bucor 4. shower kodhu e tegghu' Lok bisa e sabe' e kennengngah 5 NEKA se sarah LISTRIK KAMAR MATEH amargha sobung pulsa listrik kah tape responnah Korang tangghal neh sobung inisiatif ceppet,negative
+indolem-test-744,"aengnga kene` dhaddhi sossah atolowa.., AC na kiya kene` ben ta` bisa e aotr dhaddhi kapanasan tedung nga..",negative
+indolem-test-869,"Bulen adek, duek oreng kancah neng kantor atualangah neng kennengan laen. Suatu bektoh lakar bede'eh perpisahan. Mangkanah jhek sia-siaaghi teppak bhereng.",negative
+indolem-train-2049,"kamar bau,gheddhe`,ac ta` cellep",negative
+indolem-train-840,"Neng Perancis, asepedaan neng kantor bhakal olle bajaran per kilometrrah (25 sen uoro otaba sakitar Rp 4000)",positive
+indolem-train-410,"Gellek kaula asassa rasoghannah nekaa ...hihihii ,abdina tresna ngaghem rasoghan nekaa !! du ma ce' lucunnah ?? Senneng jughan apangghi panjenngengaan sadhaja?",positive
+indolem-validation-182,sepreinnah bhau kemme.. kolam rennangngah kotor..,negative
+indolem-train-666,"Sembeh Ar rahman, tebaaaghi slam, ben berrik ngakan oreng lainah, maka been kabbi bekal masok suargeh."""" (HR Tirmidzi)",positive
+indolem-test-513,"Labhang jheddingngah lok bisa e totop, jhedding bhau seloghen e berri' kapor barus, Panerangngah",negative
+indolem-train-1322,"kecewa kennengan kotorrr, sobhung aeng panassah, shower lok aghuna, kennengah tedung ban spreinnah kotor, tv ban ac bucor ban sobhung remottah, kulkas mateh lok aghuna, sarabhan lagghu lok eberrik, sadhajannah lok sasoai sareng se etabarraghin....lok puasss",negative
+indolem-test-683,"AC lok cellep, lok bisa ngobe kamar pole ban parkerannah sepittah cokop 5 montor. cokop saekaleh dha' kannak lah",negative
+indolem-test-14,Syahrini Ngangghuy Bhatek ka Kantor Tribun Timur Makassar http://bit.ly/1LFbeRf,positive
+indolem-train-2807,"09.14: RT @SimoBoyksSinaga: Demonstrasi Nelayan e kantor KKP, jhalan e ade' etotop, moter e ade' kedutaan AS",negative
+indolem-train-3056,"Areh terakhir ngenep semmoh kecewaaghi , aeng kotor semmoh celleng neng areh minggu",negative
+indolem-train-2332,16.27: RT @araputrasikumb1: Daan mogot bengket jkt-tanggerang macet meloloh ragara pedegeng se ngakan benyak lebereh jln,negative
+indolem-train-976,"pelayanan ce' bhagussah, sakabbinnah Patugas ce' andhap ah, pamandangan bhagus, kamar nyaman, badha cemellan ban aeng enom dhalem kamar, manabi butoh aeng panas e teko bisa menta Patugas Bein. arghannah mode. menu sarabhan lomayan bannyak. bhakto check in 15 menit, ban bhakto masok kamar, lantai ghi' becca amargha Lastareh e pel ban ghi' a bhau sarah pangro'ommah nyengnga'.",positive
+indolem-test-31,ariya abe' infoaghi lema' cara biasa ngesse'e batre telpon ta' angghuy charger se bisa ba'na lakone ta' usah sossah... http://fb.me/1S7JJQ1Yo,positive
+indolem-train-1288,"Kaangghuy kamar sabhenderra bhagus , namong kabherseyan korang. Enga' sopre sapo' barnana ambung ban kotor (enga'ta'eghante)",negative
+indolem-train-3338,"amargha olle kamar se kotor , lok berse...lok sesuai bik se neng e foto...kran aeng bucor...E bhakto sarabhan neng are ka 2 pelayannah jutek ban lok ramah sekaleh makeh kita nyo'on tolong gabhay messen aeng panas ghabay termos susu, malah e tolak pesenannah neka",negative
+indolem-train-2384,"andok abau, kakanan tellat ban ta' enga' standar airy enga' biasana. palako ce' ta' andhepbha",negative
+indolem-train-718,#Golkar #ARB Kunjungan wisatawan asing ka Bhelih ongghe http://bit.ly/18abNEB,positive
+indolem-test-968,"wifi korang tandes, lok olle jhajhan sareng parlengkabhan mandih, sobung aeng panassah. laennah oke",negative
+indolem-train-2279,"tak bisah nyongok tv polanah tadek signal, sepreinah ketek tak egenteh gik bedeh gedeken,keng kebih cokop nyaman mon keabiten e daerahnah setiabudi",negative
+indolem-test-332,"@hilfhunting: """"@JilbabX: ghanteng RT @ani_chank """"kadinapah lok coli neng kantor manabi se tojhuk neng seddhi'eng kadhik neka",negative
+indolem-train-2824,"Tas Hermes Rp1,5 Miliar E Angghuy Abelenjheh Sayur bik Syahrini http://dlvr.it/8fsgV0  #openFollow",negative
+indolem-train-2562,#vuva VIDEO: Muwanah Ayu Mera E Sindir soal Shaheer: Ayu ngejhit bik sindirennah Raffi Ahmad. http://bit.ly/187RFmE,negative
+indolem-train-132,"addoh afgan a nyanyi na :D ""konserafgan ? Sadis dari Afgan ? https://path.com/p/30aI5c",positive
+indolem-test-353,"remot tv tada' batrena,aeng panas rosak,kamar kotor, tada' sekkosek ,car-kalacer . la follow up ka Deva airy tada' balessan pole",negative
+indolem-train-1436,AC lok cellep sama sekaleh sampe engkok akhirreh mutusaghi ghebey check-out. kasorreh cek bennyak'eng pasirreh ben ngres-nges ghebey tedung. aengngah abeuh kom aeng tasek.,negative
+indolem-train-2621,"#BeritaAnyar: Aneh, arapah Menkumham Standar Ganda Pengesahan Pengurus PPP ben Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-2935,"Shower aeng panas ade', kamarah kotor Ben beih amis.",negative
+indolem-validation-134,"kamarrah tak sesuai ben se etampilaghi, acnah tak pate cellep",negative
+indolem-test-958,Kadukalennah ngoladhin film neka ban kadukalennah kaulah birnye.. My idiot brother ???? ? Untukmu Aku Bertahan dhari Afgan ? https://path.com/p/429oIB,negative
+indolem-train-1471,"2 kale pindah kamar, kamar pertama toilet ta' bisa eghunaaghi polana wc na bhucor, kamar kedua AC ta' cellep pas pindah ka kamar ketiga awalla toilet ta' kaluwar aeng ben kodhu dentek 2 jham bhuru kaluwar aeng.",negative
+indolem-test-264,Hai halo kabbhi ? Sakalangkong kaangghuy are reya senneng la :3 Lagghu' engko' acareta e g+ ya hehe ghella' engko' ngangghuy kalambhi reya ^^,positive
+indolem-test-551,"nyamannah kiyah politik """"@kompascom:""""Mon PDIP tay nyantai, artenah bede kesepakatan e belikkah Badruddin e tunjuk deddi Kapolri""""http://kom.ps/AFqKLU",negative
+indolem-train-3500,"#BeritaAnyar: Aneh, anapah Menkumham Standart Ganada Pangessahan Pangoror PPP ban Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-3596,"#Beritamusik samarenah Ngangguy Berlian 5 M, Satiyah Syahrini Adenden ta' Nyambhung http://bit.ly/1AYQDpv",negative
+indolem-train-1445,"salemot eh beuh, ac nah amunyih, Ben saluren jedhhingah mungkin sompet polanah beuh laseng",negative
+indolem-train-1834,Ac Rosak panas ....wc rosak....,negative
+indolem-test-990,"andok ta' esadiyaaghi e kamar, kodhu e penta ghellu. wifi ta' depa' ka dalem kamar, paleng polana kamarra e paddhu. siaran TV kiya ta' bhagus ben bannya' bilis, saongghuna saran ngangghuy tv kabel.",negative
+indolem-train-21,RT @DeyanaldhamR: ajhar e alam ruwa bisa masoghi pengetahuan se ta' abe' olle dari bangku sakolah..,positive
+indolem-test-454,salemot tebel la beu,negative
+indolem-train-2771,"kamar se kaolle kami ta' sesuai so se badha e Airy. E Airy etoles Deluxe, ding la depa' hotel, kami olle kamar se Superior. Untuk kabhersean kamar, lumayan lah,tapeh mon jeddhing e bebenah wastafel bennya'  jamur, jeddhing deddih beuh apek.",negative
+indolem-test-117,"kamar nyaman, possa` ac, tv odi` maseh tade` kabbhi chanel, jedding bherseh, pelayanan lebur, delat bi` kennengan ngakan, tape kadhang ampo mate mu-temmu listrikka, sakabbhina ye bhagus. kaso`on",positive
+indolem-train-1822,"lumayan nyaman, tapeh kabhersean jeddhing parloh e tingkataghi poe ma'le tade' ning-koning e pojok en lebbhi bhegus",negative
+indolem-test-858,"Cokop lebar kamarraa,,  coma jiddengnga pola se korang bherse.sakalangkong airy",negative
+indolem-train-1422,Wifi na jhuba',negative
+indolem-train-2330,"Jeddhing : bhagus tape aeng panassah tak bisa kamar tidur : kasorrah tak nyaman sarah per rah ampon rosak, soko kasorrah jughan padha pegghe' semenannah padha bollong wifinnah lok konnek",negative
+indolem-train-3063,"Tas Hermes Rp1,5 Miliar E Angghuy Abelenjheh Sayur bik Syahrini http://dlvr.it/8fspMM ",negative
+indolem-train-3079,pendhenan......tape ghebey kabhersean jedding gi` korang.padena ta` eromat.,negative
+indolem-train-1115,Negguh konserrah Afgan sambih ngerjaaghi pesenan se sajen atompok polanah beri' searean lok mood aghambhar..dek-adek'eng seh? ? https://path.com/p/4di3hR ,negative
+indolem-test-963,ac na ampo mate dhibi',negative
+indolem-test-656,kamarah rajeh.. aing angakah bede fasilitasah tapih tak bisah.. sandalah kudu e pentah.. tak e sediaagi e delem kamarah ..,negative
+indolem-train-3115,"Wifinah tak bisa nyambung, angel gelun se oleh  AIRY GONDOKUSUMAN URIP SUMOHARJO 64,.. mon la mareh nelponah call center bede infonah se nanganin Tickle Hotel",negative
+indolem-train-585,Ac lok cellep ban labhang jhedding bucor tape salebbinnah baghus seh. kakanannah. semma' dhari kennengngah ngakan neng luar hotel ban supermarket,positive
+indolem-train-2674,"kamar korang rapi, jedding gheddhe'",negative
+indolem-train-373,paghalilah padena no`-mano` se gheli nyare ngakan sabellunna lagghu dateng.,positive
+indolem-train-684,"13- Misallah ajegeh kabhersean Ben kasehaten abe' dhibi', ajegeh sopajeh je' sampe' kita adina'agi sampah otabeh kotoran ka dimma'ah beih.",positive
+indolem-test-558,Info JABAR | Sittong na'-kana' Deri Parigi Nyellem e Pantai Bhentoh Hiu Pangandaran: Ilustr... http://bit.ly/1AYTlv6  http://goo.gl/GGnmCd,negative
+indolem-train-1143,"Bedeh massanah engkok mangkatteh mon hedeh ngoser engkok deri luar labeng atenah hedeh. Tapeh setiah, ongghu engkok ghilok bisa ghebey jiah.",negative
+indolem-train-3081,"aingah beuh karat, kamarah menyak lemutah, siaranah tv beni siaranah tv kabel, wifinah tak masok kamar, park",negative
+indolem-train-1382,sayang jedding bau,negative
+indolem-train-196,Bupati Jeneponto Adukung Program Ekonomi Dompet Dhuafa http://bit.ly/1wis6Kj,positive
+indolem-test-429,Dahsyat 16 Februari 2015 Bagien Lengkap 1 - Raffi Ahmad DKK Ngebhungkar Ngomongan...: http://youtu.be/NA7P49eGcVI  lebet @YouTube,negative
+indolem-train-1340,"kabbhinah bhagus keng jhejhenah adek, koca'eng ghilok e kerem deri pihak airynah, remot tv lok afungseh",negative
+indolem-train-1387,"E sangghu Jenazah, Kaloarga Nyerbu Mobil Se ngibeh Bharang Ghaduwan Korban http://dlvr.it/8fyR9L ",negative
+indolem-train-1147,"Angket Ahok. Gerindra & PG engkok paham andik sejere e ghin-aghin. Partai2 Islam..paham kiah lah. Tapeh PDIP, Hanura, Nasdem? #gagalpaham engkok",negative
+indolem-train-1034,"mon caen tradisinah Skandinavia, mon reng lakek ben binek ngakan roti deri roti se padeh, bisa deddi ajuah oreng bisa ataleh jatuh cinta.",positive
+indolem-train-3312,Saoreng Mahasiswa MATE Eghiret Montor Sajhau 30 KM http://republika.co.id/r/nkhh3m,negative
+indolem-train-3489,Sobung aeng panassah,negative
+indolem-train-1700,"AC Lok alakoh sareng sae, kaula bahka. upgrade ka suite room, roangannah pagghun Lok cellep. Ghabay kaula Lok bisa istirahat ",negative
+indolem-test-1006,korang yeh pelayanannah adentek'eng abit. tapeh kamar bhagus,negative
+indolem-train-851,Jhek toman nyerahseabitteh ghik bedeh kebengalan ghebey bangkit polanah teppak hedeh mutusaghi ghebey ambu teppak ajiah kesuksesannah hedeh mangkatteh.,positive
+indolem-train-1233,E bektoh malem minggu akadik riyah ben tang hp seppeh. Sekalenah amonyeh kiah sms deri operator. Neng sedieh kadheng engkok ngerassah sedih ???,negative
+indolem-train-766,"?sapah beih se ajelen ka masjid ka angkui sholat berjamaah, makah settong tengkaan bisa ngosot settong kesalahan?",positive
+indolem-train-2306,"seprai ben totop kasorrah beuh, kamarrah bennya' rengi'",negative
+indolem-validation-55,"Mon hedeh cinta bik #Taurus , pertahanaghi ajiah, polanah sekaleh jiah mangkat, jiah tak kerah abelih",positive
+indolem-train-744,"sarapnah nyaman, se alakoh ben pelayananah ramah sarah, ghun Ac se korang cellep",positive
+indolem-train-827,"Benne keng meraddhin ruangan, tanaman neng ruangan kantor andik manfaat ngorangen rasah lessoh, sakek tenggorokan, batuk sampe' kolek ghering.",positive
+indolem-train-1668,"kamarrah raje gelluh, keng sayang gun bisa gebei 2 oreng deddi lebiih peddeng mubadzir + kamar berse, leccakkah  berse, wc nah berseh, fasilitas ok leh. argenah cek modenah, ngangguy kupon diskon. - wifi tak bisa konek sarapan kurang nyocokin ( sambel lontong peddes gellun) terussashi airy!",negative
+indolem-train-2634,Sengko' messen 3 kamar 1 kamarrah parah sarah lembab salemot kotor pole. ,negative
+indolem-train-983,Sakkengngah Sampeyan oneng cek tresnana kulah . Selaloh madhaddhi sampeyan esseh neng dhalem tang du'a ? Jodoh Pasti Bertemu dhari Afgan ? https://path.com/p/2NunPv,positive
+indolem-train-580,"Selamat Cutkak olle voucher ngakan GRATIS deri @one4chocolatte #5thiloveaceh ^_^ """"@arinaanira: Lava cake",positive
+indolem-test-316,"Banne reng bine' ola'?""""@detikhot: Jadwal Sella' Dhala Ta' Bisa Istirahat, Syahrini: Engko' Ja.. http://tinyurl.com/mt6kng2",negative
+indolem-train-1836,"arghenah sih mode, tempatteh tenang, naong ben badha kolam renang ben ac. tapeh olesseh kasor ben sprei rassanah ghita' esassa, jedhing  ghilinah ta' lancar polanah sistem alirnah lebbhi tenggih, lantaiah badha abunah ben bhutol enom bhekkas se nginep sabelumah e kamar seharusseh e bueng. semogeh lebbhi e tingkat aghi pole yeh.. ",negative
+indolem-train-3498,"wastafel ah mampet ben kabherseyan kamar ben kolam kodhunah bisa lebi bherse,",negative
+indolem-train-3151,"charles honoris: motong pilkada langsung, KMP khianati rakyat http://bit.ly/1y125zo #pilkada cangkang acaca enje`? http://dlvr.it/8fswSm",negative
+indolem-train-2896,[News] Politikus Golkar : PDIP bellis Budi Gunawantak deddi e lantik http://bit.ly/1AZcbCw,negative
+indolem-train-2147,"Suasana hotel asrek ban nyaman, coma parabhut jiddeng ban ghu'-ghangghu' ghita' esadiyaaghi bakto maso'",negative
+indolem-test-737,"AC e lantai babha lok odhi' terpaksa apinda ka lantai 4, odhi' seh tape lok pate cellep",negative
+indolem-test-933,"Pelayanannah cekkkk lok nyennengaghin dhari hotel se bersangkudhen. Lok arekomendasi airy. Ban lemmet dhalem pelayanan, tanpa sennyom & salam",negative
+indolem-test-199,Partai Demokrat ben parpol e Koalisi Mera Pote (KMP) bhekal ngala'  kaontongan? http://goo.gl/fb/qIPiYt  @suaranews,positive
+indolem-validation-337,"Ac na parlo etingkataghi ban aeng panassa keya parlo etamba, salebbinna la bhagus",negative
+indolem-train-2374,kakanan kurang sae ben wifinah repot se nyambunggah,negative
+indolem-train-429,Kadhi ebbhun ngarte lagghu. Akadhi omba' ngarte saghara.? ? Dhika Tang Takdir bi' Raffi Ahmad & Nagita Slavina ? https://path.com/p/1N04cZ,positive
+indolem-test-835,Bhuto paro'om rowangan ban pateppa'an AC,negative
+indolem-test-167,mahkamah partai kodhu adil dalem mamare konflik golkar - okezone http://dlvr.it/8fx1vz,positive
+indolem-train-2841,"PDIP nguso' BG burung e lantik, gerakan apa se bhakal e lancaraghi? http://dlvr.it/8g4cjx",negative
+indolem-test-564,@JANJISUCI_TTV: lhooo.. aruah @RaffiAhmadLagi arapah  yehh ka pangkalan ojek nganggui kostum terwelu? #JANJISUCITTV,negative
+indolem-train-3481,Ac korang cellep ben banyya` renggik :(,negative
+indolem-train-3494,"aeng Accen, ac lok cellep, soara rammeh",negative
+indolem-train-1851,"pelayanan korang tanggap,,",negative
+indolem-test-233,"reng binek """""" jegeh gulagguh- makrepattah gitak mellak- se esareh Hape- nengguh sosmed, sms, bbm ben se lainnah, ngarep bede takata manis deri oreng se ekesenngin",positive
+indolem-train-1358,"Murat, lumayan laah tapeh bennyak kecoa kennek kamarrah, ben sapo'eng korang bherse bennyak cak-bercak'eng",negative
+indolem-train-573,RT @EkoTAmba: Are neka meyos ban mole kantor e bentengen mas @DAlexandro. Sakalangkong masdon. Sampe' atemmoh legghu'. #CaretaNebeng,positive
+indolem-test-58,"Tuhan, ketika ajunanan nyabe' tang ateh, minta tolong je'  sabe' ka ateh se kaleroh. Sengko' lessoh abhereng mereka se dheteng terros ondhur pole",positive
+indolem-validation-313,Pelayanan korang gheteh,negative
+indolem-train-2533,"servis bhaghus, ownerra andhep ban pelak sara, tape mon kabherseyan kamar korang bhaghus. sopre ban olessa bhantal cora' Korang bherse dhaddhi tedung korang nyaman.",negative
+indolem-train-458,"kamar bherse,aeng panas lancar keng siaran tv lokal bhein.selebbinah ok rapah...",positive
+indolem-train-3074,"Rengngi' bennya' sarah,enger,kamar ta' sesuai ghember,ghun e sediaaghi sabun batangan,kasor kotor, lantai nga' badha ceromo'en bilis ben salemot keni' ben tepes.",negative
+indolem-validation-155,ac bocor anduk sprei longset,negative
+indolem-test-325,"ce' Kastana, kamarra kotor apapole eyattas lamari sarpa aklarkaran, Pancoran tada' dhaddhi mandi ngangghuy temba jiya bhai kita madhul lambat esangghemme  kodhu nelpon orenga airy ban seandi'. ce'bkastana ka airy room standarra ta' sesuai pada so se eyarep. 1. tada' pancoran 2. ac ta' cellep 3. tada' aeng panas 4. sapo' ta' patot so standar. KASTA",negative
+indolem-train-876,"Selamet maleeem, sajhen sayang sareng pasangan tercintaaah neka @RaffiAhmadLagi @Lady6igi :* muaaaaaach",positive
+indolem-test-799,"Lambek kiah oreng lok olle ngakan makhluk anyabeh akadih mbik sapeh & jheren,, hukumannah padeh bik ngangghuy narkoba setaih.",negative
+indolem-train-3409,"Ngakan edhulang, tedung abhukbhuk, nanges eyalem. Bila la raja kita bangal mayengghi sowara ka emma' eppa'? Ana' apa kita reya? ?",negative
+indolem-train-3047,"messen 2 kamar, salah settong kamar lok sasoai sareng pesenan, harussah badha AC tape sobung, coma e berri' kasor, lok standart airyroom, jeddhingah bhau, toilet bucor. sprei korang berse. lokasi bhagus, lok jhau dhari pusat kottah.",negative
+indolem-test-890,aman bik nyaman + ac nak bek tak celep,negative
+indolem-validation-349,"Ayo afoto ala syahrini... Tapeh dheddhinah mala: Maju mundur maju mundur gendut, gendut..? http://instagram.com/p/zXOlAwTCAM/  ",negative
+indolem-train-1534,"Parkiren sellak , wifi lemot, jaringan adek sinyal, sarabhen keng 2 opsi mie ghuring bik nasek ghuring jaih bhein le e bhungkos bik beddhe kennek, cellep ben hambar rassanah =(",negative
+indolem-train-1365,"ac ta` cellep, sompek, toilet buntu.",negative
+indolem-train-2539,"Tehella talebat lecen, apa pole e jiddeng. Andokgha la abit, parlo eghante",negative
+indolem-test-851,AC e tang kamar korang cellep,negative
+indolem-validation-27,"Kulah ghi' ngenne'en klambih HS reh.. kerajha'an sarah, daddhi kulah ngenne'en dhibi' bein ngangghuy ja'e'en tanang.. male hemat diddhi' wkwk",positive
+indolem-train-2965,"Lastarenah ngangghuy berlian 5 M, mangken Syahrini dhandhan lok nyambhung: Syahrini se biasannah tampil mewah e bharengi p... http://bit.ly/18c9ocw ",negative
+indolem-train-1673,"bhagus e, kennengngan oke sara semma' man-da'emman, tape ta' pate enger. kamar lebar tape ac ta' cellep.",negative
+indolem-train-3403,"saporana ca-kanca afganisme, jadwal Afgan are riya e talkshow e jadwallaghi ulang polana settong bi` laen hal. Edentek jadwal marena :)",negative
+indolem-test-45,"se adeen, beniken e sabek ka pocokah lenganah, polanah lenganah tak e anggui ngosapin muanah.",positive
+indolem-validation-221,ngecewaaghi sarah. komplain lok e tangghepin deri awal check in sampe check out per 2 jhem ac mateh. ghebey sarabhen nasek'eng korang nyaman,negative
+indolem-validation-13,Sohabet jiyeh se selalu ngancaeh kita e delem sossa otabeh seneng. Benni se dheteng ghun e saat kita seneng pas ondhur Ding la sossa.,positive
+indolem-train-29,"prapatan ejegeh petugas. ketemon Patroli amotoran, ketemon montorrah Patroli, kasoon respon pihak keamanan. mandermoeh lekas #MakassarNyaman",positive
+indolem-validation-130,"semangat dhaddhi koros mu-temmu ngakan ta` enga` dunnya. pasabbharra, abe` dhibi` pera` mampu arancang hm :`)",negative
+indolem-train-531,Keren penampilannah malemmah neng @latenights_ttv kabbhi nah @mrsayudewi @RaffiAhmadLagi @WunguRahayu @Haryotalijiwo @mbah_mijan @KiRaksaManggala,positive
+indolem-train-789,"Solak HAMAS, Langka Pamarenta e poji PDIP http://bit.ly/1KwhWtq Ruki negasaghin KPK tettep osot  kasos BG http://bit.ly/1AXaNjF ",positive
+indolem-train-136,Mon koca'eng afgan jhuduh mesteh atemmoh... mon lok setiah ye pasteh neng pelaminan.? ? Jodoh Pasti Bertemu deri Afgan ? https://path.com/p/1jUlC8 ,positive
+indolem-test-787,"settong aktifis ngoda Muhammad Arsyad, kodhu ngenep e penjara polana masang status BBM neng HP dhibi' se aherre parkara. #MN",negative
+indolem-train-3098,Komunis? Atheis? Sebjellas badha dal-beghundal PDIP neng DPR se TAK BERAGHAMAH,negative
+indolem-train-590,"Mator sakalangkon sowannah pak ARB kalaban pengoros Golkar laennah,  saporannah rombongannah dhepa' bada se ghilok? http://instagram.com/p/zVAuLrKCQL/",positive
+indolem-train-3632,"adhinaaghi engko' dhibi'"""" = jhe' nyingla, kancani engko', tape jhe' nyator pa-apa #kamusbini`",negative
+indolem-train-1132,"#BreakingNews: Aneh, Arapah Menkumham Standar Ganda Pengesahan Pengurus PPP ben Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-1316,"pas siap mole lah e tok2 ben mas sa se atanyana korang lebur. Ben andok pera' eberri' settong, labeng jedding ta' bisa etotop",negative
+indolem-train-812,Mon engko' eceptaaghi ka kake engko' bhakal ngaandi'..Jhudhu paste ketemmo..???? ? Jodoh Pasti Bertemu bi' Afgan ? https://path.com/p/21ZAwK,positive
+indolem-test-229,"Benne berarti lok olle sama sekaleh nengguh HP/email/sosmed'eh pasangan. Mon hedeh amet ben e beghi, yeh silahkan..",positive
+indolem-train-63,"Cing, lamba' koca'en kantor Lego enga' reya.. loco ya (with Felix) [pic] ? https://path.com/p/DVBQ9",positive
+indolem-train-538,kaunikan sakolah e Korea http://bit.ly/1Ew4V0m  #benangpanas,positive
+indolem-validation-194,"Ghun nginep 1 (sittong) malem beih, parloh e cek dukaleh kabhersean jeddhing ben wc, tiba-tiba ",negative
+indolem-train-1617,kamar korang bherse,negative
+indolem-test-108,"Lagghuhh tang keluarga prilvers!!!Semangat yehh ghebey se ghik asekolah,akuliah ben alakoh,jhek keloppaen sarabhen yehhh pv!!! #salamprilvers?",positive
+indolem-train-3586,Pelayanannah Korang andhap.,negative
+indolem-train-519,"[Korpora] Nguaten Solusi Keamanan, HP Ngakuisisi Voltage http://owl.li/JvmSh ",positive
+indolem-train-1567,"Alat mandih, lemari, TV rosak ...ta' bisa eangguy",negative
+indolem-train-3385,lomarennah kamar ghi nyo'on male tak a debu ban bannyak ghu-ghurghurrah bangunan,negative
+indolem-train-1720,"lokasi cek strategisseh, parkir luas, aeng angak afungsi beccek. korang bherse, sapok semmoh abeuh, ben tv kabel lok afungsi.",negative
+indolem-train-3080,"jeddhing Korang bherse, AC ta' cellep",negative
+indolem-train-320,#Terkini Charles Honoris Seap majuagaghin Kabebasan Beraghama http://bit.ly/1KwfyTv  #StatusAnyar dhari U.S. Tasek bere'? http://dlvr.it/8fRk4f,positive
+indolem-train-73,Ke'-lake' entar ka jeddhing umum ghun ghebey sittong alessen. Tapeh ni'-bini' ngangguy jeddhing ghebey ruang terapi ben pertemuan sosial.,positive
+indolem-validation-201,"PDIP enilai Aneh mon neremah Badrodin Kapolri: INILAHCOM, Jakarta- Anggota Komisi tellok DPR Golongan Golkar, Bam... http://bit.ly/1Lp73ZP",negative
+indolem-train-3530,bek mapan bik gresah aman gun AC nah bek tak celep bein..... salam....,negative
+indolem-train-3382,"Kalematdha la pas, LOL""""@republikaonline: Poros Ngoda Golkar: Pamarentah Australia Korangajhar http://republika.co.id/r/nk2iak """"cc @andy_nurvita.",negative
+indolem-train-2703,"Pertama: Arapah hedeh deteng e bektoh engkok rapo? Keduek: Arapah ngebey engkok nyaman? Ketelok: Arapah ngebey engkok jatuh cinta? Keempa': Arapah, Hedeh mangkat?",negative
+indolem-train-3212,Koper pol bik kakanan kabbhiii -.- kelambhih bhein ghilok -.-,negative
+indolem-validation-93,"Persahabatan Benni berarti ta' Toman apesa. Sahabat pasteh deteng Ben ondhur. Tapeh maskeh apesa, tadek se aobe. #NH",positive
+indolem-train-2347,"jiddengnga korang bherse, tada' paro'omma keya. nyo'on epabhaghus pole.",negative
+indolem-train-2720,"#Cancer ajiah egois & penyabbher. Mon le sayang bik seseoreng, bhekal setia teros bik oreng jiah. Tapeh mon lok jelas, ajiah mangkatteh.",negative
+indolem-train-765,Selamet molang areh ka' imam alias Raffi Ahmad kW super wkwkwk sukses dunyah akherat cepet Olle lakoh wkwkwk? (bi' imam)? https://path.com/p/2kVbsH,positive
+indolem-train-2210,ac nah korang cellep,negative
+indolem-test-382,"Sosok Firman, Korban Kenneng Seret Mobel 30 Km, neng Matanah Bapak'eng http://bit.ly/1BNfkFO ",negative
+indolem-test-315,Nyaman pelayanan sigap serassah roma.. Keng soal privasi korang polanah penjegeh romanah ampo masok kamar lok pake e pentah e bektoh tamoy adek.,negative
+indolem-train-862,#BeritaEkonomi Mobil-Mobil Retro Tebar Pesona neng Serpong http://dlvr.it/8fyphC  #Perseratus,positive
+indolem-train-1378,deiyyeh masok seessenah kamar beuh laseng sampe engkok kodhu melleh pero'om ruangan,negative
+indolem-train-2054,"Jiddengnga abak kotor, kakananna keya abak maconian. Seggha lagghu ghi' kol 8 tape kabbhi la tada'.",negative
+indolem-validation-390,"Mobil Bisah Eghenteh, Roma Bisah Ngalle Alamat, Omor Bisah Atambe, Pacar Bisah Beih Agenteh, Tapeh? [pic] ? https://path.com/p/A3fbl",negative
+indolem-train-3355,"ac panas, front office korang andhap",negative
+indolem-train-1276,"Interior moasaghin, sarong bhantal semmoh apek, tape sakabbinnah bhagus",negative
+indolem-train-1394,Didaskaleinophobia ajiah fobia otabeh rassah takok ghebey mangkat dek sekolaan.,negative
+indolem-train-2110,"Samarena Ngangghuy enten 5 M, setiya Syahrini Adhandhan ta' nyambhung http://ln.is/dlvr.it/1qPQO ",negative
+indolem-test-239,"Kake tao, ngakan es krem biss aningkataghi kategghuwan bhadhan da' virus influenza.",positive
+indolem-train-1904,"AC manabi bisa e ghante, berik Korang cellep Lok kadhi' biasannah...",negative
+indolem-test-849,Cokop bherse make lok pake sarabhen. Wifi & TV parloh e pabecce' polanah lok ajhelen,negative
+indolem-train-607,Aminnn 100x RT @RealMesha_17: ya Allah kabulaghi & Aamiinaghi kabbhi dhueh harabhen @Lady6igi ghebey lakenah @RaffiAhmadLagi #janjisuciRANS,positive
+indolem-train-15,"Samarena Program Saare Are Sa Juz, Kabupaten Bangka Bhakal Majhalan Program Bhasa Arab e Sakola http://fb.me/2QTiOkX1w",positive
+indolem-train-2830,kadhang nyoba' ikhlas ruwa ta' ghampang. apapole nyoba' ikhlas mantan se abe' sayang nyingla ben senneng ben bebini' laen :'),negative
+indolem-train-1438,Kamar kotor,negative
+indolem-train-3560,"Terlalo miris, melanah sohabadhan otaba satarentanan coman e risauaghin sareng PIN BB otaba NO HP, serende neka kah?",negative
+indolem-test-889,"@Rauff_Abd @KPK_RI @WijatB sobung se bendher lah,,mereka se e POLRI - KPK se terlibhad politik ka PDIP & Demokrat..",negative
+indolem-train-737,"Tola' HAMAS, Tengka'en Pamarenta Epojhi PDIP http://bit.ly/1KwhWtq  Ari Bhasa Ebhu momentum pangembangan budhaja lokal http://bit.ly/18ceVjx",positive
+indolem-validation-315,"Dari segi kamar cokop bhaghus bherse nyaman,  tape mon ac na enger ban se otama kaangghuy jiddeng aengnga dhaddhi banjer mon bila mare mandi ghilina ta' smporna para' masu'a ka dalem kamar ban pas lecen aenggha ta' nyaman sara, kaangghuy ngakan ta' nyaman, ta' bervariasi",negative
+indolem-train-3373,ariya kalambhi oy. oppaiya e dalem wk,negative
+indolem-validation-123,"Kamarrah locoh, tapeh pelayanannah korang muasaghi.. Ghik 1 jhem deri kol 12 ghebey chek out, tapeh le e tuwatin deri luar kamar.. Chek out, chek out. Make pola benne ghebey engkok, tapeh engkok deddhih lok nyaman bik kelakoan kom jiah..",negative
+indolem-train-872,10. Fitur Camera: Fitur ariyah ghebey versi pro. Dheddhih Hp se elang bisa ngalak ghembher teros e upload dek website Where?s MyDroid. #AntiElang,positive
+indolem-train-2271,"kamar bau dari lekena jiddeng, bannya' rengngi',lagghu aeng kaangghuy mandi ce' kene'en dhaddhi kodhu nantos abak siyang kaangghuy mandi.",negative
+indolem-train-352,"ngarep pas tangngeh , pesen pesen baru neng HP neka dhari sampeyan :3",positive
+indolem-train-92,"wek duween bik been ariah salah setong bektok se mapan edelem odik. edimah abeen dibik bisah jelen wek duween, ngakan, acretah se kesenengah been & tang kesenengan.",positive
+indolem-train-1921,"Begus comak keangkui masuagih keadeen, berik spreinah bek kacep engak gik tak kereng, kelaben kebedeen namberek, anyaranagih male eperhateagih perkarah kesebut sekelangkong",negative
+indolem-test-611,"Dimmah bedeh hubungan se lok amasala. Lok endek kek cetak, mangkat apacaran bik Panadol.",negative
+indolem-train-3252,"Jokowi 'Pesa Kasor' bik PDIP, Demokrat Ngelamar: Partai Demokrat ben Parpol neng Koalisi Mera Pote... http://bit.ly/18a34SN  #Kabari",negative
+indolem-train-3620,"regghah bersohabat. coma akadhi biasannah, kamar Airy neka pasti e berri' room se korang strategis. kami e berri' roangan basement. Kabetulan wifi hotel eror. amargha roangan e basement, HP coman nangkep sinyal 3G. lemmet lah caretannah. intinnah kamar airy selaloh e tiri'in. ",negative
+indolem-train-2781,Sadishhhh njek seh ntan?????????? ? Sadis'eh Afgan (bik Intan) ? https://path.com/p/10XGhB,negative
+indolem-train-1458,kamarreh korang bherse,negative
+indolem-train-2318,"bhagus, nyaman, coma bhei e wc-na bhucor",negative
+indolem-train-2966,ac nah te mate teros daddhi a ghangghu bhakto istirahattah,negative
+indolem-validation-340,"jedding korang bherseh, tade' fasilitas sabun ben shampoo dari airy na.",negative
+indolem-train-492,e kantor Google bede kennengan musik ben karaoke se esadiyeaghi secara gratis ghebey panglakona.,positive
+indolem-train-2658,"channel tv kabel kosong, ben antennah korang bhegus dheddhih ghambhar cek jhubek'eng.. saran male masang tv kabel bhein.. informasi deposit korang jelas mon sang ngala' kodhu nyertaaghi bon, dek-adek'eng e kocak keng nyeraaghi konci pas deposit e pabelih",negative
+indolem-train-2757,ac nah mate lok cellep,negative
+indolem-train-1695,bhagus la tape AC na panas...,negative
+indolem-validation-118,"kaula kecewa sarah sareng fasilitas neng airy eco sawah besar kartini jakarta. sakabbinnah fasilitas e sedhiaen tape lok bisa e angghuy kabbhi contonnah telpon se neng dhalem kamar lok bisa e gunaen , AC remottah lok bisa daddhi lok bisa ngator suhu bhakto kacellebhan , remot tv jughan pas anyar masok lok esediaen .",negative
+indolem-train-3295,"Kenneng ungkap, PDIP Ngamok Sarah E Bektoh Jokowi Mele Komjen Badrodin Haiti | Islam Toleran Com http://www.islamtoleran.com/terungkap-pdip-marah-besar-saat-jokowi-pilih-komjen-badrodin-haiti/ ?",negative
+indolem-train-348,bhagus.. bedeh jhejhen neng teyap kamar. keng emannah pas olle kamar 305 ac nah lok cellep sama sekaleh. selebbinah kerren. langganan e dinnak.,positive
+indolem-train-2009,"Kabinan anak ampassa kompleks wa ca-kanca. iye ruwa kesehatan reproduksi se ghita' siap, keuangan keluarga, bi' potos sakolah. #bhattalsampe'siap",negative
+indolem-train-2563,"Korang bhagus, AC ta' odi', Pancoran korang bhagus, korang bherse",negative
+indolem-test-971,tv yeh ghik buremm.. airy bileh mebecce',negative
+indolem-validation-202,Kamar standar se bhagus. semmak bik bandara. WIFI lok bisa,negative
+indolem-train-1315,"Ac tak cellep , aingah kinnik, seharusah sebelumah bede e messen gebei e preksah kadek",negative
+indolem-train-1522,Asarabhan lok jellas jammah ban pas terro adha'arrah sobung kakanannah ban sobung tamoy se adha' ar ghabay informasi kennengngah adha'ar sobung coma badha mejha ngakan tok  ban informasinnah e bagian kammah. terpaksa adha'ar neng luar,negative
+indolem-train-3495,dear mantan ? mangkat dheddhih lottok hedeh kassah ?,negative
+indolem-train-423,"Tribun: Ngadhepin Pilkada Serentak, PDIP Lok Manfaatghi Jokowi Effect Pole: PDIP le nekanaghi dek? http://dlvr.it/8g97KP  #NewsToday",positive
+indolem-train-2813,Nanges senages nangessah oremg teppa' dhuka ragara ngoladhi my idiot brother.... ? Untukmu Aku Bertahan dhari Afgan ? https://path.com/p/2B9v5T,negative
+indolem-train-1211,aeng panas ta' afungsi,negative
+indolem-train-3296,Anapah kaula buduh semmak bhi' sampeyan? Kaula masok sampeyan .Kaula mekker soal ghu'agghu'. Benne keng nyare reng bine' kadik sampeyan.Ampon abineh teros aberri' bineh ngakannah apah?,negative
+indolem-train-761,waah... @Lady6igi cek soswitah deh aduleng @RaffiAhmadLagi ..,positive
+indolem-validation-43,Terro Muwah Mulus Bebas Kerothen? Ngakan Bhein Cokelat Nyaman riyah http://tinyurl.com/p8f2urb  lebet @detikfood,positive
+indolem-train-3247,korang salemotteh sakalangkong,negative
+indolem-train-1679,Kadhibi' Bahagia - Hp na ba'an pernah ceccer e kantin?,negative
+indolem-test-296,"Yeee, engko' la andi' laghu Aa @RaffiAhmadLagi se """"se bhaghus kaangghuy kake""""",positive
+indolem-train-2027,"lantai lecen ben gheddhe', jedding gheddhe', sinyal hp sossah, wifi apapole. pajagana ghetak, colokanna sara sedapa'a. laenna bhagus.  ",negative
+indolem-test-343,Nyaman kennengah keng eman aeng panasseh lok bisa. ghebey sekabbhinah bhagus lah.,negative
+indolem-train-1676,"Se paleng ngotot aghin  PDIP""""@RedaksiGoRiau: DPR Abele Rahasia Sengaja Maburuh Komjen BG abadhi Ngejebhag Jokowi http://ln.is/www.goriau.com/nasio/kLBVQ ?",negative
+indolem-train-2773,Kennengngan bhagus ban rajha tape kaberseannah korang amargha bannyak obhu' e bhantal,negative
+indolem-train-408,Demokrat nilai keputusen presiden merrik kepastien http://bit.ly/1AKAT9G,positive
+indolem-validation-256,aeng panassa abit sara bhuru bisa panas se e kamar 318,negative
+indolem-train-508,"Parak UN pabennyak pemahaman pelajheren bik perajin sekolah & pabennyak soal lateyan. Adhueh, mentah restunah reng tuah & se penting lok apacaran ^_^",positive
+indolem-train-1615,"ta' usah main tebbhakan pole,malempo ? pas serius ngabes afgan. tolong pangarte ye:( http://ask.fm/a/bndm3a6d",negative
+indolem-train-559,"hebatla Sahrini mah,, RW @VIVA_log Tas Hermes Rp1,5 Miliar Eangguy Belenjeh Sayur bi' Syahrini http://dlvr.it/8fs9jm",positive
+indolem-train-3460,"kamar nyaman, nyareh ngakan ghempang, tapeh ma' sinyal deri delem kamar abek malarat",negative
+indolem-train-1133,"awal dhateng masok kamar deluxe tape sobung kulkassah Lok sasoai Ghambar, akherrah e angka'aghin kulkas dhari kamar Laen sareng karyawan nah, oke lah.. tape salastarenah neka kecewa pole amargha andhuk & kosek jeddhingngah sobung, daddhi kaula lak balih toron ke babak dhari lantai 2 lebhat tanggah. & kamar korang berse, badha karena potongngah rokok e dhalem lemareh...",negative
+indolem-train-1016,sake' tal-ghatal bisa maelang http://www.klinikwienarto.com  (0291)3332855 / HP. 08122893709 / PIN 29E22f2f,positive
+indolem-train-2361,Nyaman & lomayan berse. Manorot kaula menu sarabhan korang a variasi ban hot spot wifi parlo e tamba.,negative
+indolem-train-3611,"aengah kennek, kennengah crokong, beuh, kotor, seprei ben sarong bhentalah kadik lok e ghenteh, adek kennengan parkir -lok recomended-",negative
+indolem-train-2443,"Kamar kotor, sang depa' neng kamarrah bedeh tor-kotor abernah cokelat teros neng bhentallah bedeh tor-kotor bercak celleng. Kotor sarah kadik lok e kombe keng e bhelik, e bektoh terro check-out e tuduh ngotorin sapo'eng se padahal deri bektoh deteng lakar le bedeh, ben deposit terro e kala'ah, deddhih mon kalian deteng bedeh noda otabeh tor-kotor neng kamar langsung komplain bhein. Polanah degghi' kalian e tuduh se ngotorin kamar jiah ben deposit terro e kala'ah, check-in kol 2, sarabhen keng nase' ghuring pake telor.. Jeddeng abeuh ben salurannah aeng neng bebenah kotor sarah kom bedeh bu'-obu'eng, tok endek pole ngenep neng hotel jiah.",negative
+indolem-test-168,"Parbuadhan becce' napah se ampon e kalakoh menggu nekah? ? asassa rasoghannah oreng seppo, ngala'aghin bukunah bhu Hani e kantor d... http://ask.fm/a/bn8pbojn",positive
+indolem-train-839,"saben tang hape amonyih , engkok mesti ngarep deri been. :)?",positive
+indolem-train-3575,responnah abit..pegawai lok ngeladhinin..pegawai ampo adek neng kennengan..kolam renang kotor,negative
+indolem-train-1377,"Kalean C e larang, Sopir Truk nyerbuKantor Gubernur Jateng http://dlvr.it/8hj4Y1",negative
+indolem-train-3111,"Jadwal Sella' Dhala Ta' Kajapo' Istirahat, Syahrini: Engko' Dhaddhi Reng Bini' Angen http://tinyurl.com/mt6kng2  via @detikhot",negative
+indolem-train-701,RT @VIVAlife_: Duwe' nak kanak ngode aberri' jesa Nyassa Kalambi Gratis ghebey Tunawisma http://dlvr.it/8k6HJ1,positive
+indolem-test-672,"nelpon callcenter dps 223333 tape sibo' @giri_sujana: Ka'bhungka'an robbhu merka ka montor eyada'en Popo Danes H.wuruk, tolong ebbel DKP",negative
+indolem-train-1616,"engkok mesen kamar masok tanggel 18/08/18,4 kamar, tapeh perappaan engkok deteng jem 17.00, 2'kamar gik bedeh (gik tak siap huni), nyuun sedia agih fasilitas heater aing panas u/nginum secara umum(u/fasilitas standard room), nyuun e cek u/complimentary roommah 9 (selamat deteng kakanan ben nginum), andok e tiap kamar, masa kuncinah jeddeng, nguncinah derih luar ???!",negative
+indolem-train-576,"Kennengah nyaman, bherse make lemarenah semmoh abeuh tapeh sekabbhinah bhagus",positive
+indolem-test-985,Partai Demokrat : jokwi aleceaghi DPR http://ift.tt/1BoBygB  #kaberaben,negative
+indolem-train-1415,"Ngabhag Video Klip, Syahrini Ngangguy Konsep Absurd: Penyanyi se settong ryah ghi ngagharap video k... http://bit.ly/1vR1Ock  #NewsINFOmedia",negative
+indolem-train-2161,Sampeyan jhau  Anapah arassahce' jhaunnah  Padahal sampeyan badha neng tang adhe' Asennyum ka kaula tape tetep? ? Jauh dhari Afgan ? https://path.com/p/2xqtFB,negative
+indolem-train-3128,"Kasorrah kotor, agak rammeh polanah jeddeng deri kamar sebelah e keding, beuh lok nyaman kiah",negative
+indolem-train-1095,"Oreng perfeksionis ghempang ngalamin rassah cemas, gangguan Ngakan, Ben sindrom kalessoan parah.[Penelitian di Brook University]",negative
+indolem-train-2000,"Tv nah korang a ghuna, Nyareh chanel tv lokallah mlarat . jarang badha sinyal",negative
+indolem-train-3204,"http://kplg.co/Yf9H semarenah nganggui berlian 5 M, satiyah Syahrini adenden tak nyambung",negative
+indolem-train-2127,peredaran bato akik palsu http://bit.ly/18cdrps  #Golkar #ARB,negative
+indolem-train-3383,"sakabbinnah sae, kacoaleh pamasangan TV, posisi Lok teppa'. masak TV e adha'eng lomareh.",negative
+indolem-test-69,Hadiah terbhagus bhagi oreng se paling phanjennegngan tresnae aneka phanjennengngan dhibi'. Paste aghinphanjennengngan mole/mangkat bhi' selamet. #CURANMOR,positive
+indolem-train-1736,@wachidridwan: ustadz perasaan neka klambih se e angguy bhakto acara mantannah potre kyae Muhyidin e langghar Andalusia hehe. (Hehe. Engghi).,negative
+indolem-train-751,Gentengah jhek dis-sadis lah mas afgan ?? ? Sadis deri Afgan ? https://path.com/p/4cck7R ,positive
+indolem-train-975,kamar berse ac cellep pelayannannah andhap tapeh se korang aeng panas lok a ghuna taneyan asre,positive
+indolem-train-2668,"Siap dadaghan ? bhattal ngalencer bi` kanca kantor, dadaghan e ajhag ngalencer bi` anak? (et Omnia Salon dan SPA) ? https://path.com/p/1TEkSp",negative
+indolem-train-439,Kamar bherse ban nyaman. coman eman aeng panassa mate ban tolong kaangghuy aberri' petodhu addhebbha kiblat ma'le maghampang muslim ajhalane bhajang. Salebbinna bhaghus paladhinanna.. sakalangkong airy,positive
+indolem-train-721,bhantalla nyaman.. kamarra cellep.. keset tade` pole lah..,positive
+indolem-train-572,Sakalangkong yeh atas saran ca-kancah tentang Sombheng klambih! Tuhan abherkati.,positive
+indolem-train-811,"sosok syahrini bisa ekoca' dhaddhi salah settong penyanyi paleng gharus e Indonesia. tak menga', syahrini pu... http://bit.ly/1vQZNg8",positive
+indolem-train-2107,Demokrat Kecewa Pele'nah SBY ghebey KPK Ta' Epele Jokowi http://kanaltiga.com/?mod=berita&page=show&id=2060 ?,negative
+indolem-test-9,"bhakto sekolah dhasar, sampeyan sareng kancannah sampeyan ? Dha-kindhah terro nerrattah po'lot amargha terro akandhah neng tong sampah . kadhiponapah lok kerrongngah kaulah sareng sekolah dhasar ? ",positive
+indolem-train-2203,"CROKONG! SAPOK, SEPREI ABEUH kamar sembab",negative
+indolem-train-3550,saluran tv e pebecce',negative
+indolem-test-480,kabhersean harap e tingkat aghi,negative
+indolem-train-670,"Lebur. E tumis bik ser-seran cabbhi + bhebeng mera. """"@erliann1: @PakBondan @TerasiSuper toman ngakan cenge khas Bangka rusip?",positive
+indolem-train-948,Hosos sabto reya kantorra kita ngalle kadinna'... ?? rangrang re nemmo sabto se da'iya.. http://instagram.com/p/zWwAWgQ4Ln/,positive
+indolem-train-2897,sobhung aeng panas ghabay mandih,negative
+indolem-train-364,"Terro ceppet koros se sehat? Tenyatah Sederhana, Cokop Adha'ar Neka: Amerika Serikat ban Jepang? http://goo.gl/fb/VxqQpg",positive
+indolem-train-227,":)""""@ratihsari140: Selamet pagi a @RaffiAhmadLagi semangat ghabay aktivitas hari neka ?? FamilyRaffiah17 @FamilyRANS_FC",positive
+indolem-train-1361,"Pempenan KPK osolan SBY Lok epele Jokowi, Demokrat Protes http://dlvr.it/8dLcFp",negative
+indolem-train-805,"? Ajiah jeh hadiah berharga deri Allah. ? Arghein ajiah seghilok'eng ajiah mangkat. ? Sapah? ? """"Ebok'eng hedeh."""" ?",positive
+indolem-train-1082,"bilissah tepes, sprei ban kaen maen nah e ketarah jhubek, aeng panassah se Lok a ghuna :(",negative
+indolem-test-381,"Lampu ruang bek ta' tera', mlarat ghebey macah.. Bennya' rengngi' e kamar, tedhung ta' ngiddeh Pelayan korang peka ghebey abhentoh ngibeh tas so koper, padahal tamoyyah bini' kabbhi",negative
+indolem-test-4,"Buh pak jokowi la olle nilai positif e matannah golongan Demokrat. Majuh Pak jokowi, pategges engak pak @SBYudhoyono http://www.antaranews.com/berita/480952/demokrat-nilai-keputusan-presiden-beri-kepastian ?",positive
+indolem-train-2637,Politikus PDIP Nyebbhut Megawati La Ekriminalisasi http://m.jpnn.com/news.php?id=288525 ? #JPNN #Jokowi,negative
+indolem-train-3139,tv adek sinyal,negative
+indolem-test-109,"lebur konsep hotel lah, kenik, berse, stafah berenca, sekabbinah mantab. Karo sinyal wifinah tak depak ke kamar.",positive
+indolem-test-10,kamar berse ban peraladhan e seddhia. pelayanan jughan lomayan sae ban ceppet. kennengngah tedhung. shower sobhung medein neng lantai 4 kennengngah kulah badha aengah kennek ban lok maddhain ghabay mandih bhakto ghulagguh kol 5. ban saloran aeng ngaluarraghin bhau lok nyaman neng lagghu areh...,positive
+indolem-train-2734,kedek kamarah. jedingah kiah. e slorokan kamarah benyak otesah bik abunah rokoken se tak ebersehagi,negative

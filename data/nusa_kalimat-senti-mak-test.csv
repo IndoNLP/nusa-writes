@@ -1,0 +1,1208 @@
+id,text,label
+indolem-train-1092,Karoppo pakanreang ringangna tena nia iya,negative
+indolem-train-1608,Je'ne bambang kurang bambagi...,negative
+indolem-train-984,"Partai Demokrat dukungi RUU otsus Papua anjari Undang-undang, katte dukungi rakya papua dallakang @PDemokrat http://www.beritasatu.com/nasional/252744-demokrat-terima-kunjungan-majelis-rakyat-papua.html ?",positive
+indolem-train-3527,"kurang dinging AC na, a'rasa bebe pa'lunganna",negative
+indolem-train-910,"Bokoi Pilkada Serentak,PDIP tenamo na manfaatkan Jokowi effect http:/www.tribunnews.com/nasonal/2015/02/21/hadapi-pilkada-serentak-pdip-tidak-lagi-manfaatkan-jokowi-effect/ ? malo @tribunnews",positive
+indolem-train-2905,Allo Sattu tettek sikaminne ri kantorok kinja na samsat tenapa niak tanda-tandana kulle niallek :I (ri Bank Jateng Cabang Klaten) ? https://path.com/p/lqBDA,negative
+indolem-train-3041,"Pajampanginna kurang sombere', tena nia ta'muri na battu ri customer service na nampa nakke tau toanaia sawe ri pakodi, tena nia lamarina, kalimbu' siagang handu'na se're ji, tipi kabele'na nia 3 siarangji kulle ricini'",negative
+indolem-train-1469,Tebaro airy. A’balu kamara tassimbung. Balukko kamara ero nipake ganrang ka? Rantasa na arrasa kaluru kamara’na. tena handu’na tena je’ne na. panraki pakkebu’ kamara mandina. Pote-pote ri airy tena tong najampangi. Pacce dudumi nyawayya. Tongko’mi airy tena na baji a’balu kamara kamma injo. Takkalami na ku balu reso pottele. Ngapana hotele panra kamma injo.,negative
+indolem-test-357,#Jokowi #PDIP PDIP Larro Lompoi Wattunna Jokowi Pilei BH - http://JPNN.com  http://bit.ly/1AZaeWB  @PDI_Perjuangan,negative
+indolem-train-2908,"Ommaleka""""@kangdede78: larroi spiji rioloa-> Demokrat larro Pimpinan KPK pala’na SBY Tena nipilei Jokowi - http://kom.ps/AFploc @Vie_Kumalasari",negative
+indolem-train-28,Salama' baribbasa' rannuka le'ba cini' anne @RaffiAhmadLagi @Lady6igi @ruben_onsu @sarwendah29 barang lancara'ji parsalinangna sallang,positive
+indolem-train-1591,"Porei kamara'na, kamma hotel fasilitasna, tena kusanna-sannai kana lakamma i anjo, anjoji riwattunna tawwa check in sallo dudu i, tena nassengi anjo pajagana kana niya tau ero appesan kamara', mangngangi rong attelpong, bajiki kapang punna anjo list toanayya niyak memangmi ri pajagana, jari langsungmi na isseng, tenamo nasallo,",negative
+indolem-train-822,"pelayanan baji', kamara'na baji', cuma tolong niciniki kamara' mandina a'rasa sike'de' mingka iyangasenna puasa' punna mae ri bandung insyaalloh maemisse' anrinni harga lammoro' kualitas pore thanks airy rooms",positive
+indolem-test-66,"cewek bajika iymi antu punna sibuki iyareko lobeki hpna, tulusu' ""a'usaha"" assare ""kabara"", minimal angnginrang hpna aganna. :) ",positive
+indolem-train-1831,"punna appau ammake butti, Bung @Kompascom: punna PDIP a'mere' mere', artina niyak passijanjiang nijo'joj'na Badrodin http://kom.ps/AFqKLU @PintarPolitik",negative
+indolem-validation-188,"kamara na sanna gammara', nyamangi se'reji appareka kacewa siagang tena kungai iamiantu tau attayanga / CS na alias pelayanna tena na sombere'. naciniki jaki singkamma tau ju'dese'. nampa ammakka'makkalaji naparek tena nyamang tamua. tabe' bajiki anjo pelayanan ta amba'. tarimakasi.",negative
+indolem-train-2550,"wifina tena na'jappa, handu' rantasa', jendela ammake kaca blur jari tena nikkulle accini' assulukangngang. mingka lumayanji kamara' mandina anynyamang, je'ne' kammu', kru na sannaki sombere' siagang siga i. tarimakasi di",negative
+indolem-train-2473,"cuku' baji'ji, kamara' mandina kurang tangkasa'ki, pabau' ruangangna matei, remo' tipina panraki",negative
+indolem-train-1946,Tena jappa Acna nampa kamara tena singkamma gambara,negative
+indolem-train-2704,"haghag *sanda'ki* """"Punna PDIP Sannang, Artina Nia' Passepakatang ri Boko Panunjukangna Badrolin Jari Kapolri"""" http://kom.ps/AFqKLU  battu @Kompascom",negative
+indolem-train-402,Jai kuranna 30% -Lock & Lock - Pangnganreang assegang Pangnginungang Plastik ni kurangi poweng 10 % assegang kartu Kredit Bank MEGA #PromoAkhirPekan,positive
+indolem-train-1419,#Beru [PABANGKA !] Tau Toana Raffi Ahmad Rigappai Polisi http://dlvr.it/8dNxRs  #Assadiqulhaq,negative
+indolem-train-55,"Kamara baji, tangkasa, lambusu wifi, mingka tena  siaranna tv",positive
+indolem-train-19,"Nakana Ivan ""Anjarimi abadi anne kissayyaa?? i kau takdirku by RaffiAhmad & Nagita Slavina ?",positive
+indolem-test-123,"Pin 3x ma bangngi rinni. Baji’ mentongi tampa’na na cocoki ri bayaranna. Tangkasa kamara, kamara mandina tangkasa tong mingka tuli nia masalana siagang je’ne bambangna. Ngasenna kulle nipauang taua",positive
+indolem-train-2314,Kalimbu’na na sepreina singkamma talebakki nisambei. Nia inji kacinikkang bate u’ tau rioloa.,negative
+indolem-test-934,"Antama ri tette 7.30 bangngi, nisare kamara 221 ri cappa bellana ri liftka nampa tianang toa poeng jari bellana jappa mae ri kamara. Antama’na ri kamara, tena pattongko’na kloseka nampa tena pallapi’na, jari punna tattai/tamea parisiki pajayya. Biasaji siaranna TV nampa pacce wifina, sallo dudu bambang je’nena, tena tong rasanna Acna. Mangngangma a’bangngi 2 bangngi.",negative
+indolem-train-527,punna anggappa pangngallaroina i ammak siagang i bapak pasti nisuro naung angnganre bangngi.,positive
+indolem-train-2220,mendingang a'lampa na rikacewakang narrusu'ki...mendingang a'lampa na nia tapi tena rianggap narrusu,negative
+indolem-train-1231,la'bi nitingkatkan umpai pelayananna,negative
+indolem-validation-199,"Kalenga ri sikolayya ji, mingka nawa-nawayya issengi lampa kemae.",negative
+indolem-test-566,"wifi tena na'jappa, a'birimmi tallu bangngi nipabajiki. Katangkassang katinroang kurang, supereinna kacinikang akku'luru' siagang kurang tangkasa'",negative
+indolem-test-567,"Tena nakalumannyang, biasaji, botto, ra’masa handu’na",negative
+indolem-test-661,Pakakkasana tena na baji dudu mate remot acna sowerka akkarena2 tena kulle nipake wifia. Nipakabajiki sai,negative
+indolem-train-1585,"je'ne bambangna tena a'pungsi, handu' salloi",negative
+indolem-train-3270,je'ne bambangna nasa'ringi tena a'ngalir,negative
+indolem-train-200,Mannaungi tau paboliki tiketna ri kantoro Lion Air: Tassimbungi tau a’dongkok napakamma tena jappa par...  http://bit.ly/1vRUg9f,positive
+indolem-test-71,tarimakasi pangangai iyangasenna? ? Terima Kasih Cinta battu ri Afgan (siagang Briyan) ? https://path.com/p/3DYm8c,positive
+indolem-test-884,Nia bayuang se’re kantoro antu bajiki mingka nia’ tena baji’na tong hahah takullei jekkong ri maraenga wkwkwk takullei? ? https://path.com/p/oJQK5,negative
+indolem-train-1283,Pasukanna Zionis ampisangkai anak anaka antama assikol>selengkapna< http://sahabatalaqsha.com/news/?=16239,negative
+indolem-test-785,Ketua DPD PDIP Riau Nacoreki Rekaveny siagang Nuryanto battu ri Calong Wali Kota http://aktual.co/148194,negative
+indolem-train-1877,"baji' mingka ra'masa' sike'de', tolong nitingkatkan katangkassang kamara' siagang kamara' mandi ",negative
+indolem-test-401,"Kamara'na tena singkamma gambara' ri potoa, je'ne sower bambangna matei.",negative
+indolem-train-2319,superei siagang handukna ra'masa'. dapara'na kurang tangkasa'. tena sofa kamma ri gambara'na.,negative
+indolem-train-2600,"3 allo le’banu mate, enzim biasayya palabur kanre bangngia sallang ‘nakanre’ kalennu.",negative
+indolem-test-231,"Nakke kungai punna taua natipua tentang anu kuissengangmo, nake kucinik battu bella tenami kulle ia aklampa bella.",positive
+indolem-train-1576,Tena na baji dudu wifina,negative
+indolem-train-2860,@zulhaq_ Kak!!! *langsung tena napsu nasabak naerang erangi Syahrini* :))),negative
+indolem-train-798,"punna i kau a'lampa, nakke ero' i kau tena tappaki tau maraeng. Tappaki kale-kalenu tong. Ku ngaiko?",positive
+indolem-train-875,Nimalliang kue ka’bili siagang daeng sagenna nierang ri kantoro mae bagadang#seneng binggo#maaci ka devi#latepost ???????,positive
+indolem-train-1452,"kamara'na baji', wc na kurang tangkasa'ki siagang hordeng a'je'ne' na tong",negative
+indolem-train-1948,"Appare' Pidio Klip, Syahrini Ammake Konse' Tena Antama Riakkala' http://bit.ly/1LlOaVR #revitalisasibenoa",negative
+indolem-train-3426,angngarruka acciniki my idiot brother akakak ? ? Untukmu Aku Bertahan by Afgan (with Dinda) ? https://path.com/p/8epN3,negative
+indolem-train-421,"Punna bayuangnu a'lampa napilariki? Lappasa'mi, kah teaimi anjo jodo ta. Punna agang? Raka'ki na pertahangkangi",positive
+indolem-train-98,"Manna mamo kamma anjo, Didik tetap apresiasi dakkana Jokowi iareka tetap najaga KPD battu ..... http://bit.ly/1AJJIWL http://bit.ly/1vxQHY9",positive
+indolem-test-281,"pasilitasna lumayang lengkapki nia je'ne bambangna, tipi, karoppo, AC, siagang barang-barang a'je'ne' na, kasoro' nyamangi, parkiran tapi kurangi lipa' pa'lungangna nampa warna na barumbungi jari ricini' sallo na ra'masa', ce' tembo' ta'kabibbi' siagang salimu'na tipisi'. iangasenga lumayang baji untu' angga' kamma anjo na la'vi ritingka'kangi poeng pasilitas kamara'na",positive
+indolem-train-2090,ok lah.... akkulle nipa'jari pileang mingka bambang showerna tena kapang kamara' maraeng di ,negative
+indolem-train-2402,"Sim salabim """"@inilahdotcom: Anas Nilai Niak Kajanggallang ri Konflik Golkar http://bit.ly/1yZh49n",negative
+indolem-train-1062,F-Demokrat: Kaputusang Presiden assare kapastiang http://brt.st/4tet,positive
+indolem-train-2383,"wifi na ri lante 2 panra'ki, jai olo'-olo' ca'di, sinyal telkomsel siagang 3 tena antama' jari taleponga tena kulle ri hubungi. Panjampanginna kamara' baji'. Barang-barangna ngaseng a'pungsiji",negative
+indolem-train-3164,Tena standar panraki lamarinna tena tong nyamang bauna kamarana nia mate lampuna nampa nipalaki papparutus’na tena nasambei,negative
+indolem-test-883,"Baji' ngasengji tapi kamara' mandina a'rasai, barang salurang je'ne na anne? Cekki bede manna anne sarru'na kullei ri kurangi. Makasi'.",negative
+indolem-train-448,"#LalinBpn Pkl 16:00 Nia Galeda Dongkokang Motoro ri kantoro Samsat KM.2, Jl.Soetta, Pala’ tarattekki nampa pagannaki suratta.",positive
+indolem-train-1929,tau kalompoanna PDIP Kota Tarakan nijakkala' ri polisi riwattunna appa'bitte jangang - Indopos http://goo.gl/fb/tfH3af #tarakan,negative
+indolem-train-3214,"Bajiki lokasinna gampangi nigappa, nyamang kamara’na, mingka pakakkasa wifina pacce dudu. Modele kanreanna",negative
+indolem-train-3039,"gammarakmi, katinrowannaji ka'doro padahal anjo kamaraka tiyai kamar standar siagang wifina lamma i signalna",negative
+indolem-train-2153,baji'. 1. lokasina strategiski. 2. kurang sannangi. 1. ra'masa'ki sepreina. 2. kurang sarringi je'ne ka,negative
+indolem-train-3435,Oke. Paccena sinyal wifi ri kamara ratea panra’,negative
+indolem-test-864,Lumayang.. mingka punna bangngia dodongi je’ne’na na tena rasanna je’ne bambanna..,negative
+indolem-train-2169,sanna' a'rasana siagang jai loro attimpausu',negative
+indolem-test-873,"Bambangi kamara, Acna panra’, boncoro kamara mandina, tena nyamang dudu, bajina ka sengkaji.",negative
+indolem-test-523,"Sanggenna nusadari, nakkeji bawang tampaknu ammotere? sadis.? sadis batturi  Afgan (ri perumahan Bekasi Jaya Indah)",negative
+indolem-train-2098,"Teya a'lampai ritallasa'na tau a riwattunna lebba'mo tawwa ammoli harapang lompo mange ri ia, nampa ampilari tena alasang ",negative
+indolem-test-190,"angnginung je'ne' kebo' punna le'ba' angnganre salad. simangko' salad bonena gangang gangang lango, teya takkaluppa antambai je'ne' punna le'ba' angnganre",positive
+indolem-train-746,"Tangkasa kamara, mingka kalimbu’na arrasa sumamamangi singkama talebakki nipake. Je’ne bambanna tarrusuji, nyamang dudu. Papparutuska sombere ngasengi.",positive
+indolem-train-2211,"ero' ammalli iphone na tena nia doe', ero' a'nganre es kring poeng tena nia doe'",negative
+indolem-train-1712,tena nia karoppona siagang ruangangna tena nia jandela na,negative
+indolem-train-2551,"Riciniki battu luaraka bajiki nia kolang renanna, langsungi balkonga ri kolanga. Mingka antama kamara, kugappayya kamara nomoro 6, mate kale-kale ACna, arrasa tommi poeng ACna. Anjo pa’lungang bottoki.",negative
+indolem-train-2635,"Teaki akkarenai pa’rasanganna tau tojenga. Pakamalla’na na lampa tojengi. Pakamalla’na poeng, punna kau tosse ero tojeng ri tau maraeng, nampa nikarenai jko.",negative
+indolem-train-654,"Ri Arab, paja'ka harangmi. Jari angga' oto sanna lammoro'na anjoreng. Jari tau Arabka la'bi rannui ammalli oto na motoro', sangngali untu' Harley siagang Ducatti",positive
+indolem-train-1500,Lappo’na oli Refinery Exxon oto ri California http://abcnews.go.com/US/wireStory/blast-hits-southern-california-refinery-29054161?cid=fb_abcn ?,negative
+indolem-train-1497,"kamara'na rantasa'ki, jai alimbubbu'na siagang ra'massang na",negative
+indolem-test-853,Tau baji’na PDIP Kota Tarakan nijakkalaki wattuna passibitte jangang - Indopos http://goo.gl/fb/AxllhL #tarakan,negative
+indolem-test-431,Ca’mara,negative
+indolem-train-3288,"Nakke angngalle kamara' tena nassangkamma ri extra nett tena inunganna, tena pa'lungang, tena kasoro'na ammoeka, tena nassangkamma niaka ro foto kamara' airy, tena nasombere resepsionistna a'jagayya saing baine punna karueng, ge'gere' hexosna, tena na'jappa je'ne' bambanna, ge'gere icon recidencena nasaba' niyak acara ulang tahun. bapak satpannaji anjo a'jagayya riwattua sombere'. ",negative
+indolem-train-2094,"Mate je’ne ri kamara, a’jene ri kamara maraeng. Tena na sombere pajama bangngia nampa kodi limang",negative
+indolem-test-898,"RT @detikhot: Napake Tema Pabangka, Syahrini Tena Pala Ijing Pare Pideo klip http://tinyurl.com/nc766gg",negative
+indolem-test-221,"Anne pinruana a’bangngi ri Airy Angrek Se’re 18. Dingingi Acna pertamayy, luara kamarana, paccena nisare ruangang kaluru, nampa kuassenna airy tena ruangang kaluru ngaseng. Jari wattuna antama arrasa kaluru. Mingka kamma anne sannangja a’bangngi rinni.",positive
+indolem-train-1913,"Bungasa' antama a'rasa minyak angingi supereinna, tau beru assuluka kapang. mingka libaji nasambei le'ba'na nipawwaang. oh iyye tena na'jappa baji' je'ne' bambanna, mingka sannangji siagang anynyamanji tampakna. tarimakasi",negative
+indolem-train-584,[Nasional] Diskon – Kiparakai gadgetta ri anti je’neka Pouch For Gadget ta’ Rp... http://gpon.co/ixnhv,positive
+indolem-train-3004,"Kamara'na a'rasa pengapki, tena singkamma ri gambara'na yang tangkasa'ka",negative
+indolem-validation-304,SANNA KODINA!! Battuka anjoreng bangngi na singkamma pa'pala'-pala' tena risungkei pakebbu'. Ri talepongi tauna na tena nia,negative
+indolem-test-216,"Baji, kamara tangkasa, kasoro’na lu’mu. Baji tongi passurona. Kodi, jai lamu’na kamara na tiletna jai kulipasa.",positive
+indolem-train-1957,Kantoro Statistik Nasional ri Inggris nagappai 16-17 perseng namuno kalenna kajariang allo senneng.,negative
+indolem-train-870,"Ruanganna kacinikka seppa, airy nagappa kamara ri lt 1, tena pattontongang, tena tong sower bambang. Kodi pale rukoa nipare hotele ka nikamara tarrusu tena kulle cini luara kamara. Baji passurona, tippaki wifina, je’ne inungna battu ri galong (bonei kale2). Sitojenna harusu antama anne hoteleka ri eco teai standar",positive
+indolem-train-1047,Baji ngaseng ri pakakkasa na passurona. Paccena ri ac na tena dinging,positive
+indolem-test-6,Sumanga sikola sisa 2 bulang mami >.< le’bana antu assau-saumi hahay :3,positive
+indolem-test-128,Oto Indonesia Sanna Lammoro' 2015 #JktOtomotif http://ow.ly/JIofE,positive
+indolem-train-1639,Tena nisambei sepreina… jai kassi.,negative
+indolem-train-1467,oto pore nampa appela' umpa loro sambarangang? assirissirikko... #plisatuhlah,negative
+indolem-train-2661,"Tena na pore hotele’na, singkamma tena nijampangi bangunanna. Tena nigapppa kanre bari’basa. Kasoro rua nipanjari se’re dobolo. Tena gappa pakakkasa je’ne( sabung, pasassa gigi na sampo). Ac na gio baji. Tena bantal ca’di airyna, tena sponsor airyna manna se’re, ca’mara kasorona. Salang toiletna tena coco nipake.",negative
+indolem-train-735,Mba makin lucuk aje @melody JKT48 RT @frieskaJKT48: Plinces belle ammake baju frozen uuuu. Btw thank u for today xixi ?,positive
+indolem-test-327,Biasako acciniki layar laptop? iyareka layar handphone? Ba'jia panra matannu! balle i angnganre sushi,negative
+indolem-train-77,Anne kalompo’ motoro na situjui pammaloang salama’na sikolayya ri Bantaeng - Berita Bulukumba http://goo.gl/fb/tr4cN2 #Bantaeng,positive
+indolem-train-283,"Kamara' OK, tangkasa', rapi siagang fasilitas OK. ACnaji takkulle dinging, manna le'baomo ni atoro' suhu ca'di siagang Fan Jetfan. Mohon nipabajiki. maraenganna OO. Tarimakasi",positive
+indolem-test-430,"Kamara'na kurang tangkasa'ki, jai alimbubbu' ri daparaka",negative
+indolem-train-1516,"Paccena, tena na bambang dudu je’ne bambanna, jari punna je’neki dingingi. hhehe",negative
+indolem-train-2216,"Jai inji u’ tassimbung ri sepreina kasoro, na seprei kasoro ca’mara jai bate2na..",negative
+indolem-test-650,"#BreakingNews: Kaalla'-alla'ki, Angngapa Menkumham Standar Gandana Pengesahang Pengurus ri PPP siagang Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-2096,"Sinyal wifi tena na kassa' dudu, akpala tulunga nipabajiki untuk sinyal wifi",negative
+indolem-train-2853,Tena sombere’ pajagana,negative
+indolem-train-262,"Tippa papparutusuna, tangkasa kamara, tangkasa tong toiletna, mingka paccena subangngia tena minibar tanibayara singkamma biasayya, mingka tampa pa’bangngianna gampangi nigappa na gampangi boya pabalu kanreang. Barakka kulle makabajiki poeng.",positive
+indolem-train-1558,kodi anne daeng-daenga,negative
+indolem-train-1882,"niyak kulipasa' ri kamara' mandina, pa'lungang gau' a'rasa su'mung. maraenganna oke",negative
+indolem-train-2038,"Ni lobby jia nia wifina ri kamaraka tena , nampa bayarakki 5000 punna ri kamara",negative
+indolem-train-3240,Untu' backpacker na sanna baji'na.. Pajagana ji tena ero' na sungke pakebbu'na punna ammotere' liwa' tette' 11 bangngi,negative
+indolem-train-1000,"Teako na anjo nu nawa nawa a'lampayyamo battu ri kau,  nawa nawai akkullea nupare nakulle tallasa'nu lebih baji' -@WilzKanadi",positive
+indolem-train-2603,#Golkar #ARB 45 tau ammoterang lalang oto pa'bomnga ri Libya Timur http://bit.ly/1AWa82b,negative
+indolem-test-310,"tena na'jappa je'ne' bambanna, kurang tangkasa' kamara'na",negative
+indolem-train-3390,"Bambangi kamara 617. Allo maka se’rea ero nitojengi. Allo ruayya bambang inji. Pajamma ri passuroa tena nibati-bati papparutusuka. Sibangngi tena jappa Acna, nipassa mami nisungke tontongang",negative
+indolem-test-209,"ero'ja a'lampa bari'basa' ammetere' bari'basa' a'boya dalle, amparannu calon bainengku sinampekang ri lino siagang ri akhera'.. #Ammiiin",positive
+indolem-train-500,"pore, anynyamang, tangkasa'. punna akkulle siaran Tv na nitamba i umpai sollanna akkulle accini' cicni' siaran tv maraenga. anjoji maraenganna pore",positive
+indolem-train-2474,#SinagaNews VIDEO: eja i rupanna Ayu nisindir ri Shaheer: ta'bangka Ayu ri kananna Raffi Ahmad. http://bit.ly/187RFmE,negative
+indolem-train-486,Mamse..... ??? Bumil..... ????? Anjo battanga pakaramulami kacinikkang... ??????? Bidadarina Raffi Ahmad... ???  Nagita Slavina siagang Raffi Ahmad,positive
+indolem-train-2768,handu' ri kamara' mandi kurang tangkasa' tena tissu ri kamara'na,negative
+indolem-train-3486,tena nakkulle nipake je'ne' bambanna nampa a'rasa wcna.. tena handukna,negative
+indolem-test-496,Syahrini angkunjungi tena pala' ising untuk passua'-suarang ri tampa' umum http://ift.tt/1AZQIHU  #MentionSatu,negative
+indolem-train-3474,"larro PDIP nasaba' BG tena nanjari nilantik, Manuver apa lanipake? http://dlvr.it/8g6JjV",negative
+indolem-train-689,Rannu narrusu'ko ngaseng nah rokkong-rokkong ko... tea' mako langngere'ki tau-taua yang tena ngaiko @RaffiAhmadLagi @Lady6igi Katte ? I kau rua,positive
+indolem-train-1496,"Kamarak jennekna bottoki, sabun sabunna apa tena niak singkamma kamara jennek kost kost, kodina poeng spreina siagang salimuk na rantasaki, tena ku kulle tinro napakamma rantasakna kah katalaka gara gara spreina tena na sambei. Iyo memang lammorok, bajik tampakna jai pabaluk kanre rampikna mingka tena kulle tinro, kanre baribbasakna kwetiau bari.",negative
+indolem-train-3397,"a'nganre kanreang te'ne riantara' wattu nganre, a'bahayai http://republika.co.id/r/nkbqmh",negative
+indolem-train-54,"anggappa bonus raja Rp 384 Trilliun, Wargana Arab Saudi anynyambei HP sanggenna bunting pole http://tinyurl.com/oem5tvp",positive
+indolem-train-2574,"kamara' kodi kasoro'na runtung, niyak AC mingka tena na'jappa jari bambangi kamma tena udara",negative
+indolem-test-875,"Hotele siagang pacicinikanga baji ngaseng. Mingka kamara Airyna beda mentongi sikamma maraenga, jai dudu balla laba-labana tenamo nyamang pattinroan napakamma perna nirasa dudui ri kalea na tattiling tong, AC ri kamara tenamo dinging tena poeng pammaloanna anging jari sumammang dudui",negative
+indolem-train-915,Upa'ka pata agang singkamma kau ngaseng kulle pare' baju mode kale-kale @infoMAN2BJM,positive
+indolem-train-1683,"mingka om, nakke mallaka sukses, tikammai? - tena ero singkamma kak Afgan? lolo umpa i, sukses, bodo ati. ???",negative
+indolem-test-212,#Golkar #ARB Rena Nozawa AKB48 Appilajara inji basa Indonesia http://bit.ly/1LjKjsr,positive
+indolem-train-658,Polong angga' 30 % -Konci & Konci -Panganreang & Pangnginungang Palastik +Polong angga' 10 % Kredit na Bank MEGA #PromoAhiri'Minggu,positive
+indolem-train-2316,Nuissengika punna 100% kajariangna mattung hp ri kamara mandia nasabakki taua erang hpna ri kamara mandi. #ProfessorMimin,negative
+indolem-train-1853,"tena nagampang kamma anjo sadara' niyak tau sanna angngaina mange ri kau, sanggenna napile ammotereka siagang tenao naperjuangkangko.",negative
+indolem-train-2284,Bare' akkulle nilu'lu' anjo kenanganga kamma ahhapus foto annindisji tombol delete ri hp #jujuru' http,negative
+indolem-train-1782,"Tena dinging AC na, pakakkasa Airy nipalappi",negative
+indolem-train-65,Tenaja batasanna kode ma’nassana  pakeanga ri kantorona Google.,positive
+indolem-train-1981,"rassi jadwalna sanggenna takkulle ammari mari, Syahrini: nakke anjari baine anging: taunna Syahrini akkulle nikana anjari... http://bit.ly/1Jve0uR",negative
+indolem-test-943,"Ca’mara, tena je’ne, kodi, tena kabajikang",negative
+indolem-train-1402,Tena mi sedeng na battu Syahrini ri kiokanna Mabes Polri http://goo.gl/fb/f5x3mf @tabloidbintang,negative
+indolem-train-2648,"Katua KPK Pappala’na SBY Tena Nipilei Jokowi, Demokrat Larro http://palembang.tribunnews.com/2015/02/19/pimpinan-kpk-usulan-sby-tak-dipilih-jokowi-demokrat-protes ? lewat @tribunnews",negative
+indolem-train-1805,"kamara' mandi rantasa, kasoro' pole a'rasa su'mung kanrena tena nanynyamang",negative
+indolem-train-1932,Punna ri wattunna bercinta siagan ia dangngalakmi ulunnu nganre ati. Bokoimi ia. Pakaramula tallasak beru siagang kanre benda enda ga'gayya khasiatna pole.,negative
+indolem-test-447,Acna tena dinging,negative
+indolem-validation-302,"Panjampanginna tena assau, kanreangna labbusu' wattu sahur, kamara' 2 allo tena ritangkasi, resepsionisna tena pattabe' siagang pakaballisi'ki",negative
+indolem-train-2083,dapara' kamara' sanna' rantasa' kamma tena nale'ba' ni pel.,negative
+indolem-train-1869,Kasuru'na terasaki. AC dinging. Nyamangi suasana na. Tipina jai kaluarana. Tampa'na ri pinggiri agang lompo jari gampangi a'seska.,negative
+indolem-train-268,India pata kantoro posna na kantoro polisina makajaia ri linoa.,positive
+indolem-train-467,"Tangkasa tempa’na, nyamangi, sicocoki nibayaraka poko’na, mingka wifina rateanga tena jari punna ero a’wifi naung paki, ngasenga baji",positive
+indolem-train-3371,"Adegang Pidio Klip ri Pasara' Glodok, Syahrini Pare' Suara' http://bit.ly/19NuY7E ",negative
+indolem-train-1411,"@jpnncom: PDIP larro lompo riwattunna Jokowi ammile BH http://m.jpnn.com/news.php?id=288565 ?""""""-partai akkulle bonek, mingka presiden tiyai bonekana partai @fadjroel",negative
+indolem-validation-319,"Tena na sombere pagawaina, ca’mara lipa pa’lunganna , panra pakkebu kamara mandina",negative
+indolem-train-1721,Tena na bambang dudu je’ne na,negative
+indolem-train-2834,Baji tampa..tena tangkasa dudu na pakakkasa mandina kurangi. Sombere passuronna,negative
+indolem-train-2138,Ngapana assikola punna kulia singkamma nieroka na tena ‘nipassa’ singkamma ri sikola,negative
+indolem-train-1597,"Pore siagang gammarak, lauaraki kamarakna. Iyanajiya ra'masaki dapara'na siagang anjo petugas allayaniyai tawwa tena nasombere'  ",negative
+indolem-train-3529,"Pajiki passurona, sicocokji ongkoso kamara’na, mingka eroki nisare parfum kamara mandina ka parrui. Anjo poeng tv na tena kulle nitontong baji napakamma kodi sinyalka. Mangasenna, posisina anne hoteleka bajiki na coco’ki punna taua nia parutusanna ri kuningan. Kabajikang maraenna anne hoteleka gampangi nigappa kanreang .",negative
+indolem-train-896,ero'na SBY jaya i ammotere' Demokrat ri Jawa Timur - Republika online http://goo.gl/fb/B9wWL8 #Situbondo,positive
+indolem-train-1880,"#MakasaarTidakAman """"@Koran_Mks: 23.05 sipasang bayuang nialle Hpna ri Jl batua raya 10 . 2 palukka’na lampai ro Borong",negative
+indolem-train-2515,"Pila' sallo kau nuissenga pila loe kekurangangku iareka Karaengata'ala napiccinikkang. Injo mi injo, niak intu rua pappileang. """"Nak aklampa atau tetapko siagang ia",negative
+indolem-train-612,"karannuang rakya' Saudi anggappa Bonus battu ri Raja, ammalli oto sanggenna bunting pole http://bit.ly/1w9JU4B",positive
+indolem-train-263,Tarima kasi' pangngai untu' ya ngasengna. ? tarima kasi pangngai by Afgan? https://path.com/p/mGfgQ,positive
+indolem-train-1949,"Kamara biasaji (punna tinroji, tena na nyamang), tena je’ne bambang boncoroki pabissa limang. Sassangi kamara’ (manna nia lampuna)-pantaranna hoteleka ra’masa.",negative
+indolem-train-1875,"kamara'na rantasa'ki, sassang tongi dapara'na singkamma tenabakka ri pel",negative
+indolem-train-59,kamara'na tangkasa siagang rapi. Kamara' mandina lumayangji. Kanrena tong nyamangji siagang lammoro'. Tapi sayangna wifina kodi. Tarimakasi',positive
+indolem-train-1777,#BaLamNews | Politikus Partai Golkar i Bambang Soesatyo ridugai nia passepakatangna antara' Presiden Joko Widodo siagang part... http://bit.ly/18b9QYI,negative
+indolem-train-3567,"sanna kurang tangkasa'na, kamara' mandina a'rasai, sanggenna se're kamara' a'rasa kamara' mandi.. Sepreina ra'masa'ki, kasuru'na a'barumbungi, wifina tena nia. Pamopporanga anne, tena singkamma gambara' siagang caritangna",negative
+indolem-train-207,F-Demokrat: Pakkanang Presideng sare pattojengang: Sekretaris Fraksi Partai Demokrat http://bit.ly/17hQVKB,positive
+indolem-train-2725,"Rupanna wattuna antama kamara…singkamma talebakki nimantangi. Toa pakakkasana, tv tabung tena nassa gambarana. Sombere papparutusna, mingka sepreina 3 allo a’bangngi tena nisambei, lambusu wifina. Jai olo-olo bangngi, sessai tinro nasaba katala.",negative
+indolem-train-691,"Tolla' HAMAS, Dakkana Pamarinta Ripuji PDIP http://bit.ly/1KwhWtq AS naretaski kartu SIM untu' a'mata-mata komunika... http://bit.ly/1AXi8Qr",positive
+indolem-train-2614,Jonan mo jari menteri kapujiang tinro ri gerbong keretayya. Anjari menteri kapujiang tattalekang larro2 napabattui kantoro AirAsia. Passala LION? Balle2 tinro,negative
+indolem-train-3301,serangang ammuno kale angkekere' oto Kedutaanna Turki ri Kabul http://republika.co.id/r/nkd67a,negative
+indolem-train-3613,"Warga: anjo Syahrini di? gammara'na, mingka bodo i... http://fb,me/6Eiu1t8yP",negative
+indolem-test-7,"@PDemokrat Tolong sadai pak Jokowi, allanjutkang program baji' ri erana pak @SBYudhoyono @PintarPolitik http://www.republika.co.id/berita/nasional/politik/15/02/19/nk0thc-demokrat-minta-proyek-mp3ei-tetap-nijalankan ?",positive
+indolem-validation-135,"Teako paccobai ambayuang siagang baine se’re sikola. Se’re poeng na sessa, anne iya se’re sikola",negative
+indolem-validation-203,Angngapako accini' hp narrusu'? Nutayangi kabara'na? Percumaji! Le'ba mi sare kabara' ri tau maraeng.,negative
+indolem-test-369,Kimae kimae arenna ny le'ba sangnging  lussa'!@kompasco : Demokrat  Protes Pimpinan KPK Usulan SBY Tena nipilei Jokowi http://kom.ps/AFploc,negative
+indolem-train-2164,"Punna nia inji wattu, eroja akkana, teaki lampa poeng di.",negative
+indolem-train-578,Kuassengji kalengku.. teaija I nai-naita! Mingka erokka ““tuli”” nia ri katte manna nalampaiki. :),positive
+indolem-train-2014,"Tampakna kamarak ri bokona Mak Beng Warung, jari kamarakna bau jukuk sanggarak siagang lada tarasi",negative
+indolem-test-506,"tena shower jeknek bambangna, brand barang airy tena, kanre kanreang na tasi pakjeknekanna airy tena, kamarana tena na tangkasak",negative
+indolem-train-362,"Sombereki passurona na gercep tongi, tangkasa kamarana, paccena wifina tena nagappa ri kamaraka",positive
+indolem-train-1660,"Tena tangkasa ruanganna, nia puntung kaluru ri lalang kamara , anjari le’lengmi palasti sowerka ri kamara mandia , tena napassadia ppajammakkang",negative
+indolem-train-588,nangai angnganre doriang? wajib amminawang ri festifal doriang ri Semarang! http://ow.ly/JFu87,positive
+indolem-validation-343,Tantu heba' shaher siagang syahrini maju maundur cantik ~ poreji syahrini tenaja na erangi sanggenna atinna :p,negative
+indolem-train-1578,"Pinruaki lette kamara napakamma matei Acna kamara se’rea, makaruanna nasuroki attayang",negative
+indolem-train-1620,Tena bonena tempa ka’dokang airyna,negative
+indolem-train-2625,Partai Demokrat : Jokowi Nalecehkangi DPR http://bit.ly/1A9c4SE  @PDemokrat @DPR_RI,negative
+indolem-train-1990,"Janjinna, erokko pa’ballei pa’risikku toh? Ngapana nu lampa wattunna pa’risikku birimmi mari? Ka nutambaiji pa’risi antu.",negative
+indolem-test-126,"RT @nogoyoso: Indonesia anjo ga'gai, la'bi ga'gai na pajana syahrini. .",positive
+indolem-test-606,"Hiiiiih lambaki nasaba lampa-lampa battu alle data takkalupayya, lampa poeng ngalle hp na purukang tattinggalka,? ? https://path.com/p/1QvUW7",negative
+indolem-train-3362,wifi tena nakkulle tassambung mae ri internetka,negative
+indolem-train-1201,kamara'na rantasaki,negative
+indolem-train-3028,"je'ne bambangna tena nia, wc na kurang tangkasaki. Maraenga baji'ji..",negative
+indolem-train-2971,Larroi PDIP tena jari nilanti Budi Gunawan http://cnn.id/33754,negative
+indolem-train-456,Ternyata anne rahasia gassing sebelumna zangnganre: Pola kanrea iareka nijappaimi anjo Lena? http://goo.gl/fb/I6HOK9,positive
+indolem-test-733,Mate internetna botto handu’na,negative
+indolem-test-612,Pammotoroka nisossoro oto 30 Km Nipattaewangangngi  http://bit.ly/1zpnVHf,negative
+indolem-train-3031,Bajik ngasengji.. Cuma parallu ni tangkassi daserek na kamaraka siagang handukna poeng.. Tau anjamayya bajiki nampa lincah ii. Bajik mi pokokna! Punna kulle airy napasadiangi kamarak niaka kanre barikbasakna barakka kulle ni coba kanre kulleyya ni coba tekamma,negative
+indolem-train-2745,tv na kurang lompoi + rakmasak ngasengi,negative
+indolem-train-1943,"baji' ngaseng, lokasina ri tangnga kota, yang parallu ribajiki jampanginna anjo: 1. passadia kanre baribbasa'na (naungki tette' 9 kurang, la'busu'ki kanre sanggara' siagang roti tena nia nampa ra'masa'ki mejanna, 2 ji panjampanginna na resepsionisna mi anjo tong). 2. tena nia alasangna anne lift ka tena ri parinra (na tena nia pabajikang) nampa ta'langga ka siagang tau toa 80 taung arusu' liwa' tuka'",negative
+indolem-test-891,"#Beritaberududu: masagala angngapa Menkumham anjari ukkurang ganda nisahkanna pengurus PPP siagang Golkar? http""//tinyurl.com/lagcrks",negative
+indolem-train-1318,Jai lamu' siagang kulipasa... sanna ra'masa'na dapara'na!!! siagang sanna ge'gere'na tena nabaji' hmmmmm.,negative
+indolem-validation-274,panra' pakke'bu toiletna siagang karyawanna tena nasombere',negative
+indolem-train-285,"paling parallu a punna a'boya calon bura'ne iyami antu anggappa tau panggaukanna baji', oto kale, balla kale siagang kollang pallangeyang kale.",positive
+indolem-train-787,"ana pasikolayya juarai a'baca carita lalang bahsa cinayya, anggappai seng pengalamang beru appilajara bahasa cina.",positive
+indolem-train-3449,"Approteski Demokrat mange ri Punggawana KPK nasaba' panggappana SBY tena napile i Jokowi http://nasional.kompas.com/read/2015/02/19/15225701/ Approteski Demokrat mange ri Punggawana KPK nasaba' panggappana SBY tena napile i Jokowi ? """" kurang umpa i Ruki siagang Indriyanto? #NuarekiRakyakaA'dangngadangnga",negative
+indolem-train-64,#Silalonna Charles Honoris eroki patojeng kabebasang mangagama http://bit.ly/1KwfyTv #newsShell says no agreement? http://dlvr.it/8ftGxX,positive
+indolem-test-360,"risubangngi wattunna assuluk gerbang gate bandarayya, tiba2 'ceklek'..... cahayana DSLR mange ri nakke kuareki nicetak tarrusuk nibalukang kamma tau wisuda ? ternyata taua aklampa.",negative
+indolem-train-767,"Koalla’-alla’ki hotelena, tangkasa passurona paccena angngapana anjo a’bangngiki na jai dudu lamu’na, sessaki tinro…",positive
+indolem-train-1091,tea salangngi bainea punna se're wattu a'lampai nasaba' mangngammi anciniki panggaukang tangngapasa'nu siagang tena nale'ba' nuhargai perjuanganna,negative
+indolem-train-2547,"Biasa ri Airy room niyak inungng napasadia, anne tenamo",negative
+indolem-test-132,"alasang angngapa se'de' agang baji, nasaba' jai agang biasa a'lampa http://mlsbgt.de/1wtspC4",positive
+indolem-test-450,"22.55: assilappo tallo oto (Innova,Avanza,Carry) ri jalur kanang Km 9 Tol Jagorawi lamange ri Jakarta. | (P.Rommy)",negative
+indolem-test-211,"Baine iyareka ri balla. Tenamo antu maraeng na tinro, akkarena hp, langngere kelong & accini’ tv. Punna mangngammi ri balla, napileangi tinroa.",positive
+indolem-test-88,Untu' apa susa a'boya anjoreng anrinni punna ri dallekang matami? ? Kamulah Takdirku battu ri Raffi Ahmad & Nagita Slavina ? https://path.com/p/1EE5QZ,positive
+indolem-train-934,detikcom lima fakta na i Afgan: Afgan Syahreza ni asseng anjari se're pakelong pore ri Tanah Air. Nama...http://bit.ly/1w1aDk2,positive
+indolem-train-2862,"superei, saraung pa'lungang, handu' parallu nisambei. showerna pole ero' nipabajiki.",negative
+indolem-train-1342,"Tantumi anjo iya RT @morry_osd: Punna paruru ji angnganre anjo nakasia' bassoro' narrusu, sinampe anjo taddo'do'mi #TaruihTarang",negative
+indolem-test-153,salamak bari'basa ! la mange mako antu assikola! semoga anne alloa rassi karannuang? Have a blessed day ya!,positive
+indolem-test-1009,lalo limbu'bukang nampa tena na pore,negative
+indolem-test-490,Passurona papparutusuka arenna lolita na syarif tena sopang na tena siri’na. jai inji hotele gammara maraenga.,negative
+indolem-train-3103,"Watttunna ri otoa akkelonga ri ranjanga, nakana anakku, ""Ssst, a'merekki, Pak, poreangngangi punna i anji angkelongangi.."" ""Asuu? Karaeng maha Asyiik",negative
+indolem-train-2558,RT @VTAURAN: tolonga kibali'ia yusi anassikola smkn 1 bandung patang allomi lannya' wattunna lampa anggerang motoro' vario.,negative
+indolem-train-375,"Nampai battu nisare baju ommale haha, kurru #voil nisarea anne #matalayu [pic] ? https://path.com/p/4umLN6",positive
+indolem-test-205,i kau tena bakka kale-kale nakke nia anrinni? ? Untukmu Aku Bertahan battu ri Afgan ? https://path.com/p/3IhAUj,positive
+indolem-test-867,"Kacewaka anne, kamara'na jai lamu', tena gappa barang-barang a'je'ne', siagang karoppona baji'ji singkamma biasana. Barang kulleji ribajiki poeng",negative
+indolem-test-115,"Download ki aplikasi na kulle download pideo 9X tippa na tena mbayara, cocok ngasenna hp http://bit.ly/1rzX0cK",positive
+indolem-test-116,Kamma anne fansna aa anri rua Raffiah na RANS na aa talebakki pisai fans2na ngaseng . Baji mentong kasep @RaffiAhmadLagi :),positive
+indolem-train-1923,Tena je’ne bambangna,negative
+indolem-train-1314,"sarringi resepsionisna tette' 1 bangngi tenapa kukkulle attinro wifi siagang tv kabala' nibuno jari akkulleji bawang acciniki kaluara sigang a'boya kaluara ri kamara', nampa pakke'bu' assulu' nikonci jari tena nakkulle a'boya kanre iyareka appesang go food. mingka anjo sarringa passala' tv siagang wifi",negative
+indolem-validation-113,bageang bainena Golkar Makassar nipibokongi pangngissengang Keprotokoleran: http://fajar.co.id/fajaronline-sulsel/2015/02/21/bidang-perempuan-golkar-makassar-dibekali-ilmu-keprotokoleran.html ?,positive
+indolem-train-3049,Tena tangkasa,negative
+indolem-validation-129,kantor'na DPRD Mangkasara' a'jari tampa' appallu segang tempa' attinro. mange angnganre segang tinroi ri dallekangna kantoroka. http:://goo.gl/fb/bkhYfi,negative
+indolem-train-216,"Solusi tikamma appare' baju lalanna se're gambara erokna atinnu, erangi gambara kikerokia-kattepa appa'jari erottaa",positive
+indolem-test-529,"Raffi Ahmad dan Nagita Slavina - Raffi Ahmad garring lompo, pi'lasaki gigi | 19 februari 2015 http://youtube.be/7nZLBtxbt7g?a",negative
+indolem-test-270,"Tangkasa kamara’na, rappi, nyamang ngaseng, parkiranna baji, kasuru’na nyamang, dingin ac, je’ne bambanna lancara, tv na lompo mingka paccena ri handu’ na kalimbu’na tena nipassadia.",positive
+indolem-train-1592,kurang inji resepsionisna sallopaki attayang nampai battu. tena nammantang ritampa'na a'jaga. anu bajika ngaseng lammoro segang bajiki pasilitasna.,negative
+indolem-train-808,"beru nganre seng, kurang tinro, ammuko bari'basa lari 21K. Arusu' ka gassing.. (ri Aroma Coto Gagak) [pic] ? https://path.com/p/1iqagL",positive
+indolem-train-61,Antara' #tekno | Kopi nakurangi resiko nataba multiple sclerosis http://bit.ly/1BHg7bi | http://goo.gl/16Qox,positive
+indolem-train-1449,"Tena gappa karoppo siagang barang-barang je'ne, handu' 1 ji yang tassadia",negative
+indolem-train-2618,#Ruangkita_tvone:Pa'sisalai Baju Palu Arit http://bit.ly/1wvrNox,negative
+indolem-test-808,ac na tena na dinging tena je'ne' bambanna mateji..masagala..,negative
+indolem-train-1148,"Suasana na kurang nyamangi. Untu' a'bangngi arusu' deposi' 300.000, tapi kulle risambei siagang KTP",negative
+indolem-train-1642,lumayangji. Wifi na kodi. Tampa'na lumayang,negative
+indolem-train-379,"Jai dudu drama, cini akkarenanna afgan poeng yeshh? ? Mae Katte na Nakke battu Afgan ? https://path.com/p/1g3olJ
+
+",positive
+indolem-train-2084,Sinetron misseng..!! @PintarPolitik: #NEWS Trimedya PDIP: kecewai tawwa mange ri keputusanna Jokowi http;goo.gl/KDhhLB,negative
+indolem-train-1420,Nakke ok punna minyak naik 25sen. Punna battalakku naik 25kg nampapi injo kukamallakkang. Nakke kanawa-nawang nakke nganrea untuk tallasak ato tallasak untuk nganre? :'),negative
+indolem-validation-291,niak se're wattu erok tojenga a'lampa. manna singngapanna akkulle ji anjari. jagai kalennu. teakko kumbala. sanna kusayangnu ({})  ?,negative
+indolem-train-1462,Riwattunna #10 taung lappasa' sanggenna kamma kamma anne tena memang nalompo conan. sudamo angngerang sialak nampa a'lampa niyak tonja mate,negative
+indolem-train-433,"hotele'na baji, panjampanginna ganna ji siagang kurangi AC na kurang dinging",positive
+indolem-train-1910,bathtub na tena kulle ripake kah tena nia pattongko'na. Siagang tena nia je'ne bambangna,negative
+indolem-test-609,"anynyamang kamara'na siagang luara', tangkasa', tenanaji wifi siagang je'ne' bambang",negative
+indolem-train-451,Dompet Dhuafa'na Sulsel a'bagei perlengkapan sikola http://www.dempetdhuafa.org/post,positive
+indolem-train-871,"iangasenga nyamangji. Lokasina ambani statisung, jai tampa' nganre siagang pa'bissang ri sakitar. AC dinging, kamara' mandina lumayang na tena pa'bambangna, tipi baji'. Seppa'ji anne siagang wifi na tena kulle riasses",positive
+indolem-test-200,na alihkangi rupannu pappilajarangku?? Ku Mohon battu ri  Afgan?https://path.com/p/KZNUg,positive
+indolem-train-9,"Agang, Amma na Tetta lampata anjo tena nikana nilampaiki mingka nisayangi siagang Alla. Kisayangi ngaseng? Jari tau baji doakangi",positive
+indolem-test-227,Kamarakna kurang tangkasak ..  jeknekna ca'di na mate toje'. loe lamuk. gekgereki tampa'na. loe anak-anak muda tena nabajik dudu panggaukanna. ac lumayanji dinging. Bajikji pelayananna.,positive
+indolem-test-994,"riwattunna a'bangngi tena ninggappa inungang siagang je'ne' inung, nampa tena na free wifina",negative
+indolem-train-947,naungi jumallana lurang ampaletteki pa'lampanna ri kantoro'na Lion Air  http://dlvr.it/8g7CCv #Indonesia,positive
+indolem-train-2718,iyangasenna baji'ji mingka tena na dinging ac na. tena nakkasia' baji' je'ne' bambanna,negative
+indolem-train-2979,"seppang, se'reji botolo' aqua na, tena chiki, tena sabong, odolo', pa'lu'lu' bangkeng tena tong",negative
+indolem-train-2046,kurang dudu tangkasa'na toiletna,negative
+indolem-test-177,"tampa'na porei tangkasaki,bauki rappi poeng. anjo angkodi pakkasiaka ACna boncoroki atau panraki  jari tena na dinging dudu.",positive
+indolem-train-1223,"le'ba mi, anne a'rasa tena kalotoro'na ero' rijama",negative
+indolem-train-414,"Sombere passuronna, ga’gai tampana&jai pa’balu kanreang. Nampa doe lammoro gappami kanre bari’basa, kanre jawa&pakakkasa bajika poeng. Iyareka kakalumannyanga, nipatangkasi poeng. Sallang..mae rinni sede",positive
+indolem-train-1737,Demer Akbaleki Naewa Kalompok Sudikerta: Demer nakua kalompok Sudiketa tena napahang mekanismena hukung ri kalenna Golkar. ... http://bit.ly/1AWy7ht,negative
+indolem-train-781,Balukanna battu ri Afgan anna kulle nigappa punna amminawang #COTM_Afgan. Klik http://bit.ly/COTMafgan iyareka niassengi carana nigappa,positive
+indolem-train-1327,kamara' appimalla' malla' siagang rantasa'. kamma tena nisambei kasoro'na nasaba' jai rantasa',negative
+indolem-train-992,Kamulah Takdirku – Kelong battu Raffi Ahmad & Nagita Slavina https://itun.es/id/M8Jr5,positive
+indolem-train-2229,dapara' kamara' kamma a'rakki'2. nasaba' tenapa kapang ni pelki,negative
+indolem-train-993,"35 ana' sikola, 9 sikola, 3 kacamatang na wakkele' #Bima!! A'rungang ri beasiswa 5 taung appilajara' ri SMP-SMA @smartekselensia! ?",positive
+indolem-test-703,"tena fasilitas battu ri airy, bajiki kapang punna nicek pole ammotere', tena nessingkamma kamara' nipesanga. riwattunna battu nasuro tawwa",negative
+indolem-train-3374,a'bilangngang wartawan asserbu Kantoro' DPD PAN Kota Bekasi http://beritabekasi.co.id/2015/02/ratusan-wartawan-geruduk-kantor-dprd-pan-kota-bekasi/?,negative
+indolem-train-2348,Tena nyamang na seppa. Tena tangkasa dudu sassangi sepreina,negative
+indolem-train-3090,"Kamara' baji', rekomengi punna a'bangngi. Kamara' mandina punna kulle risarei pa'bau' manna la'bi nyamangi",negative
+indolem-train-1328,"Cini """"""""Ngaruu Lalang Kelong Cherrybelle mae ri  Raffi Ahmad"""" | GoSpot RCTI | (10/04/2013)"""" on YouTube http://bit.ly/17hA2jl",negative
+indolem-test-362,toilet botto' kapang masalah salurang pembuanganna. sepre siagang salimuk rakmasak. appalak nisambei mingka tena niak HK bangngi. nibali resepsionis untuk appalluang lapisang. bari'basak kinjai bangkenga siagang limang katalak bentol bentol. singkammai tungau. TENA REKOMENDED,negative
+indolem-train-1096,Groaking iyami antu panggaukang acciniki tau maraeng angnganre mingka attayangi nisare todo' sikedde' ri anjo tau nacinika angnganre.,negative
+indolem-test-57,#Berita #Indonesia Demokrat nilei katappukangna presidenga assare kapastiang: Sekretaris Fraksi Partai Demokrat ri DPR R... http://bit.ly/17Z0dMC,positive
+indolem-train-1575,"klosetna panra', nisuro pabajiki mingka tulusu' panra'ji, a'rasa pissing kamara' mandina, pokokna iyangasenna masalayya niyaki ri toiletna, shower macet, pokokna sannaki panra'na..!! teya lammoroki mingka assala' niyak pacciniki tau a'bangngiyya ",negative
+indolem-train-183,"baine tenaja naparallu gammara', yang penting akkulle' a'mode, baju pore, sapatu pore, siagang paling parallu.. tena na'dangnga dangnga.",positive
+indolem-validation-59,Syahnas nasayang i raffi? cenggere' turusi di ganteng ? @RaffiAhmadLagi ,positive
+indolem-train-3000,"Coco’ji punna kamma injo hargana kamara’na, ka’dokang bari’basa na baji tonji, mingka tena tissu, arrasa kaluruki kamara’na, tena sampo. Mingka punna ero’ji tinro sibangngi, kulleji",negative
+indolem-test-497,"Jreng! nampami anne nikana berita! ""approteski Demokrat mange ri pimpinanna KPK nasaba' tena napile i panggappana Jokowi http://kom.ps/AFploc",negative
+indolem-train-1159,"s3cretpers0n Alhamdulillah, sukkuru'mi, Uni. Teako sanggenna lannya' anne HP poeng :))",negative
+indolem-train-1048,Iyyo! balang rampi ' kantoro'na Ridwan Kamil pela' gammara http://bit.ly/1wa8fxR,positive
+indolem-test-445,Nasaba jai dudu kamara jari tena niparutusu passala tangkasaka.,negative
+indolem-train-3601,A'rasa cet kamara'na siagang kamara' mandina ma'maraeng rasanna :(,negative
+indolem-test-595,attangngai pangnganreang akkaro karoa naparek tenai berhasil diet ta. #Diet,negative
+indolem-test-350,"cc @DpsCallcentre RT @giri_sujana naungi poko’nataba oto ri dallekanna Popo Danes Hayam wuruk, tulung talipongi DKP Denpsr",negative
+indolem-train-406,"#latepost alhamdulillah.. Tena na sia-sia akkarena band ri kantoro tanggala eja hahaa.. Kurrusumanga dekkeng,? https://instagram.com/p/zqccALpLDL/",positive
+indolem-validation-370,"Charles Honoris: Pammarimi Pilkadayya, KMP Tena sikontu tojeng kananna ri masyaraka’ http://bit.ly/1y125zo #Pilkada U.S. refinery? http://dlvr.it/8fzf4m",negative
+indolem-train-1416,tena niyak assicocok ri foto... tena inungang siagang niyak turusi lamu',negative
+indolem-train-338,"untu' ri 2x na a'bangngi anrinni, kamara' luara', lokasina strategiski, kanre baribbasa'na nyamang, panjampanginna sombere', wifina kodi sike'de'",positive
+indolem-train-554,ciee siagangi a’pallu haa @bangbily @raffiahmadlagi romantis tonji yaa daeng ri aa haa @realsyahnazs,positive
+indolem-train-3557,"pretttt, assingkamma gn angngapa na nisoting soting ""annangka' nangkasi kantoro' ESDM, akkana Sudirman: anne bagean revolusi mental via @detikfinance http://tinyurl.com/1723n8m ",negative
+indolem-train-314,http://samuelamtiur.com Tribun: a'janji i Syahrini la battu punna nikioki ri Mabes Polri http://dlvr.it/8g26dL #NewsToday #DKK,positive
+indolem-train-174,"Cyra ana’ jai kullena. Maraengna kulle akkelong, jai tong nagappa wassele ri sikola, anjari tongi passuara radio",positive
+indolem-train-2297,"Ac tena na dinging, shower tena na'jappa",negative
+indolem-train-2775,Kale-kale? RT @dillashelia: Daeng @radityadika angnganreka martaba',negative
+indolem-train-1407,katangkassang parallu nitingkatkang,negative
+indolem-validation-334,kasuru'na a'barumbungi,negative
+indolem-train-780,Tarimakasih cinta untuk iya ngaseng ika nusareang issede' kesempatang anjo tena?.? Terima Kasih Cinta ii Afgan (siagang Hady) ? https://path.com/p/17rR8c,positive
+indolem-test-505,tena nirekomendasikangi servisna kurang baji'.. tena nammake etika.. ku'de' kodi niakku larima anne.. biasana wattunna check out nampa narekeng punna nataba charge.. lha anne bangngi2 langsung appala' ri pakke'bu'. ri kamara'na tena kaca..,negative
+indolem-train-2521,"Di Banda, rua balla siagang 28 kayunna sapi ammayu, 400 balla', 30 hektare pare siagang 2 hektare batara' tallang, pagar sikola siagang kantor desa panra'.",negative
+indolem-train-2180,kamara' masagala nitangkasi,negative
+indolem-train-3314,ridugga accabuli rua siswi. Kepala sikolah rijammakang ke polisi http://republika.co.id/r/nk8dom,negative
+indolem-test-366,"Pajamayya ri pa’bangngianga appangadakkangi, mingka pallapi’na pakkebuka bottoki siagang sepreina ca’maraki",negative
+indolem-train-143,"PT Semen Padang Nasare Rp4,55 Miliar ri Sikola ri Padang http://bitly.com/1anmEfd",positive
+indolem-test-230,"Lokasina ri daerah perumahang,. Punna se’re kamara ca’di mentongi, area sembayanna tena luara, baji’na punna sallang nisambei sepreina nasaba nia bate kodi nicinikang, mingka punna eroja bangngi siallo coco’ji siagang doe ca’di, nia tong je’ne bambanna",positive
+indolem-train-3488,tena je'ne' bambanna. tena nassingkamma promosi na,negative
+indolem-validation-158,Issengi kapanna intu? Attayang bajikkang na amboya?? ? kau ka kutayang? (siagang Afgan) battu Rossa ? https://path.com/p/15tpWQ,negative
+indolem-test-20,@detikhot: salama attammu taung Raffi Ahmad na Nagita Slavina http://tinyurl.com/o8j2kdw,positive
+indolem-train-3515,Harga siagang fasilitas napasadiayya tena nassicocok. wattunna check-in tena handuk appalappi tawwa nampa niyak. katangkassanna bella ri tangkasaka punna ammake standar hotel. sanna jaina limbu'bu' apalagi riwattunna anynyungke corong corong accini' limbu'bu' kamma a'bulan bulanmo tena nitangkasi. a'rasa mara'maraeng kamara' mandina,negative
+indolem-train-1945,iangasenga a'passauji anne ji AC kamara' 203 tena dinging siagang kamara' mandina a'rasai sike'de',negative
+indolem-test-981,padahal ammakema baju la'bu limanna siagang saloara' la'bu. ammake tong jike'. anjo passaba' paccallaku ri dinginga pela' lompo,negative
+indolem-train-46,I Katte ngai oto tamiya? #SapaIndonesia pagi anne nia battu komunitas tamiya! Mba nontong kamma anne https://www.youtube.com/watch?v=u1cusoD1zcM ?,positive
+indolem-train-2795,Ranjang na pa’lunganna arrasa sumammangi,negative
+indolem-train-3576,"wattunna check in attayanga sanggenna a'biring sijang, rikamara' ac ku tena na dinging.. wttunna ri kamara' tiba2 nisungke battu pantara' ri karyawan hotel ternyata double booking, kasalang battu ri hotel ",negative
+indolem-validation-244,#NEWS Trimedya PDIP: I Katte Kacewa siagang Katappukangna Jokowi http://goo.gl/KDhhLB,negative
+indolem-validation-310,"Iangaseng baji' ji, tapi sike'de' catatang anne kamara' a'je'ne ka a'rasai, jai singkamma katingalo ca'di, tena nia' je'ne bambang.",negative
+indolem-train-1,"Ammakuk makuk ku NaBil @RealSyahnazS @bangbily RaGa @RaffiAhmadLagi @OlgaSyahputra82 sekre acara, nakkuk nakkukang siagang sii bongkarak bongkarak Ya Allah",positive
+indolem-train-2891,#Info: Syahrini Naanimi tena Pa'kantongi Izing Suting Pidio Klip ri Tampa' Umung http://owl.li/2UXB3k,negative
+indolem-test-427,"panjampanginna kurang baji'ki, lift na matei, wifi matei punna nia kila'",negative
+indolem-train-1074,"Baji kamarana, baji pakakkasa’na. terasa kasuru’na, nijampangi poeng tangkasa’na",negative
+indolem-train-125,"Bayuang beru anjo? :D RT @PutriKodok76: Anne min baju beru, u' beru, sumanga' beru, pa'dakiang beru siagang yang beru..",positive
+indolem-test-389,kadang-kadang akkimburu tong siagang tau yang nganre jai tapi tena na co'mo',negative
+indolem-train-2512,Panjampanginna sanna kodina. Tabe ribajiki,negative
+indolem-test-865,kalimbu' siagang handu'na nia' ra'masa'na.,negative
+indolem-validation-175,parallu pengharum ri kamara' mandina siagang je'ne' bambanna mate.,negative
+indolem-train-483,bangngi aha' acciniki konser battu ri Hati Afgan beuuhh ???? Knock me out battu ri Afgan? https://path.com/p/3NGuhR,positive
+indolem-train-2245,"Panjampanginna kurang baji'ki, allo-allona tena nasareki karoppo siagang barang-barang je'ne airy na. Untu' kamara'na tong tena singkamma ri gambara'ka..",negative
+indolem-test-824,"appare' video klip, Syahrini ammake konsep absurd http://dlvr.it/8fsPMI",negative
+indolem-train-2447,handuk lompoa parallui niak punna tamu la antamak. siagang untuk receptions na parallui siap ri lobia. katangkasanna kamaraka kurang bajik,negative
+indolem-train-1374,Rantasa kanre bari’basana nasi gorengji. Mingka amma’na baji na sombere,negative
+indolem-train-3044,karoppo na tena risare...anjo handu'ka se're ji rong risare nampa ripalaki berupi risare rua,negative
+indolem-train-2136,panjampanginna baji' sanna sombere'na. Ac na ji kurang dinging siagang solong tipina kurang jai,negative
+indolem-train-949,"Nu issengji, ri Japang nia' lowongang anjama anjari Toana Pa'buntingang Paballe, anggappaki gaji Rp 1,6 juta/allo nampa gappa tong maki kanre gorra.",positive
+indolem-train-806,"Tarimakasi' untu' Sikola Harapang Bangsa acarana susseski, suara', serui",positive
+indolem-train-3569,"pakke'bu' kamara' takkulle nitongko', TVna tena remot-na & tena handu' ri pakkakkasa' panrioanna",negative
+indolem-validation-367,Ana' jamang riolo: punna ero' nganre na potoi rong kanreangna. Ana' kamma-kammaia anne: punna ero' a'putsal na potoi rong sapatu putsalna,negative
+indolem-train-1367,"Baji passuronna, mingka…sumammangi kamarana toa tommi Acna nampa ge’gereki.",negative
+indolem-test-856,Politikus Golkar Naangga BG Pa’risi ati nasaba Jokowi: Salloi Presideng alle pappatojengang. http://bit.ly/1LmOHGZ,negative
+indolem-test-305,Syahrini Naewai KPK: Klaing polisi siagang KPK tena nia butti dakki'na siagang Fransisca iareka Feriyani. http://bit.ly/1LoweM5,negative
+indolem-train-3188,"pore pemandanganna. iyangasenna kurang nijampangi tampakna, ternyata toilet camping pantarangngangi nampa keteranganna ri traveloka kollang accokko, toiletna tena nijampangi jari taiyyangi showerna siagang a'rakki tehele'na, a'laporoka mange ri resepsionis kana tv tena na'jappa nakana panraki wifi a jari tena nakkulle a'jappa tv a ku bongkara' kale kale nampa kusambei biterei nampami a'jappa ammalasaki kapang resepsionisna ammaressa nasaba' bella i jappanna battu ri kamaraka mae ri resepsionis, siagang tena talipong ri kamaraka jari punna ero' tawwa attalipong resepsionis/cleanig service a'dakkapi tawwa mange ri resepsioniska. tena a'rungang ambani mange ri pantai siagang waterboom jari ammalasa' dudu tawwa naung ri pantai/waterboom. kanre bari'basa'na kanre sanggara'ji+jangang+bayao+nutrisari lemo",negative
+indolem-test-783,"Kodi, seppa kamarana, tena na tangkasa kamara mandina, biasaji kanre bari’basana.",negative
+indolem-train-3627,"Cyclops:D """"@vikingcampaka: akkullepi antu robocop :)) """"@YogaPHB: Syahrini ka niyak niyak tong...",negative
+indolem-train-140,"harga lamoro' mingka kanyamangngang siagang katangkasang ok. antama kanre bari'basa' prasmanan. tampakna ambani ri jl. Lingkar Utara, mingka antama a'rungang buntu, jari tena na ge'gere' sa'ra oto. Parkir oto luara' tong. kakuranganna? se'de' staf allayani (tena ambali i",positive
+indolem-validation-264,Tena kanre jawa nampa sagenna 4 alloki situru’,negative
+indolem-test-741,"politisi Demokrat Harga berasa' nai', jokowi appare' wacanaji tena panggaukanna http://www.tribunnews.com/nasional/2015/02/26harga-beras-naik-politisi-demokrat-bilang-jokowi-jangan-berwacana-saja-tak-ada-aksi? @didiemukri",negative
+indolem-validation-6,"Kamm kammaya anne poremi sikolana, riolo rijammangku boncoro' umpai pattongko'na, niyak umpa ammake sandala' anak anakna, nampa se're bangko 5 tau",positive
+indolem-test-540,"Lumayang nyamang, AC na ji kurang dinging siagang tangkasa'na parallui ritingka'kang",negative
+indolem-train-3544,Porei papparutusuna. Mingka pa’lungang airyna ca’mara singkamma taebakki nisassa. Nampa tampa pammolikang pa’lungang gau airyna ca’mara.,negative
+indolem-train-1771,Patugasna tena sombere',negative
+indolem-test-261,Bidang Baine Golkar Makassar Nisare Pa’ngissengang Keprotokoleran - Fajar http://goo.gl/fb/EUPFDo,positive
+indolem-train-1951,"#Lounge 5 Oto baji' taung subangngia, arusu' ri pammari produssina anne taunga http://dlvr.it/8mdWsf #Assadiqulhaq",negative
+indolem-train-322,"Wah, padahal KPK parekanna Fraksi Demokrat siagang Pak @SBYudhoyono sikareu' anjo jamanna appamari korupsi. http://www.beritasatu.com/nasional/250213-istana-ingin-bersihkan-kpk-dari-rezim-sby.html ?",positive
+indolem-train-324,Sanna baji'na cuma parallui nikatutui kamara mandina. sanna tangkasa'na ruanganna. cuma jai umpai lamuk.,positive
+indolem-train-1336,"Oke ruanganna, kanre jawana bajiki nitambai roti aiyareka kopi na tehna naiki pammajana 5-10 sab’bu tenaja ngapa singkamma bintoeng 4, ohiye ri inpona nakana nia sadia je’ne bambang mingka ri web airyroomsna tena napassadia je’ne bambang, singkamma ianjo sappanga tena na sombere ri toanaka.",negative
+indolem-train-942,Rani angngaleyangang Syahrini...http://j.mp/1AZGo2D #cumitweet,positive
+indolem-train-1086,"Sallo dudu assau = Pabosangngang. Assau tiippa = Pakaballisi. Nampa assaui eroki antama sikola, mingka antamaiki eroki assau",negative
+indolem-validation-159,#InfoNdoroMoe Ketua DPD PDIP Riau nacoreki  Rekaveny assegang Nuryanto battu ri calon Walikota http://bit.Iy/1LmOJ1C #BlusukanDunia Maya,negative
+indolem-train-1171,"jhon umbae angnganre allo | teya a deh | angngapai? sai kau tenapa nungnganre appakarammula bari'basa' | iyyo bassoro' umpa | angnganre kenangan di/? upss | fak -,,-",negative
+indolem-test-831,"Tena Rilanti' komjen BG, Golkar Tappui Jokowo Nakarenangi DPR http://www.jakpro.id/tak-lantik-komjen-bg-golkar-sebut-jokowi-permainkan-dpr/ ?",negative
+indolem-train-2733,"salimu' siagang pa'lungang a'rasa kamma tale'ba' nibissa i, niyak umpa u' tassiara' ri pa'lunganna",negative
+indolem-test-114,NEXT SCENE.. Digo najempuki i Sisi a'lampa mange ri kampusna segang.. ;) aiiih so sweetnya battuna sirenreng kyk gtu [cr as wm] Prilly Latuconsina and Aliando Syarief,positive
+indolem-train-1589,"Tena dinging Acna tena gaukang na poeng ri passuroa, tena na tangkasa dudu..nampaku kodi kasia ammake airy..",negative
+indolem-train-3225,11.19: RT @iskpage: a'kanrei balla nganrena ri margonda..,negative
+indolem-train-3106,Tena baji wifina,negative
+indolem-train-2200,Ups! aju modele' larinaung wattunna paccinikang Ardistia New York ri IFW http://tinyurl.com/okjpcxz,negative
+indolem-train-1093,"bungasa antama' kamara', tena nakkulle a'jappa baji' TV na. nampa appala' a'lette' kamara' tenayya napanra' tv na mingka tena nipasadia bajiki kamara'na.. niyak umpa kassi' ri dapara'na.. ma'maraeng rasa kamara'na siagang tena  inunganna. anjo wattua tena staf manna se're anciniki kammayya anjo. niyak allo antama riwattunna singara' allalo jendela ca'di. tena corong corong iyareka kaca akkullea antongkoki anjo sinaraka. sanna anggangguna. jari kupalaki nipalette' ammotere' mange ri kamara' riolo a mingka appalaka nipabajiki siaranna. rasanna kamara' mandina ma'maraeng tong bungasa'na mingka punna nipakemo a'lampami rasanna. maraenganna anjo poreji. tampakna sannang nipake ammari mari, stafna sombere' aseng siagang niyak pantry na appasadia coffee tea siagang inungan sereal gratis 24 jang.",negative
+indolem-validation-227,"tena nia kaya'na wifina, kamara' mandina kurang tangkasa'.",negative
+indolem-train-1403,"sanna ra'masa' na,,, jai kalimbu', kalimbu'na siagang handu'na ca'di, pajama pa'tangkasa'na tena ero' a'pela' loro na nakke 2 bangngi, na balamparekang lamporo', sepreina tong tena risambei. Punna tena ri suroi a'tangkasa' kamara' tena na tangkasi... A'kuling-kulinga barrasa' kale-kale kah jai kaluara na, punna assulu' sike'de' battu ri pakebbu' sanna ra'masa'na. nyassala'ka ri anne airya",negative
+indolem-train-3410,"tampakna tena plang niak logona Airy siagang tena niak nomorokna. tettek 8 bangngi, wattu nikutaknangi tampak anne Airy atau taniai, petugasna napaui sanna' tena somberekna.. kodi dudu pelayananna...",negative
+indolem-test-689,"Tena kanre jawana, tena sampo sabung  na pakakkasa mandina, ca’maraki kacinikkang sepreina",negative
+indolem-train-905,"Pas sebelumna anjari CEO Hp, Whitman CEOna eBay, antamai perusahaan e-commerce kaminang lompo. #inspiration",positive
+indolem-train-1236,"rannu dudu anggappa inungang pattamba battu ri airy. pore pammantangngang hotelna, ambani ri tangnga kota. Mingka kurang lumu pa'lunganna",negative
+indolem-train-981,"Tojeng-tojeng Allah sanna' natulusuk ri hambana punna nganre nampa dipuji Karaengata'ala saba' anjo kanreanga, punna nagnginung nampa dipuji saba' anjo inunganga (HR Muslim)",positive
+indolem-train-2616,"Sprei siagang ranjanna tena natangkasaa', tena na'jappa je'ne' bambanna, tena natassadia kamara'na.",negative
+indolem-train-2292,Tena wifi singkamma iklanna..,negative
+indolem-test-538,Kamara' mandina ma'maraengi rasanna,negative
+indolem-train-3135,"nakke kungai, anynyamang siagang sannang, mingka a'rasanaji sike'de' kamara' mandina mingka tenaja masala mae ri nakke puasja",negative
+indolem-train-2650,#JustInfo #ForYou PDIP Rinilei Kaalla'-alla' punna Natarimai Badrolin Kapolri http://bit.ly/1Lp6W0d,negative
+indolem-train-1969,"salurang tipi nia' ji tallu salurang lokal, karoppo tena sitaba-taba wc botto, saba' anne kost kostan anjari gegere' ri lantang bangngia nampa selimut tipisi' pula. pula nya sangnging resepsionisnya sombere'",negative
+indolem-train-2746,Punna akkoalisimo PKS siagang PDIP... kamma lanaengka'mi bangkenna i Ahok,negative
+indolem-test-929,teya tulusu' angkarruki tau a'lampayyamo. pa'risi' ati antu carana Karaeng ampaingakko angkana anjo tau a tiyai tau cocok siagang i kau.,negative
+indolem-train-2439,"ambani ri halte siagang stasiun. parallu a nipabajiki menu kanre bari'basa' kurang jai siagang wifina gangguang.. appala' nitangkasi kamara'na mingka tena natangkasa' baji', handu' tanni sambe i.. mingka maraenganna oke mi.. tarimakasi",negative
+indolem-train-2171,Bangngi minggu Ohh.. ri ballamo pale niagangi aa afgan tooh.. *biasannajombloinji* ? [pic] ? https://path.com/p/1A7l97,negative
+indolem-test-534,"Ca’maraki tembo’ kamara’, tena kulle nontong TV sikamma jai kaluara’na. tena ka’dokang airy siagang rupanna kamara teai sikamma Airy gauk kebo’",negative
+indolem-test-453,tarima kasi' jai dudu kiperhatikanga manna na sinampe'ja. nampa lampaki tena kana kana.,negative
+indolem-train-3257,kamara' mandi a'rasa sike'de' siagang ca'di je'ne'na,negative
+indolem-validation-196,"Ge’gere kamara nasaba jetpump. Acna tena kulle nipake baji, sumammangi anginga nampa bambang..",negative
+indolem-train-932,le'ba' kucini' lukisang gammara' 7 bidadari?  Kamulah Takdirku battu ri Raffi Ahmad & Nagita Slavina (siagang Melinda) ? https://path.com/p/3TjsmH,positive
+indolem-test-791,"11.08: DPK Jakut: Kabakarang Kapala' ri Pel Muara Karang Jakut & le'ba ri kiring 10 uni' oto pa'madang ri tampa'na, ri malla'kang a'rembeki ri kapala' maraeng",negative
+indolem-train-491,I katteji na nakke assengi kabattuanna pangngai kipata *eakk=))?? ? Mae ri katte nakutahang battu Afgan? https://path.com/p/464y1W,positive
+indolem-train-1759,"Standar, bangunang toa.. Mingka saklar listrik na tena na gassing tattaba ru rinringa, ac dinging parallui wattu sallo, lift sagenna ji Lt 4 padahap kamara ku niak ri Lt 5",negative
+indolem-test-400,"Sanna' kecewa, battu ri pajama pertamana anu dodong dudu assare konci kamarak, pajagana akbesereki rong, rantasaki kamarakna (singkamma tala lekbak natangkasi) sanging limbu'bu, pakkakasak katinroangna akrasa pakkung, AC panrak, WC na rakmasak dudui, tena pakkakasak panrioanna singkamma tampa' maraenga ri airy, pokokna sanna' kecewaku ka tena singkamma siagang napauanga ri aplikasi airy",negative
+indolem-test-82,"Waw! :D RT @CupyDevil: @caripenulis_com @jpg_pjay kacinikkang tena tojeng anjari tojeng lalang karya sastra, contoh pabuntingangku & Afgan :3",positive
+indolem-test-527,kungaii. Wifina ji kodi,negative
+indolem-train-2476,"kamara' siagang ruang tamu luara', sanna strategis lokasina mingka katangkassannaji parallu nitingkatkan ",negative
+indolem-train-3630,sannaki sallo proses check in na. bingungi stafna,negative
+indolem-train-2385,"kamara mandina tena tangkasa, tena na tassadia ngase kaparalluanga ri kamara mandia, punna maraenganga baji'ji",negative
+indolem-test-285,Kamma anne oto cara’deka iyareka ero napassulu Apple! http://ow.ly/Ju9fo,positive
+indolem-train-1774,"Tantu niyak passijanjiang, Buktina sannangji PDIP najo'jo Badrodin i Jokowi: Politikusna Partai Golkar Bambang Soesatyo men...",negative
+indolem-train-775,Syahrini Herangi Desa Singaraja - http://Tempo.co http://goo.gl/fb/JPR6nW #singaraja #bali,positive
+indolem-train-652,kabaranianna Raffi Ahmad mae ri Gigi @dahSyatMusik http://youtu.be/Lc4_J28QK-U?a,positive
+indolem-train-1293,"kamara' a'rasa kaluru', inungang siagang pakkakkasa' battu ri airy tena niyak",negative
+indolem-test-896,tena na jampangi bajiki katangkassang kamara'na,negative
+indolem-test-530,"Kau ngaseng nyamang tattambai pangissengangnu :’) Nakke? Hpji modalakku, manna internet poeng gratisanji :’( Tekamma ero... http://fb.me/1BvR2WkqB",negative
+indolem-train-1819,"AC na tena dinging, lampuna kurang singara'ki",negative
+indolem-train-687,Raffi Ahmad a'latihang Ijab Qabul ngabuburit 16 Jul? http://youtu.be/OfgXsS2jnEc nakku xan kamma anne assikanakkuki @bangbilly @RealSyahnazS,positive
+indolem-train-2798,toiletna kurang tangkasa',negative
+indolem-train-1524,"Bottoki rasana kamara, ca’mara toiletna",negative
+indolem-test-59,"Bayuangna anjo baji'ki; """"punna matei hp na, a'relai inrang hp agangna a'sms ji siagang assare kabara' ri bayuangna",positive
+indolem-train-1791,Tena na a'jappa baji anjo ACna jari bambangi.,negative
+indolem-train-2925,"Tasi' Hermes Rp 1,5 Miliar nipake Syahrini a'balanja gangang gangang: kabattuanna appabangka tau niyaka anjoeng... http://bit.ly/1Lopq18",negative
+indolem-test-684,"Luara kamara, nia restoran, kollang lange, & parutusang kamara, paccena: ca’mara kamara & sumammang. Tammulilinga ca’mara, kamara mandina ca’mara. Jene ca’di & botto. Bellai posisi kamarana ri parkiranga sitojenna anjo oto golfka sadia tarrusu na antara taua. Sessayya wattuna cek-out ka nierang kale-kale pakakkasaka. Laloanga poeng tena baji punna tenteng koper.",negative
+indolem-train-2643,Tena tangkasa,negative
+indolem-test-636,"hotel toa, sanna tangkasa', sanna anynyamang, airy tena nisare inungang?, harga pore, remot ac tena, ",negative
+indolem-validation-162,GWRS Ton (siagang jai ri Kantoro' Instalasi Rawa' Jalan RSSA) ? https://path.com/p/1k0wl9,negative
+indolem-train-546,Cara angngatoroki pola pangnganreanna amma' amma' appasusua sollanna natettere' naung battala'na kalenna,positive
+indolem-train-1866,Sessai wifina,negative
+indolem-train-3585,"kamara' mandi tena natngkasa iyareka appassulu' rasa tena nanynyamang ri ka'muru a. showerna mange panra'. Siaran Tvna sike'de'. kamara'na tena jendelana, jari su'mungi lalang. bare' akkulleji nipabajiki. maraenganna pore",negative
+indolem-train-1686,"massa pelang lacciri', Oto W06 Hamilton niyak masalana http://dlvr.it/8lkkwC",negative
+indolem-train-2339,*Anjo kana kana terasaka kamma i loro* Na areki PDIP ni ricu i Megawati https://jawapos.com,negative
+indolem-train-1459,"Nakke le'ba nia harapangku ri kau ammotere', siagang ahiri'na arusu'ka a'rela i kau tojeng-tojeng a'lampa.",negative
+indolem-test-569,"Nampa balle2 garring sollanna kulle tinro ri UKS sikola??? Punna tena nijamai PR nisruo jamai ri Perpus, nampa sallang tinroji ri perpuska wkwkw??",negative
+indolem-test-592,"kurang tangkasa', tena nammake loby, servicena tena tulusu' niyak",negative
+indolem-train-3268,Laccu lante ruangang kamarana….nampa parallua nitambai iyami sandala ri lalang kamara. Punna maraenga bajimi na pore,negative
+indolem-train-3016,"Tena baji kamarana, tena nyala ngaseng lampuna, pattang dudu, bottoki ruanganna, ra’masa kamara mandina",negative
+indolem-train-3636,iklanna partai Demokrat angkanangi Pau i Tena mae ri Korupsia. siapami tau nitarungku #appainga'ji bawang,negative
+indolem-train-867,Dasi na dasi nambalasaki karaenga iyareka kajariang ngaseng ni kau sanggena sallang na nuassengi ? ? Sadis battu Afgan ? https://path.com/p/4wkUis,positive
+indolem-train-2652,Ri Denmark ilegalki punna kanre assi mata ri wattuna bulang kalepu.,negative
+indolem-test-788,"Lokasi tojenna bajiki, ca’di kamarana nampa ge’gereki Acna, TV ammake inji antena lalang pa’lunganna arrasa inji wattuku injoeng. Seppaki poeng kamara ca’dina.",negative
+indolem-train-1456,"parallu nipabajiki pakkakkasa'na, bajiki punna nitamba i sandala' hotel. kasoro' nipasadiayya tena nacocok baji'. jaringang wifi bajikangngang punna nipasang ri sudu' sollanna na tettere' jaringanna ri kamara'na. i pelayanan hotelna baji'mi, mingka bajikangngang pole punna sombere' aseng karyawanna mange ri toananna",negative
+indolem-train-528,"Wah, Kalenna i Afgan naungi 19 Kilo. Pirang bulang tena sicini' Afgan Syahreza (25), katte panglingki. Ria... http://tinyurl.com/kftjjgw ",positive
+indolem-train-1050,Sari’battangku dompala ? ? Gammara’na anne pillenga tojenga !!! ? Rikatte na kutahang battu Afgan ? https://path.com/p/4fRWyk,positive
+indolem-train-1165,mangeko ammonei minyak kamma kamma anne. akkulei nubonei  25 sen/liter. teako pilangngerii pembangkanga. naiki minynyaka  nasaba pasaran dunia sala tong  BN ?,negative
+indolem-test-402,iyangase' battu pasti a'lampa. inna lillahi wa inna ilaihi rajiun Bapakku tercinta,negative
+indolem-train-383,Kingai nganre ri Rogers Roasters? Kamma anne nia diskon 15% ngaseng menuna allo-allo s.d 31 Jul? 15 min trans 250sabu make @KartuKreditBCA!,positive
+indolem-train-2417,"katangkassang kamara' parallu nipabajiki, a'rasa pissing, toana ribokona kapang angngerang anak anak",negative
+indolem-test-970,"Kamarana nyamang na tangkasa,mingka kamara mandina bottoki rasanna na ansusai dudu nampa katalaki kasuro’na. biasaji kanre bairi’ basa’na.",negative
+indolem-train-1919,ac na kamara' 309 boncoro',negative
+indolem-train-198,Golkar: Tena Sicoco’ Politi siagang Partai Balia http://dlvr.it/8fmKYx,positive
+indolem-train-2910,ac na kurang dinging siagang dapara' kamara' mandina tangkasi rong ganting tenana toana a'battu.,negative
+indolem-test-405,"Tas Hermes Rp1,5 Miliar nipake ammali Sayur ri Syahrini http://tinyurl.com/mjo5lbg",negative
+indolem-test-991,"katangkassang kamara', pa'jambangang, pelayanan resepsionist, ri pa'jambangang rantasa'. dapara'na didi, niyak pa'bungkusu' kongdom tenapa nitangkasi",negative
+indolem-train-2364,"je'ne'na kurang lancara', a'rasa kaluru', saraung pa'lungang tenapa nisambei. bonena kotak kosong tena je'ne' mineral siagang tena nassingkamma gambara'",negative
+indolem-test-969,"tangkasa' kamara'na mingka tena pammambangi je'ne' lalang, lamba' wifina, anrimi rimi siaran TVna, kanre sanggara'ji kanre bari'basa'na.",negative
+indolem-train-499,"lagu balonku niyak, anggajara' tawwa anta'gala' jarreki niyaka, tiyai angkarruki a'lampayya",positive
+indolem-train-447,sikeddena kuu'rangi jamang sikola ku.,positive
+indolem-train-668,"ii Ali sibuk dudui kayakna siagang hp, anjomi ta'muri-muri ii anjo tekne dudu!! SITUJU? RETWEET!! @alysyarief @PrillyBie",positive
+indolem-train-1789,kamara' tangkasa' mingka kamara' mandina ra'masa' tena nijampangi,negative
+indolem-train-764,@edwardBosker untuk kantoro' GA terminal 2 Bandara Soekarno Hatta a'jappa umpai. Tarimakasi. - Fuadi,positive
+indolem-train-1026,"Pongoro' pilajara' ri sikola assare pa'upakkang, sala se're na a'tamba cara'de' ki ana' sikolaia. [Social Indicators Research]",positive
+indolem-test-474,PDIP passai Jokowi panjari BG Kapolri nakulle passalama Mega. BLBI 647 Triliun! http://chirpstory.com/li/250482 by @RBicara,negative
+indolem-train-3060,"AC mate attallasa', punna a'jappa ge'gereki AC na..",negative
+indolem-train-2525,Nijaga mentongi tangkasakia,negative
+indolem-train-2790,"Kodi je’ne bambangna, battu-battuangi ca’di je’nena, nampa tena lamarinna, jai kaluara ri kamara",negative
+indolem-test-576,Tena na dinging ac nampa ca’mara lantena tena gappa kanre jawa,negative
+indolem-train-2993,assa'bu nelayan amborongi kantorona Mentri Susi http://dlvr.it/8I$g0q,negative
+indolem-train-170,"lumayang, iyangasenna anynyamang mingka, niyak siapa parallu nijampangi, kurang tangkasaki kamara'na, niyak bate rexona rungnganna kasoro'na battu ri toana bungasaka, maraenganna luar biasa. anynyamang, wifi tettere', pelayanan baji'. tarimakasi. nirekomendasikang ri tau a'jappa jappayya mingka bingung a'boya tampak pa'bangngiyang, tarimakasi, tarimakasi airy. kau memang keceee",positive
+indolem-train-916,Porum Komite Sikolaia Nadukungi Wali Kota Mangkasara' Pa'lannya' Geng Motoro' http://bit.ly/1LBlquh,positive
+indolem-train-3583,"Haha""""@JosephSiahaan2: RT """"@kompascom: Demokrat Larro katua KPK Pappala’na SBY Tena Nipilei Jokowi http://kom.ps/AFploc """" @MohammadMakruf",negative
+indolem-train-1298,Lumayang kamara’na mingka wifina tena kulle nipake…,negative
+indolem-train-3439,"nakke anrinni 3 allo, nampa karoppo'na sikali ji heheheh",negative
+indolem-test-765,"Tasi Hermes Rp1,5 Miliar napake i Syahrini mange ammalli gangang http://bit.ly/1Lopq18 | punna mange ri matoang na siapa are mo ballinna ^_^",negative
+indolem-validation-396,"Tena ising, Syahrini Suara'ki Wattu Suting MV 'Seperti Itu'"""" http://ift.tt/1CYHLhi #hiburan",negative
+indolem-train-2970,1. sassang dudui lampu kamara’na 2. Matei se’re lampu kamara mandina 3. Tena pakakkasa je’ne 4. Tena na baji ac na (tena arrasa ac manna dipaca’di) 5. Battu-battuangi kulle na tena je’ne bambanna,negative
+indolem-train-1434,@JANJISUCI_TTV: Lhoooo.. anjo @RaffiAhmad angngapa namange ri pangkalan ojeka ammake baju kelinci?? #JANJISUCITTV,negative
+indolem-train-436,Demokrat nilei Jokowi sare butti teai janji http://goo.gl/fb/CeJIjv,positive
+indolem-train-339,Poros mudana golkar annilai Jokowi akkulle nakendalikan situasi kamma-kammaya anne - BeritaSatu http://dlvr.it/8ft7y8,positive
+indolem-test-697,"niyak umpa jamang interior, basa umpa toiletna, tena natangkasa' baji dapara'na siagang superei jau bulu2 u'",negative
+indolem-train-3009,la niak tonja wattunna anjo tau aklampayya ammoterek ji na lassung appalak popporo. ikatte? tea tongki paduli sama sikali.,negative
+indolem-validation-190,"Kucini tenapa tangkasa dudu kamara dii. Ri bokona kursia,mejayya nia inji alimbu’bu",negative
+indolem-train-1461,Acna sallo dinging,negative
+indolem-train-3105,lumu' lumukang wc na..appiringi' ringi',negative
+indolem-train-2254,"battui tette 1 allo tena kulle antama sa'genna tette 2 nampa sannami mangngangta. sepereinna ra'masa, kamara'na allammasaki, bella battu kotayya, mingka sesuaiji ka lammoroji hargana. tena kulle ni rekomen.",negative
+indolem-test-371,"Sukkuk fasilitasna siagang kanrejawa ri lalang kamarak okemi. Tapina kasorokna kurang nyamangi, nisakring dudui per na ri kalengta, nampa paklungan caddi warna gauk botto ki, kamma punna sallo mi tena ni sambei, tapi tenaja ngapa bajikji lah.",negative
+indolem-train-1854,"gammaraki pemandangang hotelna, mingka nipabajiki sada i AC na sollanna na dinging jari pela' sannangi ammantang toanayya",negative
+indolem-train-2710,kamara' mandina kurang tangkasa'ki,negative
+indolem-validation-119,paling kuttu pas ambangung baribbasa saniasa antama ri sikolayya onjong punna cuaca lumung atau bosi,negative
+indolem-train-3472,"Papparutusu’na tena na sombere, nampa ge’gere dudui suasanana",negative
+indolem-test-847,tolonga ero sikalima ammuno tau ?? ? Sabar battu Afgan ? https://path.com/p/1VUm4E,negative
+indolem-train-539,"twitter anynyungke kantoro cabang ri indonesia, apa alasanna? anne penjelasanna via http://ngi.cc/n45c",positive
+indolem-train-3357,"Acna tena dinging, kalimbu’na na sepreina katala singkamma talebakki nisambei 10 taung",negative
+indolem-train-2420,ac kamara'na appassulu' sa'ra ge'gere',negative
+indolem-train-2409,Approteski pammarentana Demokrat mange ri pimpinanna KPK nasaba' tena napilei panggappana SBY : Intelijen - Fraksi Partai Demokrat sassa'lalang,negative
+indolem-test-443,anne butti PDIP tappuenasaba' jurusna Jokowi: passisalang nasaba' tena nanjari nilantik Komjen Budi Gunawan.. http://bit.ly/18adtOz #kabari,negative
+indolem-validation-284,pore siagang puas mingka niyak umpa kakuranganna riwattunna kuboking airy rooms se'reya katinroanna kupile mingka riwatttungku check in rua katinroanna.! mohon nitingkatkangi. tarimakasi airy rooms.!,negative
+indolem-train-634,kamarana situjui ballinna.. panjampanginna pajamayya sanna baji'na. nia je'ne bambang. sepreina kunyi' ngasengi. handu'na a'rasa sikola' tena kolotoro'. tena nia tuka' jappana tapi nakke tahang anrinne,positive
+indolem-train-914,Demokrat nanilai katappukangna presiden sare kapastiang http://ift.tt/17ZrApC  #MentionsFor #DoraemonPic #STMkerasbosss,positive
+indolem-train-3484,"Lumayan ayem, mingka jai ACna panra' jari kurang dingingi",negative
+indolem-train-3507,strategis. kurang tngkasa'naji katinroanna. maraenganna sesuaiji hargana,negative
+indolem-train-1651,Yaadende..niami kutaeng parno anne RT @kompascom: Demokrat larro Pimpinan KPK pala’na SBY Tena nipilei Jokowi http://kom.ps/AFploc |@kurawa,negative
+indolem-test-743,"Arrasa kamara & ca’mara, botto toilet, le’ba a’bangngi rinni natabaka garring bukkuleng (batti-batti & katala)",negative
+indolem-train-3536,"wii tala rinrai, jeknekna botto', pelayananna kurang bajiki, singkammai kos-kosang",negative
+indolem-train-1190,"@InfoBDL: #infoBDL – Se’re Siswi Niba’ji Agang Twitter-na, HP Nira’bu http://bit.ly/1AZYjYM """" awalanna twitbundu?",negative
+indolem-train-2217,"kamara' niyak umpa a'rasa limbu'bu. kmara' mandi kajempangngang showerna, tena tong je'ne' bambang :')",negative
+indolem-train-1684,anynyamang mingka sannaki sarring boncoro' AC na,negative
+indolem-train-2086,Demokrat larro Pimpinan KPK pala’na SBY Tena nipilei Jokowi: Fraksi Partai Demokrat nasassalli jappana Preside... http://bit.ly/1vIWdom,negative
+indolem-test-908,"Kasia’ bambungang iyareka gappa sapeda tena beru, na kasia tau maka se’rea nai ri oto presidenga kukana SINGKAMMA. Sannang, nampa kabiasaang na la’ju?",negative
+indolem-train-608,"Nakke bangngi 4 N, pata kanre jawa na pakakkasa’ je’nena (sabung dll) nisarenagji ri allo se’rea ji. Punna tangkasa’na & kanre bari’basana ok",positive
+indolem-train-1632,"Tena dinging acna, pintallumi 3x pajamma tena gaukangna, jai panra lante kerami’na",negative
+indolem-train-3187,Golkar nipimpingaji ri ARB na aku i KPU Sulut ,negative
+indolem-validation-187,"Pegawai tena sombere', tena nangisseng appau na wassele'na kurang baji tongi. kamara susa nipake assambayang",negative
+indolem-train-1610,"tena nasombere' baji' resepsionistna, rantasa' siagang a'rasa liftna, tena na lancara' baji' je'ne'na mingka poreji je'ne bambanna battu ri showerka, katangkassang pa'lungang siagang supere i parallu ni pore i, sarring nasaba potensi baji' mingka tena ni dukungi ri profesional SDM na, pangngawassanna parallu nipore i",negative
+indolem-validation-56,"nyamangi tempa’na & sombere passurona. Mingka ri tangnga bangngia nia toana ri dallekanna papparessayya na nipassangi tassungke pakke’bu ri 
+ pajama bangngia iyareka kojo’ sollanna nilangngereki sa’rana ri kamara. Ngasenna baji’.",positive
+indolem-train-2546,"Ga’gaji kamara’na, mingka tena na sesuai harapang ri cinika ri gamabarakka…mate talipong kamara’ nia’ lamu’ tena na dinging AC na tena poeng paje’nekang singkammayya ri airy",negative
+indolem-train-2118,"passala' kandang jangangji, oto satpol pp sike'dekang nituni ri tau http://bit.ly/1FrmsVH",negative
+indolem-train-430,"Nakke la niak ja punna paralluki, manna mamo la kutahangi jennek matangku, ku ewai pakrisikna atingku anjo narrusuk suroka lampa bella ri kau.",positive
+indolem-test-557,Tena na tangkasa toilet,negative
+indolem-train-3256,"Niborongi Syahrini ri wargayya: ""Eh anjo Syahrini, gammarakna di, sanna gammarakna. Mingka bodoi bela,"" sitau akkana? http://dlvr.it/8fvXBv",negative
+indolem-validation-57,Lampa pakkebu’ antama Soundwave Fest ammake baju battu band toayya..sadia”” siallo nibonei tolinga ri? https://instagram.com/p/zoe2kXh7yc/,positive
+indolem-train-396,"97. Apa poeng Demokrat, ma’nassa sannangi punna PDIP nasalai Jokowi nampa punna kulle sidallekangi ri Jokowi. Singkamma gappa duriang mattung.",positive
+indolem-train-3124,Kodi passurona,negative
+indolem-train-2434,"15.23: Akkanrei oto Mercy Le'leng B1945 SH ri Jl. S. Parman, pas ri dallekanna Central Park battu ri Tomang mange Grogol Jakbar. (P. Momo)",negative
+indolem-train-946,Link obsesi= Raffi Ahmad na Olga Syahputra Nikacinikkangi Kabajikang - Obsesi 19 Februari 2015: http://youtu.be/UjfYJCrlCfo?a malo @YouTube,positive
+indolem-train-353,Nganre tiboang punna tianang kulle panaung nataba garring ri anaka sallang lassu’. [JAMA Pediatrics],positive
+indolem-train-1840,"tv panra', wc ra'masa', tena snack.. kecewa ri anne pa'bangngiyanga ri airy",negative
+indolem-test-342,Kamarana nia kaluara’na. nia masalanna kamara mandina. Solongang je’nena tassumba..sollanna je’neka tassimbung assulu ri kamara,negative
+indolem-train-2748,ammemi hp nu. RT @ndrarahmat: @my_supersoccer punna chatku nabacaji apa lakujama min? #tanyasupersoccer,negative
+indolem-train-619,Pakuttua lampa anne aloa Konser Battu Ati AFGAN :* (with Yodie at Yodieandliya's Castle) ? https://path.com/p/1E4W4E,positive
+indolem-train-1754,[NGERI] sike'dekangi assiba'ji Raffi Ahmad siagang Depkolektor @Dahsyat 25 Sep,negative
+indolem-train-3236,lammoro' siagang anynyamang mingka rantasa' se'de' toiletna,negative
+indolem-train-3368,Taua kinne loe punna angnganrei ri kapea atau restoran potoaji nau'rangi mingka nakaluppai amacayya doa. Follow @GadgetGaul untuk tips & info gadget gammarak,negative
+indolem-train-980,"positif: Lokasi strategis.. battu iya ngaseng airy hotel iareka lekbak kumangei.. kinneji kamarak tinroa nitangkasi allo-allona.. handuk nisambei allo-allona.. ca'ma-ca'mang, jeknek inung siagang pakakkasak jeknek nisareangki allo-allona, anjari selama 3 allo konjo nakke angguppa ca'ma-ca'mang, jeknek inung, pakakkasak jeknek 3 set..patugasna somberek.. lokasina strategis.. ri ampi'na hotelka loe todo' tau akbalu kanre.. bajik dudu towwa punna kammayya ji anji ballinna..katangkasanga memang tojeng-tojeng nijagai..sanna' nirekomendasikangi.. negatif: tena lift na, njari paralluki naik ri tukaka.. wattungku battu, nakke kale-kalengku erangi tasi' dengngekku siagang koporok mange ri lantai 3..padahal patugasna nacinikja apposo-poso ammantang ri setiap tukaka per lantai nasabak battalaki barangku mingka tetapji tena nabantuki.. jeknek bambangna tena narinra.. ri area mejanga tala niak lampu.. njari erokki anjama tena tong nakulle ka sassangi..",positive
+indolem-train-1056,Nakku' iangasengka @raffiahmadLagi @lady6igi barang amminawang bura'nena ri pesbukers.. Nakku'ka iangaseng,positive
+indolem-train-3284,"Parallui niparutusu tarrusu Acna, teaki tayangi pote-potena toanaka, kurrusumanga",negative
+indolem-train-3021,Tena na gappa kamara wifina,negative
+indolem-train-736,SMS battu ri tau ningaia anjo sanging kulle naparekko mempo tekne sambil ta'muri-muri kale-kalennu accinik hp. Hihi,positive
+indolem-test-63,"Tangkasa dudu tampaa na nyamang siagang passurona sombereka, mingka je’ne bambangna tena jappa",positive
+indolem-train-3455,"11.35: RT @Yudi_Lands: Natabai pammaji na pa'demoa ngaseng ri PTPN4, Jl. Suprapto Medan, otoa anjari korobang",negative
+indolem-train-1465,"wifi tena assambung, suasana kurang sannangi ka nia pa'bajikang ri lobi, kamara' la'bi ca'di battu ri kacinikangna, tena nia pa'pare' kopina ri kamara' nampa nia' ri potona, nia katingalo ri kamar' jari susai nipassulu' ka jandelaia kacaji tena tong kulle risungke.",negative
+indolem-train-2796,"MedPutra; PDIP nicini' maraeng punna natarima Badrodin anjari Kapolri:INILAHCOM, Jakarta_Anggot...",negative
+indolem-train-1267,bau' ruangangna kurang nyamangi. Iangaseng kurang tangkasa'ji kaya'na,negative
+indolem-train-2764,Tassiapa mate lampunna na seprei sigadang kalimbuna tena tangkasa.,negative
+indolem-train-1348,Tena na tangkasa sepreina. Nia inji bate u’na ri kamara rateanga,negative
+indolem-train-1709,"bellai battu ri harapanga.. Untunna a'bangngi, polong angga battu ri airy jari tena na rugi dudu. Dapara'na ta'bi'bi', seprei singkamma tena ribissai, kalimbu' singkamma seprei sanna tipisi'na. Remo' ac na tena a'pungsi. Na handu'na poeng arusu'ki appala' rong. karoppo tena nia, je'ne inung ji. Nia klepongna tapi jaranga kanrei,, tapi injomi toh standarna airy? tena risarangkang punna angga' normal",negative
+indolem-train-2079,"Niya wattu anjo bainea tena nabaji' nyawana, eroki a'lampa mingka angngai umpai, erokki ammantang mingka pa'risiki atinna, Tantu anjo kodi kasia'na :')",negative
+indolem-train-461,lani apa sessa a'lampa mange mange punna ridallekang mata? Kamulah Takdirku battu ri Raffi Ahmad & Nagita Slavina ? https://path.com/p/xRE8V ,positive
+indolem-train-2624,"Kau bingkasa, ko'di.. Ri poco'mo? Pesan Cinta battu ri Afgan? https://path.com/p/1Ly246",negative
+indolem-test-309,Ac na wifi kamara tuli panra,negative
+indolem-train-1065,"tena na stabil baji' wifina, iyangasenna oke, pore siagang tangkasa'. sombere' pelayananna siagang niyakja manfaatna..",positive
+indolem-train-1221,"Punna ana pilajara’, nipabellai hp battu katte. Punna ambani, kompom tena ero pilajara.",negative
+indolem-train-2617,Baji lokasinna mingka kamarana tena tangkasa,negative
+indolem-train-351,"http://beasiswaindo.com/5239 Beasiswa Penuh, SPP & BPP Pokok - Sekolah Tinggi Manajemen Transpor (STMT) Trisakti ~0224",positive
+indolem-train-2037,"Tojengikah punna Hatta anjari makase’rena PAN anjari taung-taungnai Demokrat? """" battu @SangPemburu99 http://chirpstory.com/li/252988 """" @M4ngU5il @Politikcara’de",negative
+indolem-train-1284,katangkassanna kurang. tolong niperhatikang umpa i. mingka poreji harga kamma anjo siagang nigappaji,negative
+indolem-train-3404,Kamara'na nyamangji iya tapi battu ri wc na niara'mi a'rasa salokanga na nia'ki ri lante 2. Samoga ribajiki la'bi baji'ka poeng,negative
+indolem-train-866,palang palangki ri oloanga @RaffiAhmadLagi salamakki ammari mari... jagai kasehatanta sollanna tena ki linta' mangngang have a nice dream aa with @Lady6igi,positive
+indolem-train-1077,"Sallo cek-inna, ruangan kamarana tena tangkasa, nampa toilet tena niparutusu, tena kulle nipake sowerna",negative
+indolem-validation-350,Tena baji wifina,negative
+indolem-train-2900,Ra’masa tampana nampa sassang gumuru’,negative
+indolem-train-1889,"Katojengangnna ngaseng ero dipakabajiki. Punna battu tamua, baji’na punna iya ngaseng pasilitaska nia’mi. anjo tamua attayang siapa jam na mangngang tena na nyamang.",negative
+indolem-train-72,"Tolla' HAMAS, Dakkana Pamarinta Ripuji PDIP http://bit.ly/1KwhWtq Menag napawwangmi umma' Islamka amminawang pa'cini' mayor... http://bit.ly/1AXKYQv",positive
+indolem-train-404,"Woh, ngapa kulle? :D RT @Arlaaan: hampir tongma cobai kimchi chigae yang na pareka farah quinn ri kantoro :)",positive
+indolem-train-2048,"kondisi kamara' rawa dudu.. nakke biasa ammake Airy Rooms.. mingka anne paling kodi.. 1. AC kurang dinging. 2. tena inungang 3. je'ne' bambang tena na'jappa 4. biasaji kamara'na tena nirekomendasikangi, punna panggappaku,,,",negative
+indolem-test-539,"Salloi passurona, tena baji’na na tempa’na. coco’ji nibayaraka",negative
+indolem-train-3447,Mannaungi tau paboliki tiketna ri kantoro Lion Air: Tassimbungi tau a’dongkok napakamma tena jappa par... http://bit.ly/1LpceZU,negative
+indolem-train-1510,"Ero lampa na sayang inji. Mattahang, mingka tuli nisessaji. Kammami anji pangngai pikakkalana. Sanging sala :’)",negative
+indolem-train-3174,"porei reviewna jari kupesangi, mingka anggappa a kamara' limbu'bukang. jai ru'mung laba laba. limbu'bukang salimutna. tena tissu. tena nabarrasaki tuka'na. pore siagang sombereki pelayananna. tarimakasi', bare' niya' peningkatan",negative
+indolem-train-629,Demokrat: Katappukangna Jokowi Soal Kapolri A'sarei Kapastiang http://www.gatra.com/politik-1/134860-demokrat-keputusan-jokowi-soal-kapolri-beri-kepastian.html ?,positive
+indolem-train-2752,(ammongkara' hambalan) Demokrat approtes mae ri punggawana KPK panggappana SBY tena nipilei ri Jokowi http://bit.ly/17ZEVOV ,negative
+indolem-train-3548,"Tena na dingin ACna, ra'masaki nicini, tena nirekomendasikangi.",negative
+indolem-train-2882,"sannang anynyamang, mingka TVma errorki",negative
+indolem-validation-378,"#Teknologi Le’ba’na make intang 5 M, kamma anne Syahrini attanja tena nyambungi http://dlvr.it/8g8NZm #Assadiqulhaq",negative
+indolem-train-169,"Angnganre bua tangang tangang akkullei na atasi Acid  Reflux,  kimainjo asam lambung biasa naik sa'genna kallonga",positive
+indolem-train-676,"Oto ca'di, stylish & tutu memang pileang cara'de' """"@AlexandraRacing: @Auto01_tvone #auto01tvone",positive
+indolem-train-1680,Hati-hati. Niak te'ne untuk akkana. Siagang aklampa punna lekbakmi nakasiak.,negative
+indolem-train-1669,Tena na baji dudu passurona mingka akkuta’nang ji je’ne bambanga na maraengmi tanja’na nampa tappassa mami tulunga,negative
+indolem-train-99,Wanda Hamidah ammari janda a'nikka siagang bura'ne attatto' - Sriwijaya Post http;//gpon.co,positive
+indolem-validation-28,"Secara iya ngaseng tampakna nyamang. parkiranna pole amangi. AC, Wifi, siagang jeknek riona lancarak tonji. Mingka agak dodonga napakamma daparakna kamarakna taniai kaeramik siagang kamarak mandirna rakmasaki sikekdek ri langi'2na. Secara umumna punna untuk nipammantangngi bajikji iyya",positive
+indolem-train-2581,"kamara'na kurang luara', la'bina nyamangji siagang wifina lumayang untu' ri kamara' na tappu'-tappu' narrusu ki, punna kulle kanre baribbasa'na ri antara' ri kamara'ka ngaseng, kah kamaseangi yang salloa jari tena kabageang kanre baribbasa'na. Makasi'",negative
+indolem-train-119,Jokowi Appakaramulami Natampeleng PDIP. Inai kulle Diktei Presideng Jokowi? Tanre! http://bit.ly/189Kryx  @PintarPolitik,positive
+indolem-test-511,"Tenaja kodi pakakkasa’na! passuronaji tena makanyamang, nampa hotelena jai hantuna",negative
+indolem-train-282,kamma kamma anne angkelongangi anne lagu a akkale kale bare wattu andallekanga ??  Kamulah Takdirku battu ri Raffi Ahmad & Nagita Slavina ? https:// path.com/p/1c5BM0,positive
+indolem-train-2846,"je'ne bambangna tena nia, nampa baji'na risarei lobang manna tena abba, ridallekang kamara' mandia tong sarei pa'lu'lu' bangkeng, tipia tong risarei remo' nah...acna tong tena dinging",negative
+indolem-train-1659,"panjampanginna sombere'ki, kamarana baji'ki manna mamo sepreina barumbungi sike'de' tapi tenaja angngapa-ngapa kah nakke ngeranga kalimbu' cadangang tapi nakke linguka punna eroki sambayang arusu'ki rong lampa ri masijika inrang talakko. ribetna tenapa injo punna bosi",negative
+indolem-train-1666,Wifinamo nipakabajiki kodong siagang je’ne bambangna bambang duduuuuuu,negative
+indolem-train-1319,Ca’mara kamara mandi…,negative
+indolem-test-119,"Syahrini a'janji hadir jari saksi, punna? http://bit.ly/1F6pAWE  battu @PojokSatu",positive
+indolem-train-933,"cc; @RaffiAhmadLagi """"@TRANS7: """"punna nia bura’ne nangai manggena iyami ma’nassa nangai balinna """" #OkkyLukmanSaid @LawakKlubTrans7.",positive
+indolem-train-2534,"Ra’masa tampana, tena kulle nipake remote na, boncoro Acna na tena remotena.",negative
+indolem-train-988,"kakak ammuko assikola umpa di"", nakana se'rea krucil @SBMMatahari ammakala' te'ne anne bari'basaka *nampa lalang rapa'~~:"""")",positive
+indolem-train-2844,"tampa'na tangkasa', barang a'je'ne'na jai, anggappa karoppo tong, sayangna a'rasa kaluru'ki siagang sanna sepina. Tapi strategisji, kemae-mae ambani",negative
+indolem-validation-46,"bungasa'na anggappa a kamara' tenayya na'jappa ACna. nampa a'laporoka mange ri reepsioniska, jari nipaletteka mange ri kamara' pela' gammaraka. anjo kamara' beru a anynyamang, tangkasa', niyak cahaya allo, niyak inungang, je'ne inung, pakkakkasa' panrioang, dsb. nakke puasa'",positive
+indolem-train-920,"Lalang anne katalassanga, niak battu niak aklampa. Takgalak jarreki nai la kekalka siagang kitte.",positive
+indolem-train-2295,"Ta’dodona punna appilajara, punna akkarena hp talebakkiji",negative
+indolem-train-188,"Pilkada assipadang, Tena na erok PDIP angngandalkangi Jokowi- http",positive
+indolem-train-318,"Luara'ki kamara'na, tangkasa', na nyamangi. Nia je'ne bambangna. Tena nia siarang tipina",positive
+indolem-test-598,"se're ji nia yang kulle pare' tena ningai, ri pa'lungang gau' na airy room nia bate bebe na yang tena ritangkasi siagang ricini' sikali, nia ri rua-rua pa'lungang gau'na, tekamma mi anne airy?/",negative
+indolem-train-3224,"Rantasaki tena nassingkamma rifotona, superei siagang pa'lunganna didi i, siagang maraeng rasanna tena dudu na cocok",negative
+indolem-train-3170,a'rasa kaluru' tanisseng tamae antama' siagang rasa wc na appakarammula antama'.. padahal tenapa nipake i wc na,negative
+indolem-test-182,#TEAMFOLLOWBACK # TFB #alrasyd448ltuRasya Demokrat niai keputusan presiden angsarei? http://dlvr.it/8dTP3s ROH3 SmantiBatam #JFB #AutoFollow,positive
+indolem-train-1861,wc na ra'masa' na tena a'pungsi siagang a'rasai sanggenna assulu'. AC na dingingi tapi ge'gere'ki. Tena ripassadia handu',negative
+indolem-train-2992,"sa'bassa'bara' cintaku, sinampe'ji anne? Sabar battu ri Afgan ? htttps://path.com/p/1rWAwy",negative
+indolem-test-895,"Papparutusang pelayananga baji ji, sombere, baji dudu, nisarankang. Paccena kamarana tena na sicoco ri airy nampa tena kanre jawana na pakakkasa mandi battu ri airy. Taatoro ji, mingka tena na bau intina ri kamara mandia. Sallang, nipakabajiki pakakkasana di",negative
+indolem-train-241,tribuntimur: Bageang bainena Golkar Makassar nipibokongi pangngissengang Keprotokoleran: anne pelatihanga angngalle narasumber?? http://goo.gl?fb/TbBYix,positive
+indolem-train-22,Jodoh Pasti Bertemu battu ri Afgan,positive
+indolem-test-628,"Ca’mara kamara mandina, hoteleka batena appare gaukang maraeng",negative
+indolem-train-399,"Anjomi, riolo riwattunna ca'di le'ba niyak baju parma na. tena nisseng kana anjo riolo tren iyareka tingai tena nissengi :') hahaha",positive
+indolem-train-3378,"wifina matei, wc na panraki",negative
+indolem-train-3324,PDIP Sa'buk Nia Kriminalisasi Megawati: JAKARTA - Partai Demokrasi Indonesia Perjangan (PDIP) menyeb... http://bit.ly/1AX7r0j #Kabari,negative
+indolem-train-1657,"Gappa kamara' lante 3 tena kulle tassambung ri wifi, sumpaeng nia bulupese' ri kamara' mandi tapi kulle inji riatasi, jinisi' pakebbu' ri gesere'ka. Sarangji anne la'bi baji' pilei pakebbu' yang biasaia manna la'bi rapa'ki wattu ri konci, panjampanginna baji', kamara'na tangkasa'ji, barang la'bi baji'ki sallang, lokasina strategisji",negative
+indolem-test-814,AC na bambang,negative
+indolem-train-2231,"appallu kale kale.. angnganre attunggaleng assassa baju attunggaleng, manna attinro kale kale~~ ??????? (at Chexos) ? https://path.com/p/1g2xgZ",negative
+indolem-validation-394,"5 Panggukang pakarenana Selangor assibeso' baju Diaz. Tena kacinikang, mingka sanna a'batena ",negative
+indolem-train-1337,Ta’do’do-> pammate laptop -> alle kalimbu -> cini HP -> online poeng -> tenajari tinro -> niulangi sede. Kammamo anjo tarrusu..,negative
+indolem-test-174,"Singkamma HP, cincinga singkamma, kalunga singkamma, barakka sallang ballaka singkamma tong """" <~ nia kana kamma anne sumpaeng napamakkalaki mimin =))",positive
+indolem-train-229,"Nia kabara baji battu ri WhatsApp, kamma anne kullemi nisungke ri PC, nyamanna, kulle carita namma tena nisungke HP? http://instagram.com/p/zWtm1CSwfX/",positive
+indolem-validation-105,Sukkuru' siagang ikhlas iyami antu koncina kasannangnganga. anghargai apa nitarimayya siagang nilappassang apa apa eroka a'lampa,positive
+indolem-train-1070,FAJARonline: Bagiang Bainenna Golkar Mangkasarak Nisareangi Paissengang Keprotokolerang : http://fajar.co.id/fajaronline-sulsel/2015/02/21/bidang-perempuan-golkar-makassar-dibekali-ilmu-keprotokoleran.html ?,positive
+indolem-train-2386,apa kajarianna punna tiba tiba la'busu' paket internetka? apa kajarianna punna sallo tawwa tammaca al-qur'an? ,negative
+indolem-train-897,Untu' apa susa a'boya anrinni anjoreng punna nia mi ridallekang mata? ? Kamulah Takdirku battu ri Raffi Ahmad & Nagita Slavina ? https://path.com/p/1d1fcr,positive
+indolem-train-269,"Kamarana tangkasaki, barang-barang a'je'ne' na okemi, tapi kamarana seppaki siangang tena bau'",positive
+indolem-train-481,"Anjomi nakana """"daeng"""" afgan tong? Samoga Karaeng nabalasa'ki ngaseng rente-rente rinakke sallang? ? Sadis battu ri Afgan ? https://path.com/p/3H9UkB ",positive
+indolem-train-1843,"tena nadinging ac na, remote televisi panra'.",negative
+indolem-test-462,"sanna porena, assicocok siagang hargana. tenanaji nassulu' je'ne' bambanna battu ri showerka punna baribbasa'. nampa kanre bari'basa'na tena napore dudu kasia'na",negative
+indolem-validation-316,Lumayan.. mingka kurangi katangkassanna.. salimu' siagang pa'lungang didi.. kupala' nitingkatkan umpa katangkassanna,negative
+indolem-train-2192,"je'ne'bambang ri bathroom tena na'jappa, lebba'mi a'laporo' mingka tena solusi, bangngi siagang baribbasa' a'je'ne'",negative
+indolem-train-2445,Kos-kosangna rantasaki. Seprei katinroang na rantasa'mi kebo'na,negative
+indolem-test-290,"Tulusu' niyak kakhawatirang mange ri cewek nipilariya ri cowokna, lalang ati akkana ""apa najama anjo di? nai na agang? jaga i karaeng"""".",positive
+indolem-train-571,"Nyamang, tangkasa, baji bauna mingka pakakkasa singkamayya remo’ tv na saklar lampuna tena kulle nipake, niparutusu sai sallang sollanna assau tau battua tawwa mantap mentong airyroom",positive
+indolem-train-2869,"K.E.L.A.R RT @vikrirasta: macet nasaba' tenapa nale'ba peteppeteka, kamma kamma anne nitamba i ri kantoro' pammarenyah a'lette mange ri .... http://m.tmi.me/1eZxQB",negative
+indolem-train-1757,"Riwattunna bungasa' libur: Ero' assikola, nakku ri agang, siallo kunneanna antama assikla: ero umpa mmantang siminggu. kamma anjo tuppilajaraka kamma kamma anne..",negative
+indolem-train-3473,Bassina tower listri'na PLN nilukkaki untu' angnganre segang narkoba http://tinyurl.com/ohuqjhh,negative
+indolem-train-1087,tenamo namma'ring nipake handukna. :( boncoroki showerna.,negative
+indolem-train-1600,nakke tena anjari bangngi kacoooo ero' ta'langnge siagang a'rasa kamara'na,negative
+indolem-train-2423,superei siagang saraung pa'lungang tena nassingkamma fotona,negative
+indolem-train-36,"Ku tes ki rong sa'rangku, sinampe lebih bajiki na apgang ? Untukmu Aku Bertahan battu ri Afgan ? https://path.com/p/2W4uxp",positive
+indolem-validation-198,"Kayu anra'ba annuju oto ridallekanna Popo Danes Hayam wuruk, tolong telpongi DKP Denpasar c c : @BaleBengong",negative
+indolem-train-3053,Untuk akbangngi ri subangngia tampak katinroanna kurang tangkasaki.,negative
+indolem-train-230,appa' barang oto honda gappa penghargaan loyalitas langganaang http://bitly.com/1aucQQE,positive
+indolem-train-2950,"tena niak kanre kanreang, tena je'ne inung, tena je'ne bambang, kamara tena singkamma",negative
+indolem-train-1565,tena dudu kasia'na nasaba' agangku bella battu ri Bogor assengkaji bawang sanggenna tette' 8.. nipisangkai akkaluru' petugasna kurang sombere' ,negative
+indolem-test-330,"la'bi battu ri sipattallu tau appilajara, mange ri sikolana ka nipassai ri tau toana.#Psikologi",negative
+indolem-train-3180,"le'ba ka nia harapangkui kau ammotere', na ahiri'na arusu'ka a'rela i kau a'lampa tojeng-tojeng",negative
+indolem-test-664,"Ana’ sikola jamang kamma anne mani luara , lalang gambara singkamma rateang 18 . tena penasarang punna baine sikola bura’ne poeng singkamma . haih",negative
+indolem-train-2172,Arrasa parrui. Jampangi sai. Ca’mara tong,negative
+indolem-test-675,"pakammalaki, wc na a'rasai",negative
+indolem-train-2898,"Haha.... Mallaka ripakkanai kaalla'-alla'. Nampa arusu'ki tola'ki? """"@inilahdotcom: PDIP Rinilai Kaalla'-alla' punna Natarimai Badrolin Kapolri http://bit.ly/1B0gBaC ",negative
+indolem-test-545,je'ne bambang susai... sike'de sikali .. 5 mani' la'busu'mi.. ruanganga okemi,negative
+indolem-train-2955,Je’ne na singkamma arrasa go’. Kuttu mamiki je’ne na bissai gigia . seppa ruanganna,negative
+indolem-train-679,#Lounge 35 ji sa'bu akkullemi pol signalna hpnu manna ri pelosok!! full TESTI http://dlvr.it/8m19sg#Assadiqulhaq,positive
+indolem-train-2042,"AC, Wc siagang Dapara'na Kurang Baji', Nia' Lamu' ri Kamara'",negative
+indolem-test-194,Nakana Afgan yang penting calon bainenna najagai penampilanna siagang kaminang parallua solehah...good3. http://www.wowkeren.com/berita/tampil/00067823.html ? ..@MY_Afgan @ALLABOUTAFGAN,positive
+indolem-validation-379,"Anjo'jo' Badrolin, Bamsoet Ridugai nia Passepakatangna Jokowi siagang PDIP: Sannangna Partai Demokrasi Indonesia Perjuangan? http://goo.gl/fb/xrmnuR #MedanHits",negative
+indolem-train-1614,anne biasa nugaukang punna lambaki gajiang kantoro'nu http://mlsbgt.de/1A58YKC,negative
+indolem-train-2509,Se'reji kupala' rikau; teyako a'lampai punna tena saba' riwattu sanna jaina pangngaingku mange rikau.,negative
+indolem-train-655,"niak wattunna nakku ko ammempo mempo ri kadera sikola. jari, i kau ngaseng asikolayya, teakko pelakki wattunnu siagang agang agang sikolannu. :)",positive
+indolem-test-241,Salama ri andikku Zana Roli Afgan nupacinikkangmi gau lompoangnu na kalabirannu. I kaumi tumala’biri bajika Salang sannakku,positive
+indolem-test-433,"karri niboya alamatna, tena na dinging ac na, tena nabambang je'ne'na",negative
+indolem-train-3412,"tena shower je'ne' bambang, tv tabung, kamara' ra'masa' limbu'bukang a'rasa kluru', kollang pallangeyang ra'masa', kamara' mandina model sallo",negative
+indolem-train-1870,"Niyak tong agang accarita kana tulusu' akkiringpi foto bukti lokasi manna timae i a'lampa, ri kantoro', meting, manna ri balla!",negative
+indolem-train-1768,"Sowerna kodi, pajama ri dallekang baineia sakkangi",negative
+indolem-train-3037,"Ac kurang dinging, dapara' kamara'na appakarammula ta'bamba",negative
+indolem-train-3400,"Luara'na anjo kamara napaccinikanga 20 metere' padahal tena nanrapi', kurang tammengi acna, ambaung subuh a gara gara bambang",negative
+indolem-train-1611,"kualitas airy pela' naung, shoer panra', ac na tena na dinging",negative
+indolem-train-1936,A’bubuki kamarana. Tena tangkasa kamara mandina,negative
+indolem-train-1412,Kamara’na sicocoki nibyaraka. Sepreina baji nisambei.,negative
+indolem-validation-226,"ok ji, pakkakkasa' je'ne' inungnaji parallu niciniki, nasaba' niyak dispenser tena nale'ba' nisambei galonna",negative
+indolem-train-2980,Tena kanre jawana tassadia ri kamara wattuku a’bangngi,negative
+indolem-train-994,"Iyoiya kau Rafi nai bede tena na ngai ki daeng. @bangbily cocokmi punna erokki panjari iparak, cubbengi rong @RaffiAhmadLagi",positive
+indolem-train-537,Makasi' nisburrr....Le'ba outing gappa kare'-karenangang beru ri kantoro' ??? (siagang Nisbur na Yepe) [pic] ? https://path.com/p/104ED,positive
+indolem-train-2446,"Kodi kanre bari’basana..bayara parkirka..seprei kamarana ca’mara, rantasaki lantena..",negative
+indolem-train-1664,Nova Rialni  @NovaRialni    :anne alloa caritana loe tala attasak @TRANSTV_CORP @RaffiAhmadLagi @WC... http://goo.gl/m0Xsrk,negative
+indolem-train-3539,"lompoji kamara'na, tangkasa' mingka sanna a'rasa kamara' mandina",negative
+indolem-train-2872,"Nasareji tawwa je'ne' bambang gratis airy room na angngapa anne ninnambai 10.000 sipattang nampa tena nasesuai foto kamara'na televisina tabung umpai napake, tiyai LED",negative
+indolem-train-1952,"Takullei ammode, gappayya pila cantiki…singkamma antu?? ? Singkamma antu? battu Syahrini ? https://path.com/p/4fPqtX
+
+",negative
+indolem-train-1607,"wifi tena narapiki kamarak, tena tassadia pabambangang untuk kopi/teh atau dispenser siagang tena tassadia pakdongkokang ri dallekanna kamarak untuk akkaluruk sanggenna parallu ammempo ri daparak",negative
+indolem-train-3610,tena nia pasilitas airy na,negative
+indolem-train-536,Na'bi Dawud akkulle allammai bassi a ammake lima mingka tenaja nammake pepe' nampa napare' anjari baju zirah,positive
+indolem-train-312,Wattunna pata carita bangngi sannanga siagang rua host karannuangta @RaffiAhmadLagi & @mrsayudewi ri @latenights_ttv tette' 23:00 WIB,positive
+indolem-train-1656,"Tambanna, """"@republikaonline: Poros lolo Goljar: Pammarenta  Australia biadab http://republika.co.id/r/lnk2iak",negative
+indolem-train-936,"sampang assa'rai hpku, kuminasai anung battu rikau.:)",positive
+indolem-train-504,FOTO: Pejabat UMNO ammangei Golkar: anjarreki hubungan politik sikaligus a'boya pangngissengang partai Golkar. http:/bit.ly/1ATTyjb #Kabari,positive
+indolem-train-1067,"Battumi pale ri kantor anne bos se’rea, erangki doe sikarong??? (siagang Raden Fandy ri Dago Holiday) ? https://path.com/p/3PlAkl",positive
+indolem-test-646,RT @Alifreak17: Niak oto honda freed takguling ri ampikna rel kereta akrunganga klender. (via @nabilaall),negative
+indolem-train-1492,punna larroi amma' napassa tawwa naung angnganre'' kamma...,negative
+indolem-train-1873,anynyamang tampa'na mingka je'ne' bambang ri kamara' mandina tena turusi nakkulle nipaje tena nisare je'ne' bambang,negative
+indolem-test-29,"Teaki ri HAMAS, Panggaukanna pamarentaiya nipuji PDIP http://bit.ly/1KwhWtq Panribakkang “”nitahangi”” siallo,  penumpangna Lion A… http://bit.ly/18aqpUr",positive
+indolem-train-2861,"Nyamanji ruanganna. Standar Airyroom ji. mingka niak beberaoa kuranna kamma colokanna sikekdek, matei WiFina, jekneka agak bottoki, Tena gantungang pakeanna ri kamar mandia.",negative
+indolem-train-2767,09.36 se're oto antama ri kaloranga ri Jl. ngurah Rai arah mae ri Pdk Kopi. ammantang rua a'rungang via @rzvdk,negative
+indolem-train-1285,Je’ne bambangna tena nyala ri kamara mandia,negative
+indolem-test-614,"tapi sayangna tipina jai kaluarana tena kulle ricini, bajiki rong hehe ",negative
+indolem-train-833,Modele ‘Ru’mung Laba-laba’ antor Puspemkot Tangsel Jamangna Ana’ Indonesia http://www.detaktangsel.com/advetorial/item/5050-konstruksi-sarang-laba-laba-kantor-puspemkot-tangsel-karya-anak-indonesia ?,positive
+indolem-train-597,RT @VIVA_log: ri bongka battu sikola. Anne bura'ne nia doe' na Rp220 Triliun http://dlvr.it/8kmNtq,positive
+indolem-train-2198,je'ne hanga' ri kamara mandiyya panraki,negative
+indolem-train-1638,Wifina,negative
+indolem-test-535,"Ge'gere', Pancope'ka a'dongko' oto Avanza jai ri Medan @ramadhanpohan1 @MedanBangkit http://jurnaldemokratmedan.com/index.php/berita/medan-kita/item/327-heboh-para-pencopet-naik-mobil-avanza-berkeliaran-di-medan#.VOWwm1YsONg.twitter ?",negative
+indolem-train-2632,"(+) lompo kamara, beru, tangkasa. Allo 1 Acna tena dinging, mingka nisambei ji patanna passengkayya siagang kamara maraenga (-) tena lift, dodongi wifina, kanre jawana nisare 2 panne. Sicocoki bayara’na.",negative
+indolem-train-2065,angnganre allo ammake lemak annambai hormon Galanin (hormon ampareki tawwa tulusu' cipuru). [foxnews],negative
+indolem-test-259,#aurruz <3 #Afgan erok Go International & A'bali siagang Adele http://www.aurruz.com/topic/4310/afgan-ingin-go-international-duet-dengan-adele/new/posts/ ? 3:),positive
+indolem-test-244,#Sosok Charles Honoris: Jokowi Lakbi Barani Angngewa Kapitalis http://bit.ly/1Csp0Bf Demokrat nanilai katappukanna peresideng be... #ProfilTokohDPR,positive
+indolem-train-2225,"fasilitasna OK, kurannaji pelayananna.",negative
+indolem-train-754,"Puaska a'bangngi ri anne hotele'ka battu ri angga'na sanna ta'jangkau, ac na baji', amang tongmi, tangkasa'ki, je'ne bambangna ji tena na bambang",positive
+indolem-train-3430,"Pilei Badrodin, Bamsoet Nakana nia si coco’ Jokowi siagang PDIP: Punna sannangji PDIP, nacaritai na sicocokang? http://dlvr.it/8fvJGp",negative
+indolem-train-1429,"Nyamangji , mingka sepreina ngapana arrasai nia bate singkamma ca’mara cera’.",negative
+indolem-train-2023,kurang dingingi AC na,negative
+indolem-validation-311,"kamma baji' baji'jako siagang biasayyaji punna tena a. baji'mi paeng, nakke appala' kana:)",negative
+indolem-train-2959,anne nasib ammetayya konvensi punna Demokrat tanggappa 20% Suara pemilu http://tinyurl.com/m9mbuz4,negative
+indolem-train-2072,Iangaseng yang battu nassami a'lampa tongji. Innalillahi wa'innaillaihi rojiuun manggeku sanna kungaia,negative
+indolem-train-1653,Bajiji. Mingka wifini parallu nipabajiki sike’de..,negative
+indolem-train-2675,Politikusna golkar napakkanai Presiden ammake DPR untuk ansingkirkangi BG: Nakana Bambang DPR tena nakanrei jebakan...http://bit.ly/1vSfEuU,negative
+indolem-train-968,Charles Honoris : Indonesia Arusu' A'ngaruh ri ASEAN  http://bit.ly/14FyWwp Dattara'na Ma'ma'ki Jari Tena Nasawe I... http://bit.ly/1vQMAEj,positive
+indolem-train-3350,"pajama dallekangna punna antama'ki kurang sombere'ki, ge'gere', tena nia tissuna",negative
+indolem-train-195,"lumayan tangkasa' kamara'na, manna niyak a'limbu'bu' mingka anynyamanji, je'ne' kammu', ac dinging, wifi tettere', karyawanna tena nasombere' dudu, a'bangngi siapang allo, seharusna allo allona nisambei inungang iyareka annawari handuk beru.",positive
+indolem-train-374,"RT """"@RNJunior172: Karirna raffiahmad pela' naik battu ri taung sebelumna *selebritasiang trans7",positive
+indolem-test-654,"Sisiapa tau susses malasa' sikola, tapi tena malasa' appilajara'. Jai tau gagal assikola ka tena ero' appilajara', ero'ji a'boya ijasa",negative
+indolem-train-962,"kamara'na tangkasa', kanre bari'basa' anynyamang, mingka toami supereinna",positive
+indolem-test-458,"Kukana tena na mempan! RT @tribunnews: Nidallekangi Pilkada Serentak, PDIP tenamo na manfaatkangi pengaruhna Jokowi http://www.tribunnews.com/nasional/2015/02/21/hadapi-pilkada-serentak-pdip-tidak-lagi-manfaatkan-jokowi-effect/ ? via @tribunnews",negative
+indolem-validation-266,"kamara'na rantasaki na seppa', handu'na tipisi' na a'rasa je'ne mani ki, kamara' mandina banjiri' je'ne sallo nampa ngaliri'. Langsunga assulu' le'ba na a'cini' kamara'na. Poko'na sannaaa tena a'rekomendasi. Nyassala' tong kah tena singkamma potona sanna na ballei ta, jarra ma",negative
+indolem-train-3280,handuk kacinikang ra'masa' siagang niyak a'binti' binti'... tenamo nakebo' siagang kekke' biringna,negative
+indolem-train-484,Akkuliapi Syahrini Nampa A'pakarammula Inpestasi Bulaeng battu ri via @detikhot http://tinyurl.com/ndk3dht,positive
+indolem-train-774,Gaukang ri bokona Donor Cera’ Karang Taruna Unit 010. Sumangakki agang-agang !!!!!! @ Kantor Sekretariat? https://instagram.com/p/zqalRCDrWn/,positive
+indolem-train-1064,Anggota Komisi I Dewan Perwakilan Ra'ya' RI Meutya Hafid na dukungi jappana anne Kementerian Luar Negeri na beso' ki dut.. http://bit.ly/1LnkE1V,positive
+indolem-train-1443,"EGP RT""""@VIVAnews: RT @VIVA_log: Tas Hermes Rp1,5 Miliar Ripakei A'balanja Gangang siagang Syahrini http://dlvr.it/8fs9jm ",negative
+indolem-validation-31,"kamma kamma anne wattunna assikola, ujiang, anjama umba allanjutkangi jamanga poeng. semangat di :) ",positive
+indolem-train-33,Sitojenna Anne Rahasianna Gassang Manna tena Akkanre: Modele nganre najappai Lena anjo sallomi anjari... http://bit.ly/1LUZrN7,positive
+indolem-test-915,"Se're penelitian angkanangi, anak battalaka tasi' sikolana akkullei pa'risi salangganna siagang Scoliosis ",negative
+indolem-train-1204,"#Lounge Siri' ricini' mogo' otona, Adam Levine ammalli langsung oto beru! http://dlvr.it/8hkwgt  #Assadiqulhaq",negative
+indolem-train-848,"Tangkasaki hotelna, nyamangi kanrena, pajamana somberek na bajik. Mingka niak 1 parallu napabajiki paraparana boncoroki ri kamaraka rakmasaki nicinik. Dwi Bidyawati, 16-17 Desember 2017",positive
+indolem-train-1887,"Appare video klip, Ammakei konseng tannaba naba i Syahrini http;//dlvr.it/8frt2D",negative
+indolem-train-3448,Kodiii kamarana. Boncoro ac. Tena kulle nipake pabambang je’nena. Ra’masa kamara mandina bottoki kamarana. Sepreina nia bate sperma,negative
+indolem-train-309,nakke tulusu' angngaiko ?  50 taung pi (feat. Raffi Ahmad) y Yuni Shara ? https://path.com/p/1OSK72,positive
+indolem-test-848,[Korupsi Info] PDIP Sa'buk Niak Kriminalisasi Megawati - Indopos http://bit.ly/1LIJkrD,negative
+indolem-train-88,Kelong sipa’rua makabajika battu ri dara Rossa (nasaba siagang Afgan) :'D >Performance - Rossa ft Afgan – Kamu Yang Ku Tunggu: http://youtu.be/L4SEVuJK_eg,positive
+indolem-train-1229,"Kammami anjo resikona punna gammara' ceweka? Seperti Itu? battu ri Syahrini (siagang Fitria, Kaneka Putri siagang rua tau maraeng) ? https://path.com/p/47C7%r",negative
+indolem-train-3590,"palili angnganreya lemo, pandang , angguru * stroberi ri bangngiyya. kakaccianna akkullle assare pengaruh ri empedu",negative
+indolem-validation-107,"Nakemaepoeng #Pisces lampa na bellai ri taua nangaia, tena na kulle lampa atinna ri maraenga",positive
+indolem-validation-9,A'cini' konser afgan ri trans 7 jari ri u'rangi masa kepo vini' afgan ri tiara sanggenna ta'jongko' siagang pika? (siagang Bagus) ? https://path.com/p/1CAPd6,positive
+indolem-test-904,"Baji paccinikkang tena tangkasa, parrui rasanna kamara mandia",negative
+indolem-validation-371,"Tena na sesuai gambarna siagang tampilanna ri potoa, iya ngaseng pakkakasakna anu toami, wc rakmasak.",negative
+indolem-train-1635,Tena nisare pakkakkasa je’ne (handukji nia). Tena poeng nisare je’ne inung..tena wifi..maraenga baji ji,negative
+indolem-test-287,"Punna bura'ne nukerokia iareka anjo ngaia nakiokko akjappa-jappa naik ri otoa nampa mange ri mall na cafe, ngapai? http://instagram.com/p/zWs6FEIP5X/",positive
+indolem-train-1542,"Anne momeng punna i kau nawai laci iareka lamari baju, mikkiri' baju apa ero' ripake ammuko singkamma mikkiri' proje' 60 juta. Pucala'ki. Baji' botto'mi.",negative
+indolem-train-2311,Ngasenna baji mingka a’rasai nampa ri lamarinna nia kulipasa mate,negative
+indolem-train-2535,Wifina kodi. Le'bami a'jamma. Tapi tena ribajiki,negative
+indolem-train-2680,Rantasa' hotelna jai kaluara,negative
+indolem-train-3370,"kamara' mandina tena na bau', tena je'ne' bambang ri showerna. bungasa'na tena na dinging ac na",negative
+indolem-train-1551,salimu' kapala' alusu' siagang tangkasa'. siagang parallu ranjang ammoe'. kurang baji' pelayananna,negative
+indolem-train-2436,"Kamara'na seppaki siagang pengapki. uni' ki modena..punna luara'ki sike'de' poeng nassami baji'. na anjo pentilasina sanna parallu na, tampa' ac na parallui risambei mi.",negative
+indolem-test-722,tampak baji' mingka wifina panra' wattunna a'bangngi,negative
+indolem-train-593,Teako sassa'la' apa yang lampaia. Teako karruki apa yang tenamo nia. Tapi ambangungko siagang assusungko poeng apa yang le'ba' lannya' siagang lampaia,positive
+indolem-train-3029,WiFi tena nia siagang pakke'bu kamara mandiya tena kulle ri konci...,negative
+indolem-train-2069,ri u'rangi kah ambani ero' kemae-mae tapi yang pa'kacewaka anjo kamara'na rantasa'ki,negative
+indolem-train-950,FYI Afgan anne taunga lanjari juri tetap XFactor Indonesia tantu anjari tongi mentor peserta. Nah inai ri kau a'jari peserta XFactor? ??,positive
+indolem-test-992,siagang idk punna nakke a'bokka' iyareka kecewa le'ba'na anne nasaba' sadiama memang antarima i kajariyang kammayya anjo. ,negative
+indolem-train-3345,"tena wafi ri kamara'na lampu ri boko sassang, ca'di watna lokasi kamara' paling cappa' Wc ra'masa', kajempangang tena je'ne' bambang jai pakkakkasa' ri wc tena na'jappa handuk ra'masa' sanna kodina",negative
+indolem-train-1772,"tena pore dudu kamara'na nasaba bangnan sallo, tena natangkasa' kamara' mandina pakke'bu' kamara' mandina panra, ammatti' turusi je'ne' keranna, kurang tangkasaki di..",negative
+indolem-train-3405,La'bi jai oto yang rilukka ki ri tanggala' 1 Januari [statistik battu ri Biro Kejahatan Asuransi Nasional AS],negative
+indolem-train-3127,tena nia' kanre ca'di nah,negative
+indolem-train-3067,"Ballisi sike’de nasaba salai nasare kamara, tena dudu tanja kamarana airyroom.teaki pakammai anne poeng sallang nah",negative
+indolem-train-1241,"a'rasa kamara' mandina, tena bellboyna",negative
+indolem-test-118,"Sare tau juku', nampa na kanre siallo. Ajara'ki anjo ammancing nampa nganre siumuru' tallasa (Lao Tzu)",positive
+indolem-train-2685,kodi jaringang hpya siagang terbatas tongi poeng wifia,negative
+indolem-test-750,Kurangi papparutusuka,negative
+indolem-test-43,"#Jokowi #PDIP anghadapi pilkada appada, tenamo napake i PDIP pengaruna Jokowi- Tribun Lampung http",positive
+indolem-test-554,"Ngehek, sinax poeng make listrik """"@despar54: Kacamata Futuristik Syahrini cini tau lambusu http://m.detik.com/hot/readfoto/2 ? @Gombez_875 @KodratArief",negative
+indolem-train-3359,"Pengalaman hotel kaminang kodi, panra' pakke'bu' hotelna, toami acna tena na berfungsi, Allo maka se're tena nappasadia salimut, ra'masa' salimutna, superei siagang katinroanna rantasa', tiyai spring bed katinroanna, kodi ventilasi wc na jari a'rasai, kayu dapara'na, ca'di tvna tena najampangi, tena nabaji' pelayananna, hotel airy kaminang kodi lebbaka niya'.",negative
+indolem-train-10,"#SoloBerbicara appare' video? kamma anjo? ri tampak bambang, Puaski Syahrini http://bit.ly/1LoBnnw",positive
+indolem-train-152,"Subhanalloh, nampai langngere sa’ranna poeng Afgan na ra’ngasami buluku, tekammami punna a’baang na angngaji di? >> http://youtu.be/GcYHv5K5MrE",positive
+indolem-test-521,#JombloItuBahagia - jaringang talepognu kodi narrusu'ki ?,negative
+indolem-validation-42,"Nakana batena pammaressangang ri USA, tappe donggo sanggena 30 dette’ sallang napalannyaki eroka nganre.",positive
+indolem-train-3442,2 kontoro' dinas pammarenta Provinsi anne appanai' bendera eja kebo' lu'lusu' http://dlvr.it/8g7sWS,negative
+indolem-train-1155,Maraeng raeng tongi anne taua :) >> PDIP ri nilai maraeng punna na tarimai Badrodin Kapolri http://bit.ly/1B0gBaC || @PintarPolitik,negative
+indolem-train-2741,"jai pakkakkasa' kamara' panra' nasaba' umuru', toami ce'na jari rantasaki cinikanna. lingkungan hotel (lorong,loby,lift) kurang tangkasa' todo. tampakna strategis, gampang nigappa, ambani pangnganreyanga",negative
+indolem-train-1304,"Alimbu’bu kamara, tena pakakkasa ri lante 3, tena tong taliponna.. mingka papparutusu’na sombere..",negative
+indolem-train-71,"iyangasenna baji'ji, kamara' pore siagang tangkasa, pelayananna ammuassi tong, parallua nipakabajiki pakkakkasa' je'ne' bambang nasaba' ri kamara' le'baka ku tampakki tena na'jappa, tarimakasi airy room",positive
+indolem-train-2430,Mungkingikah SBY napa'ancuru'ki Demokrat ammalo Nazaruddin? @TPK_RI http://chirpstory.com/li/252865 battu ri @chirpstory,negative
+indolem-test-234,Mode gambara' oto sportna gammaraki - Yellow Lamborghini Aventador LP720 4 50 Anniversario http://goo.gl/l2VGsg,positive
+indolem-train-2766,"Tippa duduka pilei lampa ka, iyareka I katte lambakki sa’ringi. Mingka tekammaya poeng tenaki kulle erangi motere wattua",negative
+indolem-train-2544,"Untuk kultwit ke-5 yya nakke kusareangi juduluk: """"Cocokmi Punna Hatta Memimping, PAN Sanging rawanna Bayang2 Partai Demokrat""""? cc @tjatursaptoedy",negative
+indolem-train-2122,"ri tallasa'na, anne bura'neya assitir oto ammake bangkeng! http://bit.ly/1Lm1BoD",negative
+indolem-test-129,[Politik] Yorrys Napauang Elemen Golkar Kulle Tojeng na Netral http://www.jitunews.com/read/9858/yorrys-himbau-elemen-golkar-bisa-tegas-dan-netral ? #Jitunews,positive
+indolem-train-881,Maka se’rena passau-sau kale battu jamang ri kantoro iyami Jappa-jappa http://kom.ps/AFnWQt,positive
+indolem-test-747,"Jokowi Napile'i Badrodin, PDIP Siagang PKS Nasa'buki la Najanggalaki - http://Tempo.co http://bit.ly/19P5jX ",negative
+indolem-train-3564,"Mantap tawwa, kodinaji jaringan wifina lalang rikamaraka, kamma nasaba' ri lantai 3 kamarakku, punna battu ridallekang kamaraka porei signalna.",negative
+indolem-train-2559,"nia kodi na baji'na... Kodina anjo panjampanginna salloi, sepreina tena tangkasa, ri janji ero' na antara' karoppo'ka na tena nia sanggenna assulu'. Baji'na anjo kanre baribbasa'na nyamangi, pasilitasna jai",negative
+indolem-validation-312,rantasa' sike'de' wc na siagang tena natangkasa' supereinna,negative
+indolem-train-405,"Nakana bede punna nia murid la’ba dudui murina wattu ri poto buku taungang sikola, sallang anjari kalumannyangi tallasa’na nampa pabuntinganna ri masa dallekang.",positive
+indolem-train-2930,"#RadjaInfo Ero' Pare' Suara', Syahrini Pare' Klip A'konsep Tena Nassa http://goo.gl/fb/qOir6d ",negative
+indolem-train-2486,"Rantasa kamara mandi, ribangngiang 3allo2 bangngi sikaliji nitangkasi, ca’mara kamara, sallona pala pallap bangkeng kamara mandina, campa 1x ji nisare je’ne kebo",negative
+indolem-test-955,#Capricorn kulle punna lompo dudu napsu kanrena.,negative
+indolem-train-259,"jari punna nakana agang kantorokku, nakke taunna tena nagampang tappangaru. Jari manna tau tikamma iyareka tikamma keadaanna tena kujampangi i. ",positive
+indolem-train-1396,"@yunartowijaya: Ouwwww... *ta'bangka* ""kompascom: Demokrat approtes mange ri punggawana KPK nasaba' panggappana SBY tena napile i Jokowi http://kom.ps/AFploc """"""""wkwkwk",negative
+indolem-train-1258,"tena singkamma siagang ri potoa, sepreina torre'ki na ra'masa'",negative
+indolem-train-1971,"(grand deluxe lt. dasar) kamara' luara', toilet luara' (manna maraeng rasanna punna beru nisungke), je'ne'",negative
+indolem-train-2569,Anne Otoa Panraki Ritabra' Bada' http://dlvr.it/8jTZbc,negative
+indolem-test-899,Kamarana tangkasa na nyamang..mingka tena singkamma batena parutusu pakkakasa’na..mate acna..tena kulle tassambung wifina..nampa seppa dudu kamarana..,negative
+indolem-train-2145,"nyamangi tampa'na, salurang tipi na ji tena jai punna jai anjo baji'ki nyamang sikalimi tapi anne 4 salurangji nia",negative
+indolem-train-3483,"Daeng, ammalli kondom blekberi | Erokki kasiak apayya? | Siala!! Untuk HP daeng | Ohh pammopporanga tena ku fokus.. Nasaba' bainengku sallo dudumi ri kamponga | -__-",negative
+indolem-train-2133,"jai lamu' siagang kamara'na a'rasa tena kalotoro', tena nia wifi ri ruangang lante 2 na",negative
+indolem-validation-1,Bari'basa' @RaffiAhmadLagi juma' barakka' mae ri katte aseng,positive
+indolem-train-2737,"Ca’mara kamara, ca’mara kamara mandina, ca’di je’nena posisi kamara mandina tena na coco’",negative
+indolem-train-3633,"Tena dinging acna, bangunang sallo, nai’ ri lante 3 make tuka’, tena wifi, paccei passurona, tangkasana kodi tongi, tena singkamma bajina hotele maraengna airy, nipakabaji sai modele standarna, kurru sumanga",negative
+indolem-train-869,Dompet Dhuafa Sulsel a'bage bage perlengkapang sikola http://bit.ly/1wis6Kj @DDsulsel,positive
+indolem-train-3108,ammikkiri' kale-kale ero' pasilitasi je'ne aqua siagang utilities nampa karoppo battu ri pajagana kurang inji. Baji'na anjo punna risarei na tena ri pasang,negative
+indolem-train-3088,"Baji passurona mingka pakakkasana tena nyamang, tena dinging acna, tena jai siarang tv na, toilet na kamarana ca’mara, jai lamu’ tena nyamang tinroa",negative
+indolem-train-1376,Okelah tenaja nalanre mingka su'mungi kamara'na tena a'rungang anginna,negative
+indolem-test-582,"tena nanynyamang kanre kanreanna, rantasa' kamara' mandina, tena lift mange ri tuka' sa'genna lantai 3, jai ambu kaluru' siagang puppusu' kaluru",negative
+indolem-train-529,"untuk kau angkasiaki tikamma porena ammake HP riolo, mae angngu'rangi sinampe! http://buff.ly/1DDcjbj",positive
+indolem-train-1379,nia bate tissu langganaanga le'ba,negative
+indolem-train-1099,"kamara'na repa' ni paressa, biasa kajempangang kamara' mandina, niyak kulipasa', siagang superei biasa nisambei di",negative
+indolem-train-121,"Accini' konserna Afgan rong kah katte pakkelong bura'ne ku ngai.  Anne mi arenna konser,  jai kelong na jai tong issengi.... Ayyee!",positive
+indolem-validation-207,"punna tena memang wifi na... teya nipa'niyakki.. lt 4 ge'gere', niyak kapang keluargana iyareka apa.. kamara' lompo..",negative
+indolem-train-3008,#faktasahabat tuli inrang hp punna katte tena nia pulsana,negative
+indolem-train-3629,"sumpah di teya mintomma a'bangngi anrinni, tena nasombere' pelayananna siagang katangkassanna tena niciniki bajiki...",negative
+indolem-test-704,"bungasa'na anne a'bangngi anrinni siagang keluarga. nakana pengurusna, angngapa anak anak anggappa charge? angngapai? tena na logis alasanna! tena mentommo kummotere' mange anrinni ri hotelka. tena pammelakkang loro ri kamara' iyareka ridallekang kamara. kala'bianna pakkakkasa' kammayya dispenser, microwave, kulkas akkullei assala' nipabajiki ammotere'. Maraenganna kodi, tena nirekomendasikangi",negative
+indolem-train-1816,"Nia tong agang carita nakana wajibki kiring poto, kemae battu lokasi lampana, ri kantoro, emposicarita, manna ri balla !",negative
+indolem-train-197,Fadel. Mahkamah Partai Golkar Arusu' Netral siagang Lambusu' http://dlvr.it/8l9pRk,positive
+indolem-validation-181,ammajiki pakkasia'. mingka kamara' mandina apalagi toiletna panra pa'bissana siagang rantasa' sike'de' jari tena dudu nakkulle nipake. niyak deposit 50 sa'bu manna memangja nipoterangji.,negative
+indolem-train-2011,baji'. Je'ne bambangna ji kurang. Kah dinging inji ni kasia'.. Untu' katinroangna baji'ji na nyamang,negative
+indolem-test-655,Nipatangkasi poeng anjo ri seprei na handuka,negative
+indolem-train-598,Angnganre allo kunneanna tette' tallu karueng akkulle napanaung battala kale nibandingkan angnganre allo lebba'na tette' tallu,positive
+indolem-train-260,Bahagia turusi assegang {} ?? @RaffiAhmadLagi @LadyGigi@ruben onsu @sarwendah29,positive
+indolem-train-2583,"Terlambaki pabayarak sikolayya, pau-pauang sakti biasayya nipake murika http://mlsbgt.de/1vqFdZm ",negative
+indolem-train-2475,lumayan nirekomendasikang. mingka allo allona tena nisare je'ne' inung siagang inungang. sikaliji pas,negative
+indolem-train-1150,"lumayangji, tapi kamara' mandina kurang tangkasa'",negative
+indolem-train-25,assigappa fans ri allo kalassukanna Raffi Ahmad - Nagita Slavina http://www.youtube.com/watch?v=EBmcbwBvbNg&sns=tw ? ? via @youtube,positive
+indolem-train-2645,kamara'na tena tangkasa',negative
+indolem-train-2934,"Assau-sau, battu-battu nisungke kamara ri papparutusu kamara make akses hotele, nakana maraengi cek kamara, nata’ganggui kalengku. Sitojenna punna ero cek kamara harusu nia SOPna/nia arenna kamara nibonei, jari tena piti antama kamara manna tena na katto pakke’buka. Kodina mamo kasiaka ma tena profesional batena apparutusu.",negative
+indolem-train-1764,"Akkassiki lante kamara’na, ra’masa sepreina tena nasambei, jai u’ tassimbung ri lantena kamara mandi, tena kulle nipake sower klosetna.",negative
+indolem-train-2836,"Botto kamara, toa ngasemmi pakakkasa’na",negative
+indolem-train-1674,"Bajiji, tena wifina",negative
+indolem-train-2387,"Sanna appasassa'lalangna, kamara' a'rasa nampa kodi televisi napasadiayya siagang rantasa' kamara' mandina",negative
+indolem-train-1286,apaji nakke kodong a'potoji ku kullei punna sepi hpku????,negative
+indolem-train-512,Tips sehat angnganre Fast Food  assegang cara sehat # JktHealth htto://ow.ly/JFHo2,positive
+indolem-test-937,"Assiondang oto napakamma ‘Spectre’, ceraki ulunna Daniel Craig http://tinyurl.com/ohxfdnq",negative
+indolem-train-2941,"A'rammang-rammangi lampuna, kamara' mandina ra'masa', a'bangngi 10 allo tapi yang risare anjo barang-barang a'je'ne' ji sisikali wattu antama'",negative
+indolem-train-1663,"lumayan punna sike'de' budget... mingka biasa tena na dinging ac na, jari kurang anynyamang nikasia' attinro a. tarima kasi'",negative
+indolem-train-308,Sollanna naissengi ka kamma anne te’ne pangangaingku ! ? Pesan Cinta battu Afgan ? https://path.com/p/2uk74d,positive
+indolem-train-1027,pesbukers 18 juli 2014: passiagangi raffi ahmad siagang bella cie cie pesbu...: http://youtu.be/rd1yxjiy5h0 battu ri @YouTube,positive
+indolem-train-2432,"Tas Hermes Rp 1,5 Miliar Ripakei A'balanja Gangang siagang Syahrini http://dlvr.it/8fstRf #viva",negative
+indolem-train-3591,"punna katte tenabakka issengi ero' a'lampa kemae, katte ta'jabba' narrusu ri agang salaia. #LSS",negative
+indolem-train-2566,"Ammotere' ri balla na ANGNGINUNG...! RT""""@detikcom: Dattara'na Ma'ma ki Sanggenna Tena Nia Ammarina, http://tinyurl.com/mt6kng2 via @detikhot",negative
+indolem-test-573,"kamara' mandi kurang tangkasa', kamara'na tena naynyamang dudu",negative
+indolem-train-695,"Tangkasa kamara, dinging AC, mingka lipa pa’lungang + sepreina ca’mara, nia inji bate, jari tena nyamang, appalla berua nia inji batena",positive
+indolem-test-640,Kammami anjo tarrusu sagenna Syahrini anjari baine biasa RT @dedysatriono: endless conversation https://twitter.com/H_NinaJKT48/status/569033429062262784 ?,negative
+indolem-train-1698,#News Siswi SD ri pekanbaru nicabuli ri om om rungnganna tuka sikolayya http://dlvr.it/8kd7Ym #Assadiqulhaq,negative
+indolem-train-3532,"Kamara'na a'rasa karbol sanna anynyakkona , curiga nakke freon so'boloki. Tolong jampangi na tenaja karacungang . Tarimakasih #101",negative
+indolem-train-181,Partai Demokrat : Keputusan Jokowi  Soal Kisruh KPK  assegang Polri nasarei Kapastian http://bit.ly/1vKaocZ #politik,positive
+indolem-train-1113,"kamara' anynyamang, kollang pallangeyang ok. mingka kamara' mandina ero' nisarei pewangi",negative
+indolem-test-578,"Kurangi layananna, tena nasiga pelayanna,",negative
+indolem-train-1339,"baji', bau' je'ne na ji kurang a'dukungi wattu a'je'ne singkamma a'rasa salokang",negative
+indolem-train-3101,"anne pengalaman paling kodinakke a'bangngi ri hotelka, kodi aseng fasilitas nipasadiayya, appakarammula pa'lungang, kamara' mandi siagang superei ra'masa', sofa rassi kaluara, Ac tena na'jappa, lamari panra', TV tena nanggappa signal sanggenna wastafel kamma balla' pangnganreyang! anne paling kodi, tena sesuai harapang",negative
+indolem-validation-167,"Nasaba ero baju singkamma raffi ahmad, batena mutara toko sagenna mangngang danandplenthis #latepost#justshare http://instagram.com/p/zTpWswwmpn/",negative
+indolem-train-2194,tampa' nyamang anjo ri ac ji na kurang dingingi,negative
+indolem-train-1626,"Arrasa kamarana, tena baji sowerna. Riwattu maka se’renaka a’bangngi injoeng. Nyamangi kamara’na. mingka pinruayya a’bangngi injone kodimi kasiaka. Iyami kapang nasaba kuallea lammoroka nakugapppa kamara kodia",negative
+indolem-train-1008,#golo’ Demokrat nasare pakkanang Presideng sare pattojengang http://dlvr.it/8dTQsF #Assadiqulhaq,positive
+indolem-train-400,"suasana sannangi,kamarak jeknek agak rakmasaki..lobang pakjenekanna agak tassendatki, pelayananna bajik...ri cappa' lorong ,niak tontongang kosong tena niak kacanna..anjari lakbiring anakku terjung bebasaki...nasabak guppa kamarakna pas ri cappa'..katinroang tangkasak,ac lumayang dinging,niak ko'lang renang tangkasak,tampakna mudah nirapi',ballinna cocok,,",positive
+indolem-train-3153,jai mitos sala pangngare'. salah se're akkanayya suku Batak nangai angnganre tau http://mlsbgt.de/1ArGO1d,negative
+indolem-train-3595,Riolo le’baki Sisil sala make baju sanrupa sikolanna ri allo sannenga nasaba katinggallang na anjomi wattua ia make baju sanrupa pramuka.,negative
+indolem-train-2797,"tena mentong, kamara'na jai limbu'bukang, lampu kamara' mandina mate, kamara' mandi tena natangkasa' kodina deh",negative
+indolem-train-496,"25 sa'bu ji anne HP nu ngaseng kulle njari gammarak kamma anne. Ambae pesang maki garskinna, gambarak pole kulle ni request nahhh",positive
+indolem-train-1502,"Kacele dudu !!! …. Papparutusuna Larro2 ri Tautoa, tena na sombere batena akkana, tena tong passuro kamara, botto kamara, napassaki bayara la’bi punna lette kamara. Kacele … !!!!",negative
+indolem-train-831,Nikanayya sanang punna kulle angnganre siagang keluarga battu ri assele' songo kale a Alhamdulillah o Karaeng,positive
+indolem-test-284,Cita-citana Raffi Ahmad riwattunna ca'di-http://KasaKusuk.com http://shar.es/1WfAGG via @sharethis,positive
+indolem-test-87,#AntaraNews Demokrat annilai kaputusanna Presiden tantu assare kapastian: Sekretarisna Fraksi Partai Demokrat ri DPR RI Didik... http,positive
+indolem-train-2828,"je'ne na ca'di siagang seprei na tena risambei, nia' inji noda bate-batena tau battua",negative
+indolem-train-2933,"punna niyak mantan tiba tiba baji' mange ri kau, akkuta'nangko, ""a'lampamo angngapa nammotere'? niyak ero' nu alle, nampa a'lampa kossede'?",negative
+indolem-validation-253,"Seppaki kamarana, tena je’ne nginung na kanre jawa biasana airy, tena tong pa’lungang airyna. Papparutusuka tena sombere. Bella dudu bedana siagang airy room iyareka ongkosona rawayya.",negative
+indolem-train-3104,"baji'mi, ac na ji kurang dinging",negative
+indolem-test-690,"Usulangna SBY tena ripilei Jokowi, Demokrat a'proteski http://ow.ly/JlTmg",negative
+indolem-train-225,"Teaki batai battala nasaba jai kanre, anne inpona #JktHealth http://ow.ly/JCERY",positive
+indolem-train-555,Napitappakkiji kalenna PDIP tena nammake pengaruhna PDIP ri pilkada appadayya http,positive
+indolem-train-247,PAUANG SITABA-TABA TOJENNA NIGAUKANG HP (MAE RI PAGAU UKM) Battu @PartaiSocmed has.. http://chirpstory.com/li/253129,positive
+indolem-train-100,Erangna Golkar Kamma Anne Pila’ Lomo-lomoji na Awalanna Reformasia http://goo.gl/YIx6zX,positive
+indolem-train-1224,6 Oto A'lappo a'rete-rete ri Sitinjau Lau' http://dlvr.it/8lGPzK,negative
+indolem-test-874,"Tena nalaku intangna Opick, Bajuna Melly Lambusu Rp 20 Jt http://bit.ly/1vZjvXp",negative
+indolem-train-3621,"Baji kamarana, rapi, nyamang, Acna ji tena halusu sa’ranna, siagang passurona tena na kalumannyang. Nampa, punna kanre bari’basa antu kattepi appala. Iyareka nipassadiaji ka?",negative
+indolem-test-837,Arrasa kamara’na tena nyamang alloa.,negative
+indolem-train-2296,#golkar #ARB BNN anjakkala' rua KG sabu battu ri malaysia http:bit.ly/1LInbeP,negative
+indolem-train-556,appala' ni cie in anne. Cie RT @SuaraGolkar:cara PRO RAKYAT GOLKAR ri pammarentana Jokowi-JK sanggenna kamma kamma anne.,positive
+indolem-train-1580,"Pa’lunganna arrasa bebe, kamarana bedai nipotoa, ambani jara’na tawwa ri bandarayya, mingka akses",negative
+indolem-train-3158,Ri kamara’na…lumayang baji.mingka papparutusu’na ji tena baji. Ri toana tena na sombere. Baji’na… nipakabajiki dallekanna,negative
+indolem-validation-288,Sumammangi rasana kamara,negative
+indolem-train-2595,"Ri wattunna taung 1920-ang, nikalarroiki nganre lappo’ ri bioskop nasaba ge’gere.",negative
+indolem-train-469,Bangngi minggu ri kantoro doong.. #tenabiasa (siagang Dita na Agung ri Kantoro 8) ? https://path.com/p/2c6Nfp,positive
+indolem-validation-197,Pakabajiki passurona,negative
+indolem-test-21,"Tampakna rampik stasiun Solo balapan, kamarakna tangkasak wangi tong pi, mingka ri kamarak mandi na 311 niak bau botto, maraeng hotelek lainga rinne niak kanrejawana bajiki, lammorok tong pi. coba niak lift na",positive
+indolem-train-209,Demokrat na Nilai Kaputusanna Jokowi Assare Pa'tojengang ri Tangnga Ge'gere'na KPK ewa Polri http://dlvr.it/8dzbWm,positive
+indolem-test-562,lamba' internetna,negative
+indolem-train-724,angnginung 2 galasi je'ne' kebo' nampa angnganre akkulle ampanaung battala kale siagang ambali obesitas.,positive
+indolem-train-2823,"TEYA AMMILEI KAMARA"" ANRINNI kodi pelayananna. katte ni gorai wattunna check in alasanna nasaba' tenapa ni update areng. kamara' sanna rantasa' siagang tena nitangkasi. Jai u' ri wc. AC mate, siagng tena ninggappa handuk. CS battu ri airy tena najampangi pa'laporoka. le'bamaki annulisi' surat pa'baca ri korang untuk properti assala' niyaka anne",negative
+indolem-train-205,"Sikola jagoanga napangajarri ananaka mamode, Yudha muri’ SD Juara Pekanbaru kullemi najai’ bajuna kale-kale",positive
+indolem-test-666,Pore mingka tena kulle nipake wifina,negative
+indolem-train-2021,baju awek kamma kamma anne sarringangngang na undang-undang a'rungang poros,negative
+indolem-train-2878,"tena wifi ri lantai 2, tena panggentungan handuk siagang baju ri kamara' mandina, maraenganna poreji, siagang gammarakjj",negative
+indolem-train-3423,"AC NA KURANG KASIA'KI, KAMARA'NA BONCORO', PATUGASNA KURANG TETTERE'KI PANJAMPANGINNA, KAMARA' MANDINA KURANG TANGKASA'KI",negative
+indolem-train-2772,Ommale eroki nontong I daeng le’bami poeng?????? Knock Me Out battu Afgan ? https://path.com/p/zkjvp,negative
+indolem-train-2452,"kau anggappa apa nu balliyya. hargana ngaseng 3 kamara' sipattang 324 ji sa'bu (ammake promo airy) sigang ri daerah kemang! lokasina oke, ambani ri kemang. kamara' lumayan lompo mingka tena nassingkamma foto na. nasaba' bangunanna balla', ukkurang kamara' assisala sala. kollang pallangeyang oke. tena je'ne' bambang lanipake a'je'ne' siagang wifina tena na'jappa (padahal annabami username siagang passwordna)",negative
+indolem-test-503,"Tena nasannang hotelna nasaba' ge'gereki. Iyangasenna staff tenayya intelektualna muali lantang bangngi sanggenna subuh a'gora pantarangngang nampa accinicini' tv. Stafkatena napikkiriki toananna anjo attinro a , kalennaji napikkiri'",negative
+indolem-validation-317,"Jai dudu jadwalna na tena kulle sau-sau, Syahrini: anjari baine anginga: Kullemi nikana antu Syahrini tau... http://bit.ly/1vQMNqQ",negative
+indolem-train-1282,Tena Wifina kurrusumanga,negative
+indolem-train-3520,"Seprei na pa’lungang golinna tena tangkasa, kamarana nyamang na sannang.",negative
+indolem-train-1756,21. Jai manuver manuver politikna SBY napamange ri Anas untuk allamma i posisina a'jari Ketua Umum Partai Demokrat,negative
+indolem-train-3234,seprei siagang kalimbu'na singkamma ero' risambei kah kodimi nicini'.,negative
+indolem-validation-238,tenanaji natangkasa' dudu,negative
+indolem-train-1302,"Gammara nyamang, paccena wattuku bangngi ri kamara mandina botto dudu, bajina niparutusuki sallang poeng, pangappa ji",negative
+indolem-train-2909,"Kamarak akrasa pakka, addmill tanre na sesuai",negative
+indolem-train-928,@wow_keren: Raffi Ahmad-Nagita Slavina Gappa Passareang Umroh na Assau-sau ri London http://ow.ly/2ULvEU,positive
+indolem-train-1213,pelayanan airyna kurag.. wattunna battu atoranna tiyai atorang airy.. atorang hotel biasa umpai.,negative
+indolem-train-1722,"tena wifi, tv tena nakkulle a'rinra kabala' antenena tappu', sallo nampa dinging ac na",negative
+indolem-test-151,"Nyamang, lammoro,bsh,,,ngasenna okemi,kanre jawa, je’ne inung,tv,je’ne bambang,ac,pakakkasa je’ne. acna mami tena dinging",positive
+indolem-train-3499,Ringasenna kupakena airy rooms annemi makodia 1. Wifina tena antama ri kamara 2. Pakkebu kamara mandina tena kulle tattongko punna tena nikonci battu lalang 3. Acna matti tarrusu/boncoro 4. Tuli niti’galappi sowerna tena kulle niboli ri tampa’na 5 ANNE MI panra’na MATE LISTRIK KAMARANA nasaba labusu pulsana mingka tena ni parutusu baji tena gio tippa,negative
+indolem-test-744,"Ca'di je'ne'na jari karri punna ero nirio ulu a, Caddi tongi ACna tena kulle niatoro' jari bambangi tawwa attinro..",negative
+indolem-test-869,"Bulang rioloa, rua agang ri kantoro erokki lampa2 ri tempa maraenga. Sallang ma’nassa nia tassisa’la. Anjomi teaki ampakasia-siai ri siagangi.",negative
+indolem-train-2049,"Bottoki kamarana, ca’mara, ac tena dinging",negative
+indolem-train-840,"Ri Perancis, assapeda ri kantoro sallang nagappa pammajakkang rikilometernya (25 sen euro iyareka ta’ Rp 4000).",positive
+indolem-train-410,"sumpaeng nakke a'jama' ammake anne bajua.. hihihi, kungai ampakei anne baju a!! lucu dudu i ?? rannu tong assigappa kau aseng ?",positive
+indolem-validation-182,"a'rasa meya supereinna, rantasa' kollang pallangeanna",negative
+indolem-train-666,"Sombai Ar Rahman, pasiara' sallang, siagang assare kanre tau maraeng, antama' asengko ri suruga. """" (HR Tirmidzi)",positive
+indolem-test-513,"tena nakkulle tattongko pakke'bu' kamara' mandina, kamara' mandina a'rasa kalorang, mohon nisare i kapur barus, Peneranga",negative
+indolem-train-1322,"kecewa rantasa' tampakna, tena je'ne' bambang, tena na'jappa je'ne' bambanna, katinroang siagang supereinna ra'masa', tv siagang ac so'bolo' siagang tena remotna. mate kulkasna tena na'jappa, tena ninggappa kanre bari'basa', tena aseng nassingkamma nitawarri a... tena ni puas",negative
+indolem-test-683,"AC ya tena dinging, tena tong kulle ammile kamara nampa parkiranna seppaki 5 ji motoro na kulle. Sikali mo lampa rinne",negative
+indolem-test-14,Syahrini ammake bati' mae ri kantoro' tribun Makassar http://bit.ly./1LFbeRf,positive
+indolem-train-2807,"09.14 RT @SimonBoykSinaga: Demonstrasi Nelayan ri kantorok KKP, a'rungang dallekang nitongkoki, ammutarakki ri dallekanna kedutaang AS",negative
+indolem-train-3056,"Allo ahiri' a'bangngi sike'de' pakkacewa, je'ne ra'masa' le'lengi ri allo minggua",negative
+indolem-train-2332,16.27: RT @araputrasikumb1: Daan mogot Batasa’ jkt - tangerang sanging mace’ nasaba pabaluka antamaki ri laloanga,negative
+indolem-train-976,"sanna porena pelayananna,iyangaseng petugasna sombere', pore pemananganna, kamara'na anynyamang, niyak inungang siagang je'ne' inung ri kamara'na, punna parallu je'ne' bambang ri cere' appala' mami ri petugaska. lammoro' hargana. jai menu kanre baribbasa'na, wattunne cek in terlambat 25 manit, wattunna antama' kamara', basa umpai dapara'na le'ba' ni pel siagang anynyakko' umpa rasanna pengharum ruanganna.",positive
+indolem-test-31,Anne lima cara ca'di antikamma tawwa batena ammonei biterei ponsel tammake charger akkulle a kigaukang tena kisessa... http://fb.me/1S7JJQ1Yo,positive
+indolem-train-1288,"kamara'na sebenarna pore, mingka kurang tangkasaki. kamma superei selimu' lu'luru' warnana siagang ra'masa' (kamma tena nisambei i) ",negative
+indolem-train-3338,"kah anggappa kamara' ra'masa', tena tangkasa'. Tena singkamma ri potoa. Kerang je'ne na boncoro'. Wattu kanre baribbasa' ri allo 2, nye'nyere'ki pajamana siagang tena sombere' manna ri pattabe'ki angngalle je'ne bambang untu' termos susua, na ritolla'ki anjo pasananga",negative
+indolem-train-2384,"handuk a'rasa, kanre terlamba' tena nasssingkamma standar airy kamma biasana. tena nasombere' dudu karyawanna",negative
+indolem-train-718,#Golkar #ARB Pa'kunjungang tau battu-battu ri Bali a'tambai http://bit.ly/18abNEB,positive
+indolem-test-968,"Tena tippa wifina, tena gappa kanre jawa na tena pabambang je’nena. Maraengna oke",negative
+indolem-train-2279,"tena kulle a'cini'-cini' tipi ka tena nia jaringang, seprei singkamma tena risambei nia inji barumbungna, tapi iangaseng baji'ji punna bangngi ri daerah setiabudi",negative
+indolem-test-332,"@hilfhunting: """"""@JilbabX: gammaraki RT @ani_chank"""""" tikamma tena na'goco' ri kantoro' punna kamma anne accidung rampitta",negative
+indolem-train-2824,"Tas Hermes Rp 1,5 Miliar Ripake A'balanja Gangang i Syahrini http://dlvr.it/8fsgV0  #openFollow",negative
+indolem-train-2562,#viva VIDEO: Ejai rupanna Ayu nanicallai Shaheer: Ta’bangkai Ayu battu callana Raffi Ahmad. http://bit.ly/187RFmE,negative
+indolem-train-132,aduuh afgan kelonna :D *konserafgan ? Sadis battu ri Afgan ? https://path.com/p/30al5c,positive
+indolem-test-353,"anne remo'na tipia tena batterei na, je'ne bambang panra', kamara' ra'masa, tena pa'lulu bangkeng, tassimbung, le'bami kupau mange ri deva airy tenapa na sarea jawabanna.",negative
+indolem-train-1436,Tena na baji dinginna AC sagenna kukana palebbami cek-out ka. Kasoro’na jai kassi’na na terasa’na punna ero tinro. Arrasai poeng je’ne na,negative
+indolem-train-2621,"#BreakingNews: maraeng, ngapa Menkumham Standar Ganda Nasahkang Papparutusu PPP na Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-2935,"shower je'ne' bambanna tena, kamara'na rantasa' siagang a'rasa pissing",negative
+indolem-validation-134,"tena nasesuai kamara' napaccinikanga, tena na dingin dudu ac na.",negative
+indolem-test-958,Rua kalina mi accini' pilleng rua kali tomma angngarru'.. My idiot brother ???? ? Untukmu Aku Bertahan battu ri Afgan ? https://path.com/p/429oIB,negative
+indolem-train-1471,"2 kali a'lette' kamara', kamara' se'rea wc na tena kulle ripake kah kakusu'na boncoro'ki, kamara' ruana AC tena dinging nampa a'lette' ri kamara' tallu, ammula na wc tena assulu' je'ne siagang arusu' attayang 2 jang nampa assulu' je'ne",negative
+indolem-test-264,Hai hallo ngaseeeng ? kurru anne alloa sannang mamo deeh :3 Ammuko caritaya ri G+ nah hehe Sumpaeng ammakea anne bajua ^^,positive
+indolem-test-551,"Arengna tong politik """"@kompascom: """"Punna PDIP a'passau anjo artina nia' na sepakati ri bokoang panunjukangna Badrolim anjari Kapolri"""" http://kom.ps/AFqKLU",negative
+indolem-train-3500,"#BreakingNews: masagala, angngapa Menkumham anjari ukkurang ganda ansahkangi pengurusna PPP siagang Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-3596,"#BeritaMusik Le'ba na Ammake Baraliang 5 M, Syahrini Kamma-kamma anne Ammode Tena Annyambung http://bit.ly/1AYQDpv",negative
+indolem-train-1445,"kalimbu'na a'rasai, ac na tong nangai sa'ra, siagang salu' kamara' mandina mampe'ki ka a'rasa pessingi",negative
+indolem-train-1834,"AC na panraika na bambang, wc panra",negative
+indolem-test-990,"Handuk tala niak napasadia ri kamaraka, nipalakpi rolo'. Wifi tena narapiki lalang ri kamaraka, napakua ri tompo' dudui kamaraka kapank. Siarang TV na pole tala bajiki kamma loe kaluaranna, bajiki punna nisarei masukang ammake TV kabel.",negative
+indolem-train-21,RT @DeyanaIdhamR: Appilajara ri alam antu kulle napajai pangissengang tena nigappayya ri sikola..,positive
+indolem-test-454,a'rasa katinrowanna,negative
+indolem-train-2771,"kamara' nigappayya tena nassangkamma niyaka ri airy. ri Airy tattulisi Deluxe, battuna mae ri hotelka, anggapp tawwa kamara' superior. katangkassang kamara'na, lumayangji, mingka punna kamara' mandi, pammopporang mama anjo paling kodi le'baka kumange i. kurang cocoki desainna, lamari rungnganna wastafel sanging lumu' lumu', kamara' mandi su'mung",negative
+indolem-test-117,"Kamara' nyamang, rassi AC, tipina a'rinrai manna tena ngaseng salurangna, kamara' mandina tangkasa', panjampanginna sombere', dela' siagang tampa' nganre, tapi nangai mate rete'-rete' listri'na, iangasenga baji'ji. Tarimakasi'",positive
+indolem-train-1822,"luayang anynyamang, mingka parallui nitingkatkan katangkassang kamara' mandina sollanna natena didi didi ri cappa'na jari pore i",negative
+indolem-test-858,"sanna' luara' kamara'na,, kamara' mandinaji kurang tangkasa'. tarimakasi airy",negative
+indolem-train-1422,kodi wifi na,negative
+indolem-train-2330,"kamara mandi : bajiki tapi je'ne bambangna tena kulle, katinroang : kasuru' na tena nyamang per na panra' tommi, bangkeng kasuru' na lappasaki dapara' na karobba' ki WiFi na tena tassambung",negative
+indolem-train-3063,"Tasi' Hermes hargana 1,5 Milyar napake Syahrini a'balanja gangang gangang",negative
+indolem-train-3079,Lumayang….. mingka kurang inji tangkasana kamara mandia.singkamma tena nijampangi.nyamangi tempa’na,negative
+indolem-train-1115,acciniki konserna afgan sambil anjama orderan pela' attambunga cuz sikarue'siallo bujuru' tena pangngaina a'gambara'.. sumpaennaji?? https://path.com/p/4di3hR,negative
+indolem-test-963,ac na nangai mate kale-kale,negative
+indolem-test-656,kamara' lompo.. niyak pakkakkasa' je'ne' kammu minka tena na'jappa.. sandala' nipalappi.. tena natassadia lalang kamara'..,negative
+indolem-train-3115,"Wifina tena kulle tassambung, sessana nigappa AIRY GONDOKUSUMAN URIP SUMOHARJO 64,..Beru nampa le’bana talipong call center nia info naparutusu Tickle Hotele",negative
+indolem-train-585,Tena dinging Acna na boncoro pakke’bu kamara mandina mingka ngasenna bajiji porena kanreanna. Ambani ri panganreang luarana hotele na tokoa,positive
+indolem-train-2674,"tena natassusun baji' kamara'na, kamara' mandina rantasa'",negative
+indolem-train-373,Sumangakki singkammayya sumanga’na jangang-jangang a’boya kanreang sebelumna bari’basaka.,positive
+indolem-train-684,"13-Punna nijagai tanglasa & kagassingang kaleta, anjagai sollanna tena nisalai loroa kemaeki lampa poeng.",positive
+indolem-test-558,InFO JABAR | nia se're ana' battu ri parigi tallangi ri tamparang Batu Hiu Pangandaran: ilustr... http://bit.ly/1AYTIv6 http://goo.gl/ GGnmCd.,negative
+indolem-train-1143,"Nia wattunna lampaya punna nu sambeia battu pantaranna atinnu. Kamma anne, tena tojengpa na kulle.",negative
+indolem-train-3081,"Arrasa taiangi je’ne’na, jai lamu’na kamara, tvna teai siarang kabele, wifina tena antama kamara, park",negative
+indolem-train-1382,Paccena arrasai kamara mandina,negative
+indolem-train-196,Bupatinna Jeneponto nadukungi gau ekonominna Domper Dhuafa http://bit.ly/1wis6Kj,positive
+indolem-test-429,Dahsyat 16 Februari 2015 Full part 1 - Raffi Ahmad DKK assungke buraburana... http://youtube/NA7P49eGcVI ri Youtube,negative
+indolem-train-1340,"baji' ngasengji tapi karoppo na tena nia, nakana tenapi ri kiring battu ri tauna airy, remo' tipina tena a'pungsi",negative
+indolem-train-1387,"Nikira tau mate, bijanna ngaseng na mangei oto yang ngeranga barangna korbanga http://dlvr.it/8fyR9L ",negative
+indolem-train-1147,"Angketna Ahok. Gerindra & PG nakke paham niya' sejara naboli'. partai2 islam.. paham tongji. mingka PDIP, Hanura, Nasdem? #gagalpaham nakke",negative
+indolem-train-1034,"NAkana tradisina Skandinavia, punna bura'ne siagang baine angnganre se're roti assingkamma, assita'galaki assingai.",positive
+indolem-train-3312,Mahasiswaia Matei ri taesso oto ri 30 KM Bellana http://republika.co.id/r/nkhh3m,negative
+indolem-train-3489,tena je'ne' bambangna,negative
+indolem-train-1700,"AC tena na'jappa baji', nakke kupanai' suite room, ruanganna tulusu' tena na dinging. tena kukkulle istiraha'",negative
+indolem-test-1006,Salloi nitayang passuronna. Mingka kamara baji,negative
+indolem-train-851,tea bakka ko a'nyassala' salama nia' inji kabaraniangnu a'menteng kah punna i kau a'putuskangi ammari na anjomi kasuksesannu a'lampa,positive
+indolem-train-1233,punna bangngi aha' kamma anne nampa tena nasa'ra hpku. sikali assa'ra mingka sms battu ri operator. Anjoemmi kamma assa'ga a ??? ,negative
+indolem-train-766,? inai nai mange ri masigika assambayang jamaa. iami antu se're dakkana anghapuski se're salanna.,positive
+indolem-train-2306,"Seprei na kalimbu’na botto, jai lamu kamara’na",negative
+indolem-validation-55,"punna nungai #Taurus, pattahangkangi, kah sikali a'lampai anjo ten mi ammotere'",positive
+indolem-train-744,"Nyamangi kanre bari’basana, staff, na papparutusu’na sombere, mingka Acna tena dinging",positive
+indolem-train-827,"Tena na sia-sia pakabajiki ruangang, nia matu-matuna lamungang ri kantoroka nasaba nakurangi mangngang, pa’risi karro, ta’roko-roko sagenna kalotoro.",positive
+indolem-train-1668,"lalo luara' kamara'na, mingka ruaji tau nagannakki jari kacinikang mubadzirki + kamara' tangkasa', katinroang tangkasa', toilet tangkasa'. fasilitasna ok. sanna lommoro'na hargana, ammake kupon diskon, - wifi takkulle connect. tena nasesuai kanre bari'basa'na (sambel lontong lalo bambang). pabajiki airy!",negative
+indolem-train-2634,nakke appesang 3 kamara' 1 kamara' sanna' dudu allammasa' nampa ra'masa' salimu'na,negative
+indolem-train-983,Punna nuassengi batena pangngaingku. Tuli panjarikangki bonena doangangku ? sigappaji sallang antu jodoa ? https://path.com/p/2NunPv,positive
+indolem-train-580,"Salama' Cutkak anggappa voucher angnganre gratis battu ri @one4chocolatte #thiloveaceh ^_^ """"@arinaanira: Lava cake",positive
+indolem-test-316,"Tiyai baine laler? """"@detikhot: rassi jadwalna sanggenna tena wattunna ammari mari, Syahrini: Nakke Ja... http://tinyurl.com/mt6kng2 ",negative
+indolem-train-1836,"lammoro' hargana, sannang tampakna, a'la'lang, niyak kollang pallangeyang siagang ac. mingka katinroang siagang superei kamma tena nale'ba' nibissa i, tena nalancara' assolong nasaba' tinggiyangngangi tandonna, a'limbu'bu' dapara'na siagang botol' pangnginunganna tau le'baka a'bangngi harusna nipelaki. bare pela' nitingkatkanji andallekanga",negative
+indolem-train-3498,Tassumbakki westafelna nampa kamara tangkasa siagang kollangna bajiki punna tangkasaki,negative
+indolem-train-3151,"Charles Honoris: Natepoki Pilkada Langsung, KMP Hianati Ra'ya' http://bit.ly/1y125zo #Pilkada Shell says no? http://dlvr.it/8fswSm",negative
+indolem-train-2896,[Barita] Politikus Golkar : PDIP Larro Budi Gunawan Tena Jari Nilanti’ http://bit.ly/1AZcbCw,negative
+indolem-train-2147,"Nyamangi pakasiaka ri hoteleka, mingka pakakkasa kamara mandina siagang kanre jawana tena nipassadia wattuna nampa battu",negative
+indolem-test-737,"Ac ri dapara rawayya tena na'rinra terpaksa a'lette mae ri dapara' 4, a'jappaji mingka tena na dinging dudu",negative
+indolem-test-933,"Kodina mamo passuronna hoteleka ybs. Tena namappauang airy. Nampa dodongi parutusu, tena a’muri & kana-kana",negative
+indolem-test-199,Partai Demokrat na parpol ri Koalisi Merah Putih (KMP) eroki alle kaupakkang? http://goo.gl/fb/qIPiYt @suaranews,positive
+indolem-validation-337,"parallu nitingkatkan AC na siagang parallu tongi nitamba i, maraenganna poreji",negative
+indolem-train-2374,kurang anynyamang kanrena siagang wifina sarringi antama',negative
+indolem-train-429,Assingkamma saliu' angngasseng baribbasa'. Assingkamma ombak angngasseng Samudra.?  Kamulah Takdirku battu ri Raffi Ahmad & Nagita Slavina? ,positive
+indolem-test-835,Eroki nisare pa’bau kamara siagang nipakabajiki AC,negative
+indolem-test-167,Mahkamah partai siratang adeleki ampa'le'baki parakara Golkar. Okezone http://dlvr.it/8fx1vz,positive
+indolem-train-2841,"Larroi PDIP Tena Jari Nilantik BG, Apamo gau sallang napajappa? http://dlvr.it/8g4cjx",negative
+indolem-test-564,@JANJISUCI_TTV: lhooo.. anjo @RaffiAhmadLagi angngapai anjo mange ri pangkalan ojeka ammakeang kalinci?? #JANJISUCITTV,negative
+indolem-train-3481,Tena na dingin Acna nampa jai lamu’ :(,negative
+indolem-train-3494,"je'ne' bale, ac tena na dinging, sa'ra ge'gere'",negative
+indolem-train-1851,panjampanginna kurang linta'ki,negative
+indolem-test-233,"Baine ambaung ari'basa'-tenapa na'milla' matanna- a'boya hp-acciniki medsos, sms, bbm, dll- attayang pau baji battu ri tau nangaiyya",positive
+indolem-train-1358,"Lammoro, lumayangji mingka jai kulipasa ca’dina kamarana, nampa kalimbu’na rantasa jai batena",negative
+indolem-train-573,RT @EkoTamba: anne alloa lampa na motere kantoro minawang ri daeng @DAlexandro. Kurrusumanga daeng don. Sigappaki ammuko dii. #caritaminawang,positive
+indolem-test-58,"O Karaeng, punna nuboliki atingku, kupala' teyaki boliki ri ati salayya. Mangngamma mange ri tau battua nampa a'lampa",positive
+indolem-validation-313,pelayananna kurang sombere',negative
+indolem-train-2533,"Baji servisna, patanna sombere na baji dudu, mingka katangkasana kamara tena baji. Seprei na lipa pa’lunganna kacinikka tena tangkasa jari tena nyamang tinroa.",negative
+indolem-train-458,"kamara' tangkasa', lancara' jene' bambanna siaran televisina lokalji. maraenganna ok ji",positive
+indolem-train-3074,"Jai dudu lamu’na, ge’gere, kamaraka tena singkamma gambara, nipassadia sabung batangang, ca’mara kasuru, lantena singkamma nia kaluara na kalimbu’na ca’di na tipisi.",negative
+indolem-validation-155,ac so'bolo' handu' siagang superei kalusu,negative
+indolem-test-325,"Capelena nyawayya, ca’mara kamarana apa poe ri rateanna lamaria tassimbungi lorona, tena sowerna jari make se’ro, anjo poeng nikomplengi salloi balasa’na ero mentongi nitalipongi patanna airy. Poko’na pacce mentongi siagang airy room tena na sikamma biasanna iyareka niminasaia. 1. Tena sower 2. Ac na tena dinging 3. Tena je’ne bambang 4. Kalimbu’na tena na sikamma biasayya. CAPELE DUDU",negative
+indolem-train-876,"Salama bangngi, pila sayang siagang anne sibalia makacintayyaa anne @RaffiAhmadLagi @Lady6igi :* muaaaaaach",positive
+indolem-test-799,"Riolo mariolona tawwa tena nakkulle angnganre olo olo a'nyawa kamma  bembe,sapi assegang jarang nasaba hukkunganna assingkammai tau ammakea narkoba kamma kamma anne.",negative
+indolem-train-3409,"Nganre nisoang, tinro nipakatinro, ngarru ninyonyo’. Punna toai sallang kulle nipalompoi sa’rayya siagang etta amma ? ana’ apamo katte anne? ?",negative
+indolem-train-3047,"appesang 2 kamara', kamara' se'reya tena nassingkamma nipesanga, harusna niyak AC mingka tena na niyak, kasoro'ji bawang nisareang, tena standar airyroomna. kamara' mandi a'rasa, toilet boncoro'. supperei kurang tangkasa'. lokasi pore, tena na bella battu ri tangnga kota.",negative
+indolem-test-890,sannang siagang amangi tena lift mange ri kamara' rate a,negative
+indolem-validation-349,"Mbami a'poto singkamma syahrini... Tapi anne jarina: A'maju munduru' maju munduru' battala, battala.. ? http://instagram.com/p/zXOlAwTCAM/",negative
+indolem-train-1534,"Ca’di parkiranna, dodongi wifina, tena jaringang, nganre bari’basa rua ji nisare pile mi goreng siagang kanre goreng anjo poeng nitongkoki anu ca’di, dinging na kodi rasanna =(",negative
+indolem-train-1365,"tena na dinging ac na, su'mung, kajempangang wc na.",negative
+indolem-train-2539,"Sanna laccu'na dapara'na, apalagi kamara' mandina. Sallomi handukna, parallumi nisambei",negative
+indolem-test-851,AC kamara' yang ku pakea tena dinging,negative
+indolem-validation-27,"sementara kupakaca'di bajunna HS anne.. sanna' lompona, jari kupakaca'di kale kale ammake lima. sollanna hemat se'de'wkwk",positive
+indolem-train-2965,"Le’ba’na make intang 5 M, kamma anne Syahrini attanja tena nyambungi: Syahrini biasayya nicini’ pore niagangi... http://bit.ly/18c9ocw",negative
+indolem-train-1673,"Ga'ga wih, tampa'na baji ambani kimae kimae, mingka tena nagegere, luara kamara'na mingka ac tena na dinging",negative
+indolem-train-3403,"Pamopporang agang2 Afganisme, jadwalna Afgan anne alloa ri Ini Talkshow nirobai nasaba se’re panggaukang. Nitayangi jadwalna sallang :)",negative
+indolem-test-45,"Pakaramulanna, kancing baju nitampakkangi ri cappakna lengang, sollanna lengang bajua tena niparek pa'lap rupa.",positive
+indolem-validation-221,sanna' padodongina. protes tena natanggapi ac battu pakaramulaji kuantamak sanggengku assuluk 2 jang ac matei. untuk kanre bari'basakna anjo kanrena kurang nyamangi,negative
+indolem-validation-13,Aganga injo ia yang sangnging agangiki ri wattu ta susa manna rannu. Teai yang battu ji ri wattu ta ji rannu nampa a'lampa ri wattu ta susa,positive
+indolem-train-29,perempatan2 nijaga petugas. assigappa patroli a'motor'. assigappa oto patroli. tariakasi responna pihak kaamanang. bare tettereki #MakassarAnynyamang,positive
+indolem-validation-130,"Sumanga ero kojo nampa punna nganre tena u’rangi linoa. Sa’barakki, katte kulleji akkana hm :’)",negative
+indolem-train-531,Gammara akkarenanna subangngia ri @latenights_ttv ngasenga @mrsayudewi @RaffiAhmadLagi @WunguRahayu @Haryotalijiwo @mbah_mijan @KiRaksaManggala,positive
+indolem-train-789,"Taerokai HAMAS, Panggaukanna pamarentaiya nipuji PDIP http://bit.ly/1KwhWtq  Ruki panassai KPK naparakai passalana BG http://bit.ly/1AXaNjF",positive
+indolem-train-136,Punna nakana afgan pasti assigappai punna jodoh... punna tiyai kamma kamma anne sallampi ri pelaminan.? ? Jodoh Pasti Bertemu battu ri Afgan? https://path.com/p/1jUIC8,positive
+indolem-test-787,"Nia se're tau aktifis lolo Muhammad Arsyad, ni penjarai nasaba  ammasangi status BBM ri HP pribadi  na accappa parakara #MN",negative
+indolem-train-3098,Komunis? Ateis? Yang nassa nia' bangkeng lima na PDIP ri DPR yang TENA A'AGAMA,negative
+indolem-train-590,"Kurrussumanga le’bakki battu pa’ ARB siagang tau Golkar maraenga, pamopporang niaka anggotana tena? http://instagram.com/p/zVAuLrKCQL/",positive
+indolem-train-3632,"pilari a kale kalengku"""" teya a' lampai, uranga, mingka teya akkana kana maraengi #Kamusbaine",negative
+indolem-train-1132,"#BreakingNews: Maraeng, Angngapa Menkumham anjari Standar dobolo Nipilei Parutusu’ PPP na Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-1316,"Wattuna apparuru motere nikattomi siagang papparutusu’na tena sombereka. Nampa handu’na nisare se’re, tena tong kulle tattongko pakke’bu kamara mandina",negative
+indolem-train-812,Punna memang nipanjaria untuk i kau pasti anjariko patangku...pasti assigappai punna nikana jodoh..????Jodoh Pasti Bertemu battu ri  Afgan? https://path.com/p/21ZAwK,positive
+indolem-test-229,"Tena nikana tena kulle dudu cini HP/email/sosmed balia. Punna appala ijingko nampa nisareji, ya kulleji..",positive
+indolem-train-63,"Cing, nakana bede kamma anne kantorona lego.. pikakkala tongi dii (siagang Felix) [pic] ? https://path.com/p/DVBQ9",positive
+indolem-train-538,Makalucua sikola ri Kore http://bit.ly/1Ew4V0m #HotThread,positive
+indolem-validation-194,"a'bangngiji sipattang, parallu nidobolo' cek katangkassang kamara' siagang toilet, tiba-tiba",negative
+indolem-train-1617,kamara' kurang tangkasa',negative
+indolem-test-108,"bari'basa' kalabine prillversku!! semangat dii assikolayya, akkuliah, siagang anjama, teya takkaluppai angnganre bari'basa' dii pv!!! #salamprillvers?",positive
+indolem-train-3586,Papparutusanna tena sombere.,negative
+indolem-train-519,"[Korpora] Pakkassa Solusi Kaamanang, HP Akuisisi Voltage http://owl.li/JvmSh",positive
+indolem-train-1567,"Pa'je'ne'kang, lamari, tipi panra'ki ...tena kulle ripake",negative
+indolem-train-3385,lamari kamara' tangkasi manna tena abbarumbung siagang jai rema-rema bangunangna,negative
+indolem-train-1720,"Sanna strategis lokasina, luara' parkiranna, tena na'jappa baji' je'ne' bambanna, kurang tangkasa, a'rasa salimutna siagang tena na'jappa tv kabala'na.",negative
+indolem-train-3080,"Kamara' mandina kurang tangkasa'ki, ac na tena dinging",negative
+indolem-train-320,#Terkini Charles Honoris siapki amperjuangkangi kabebassanna agamayya http://bit.ly/1KwfyTv #newsstatus of U.S West Coast? http://dlvr.it/8fRk4f,positive
+indolem-train-73,Anne bura'nea a'lampa ri kamara' mandi umung untu' se're alasang. Na anne baineia napakei kamara' mandia untu' ruangang terapi siagang pa'sicinikang sosial,positive
+indolem-validation-201,"PDIP Nikua Mara'-maraengi punna Natarima Badrodin Kapolri: INILAHCOM, Jakarta - Anggota Komisi III DPR Fraksi Golkar, Bam... http://bit.ly/1Lp73ZP",negative
+indolem-train-3530,Baji ji na amang pa’rasangang mingka AC na tena na dinging..... sallang....,negative
+indolem-train-3382,"kalimatna max mi, LOL """"@republikaonline: Poros Muda Golkar: Pammarentah Australia tena attasa'na http://republika.co.id/r/nk2iak """"cc@andy_nurvita. ",negative
+indolem-train-2703,"Sekre: Ngapa kau nu battu ri wattuku kamma anne? Rua: Ngapa nu parekka nyamang siagang kau? Tallu: Ngapa nu pareka ngai ko? Appak: Ngapa, nu lampa?",negative
+indolem-train-3212,koporo' rassi saing kanre kanreang-.- manna baju tenpa-.-,negative
+indolem-validation-93,"Siagangang teai nikana tena tassisa’la. Aganga battu na lampa. Mingka manna tassisa’la, tenaja tarobah.#NH",positive
+indolem-train-2347,"kamara' mandina kurang tangkasaki, tena nia' pa'bau'na tong. Tingka'kangi seng motere'..",negative
+indolem-train-2720,#Cancer itu egois mingka sa'baraki. punna nia nangai setia teruski ri anjo tawwa. mingka punna tena na jelas  erokangngangi a'lampayya,negative
+indolem-train-765,"Salama' tammu taung i imam iareka raffi ahmad kw superka wkwk susses ri lino ahira', linta' anggappa jama-jama wkwkwk? (siagang imam) ? https://path.com/p/2kVbsH",positive
+indolem-train-2210,kurang dinging ac na,negative
+indolem-test-382,"Firman arenna, tau nibesoka rioto 30 km nicini' ribapakna http:bit.ly/1BNfkFO",negative
+indolem-test-315,Nyamangi passurona porei singkammai rasanna ri balla.. mingka tena na asseng passala privasi nasaba pajaga ballana tuli antama kamara manna tena nipala ri wattunna toana tena.,negative
+indolem-train-862,#BeritaEkonomi Oto-oto Retro Sipapporeangi ri Serpong http://dlvr.it/8fyphC #Perseratus,positive
+indolem-train-1378,wattu antama lalang kamara'ka a'rasa pessingi sangngenna nakke arusu' ammalli pabau' ruangang,negative
+indolem-train-2054,"Rantasaki kamara' mandina, Kanrena poeng angngodi nyawa, Kanre bari'basa' mingka nampami tette' sagantujuh labbusu'mi",negative
+indolem-validation-390,"Otowa akkullei  nisambei, Ballaka akkullei nipalette', Umuruka akkullei katambang, Odo odoka akkulle tongi kasambeyang, Mingka? [pic] ? https://path.com/p/A3fbl",negative
+indolem-train-3355,"ac bambang, pajaga kantoro'na kurang sombere'",negative
+indolem-train-1276,"modena baji'jo, seprei pa'lungangna a'rasa tena kalotoro' sike'de, iangasenga baji'ji",negative
+indolem-train-1394,Didaskaleinophobia iamintu pakamalla lampa ri sikola,negative
+indolem-train-2110,"Le'ba na ammake baraliang 5 M, Syahrini kamma-kamma anne ammode tena annyambung http://ln.is/dlvr.it/1qPQO",negative
+indolem-test-239,"Kiassengika, nganre es krim kulle napakabajiki kalengta ri pirus flua.",positive
+indolem-train-1904,"AC punna kulle nisambei, subangngi tena dinging tena singkamma biasanna…",negative
+indolem-test-849,"Tangkasa'ji manna mamo tena nia' kanre baribbasa'na, wifi & talepisi ero' ribajiki ka tena a'jappa",negative
+indolem-train-607,Aminnn 100x RT @RealMesha_17: O Karaeng kabulkangi & Aamiini ngaseng Doa Harapangna @Lady6igi thd bura'nena @RaffiAhmadLagi #janjisuciRANS,positive
+indolem-train-15,"Le'ba Program Se're Allo Se're Juz, Kabupaten Bangka eroki na gulir Program Basa Arab ri sikola",positive
+indolem-train-2830,Kadangi tena na gampangi nicobai antu ikhlaska. Singkammaya paccobai palampai baine rioloa ikhlas na kalumannyang siagang baine maraenga :’),negative
+indolem-train-1438,Kamara'na ra'masa',negative
+indolem-train-3560,"Sanna ta'liwa'na, punna passiagangnganga iyareka passianakkanga niukkuru' battu ri PIN BB siagang NO HP, kamma anjo rawana? ",negative
+indolem-test-889,"@Rauff_Abd @KPK_RI @WijatB tena nia yang tojeng-tojeng,,iangaseng ri Polri - KPK yang amminawang politik ri PDIP siagang Demokrat",negative
+indolem-train-737,"Tollak HAMAS, batena pammarentah dipoji ri PDIP htttps://bit.ly/1KwhWtq allo bahasa amma' wattu pappakalompo budaya lokal http://bit.ly/18ceVjx",positive
+indolem-validation-315,"Punna kamarana baji na nyamangji, mingka ri ac na ge’gere nampa intina antu kamara mandina anjari banjiriki punna le’ba je’ne nasaba tena baji solongangna sike’demi antama ri kamara nampa laccu tongi jai tenaki nyamang dudu, kanreangna tena baji, tena modelena",negative
+indolem-train-3373,"Baju ji anne woy, susunna ri lalangi wk",negative
+indolem-validation-123,"lucu kamara'na, mingka kurang memuaskangi pelayananna. niyak umpa sijang battu ri tette' 12 untuk check out, mingka nigoraimi tawwa assulu'k kamara'. check out, check out manna tiyai mae ri nakke, mingka tena nanynyamang punna nipanggaukang kamma anjo..",negative
+indolem-train-872,Pitur Koda': Piturka anne untu' persi Pro. Jari Hp yang lannya'ka kulle rialle potona nampa riaplo'ki ri web ka. Kemae? MyDroid. #AntiHilang,positive
+indolem-train-2271,"kamara' a'rasa kalorang panrioang, jai lamu'na, bari'basa' je'ne' panrioang sanna' ca'di jari attayang sanggenna allo untuk anrio.",negative
+indolem-train-352,"Minasayya punna bangung, anjo kabara’na ri HP battu ri katte :3",positive
+indolem-train-92,"Sipa’rua siagang iyami wattu bajika ri tallasakku. Kerea kulleki a’jappa sipa’rua, nganre, accarita pangngainnu & pangngaingku.",positive
+indolem-train-1921,"baji' mingka pappainga' andallekanga, sikarue' supereinna a'ga'ma' umpa kamma tenapa na'mara, wattu bosi i, pappainga' sollanna nijampangi kammayya anjo tarimakasi'",negative
+indolem-test-611,"tamae niyak hubungan tena masalana. tena nanynyamang pa'risi' ulu, mae amballei i Paanadol.",negative
+indolem-train-3252,"Jokowi assisa'la' ranjang siagang PDIP, Demokrat a'boya: Partai Demokrat siagang parpol ri koalisi Eja Put... http://bit.ly/18s34SN #Kabari",negative
+indolem-train-3620,"harga pore. assingkammaji biasa, kamara' airy tantu nisare kamara' kurang strategiska. katte nasare' kamara' basement. kabutulang panraki wifi hotelka. nasaba' ri basemengi kamaraka, signal 3 G na gappa Hp a. tantu sallo i. intina kamara' airy tulusu' nipariboko i",negative
+indolem-train-2781,sarringi di ntan???? Sadis battu ri Afgan (siagang Intan) ? https://paath.com/p/10XGhB,negative
+indolem-train-1458,kamara'na kurang tangkasa',negative
+indolem-train-2318,"Baji', nyamangi, wc na ji boncoro'",negative
+indolem-train-2966,Tuli mate-mate acna jari naganggui sawe-sawea,negative
+indolem-validation-340,"Kamara mandina tena tangkasa, tena pakakkasa sabung na sampo battu ri airyna.",negative
+indolem-train-492,Nia studiona siagang karoke ri kantorona gugel nampa tenaja nibayara pajamanna,positive
+indolem-train-2658,"Kosongi siarang tipina, nampa antenana tena baji anjari kodimi gambara’na.panggappa masang mi tv kabelmo saja..barita deposti tena nassa punna ero alle ripinawangi bon, awala’na nakana nisareji konci nampa dipamotereki depositka poeng",negative
+indolem-train-2757,ac na mate tena dinging,negative
+indolem-train-1695,Baji ji mingka bambangi AC na…,negative
+indolem-validation-118,"sanna kacewa ku siagang pasilitasna ri airy eco galung lompo kartini jakarta. pasilitasna ngaseng takkulleai nipake contona anjo taliponga lalang kamara takkullea nipake, remo AC na tenai jari takkulleai niatoro bambang na punna dingingki, remo' telepisina tena nia pasku antama ri kamara",negative
+indolem-train-3295,"Ta'bongkara, PDIP Larro lompoi wattunna napilei  Komjen Badrodin Haiti | Islam Toleran Com http://www.islamtoleran.com/terungkap-pdip-marah-besar-saat-jokowi-pilih-komjen-badrodin-haiti/ ?",negative
+indolem-train-348,Bajiki.. nia kanre jawana ri ngaseng kamara. Mingka wattuna gappa kamara 305 tena na arrasa dinging ac na. maraenna ga’gai. Attarrusu rinni.,positive
+indolem-train-2009,"Dampa' pa'buntinganna ana' jai antu agang-agang. Iamintu reprodussi yang tenapa na paruru, pa'doe'kang sipammanakang, & tappu' sikola. #TondaSanggennaA'paruru",negative
+indolem-train-2563,"kurang baji'ki, Ac na tena a'rinra, sowerna kurang baji', kurang tangkasaki",negative
+indolem-test-971,Sassang inji tv na..kapannapi nabajiki airy,negative
+indolem-validation-202,"pore standart kamara'na, ambani ri bandarayya. tena na'jappa WIFI na",negative
+indolem-train-1315,"ac tena dinging, je'ne na ca'di. Arusu'na ganting nia yang a'pesang riparissai rong",negative
+indolem-train-1522,Tena nassa tette nganre bari’basana nampa wattuna ero nganre tena kanreang na tena toana ero nganre punna informasi tampa nganre tena nia mingka mejana ji nia na tena nassa kerea informasinna. Apa poe nganre ri luara,negative
+indolem-train-3495,Taruntu' mantang ? A'lampa a'calla ko anjoreng ?,negative
+indolem-train-423,"Tribun: lalanna pammileyang kepala daerah appadayya, tenamo napakei PDIP pengaruhna jokowi: lebba'mi natantukang PDIP ma'nassana? http//dlvr.it/8g9KP #beritaannealloa",positive
+indolem-train-2813,Angngarruk sikarrukian taua sedih nipakamma ciccinik sari'battang dongokku... ? Untukmu Aku Bertahan ii Afgan ? https://path.com/p/2B9v5T,negative
+indolem-train-1211,je'ne bambangna tena a'pungsi,negative
+indolem-train-3296,Ngurana kau Hodoh riampi'na U? Nakke antamak U.Kukareki pasal masa depan. Tania erok akboya ammayya kau.Lekbakko bunting apa la nupakanreangi ammaknu?,negative
+indolem-train-761,waah.. @Ladygigi sanna' sosweetna assoi @RaffiAhmadLagi...,positive
+indolem-validation-43,Ero' Rupa Mulusu' Tena Kerutangna? Nganre Mako Sikola' Nyamanga Anne http://tinyurl.com/p8f2urb battu ri @detikfood,positive
+indolem-train-3247,Kurangi kalimbu’na kurru,negative
+indolem-train-1679,#JomloItuBahagia - le'baki ammantang hp nu ri kantinga?,negative
+indolem-test-296,"Yeee, niami laguku Aa @RaffiAhmadLagi iyareka """"makabaji ri kau""""",positive
+indolem-train-2027,"Licingi lantena na ra’masa, rantasa kamara mandina, sessa sinyal hp, apapoe wifina, borroi papparutusuna, sessa nigappa colokanna. Maraenga oke.",negative
+indolem-test-343,tampakna anynyamang mingka tenanaji nakkulle je'ne' bambanna. iyangasenna okeji,negative
+indolem-train-1676,"paling ero' PDIP"""""" @RedaksiGoRiau: DPR appau rahasia sengaja naloloskang Konken BG sollanna ta'jebaki Jokowi http://In.is/www.goriau.com/nasio/kLBVQ",negative
+indolem-train-2773,Baji tempa’na nampa lompo mingka tena na tangkasa ka jai u’ ri pa’lungang,negative
+indolem-train-408,Demokrat annilai kaputusanna presiden appabattu kapastian http://bit.ly/1AKAT9G,positive
+indolem-validation-256,je'ne' bambanna sanna' sallonaa nampami akkulle bambang ri kamara' 318,negative
+indolem-train-508,"ambani UN jai jai appilajara' siagang rajing assikola & jai jai a'latihang soal, appala' doang, appala' restu tau toa & parallu a teya accewe' ceweki ^_^",positive
+indolem-train-1615,"Teamo akkarena nipisangkai poeng, pakuttuang ? ka attojeng accini Afgan. Kiasseng sai kodong :( http://ask.fm/a/bndm3a6d",negative
+indolem-train-559,"anjo i sahrini sanna heba'na,,RW @VIVA_logo Tas Hermes Rp1,5 Miliar napake mange ammalli gangang i Syahrini http://dlvr.it/8fs9jm",positive
+indolem-train-3460,"kamara'na anynyamang, gampang a'boya kanre, mingka karri signalka lalang ri kamara'na.",negative
+indolem-train-1133,"awala' battu na antama' kamara' delux tapi tena nia kulukasna tena singkamma ri gambara', jari ri angka'ki kulukaska battu ri kamara' maraeng siagang pajamana, baji' mi.. Tapi le'ba anjo kacewa poeng kah handu' siagang pa'lu'lu' bangkeng kamara' mandia tena nia, jari nakke ammalo-malo nai' naung battu ri lante 2 liwa' tuka'. kamara'na kurang tangkasa'ki, nia bate kaluru'na ri lalang lamari....",negative
+indolem-train-1016,Kulle lannya katala-katala http://www.klinikwienarto.com (0291)3332855 / HP. 08122893709 / PIN 29E22f2f,positive
+indolem-train-2361,Nyamangi & tangkasaji. Kusa’ring anne ka’dokang bari’basa’na tena jai modelena nampa wifina eroki nitambai.,negative
+indolem-train-3611,"ca'di je'ne'na, rantasa tampakna, a'rasa, rantasa', superei siagang saraung pa'lunganna tena nasambe i, tena papparkiranna, -tena nirekomendasikangi-",negative
+indolem-train-2443,"Kamara' rantasa', battu ri kamara' nia noda sikola' nampa ri pa'lungangna nia noda le'leng, sanna ra'masa'na singkamma tena ri bissai na ri bale'ji. Wattu ero' assulu' ri jo'jo' anra'massi kalimbu'na na wattu antama'ki nia memangmi, siagang deposi'na ero' rialle, jari punna i kau battu na nia noda iareka kotorang ri kamara' tettere'ko a'jamma', kah sinampe i kau rijo'jo' anra'massi kamara'ka anjo siagang riallei deposi'nu. tette' 2 pi nampa kulle antama', nganre baribbasa' anjo kanre sanggara' ammake bayao ji. kamara' mandi na a'rasai siagang salurang je'ne ri rawana sanna ra'masa'na singkamma nia u'-u' na, tea ma a'bangngi poeng ri anjo hotele'ka",negative
+indolem-test-168,panggaukang baji apa le'ba' nugaukang anne minggu a? ? assassangi bajunna tau toa. angngaleyangi bo'bona bu hani ri kantoro ri...http://ask.fm/a/bn8pbojn,positive
+indolem-train-839,"Sikali Hpku assa'ra, nakke a'harap narrusu anjo battu ri kau. :)?",positive
+indolem-train-3575,sallo nampa anjampangi.. tena pegawai kantoro'na.. biasa tena pegawaina ri tampakna.. kollang pallangeyang rantasa',negative
+indolem-train-1377,"kekkese' C ripisangkai, Pajappa Tere' ka Naborongi Kantoro' Gubernur Jateng http://dlvr.it/8hj4Y1",negative
+indolem-train-3111,"Sanna jaina jama jama anna na tasawe saweamo ammari mari , Syahrini. Inakke anjari baine udara http//timyuri.com/mt6kng2  via @detikhot",negative
+indolem-train-701,RT @VIVAlife_: Rua Ana' Rungkaia Sare Jasa Bissa Baju Gorra' untu' Tunawisma http://dlvr.it/8k6HJ1,positive
+indolem-test-672,"annelpong pusa' pakkio' dps 223333 na somai @giri_sujana: Poko' ammattung na tabai oto dallekangna Popo Danes H. Wuruk, tabe' kio'ki DKP",negative
+indolem-train-1616,"a'pesanga kamara' na antama' ri tanggala' 18/08/18, 4 kamara', na wattuku battu tette' 17.00, 2 kamara' ta'isi inji (tenapa kulle ripantamai), tabe' ripassadiai pasilitas pa'bambang je'ne na untu' ri inung umung (pasilitas standard room), tabe' ri parissai kompleng ruangangna (salama' battu karoppo' siagang inung), handu' ri kamara'ka ngaseng, angngapa konci kamara' mandina rikonci battu ri pantarang???!",negative
+indolem-train-576,"Nyamangi tempa’na, tangkasa manna mamo arrasai sike’de lamarinna mingka ngasenna baji ji",positive
+indolem-test-985,Partai Demokrat : Jokowi Nalecehkangi DPR http://ift.tt/1bobygb #kabarakallo,negative
+indolem-train-1415,"Appare' Pidio Klip, Syahrini Ammake Konse' Tena Antama Riakkala': Pakkelong se'rea anne appare'ki pidio k... http://bit.ly/1vR1Ock  #NewsINFOmedia",negative
+indolem-train-2161,Anung bellako angngapa nakammako tau bella padahal anung niya'jako ridallekangku ammakkala' mingka tulusu'? Jauh battu ri Afgan ? https://path.com/p/2xqtFB,negative
+indolem-train-3128,"rantasa' kasoro'na, ge'gereki nasaba' nilangngereki kamara' mandi ba'leangnganga, tena tong nabaji rasanna",negative
+indolem-train-1095,"tau perfeksionis gampangi limpuru' bukunna, gangguang pangnganreanna, siagang sindrom mangngang kronis [Penelitian ri Brook University]",negative
+indolem-train-2000,"Tipina kurang a'fungsi, a'boya salu' tipi lokal ka susai . Kadang nia' sinyal",negative
+indolem-train-3204,"http://kplg.co/Yf9H Le'ba na pake baraliang 5 M, kamma-kamma anne Syahrini tena assibattu a'mode na",negative
+indolem-train-2127,Paesara’ batu akik malsua http://bit.ly/18cdrps #Golkar #ARB,negative
+indolem-train-3383,"Baji ngaseng, passangalina pattannangang tv na, tena na coco posisinna. Ngapana dallekanna lemaria.",negative
+indolem-test-69,Passareang bajika ri tau ningai iyami kalengta. Panassai motere/lampa massalana. #CURANMOR,positive
+indolem-train-1736,@wachidridwan: ustadz pakkasiakku anjo baju nipake wattunna pa'nikkang anakna kyai Muhyidin ri masigi' Andalusia hehe. (hehe. Iyyo),negative
+indolem-train-751,Gammara’na teaki sadis dudu daeng Afgan ?? ? Sadis battu Afgan ? https://path.com/p/4cck7R,positive
+indolem-train-975,kamara' tangkasa ac dinging pelayanna sombere' mingka kakuranganna tena na'jappa baji' je'ne bambangna halamanna asri ,positive
+indolem-train-2668,"Tabangka Paruru ? tena anjari camping siagang kantoroka, tabangka niaja’ camping siagang ananaka? (ri Omnia Salon & SPA) ? https://path.com/p/1TEkSp
+
+",negative
+indolem-train-439,Kamara'na tangkasa' na nyamangi. Sayangna je'ne bambangna matei siagang tabe' assareki panjojjo' kibla' ka manna gampangi muslim ka sambayang. Maraenga baji'ji jampanginna. Tarimakasi' airy,positive
+indolem-train-721,"Anynyamangi pa'lunganna, dingingi kamara'na, tena pa'lu'lu' bangkenna..",positive
+indolem-train-572,Kurru ri pasangna agang2 passala sumbang baju! Nipakalumannyangki Karaeng.,positive
+indolem-train-811,"Syahrini akkulle nikana salah se're pakelong paling laku ri indonesia. Tena herang,Syahrini pu... http://bit.ly/1vQZNg8",positive
+indolem-train-2107,Pa'risi atinna Demokrat nasaba' pammilena SBY tena nipile i ri Jokowi,negative
+indolem-test-9,"Wattuna sikola bodoa, I kau siagang agannu? Balle-balle kerroki pensilna nasaba ero tattai ri tong sampayya. Nakkuku sikola ca’diku ?",positive
+indolem-train-2203,"RANTASA'! KALIMBU', SEPREI A'RASA kamara' tena kalotoro'",negative
+indolem-train-3550,Nipabajiki siaran tv na,negative
+indolem-test-480,Eroki nipakabaijiki tangkasakia,negative
+indolem-train-670,"Kungai. Ritumisi' siagang riraca' lada ca'dia + lasuna eja. """"@erliann1: @PakBondan @TerasiSuper le'ba nganre lada has Bangka rusip?",positive
+indolem-train-948,Simata-mata anne sattua kantorta lette rinni... ?? langkara’ tonginigappa sattu kamma anne.. http://instagram.com/p/zWwAWgQ4Ln/,positive
+indolem-train-2897,Tena je’ne bambang nipake je’ne,negative
+indolem-train-364,"ero' tettere' roso'? gampangji, kanremi anne:Amerika Serikat siagang Jepang? https://goo.gl/fb/VxqQpg",positive
+indolem-train-227,":)""""@ratihsari140: Salama' bari'basa' a @RaffiAhmadLagi sumanga' paruntukang jama-jamang anne alloa ?? BijanaRaffiah17 @FamilyRANS_FC",positive
+indolem-train-1361,"punggawana KPK assare usulan SBY sollanna tena napile i Jokowi, Demokrat approtes http://dlvr.it/8dLcFp",negative
+indolem-train-805,? Anjo bainea passareang makabajika battu ri Allah.? Paka’biriki sebelunna lampai. ? Nai? ? “”Amma’nu.””,positive
+indolem-train-1082,"tipisi' salimu'na, superei siagang kaenna kacinikang a'loko, je'ne', bambang tena na'jappa :(",negative
+indolem-test-381,"Sassang dudui lampu ruanganga, sessai punna a’baca.. Jai lamu’ ri kamara, tena na nyamang tinroa Papparutusuka tena tong lammoro atinna bantuki erangi tas na koperka, nampa anjo toanana baine ngaseng",negative
+indolem-test-4,"Wah pak Jokowi gappami ganna positif ri matanna fraksi Demokrat. Ewako pak Jokowi, massingarakki singkamma pak @SBYudhoyono. http://www.antaranews.com/berita/480952/demokrat-nilai-keputusan-presiden-beri-kepastian ?",positive
+indolem-train-2637,Politikusna PDIP Sa'buki Megawati Lekbak Dikriminalisasi http:m.jpnn.com/news.php?id=288525 ? #JPNN #Jokowi,negative
+indolem-train-3139,tipi tena nia jaringangna,negative
+indolem-test-109,"Kungai modele hotelena, ca’di-ca’di, tangkasa, sombere passurona. Ngasengnna bajiki. Mingka jaringanna wifina tena narapi kamara.",positive
+indolem-test-10,kamara' tangkasa tassadia pakakkasa'na. bajiki pelayananga na linta. tangkasaki katinroangna . showerna tena na baji ri lantai appaka nakke ca'di je'nena tena na baji a'jene bari' basaka tette lima. salurang je'nena appasuluki rasa mara' maraeng ,positive
+indolem-train-2734,rantasa' kamara'na. kamara' mandina pole. ri loci kamara'na jai puppusu' kaluru nampa tena nitngkasi i,negative

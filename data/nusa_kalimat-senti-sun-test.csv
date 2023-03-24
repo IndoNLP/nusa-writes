@@ -1,0 +1,1202 @@
+id,text,label
+indolem-train-1092,"Jajananna teu aya sih,",negative
+indolem-train-1608,Cai panasna rada kurang panas...,negative
+indolem-train-984,"Partai Demokrat ngadukung RUU otsus Papua jadi Ondang-Ondang, arurang ngadukung ra'yat papua maju @PDemokrat http://www.beritasatu .com/nasional/252744-demokrat-terima-kunjungan-majelis-rakyat.papua.html ?",positive
+indolem-train-3527,"AC kurang tiis, anggeul bau dahdir",negative
+indolem-train-910,"Nyanghareupan Pilkada Sarempak , PDIP Geus Henteu Ngamanfaatkeun Pangaruh Jokowi http://www.tribunnews.com/nasional/2015/02/21/hadapi-pilkada-serentak-pdip-tidak-lagi-manfaatkan-jokowi-effect/ ? liwat @tribunnews",positive
+indolem-train-2905,Saptu jam sakieu masih di kantor sarta samsat teu acan aya tanda-tanda tiasa dicandak :| (di Bank Jateng Cabang Klaten) ? https://path.com/p/IqBDA,negative
+indolem-train-3041,"Palayan Kurang Someah, eweuh seuri ti customer service jeung justru urang salaku semah kungsi di ledek, tapi aya lomari, Salimbut jeung anduk ngan aya hiji, tv kabel ngan aya 3 saluran nu bisa di lalajoan",negative
+indolem-train-1469,airy brrengsek. ngajual kamar ancur pabalatak. maraneh ngajual kamar pikeun semah mesumnya??? kamar kotor bau rokok. euweuh anduk euweuh cai. panto kamar mandi ruksak. protes ka airy teu diwaro. ngucwakeu pisan edan. tutup weh airy teu pantes maraneh jualan kamar siga kitu patut. sakalian weh jual jasa esek-esek. hotel teh naha ancur kitu.,negative
+indolem-test-357,#Jokowi #PDIP PDIP Ngambek Pisan Pas Jokowi Milih BH - http://JPNN.com  http://bit.ly/1AZaeWB  @PDI_Perjuangan,negative
+indolem-train-2908,"Alah siah """"@kangdede78: mantan anu ambek-> Demokrat Protes Pimpinan KPK Usulan SBY Teu Dipilih Jokowi - http://kom.ps/AFploc  @Vie_Kumalasari",negative
+indolem-train-28,Wilujeung enjinggg abdi resep ninggali ieu @RaffiAhmadLagi @Lady6igi @ruben_onsu @sarwendah29 mugia lancar babaranna engke,positive
+indolem-train-1591,"kamarna alus, fasilitas oge siga hotel, simkuring teu nyaki siga kitu.. ngan waktos rek abus lila, nu ngajagi teu apal lamun aya nu pesen kamar, kudu nelepon kaditu kadieu, lamun tiasa tamu geus aya di kaamanan, janten langsung apal, jeung teu lila,",negative
+indolem-train-822,"palayanan alus, kondisi kamar alus, ngan punten diperhatoskeun kamar ibak rada bau saeutik tapi sakabehna mah puass lamun ka Bandung deui Insya Allah bakal kadieu deui harga murah kualitas mewah hatur nuhun Airy Rooms",positive
+indolem-test-66,"Kabogoh nu bageur nyaeta nalika manehna riweuh atawa handphone na seep batre, manehna angger """"usaha"""" kangga masihan """"kabar"""", minimal nambut hp rerencanganna. :)",positive
+indolem-train-1831,"Lamun ngomong make kanyataan, Bung @kompascom: Lamun PDIP Anteng Kalem, Hartina Aya Deal Panunjukan Badrodin http://kom.ps/AFqKLU  @PintarPolitik",negative
+indolem-validation-188,"kamarna alus pisan, ngeunaheun ngan hiji nu ngieun kuciwa jeung teu resep nyaeta jelema nu nungguan / CS na alias palayanna nu teu someah pisan. ngan nempokeun siga jelema judes. terus seuseurian ngieun tamu teu nyaman. punten dibeneran pikeun CS/ Palayan teteh tetehna. hatur nuhun ",negative
+indolem-train-2550,"wifi teu tiasa dianggo, anduk kotor, jandela make kaca kaubr meh teu tiasa ninggali luar. tapi nya lumayan lah jambanna sreg, cihaneut. pagawe someah pisan jeung responsif. ngomong-ngomong hatur nuhun ",negative
+indolem-train-2473,"cekap alus, jamban kirang beresih, wawangian ruangan paeh, remot TV Ruksak.",negative
+indolem-train-1946,AC teu kapake jeung kamar teu saluyu gambar,negative
+indolem-train-2704,"Nunjuk Badrodin, Bamsoet Ngaduga aya Perjanjian Jokowi sareng PDIP: Upami PDIP tenang, jelaskeun lamun perjanjiana... http://bit.ly/1vR9cEw",negative
+indolem-train-402,Diskon 30 % -Lock & Lock -Parabotan Dahar jeung Nginum Palastik +Diskon 10 % jeung Kartu Kredit Bank MEGA #PromoSaptuMinggu,positive
+indolem-train-1419,#Warta [MENGEJUT KAN !] Kolot Raffi Ahmad Diciduk Polisi http://dlvr.it/8dNxRs  #Assadiqulhaq,negative
+indolem-train-55,"kamar alus, bersih, wifi lancar, ngan hanjakalna siaran tv teu aya",positive
+indolem-train-19,"Ivan ngomong """"Jadilah kisah ieu abadi anjeun lah? ? Kamulah Takdirku ku Raffi Ahmad & Nagita Slavina ? https://path.com/p/2jlXXK ",positive
+indolem-test-123,"Abdi geus 3x mondok di dieu. Tempatna patut pisan sareng hargana. Kamar-kamarna beresih, kamar mandina oge beresi, ngan sok aya masalah cai panas na. Kaseluruhan mah disarankeun pisan",positive
+indolem-train-2314,simbut jeng sepre siga nu jarang digentos. masih aya katinggali sesa jalma saacanna.,negative
+indolem-test-934,"Check in jam 07.30 peuting, dibere kamar 221 paling ujung jauh pisan tina lift jadi bumil kolot anu capek kudu leumpang lumayan jauh ka kamar. pas asup kamar, kloset euweuh tutupna jeung euweuh lapisanna, jadi lamun BAB/BAK bujur nyeri. TV channel biasa jeung wifi butut, cai panas lila pisan panasna, ac teu begitu karasa. Ngendong dua peuting, kapok.",negative
+indolem-train-527,Lamun beunang ambek ku indung bapak tangtu ngagorowok nitah turun dahar peuting,positive
+indolem-train-2220,Leuwih hade indit tibatan kuciwa saban waktu...leuwih hade ninggalkeun tibatan aya tapi sok dianggap teu aya.,negative
+indolem-train-1231,leuwih ditingkatkeun deui jang pelayanan na,negative
+indolem-validation-199,"Jiwa emang di sakola, tapi teu apal pikiran keur indit kamana.",negative
+indolem-test-566,"Wifi teu tiasa, ampir 3 poe dina waktos ngalereskeun. Kaberesihan tempat sare kirang, sepre katinggali kusem jeung kokotor kirang beresih.",negative
+indolem-test-567,"Kirang nyugemakeun, biasa we, Bau, kotor andukna",negative
+indolem-test-661,peralatan kurang berfungsi remot AC pareum pancuran maen-maen wifi teu bisa digunakeun. mugia di revisi,negative
+indolem-train-1585,"cai panas teu berfungsi, anduk telat",negative
+indolem-train-3270,cai panas mineung teu ngocor,negative
+indolem-train-200,Jumlah Panumpang anu Menta Balik Tiket di Kantor Lion Air Berkurang: Para panumpang anu terlantar akibat gagal par...  http://bit.ly/1vRUg9f,positive
+indolem-test-71,Hatur nuhun cinta kana sagalanaaa? ? Terima Kasih Cinta ku Afgan (bareng Briyan) ? https://path.com/p/3DYm8C,positive
+indolem-test-884,Boga kabogoh sakantor teh ngeunah tapi aya heunteuna oge hahah teu bisa salingkuh jeung anu sejenna wkwkwk teu bisa? ? https://path.com/p/oJQK5,negative
+indolem-train-1283,Pasukan Zionis Ngahalangan Budak-Budak Abus ka Sakola >Salengkepna>  http://sahabatalaqsha.com/nws/?p=16239,negative
+indolem-test-785,Pamimpin DPD PDIP Riau Nyoret Rekaveny jeung Nuryanto ti Calon Wali Kota http://aktual.co/148194,negative
+indolem-train-1877,"hade Tapi rada kotor, punteun di tingkatkeun deui kaberesihan kamar Jeung kamar caina",negative
+indolem-test-401,"Kamar teu sarua jeung gambar di foto, cai shower panas pareum.",negative
+indolem-train-2319,seprena jeung andukna kotor. lantena kurang beresih. teu aya korsi saperti dina gambar.,negative
+indolem-train-2600,"Dina waktu tilu poe saentos anjeun maot, enzim anu biasana nyerna dahar peuting bakal mulai 'ngadahar' awak maneh.",negative
+indolem-test-231,"Kuring resep lamun jalma ngabohong ka kuring ngeunaan hal-hal anu kuring apal, kuring hoyong ningali sabaraha jauh aranjeunna tiasa bohong.",positive
+indolem-train-1576,Wifi goreng kirang maksimal ,negative
+indolem-train-2860,@zulhaq_ Kak!!! *langsung teu napsu kusabab mamawa Syahrini* :))),negative
+indolem-train-798,"lamun urang mangkat, urang moal percanten kasasaha . pencanten ka diri maneh hungkul . urang nyaah ka maneh ? '",positive
+indolem-train-875,dipangmeulikeun kue cubit ku lanceuk nepi di bawa ka kantor jang lembur#bagja pisan#nuhun teh devi#telatngepos ???????,positive
+indolem-train-1452,"Kamar alus, kamar ibak kirang bersih wc na sareng hordeng ibakna",negative
+indolem-train-1948,"Nyieun Video Klip, Syahrini Ngagunakeun Konsep Absurd http://bit.ly/1vR1Ock #revitalisasibenoa",negative
+indolem-train-3426,Ceurik nongton My Idiot Brother akakak ? ? Untukmu Aku Bertahan ku Afgan (jeung Dinda) https://path.com/p/8epN3,negative
+indolem-train-421,"Lamun kabogoh indit ninggalkeun urang? Nya lepaskeun weh, hartina manehna lain jodo urang. Tapi lamun babaturan? Rangkul & tetep pertahankeun.",positive
+indolem-train-98,"Sanajan kitu, Didik tetep ngahargaan kana lengkah Jokowi pikeun ngajaga KPK tina... http://bit.ly/1AJJlWL http://bit.ly/1vxQHY9",positive
+indolem-test-281,"Fasilitasna lumayan lengkap aya cai panas, tv, jajanan, AC, jeung parabot ibak, kasurna empuk, parkiran tapi anu kirang teh sarung bantalna eta warnana geus kuleuheu jadi sigana geus lila jeung kotor, cat tembokna geus ngolopek jeung simbutna tipis....kaseluruhan lumayan sae kanggo hargi sakitu kahareupna meureun tiasa langkung ditingkatkeun deui kanggo fasilitas kamarna",positive
+indolem-train-2090,"ok lah...,,, tiasa dijantenkeun pilihan tapi keran panasna euweuh kamar sejen kali nya ",negative
+indolem-train-2402,"Sim salabim """"@inilahdotcom: Anas Meunteun Aya Kajanggalan di Konflik Golkar http://bit.ly/1yZh49n ",negative
+indolem-train-1062,F-Demokrat: Kaputusan Presiden Mere Kapastian http://brt.st/4tet,positive
+indolem-train-2383,"wifina di lantei 2 keur ruksak, loba serangga2 leutik, sinyal telkomsel jeung 3 teu abus janten hp teu tiasa dihubungkeun. palayanan kamar oke, kabeh fasilitas tiasa dipake.",negative
+indolem-train-3164,teu standar lomarina ruksak bau kamar teu seger eungap lampu aya nu pareum geus menta ka pagawena teu diganti,negative
+indolem-test-883,"kabeh alus tapi pikeun kamar ibak rada bau, mereun kusabab saluran caina? Coba di cek deui ameh bauna bisa dikurangan. Nuhun. ",negative
+indolem-train-448,"#LalinBpn 16.00 Aya Razia Kendaraan Bermotor di Kantor Samsat KM.2 Jl.Soetta, Punten cing tartib sareng lengkepan surat-surat anjeun.",positive
+indolem-train-1929,Jejedug PDIP Kota Tarakan di Razia Pas Adu Hayam - Indopos http://goo.gl/fb/tfH3af  #tarakan,negative
+indolem-train-3214,"Tempat strategis gampang diteang, kamar ngeunaheun, tapi fasilitas wifi kurang pisan. Jenis dahareunna",negative
+indolem-train-3039,"geus alus sih, ngan spring bedna teu empuk sanaos eta kamar ungul lain biasa, jeung wifina oge kirang kiat sinyalna",negative
+indolem-train-2153,alus: 1. lokasi strategis 2. suasana kurang tenang 1. sprei kotor 2. cai kurang loba,negative
+indolem-train-3435,Oke. Lebar sinyal wifi di kamar luhur goreng,negative
+indolem-test-864,lumayan.. ngan wae lamun peuting cai kurang gancang jeung cai panasna teu karasa..,negative
+indolem-train-2169,kotor pisan jeung bau runtah pisan,negative
+indolem-test-873,"kamar panas, Ac ruksak, kamar ibak bocor, teu ngeunaheun pisan, untung ngan transit hungkul",negative
+indolem-test-523,"Nepi anjeun nyadar, ngan simkuring tempat anjeun balik deui? sadis. ? Sadis ku Afgan (di Perumahan Bekasi Jaya Indah) ? https://path.com/p/2REF9l ",negative
+indolem-train-2098,"Tong deui mangkat tina hareupan hiji jalma pas urang geus nyimpen harepan nu gede kangge manehna,tuluy ninggalkeun manehna kitu we tanpa aya alesan",negative
+indolem-test-190,"Leueut cai boda saentos tuang salad. Jeung samangkok salad eusi sayuran hejo anu sehat, tong hilap tambahkeun cai saentos tuang.",positive
+indolem-train-746,"kamar beresih, ngan hanjakal simbut rada bau hapeuk jiga lagi teu dianggo. Cai panas lancar, genaheun pisan. Sadaya patugasna marahmay.",positive
+indolem-train-2211,rek meuli iphone ge euweuh duit rek dahar eskrim ge lah euweuh duit,negative
+indolem-train-1712,eweuh jajananna jeung ruanganna eweuh jandela,negative
+indolem-train-2551,"Di luar alus aya kolam renang, balkon anu langsung ka kolam renang. tapi pas asup kamar, urang meunang kamar no.6, AC na sering pareum sorangan, udara anu dikaluarkeun AC oge rada bau. bau bantal oge kurang sedep.",negative
+indolem-train-2635,"Tong nyoon parasaan jalma anu serius. Sieun lamun anjeunna beneran indit. Leuwih  sieuna dieu, pas anjeun rek serius jeung batur,kalahka anjeun dicoo.",negative
+indolem-train-654,"Di Arab, majeg nyaeta haram. Janten pangaos mobil mirah pisan di ditu. Janten jalma Arab leuwih bagja meuli mobil tibatan motor, iwal kangge Harley jeung Ducatti.",positive
+indolem-train-1500,Beledugan Oil Refinery Exxon Mobil di California http://abcnews.go.com/US/wireStory/blast-hits-southern-california-refinery-29054161?cid=fb_abcn ?,negative
+indolem-train-1497,"kamarna rada kotor, loba debu jeung kotoran",negative
+indolem-test-853,Petinggi PDIP Kota Tarakan di Gerebek Pas Keur Ngadu Hayam - Indopos http://goo.gl/fb/AxllhL  #tarakan,negative
+indolem-test-431,kotor,negative
+indolem-train-3288,"kuring pesen kamar airy room maenya di kamar lain jiga nu di extra nett teu aya jajanan airy, teu aya bantal airy, teu aya bed runner airy, teu saluyu jiga nu di poto airy room, resepsionis teu someah nu nungguan shif buritna awewe, exhaust disada gandeng, cai haneut teu fungsi, hotel city icon residence gandeng sabab aya acara tepang taun. nu someah ngan bapa satpamna hungkul nu jaga harita.",negative
+indolem-train-2094,"cai dikamar paeh, mandi dikamar nu lain, patugas peuting kirang someah jeung teu hampang lengeun ",negative
+indolem-test-898,"RT @detikhot: Ngagunakeun Tema Spontan, Syahrini Teu Menta Izin jang Ngagarap Video Klip Klip http://tinyurl.com/nc766gg  ",negative
+indolem-test-221,"Ieu kadua kalina mondok di Airy Anggrek Satu 18. AC langkung tiis tibatan anu kahiji, kamarna langkung lega. hanjakal dibere kamar ngaroko, padahal saapl abdi Airy teh teu aya pikeun ngaroko.jadi pas mimiti asup teh bau haseup roko. Tapi sajauh ieu sih bungah-bungah wae cicing di dieu.",positive
+indolem-train-1913,mimiti asup seprena rada bau minyak angin..meureun tilas ano karek kaluar...tapi enggal digentos saatos diinpormasikeun..oh enya..cai panasna teu jalan teuing...tapi tempatna tenang jeung genah..nuhun,negative
+indolem-train-584,Diskon [Nasional] - Jaga Gadget Anjeun Ku Kantong Kedap Air Pikeun Gadget Ngan Rp... http://gpon.co/ixnhv,positive
+indolem-train-3004,"Kamarna bau eungap, teu saluyu di gambar nu beresih",negative
+indolem-validation-304,GORENG PISAN!! abdi datang kaditu wengi-wengi kalahka siga tukang menta teu dibukakeun pantona. ditelepon pihakna kalahka teu aya,negative
+indolem-test-216,"Plus, kaamr bersih, tempat sare anu cukup empuk.pelayanan cukup alus. Minus, kamar loba reungitna jeung toilet loba cucunguk.",positive
+indolem-train-1957,Kantor Statistik Nasiona di Inggris manggihan 16-17 persen kasus bunuh diri kajadian pas poe Senen.,negative
+indolem-train-870,"rohanganna jiga leutik, airy ngab menang kamar di lantai 1, teu aya jandela, teu aya cai panas. ruko nu di jieun hotel jadi rada ngabosenkeun weh di kamar wae terus teu bisa ninggali kaayaan luar kamar. pelayananna alus, wifi gancang, cai mineral tina cai galon (eusian nyalira). hotelna kuduna abus ka eco lain standar.",positive
+indolem-train-1047,sadayana sae boh tina fasilitas jeung pelayananna. kurangna di ac nu kurang tiis,positive
+indolem-test-6,Semangat sakola tinggal dua bulan deui >.< geus eta liburan deh hahay :3,positive
+indolem-test-128,Mobil Indonesia Paling Ekonomis 2015 #JktOtomotif http://ow.ly/JIofE,positive
+indolem-train-1639,Sepre teu digentos... loba keusik.,negative
+indolem-train-1467,Mobil alus tapi tetep miceun sampah sambarangan? era atuuuh.... #puntenatuhlah,negative
+indolem-train-2661,"hotel nu teu nyugemakeun, siga wangunan nu teu karawat. teu meunang dahareun panonpoe naek. kasur kembar nu dijantekeun hiji janten dobel. teu meunang palengkepan ibak (sabun, sikat huntu jeung sampo). AC teu tiasa dipake alus, euweuh bantal leutik airy, euweuh sponsor airy hiji wae. kamar bau, kasur kotor. selang jamban teu layak pake.",negative
+indolem-train-735,mba beuki lucu wae@melodyJKT48 RT @frieskaJKT48: Plinces belle make baju frozen uuuu. Ngomong-ngomong hatur nuhun kanggo dinten ieu xixi ?,positive
+indolem-test-327,Anjeun minenung netep layar lapotop? Atawa layar hape? Awas panon anjeun ruksak! Ngatasi ku dahar sushi! http://idws.id/portal/read/2015/02/27/477/Sering-Menatap-Layar-Bisa-Picu ?,negative
+indolem-train-77,Komunitas motor ieu ngadukung jalur aman salamet sakola di Bantaeng - Warta Bukulumba http://goo.gl/fb/tr4cN2  #Bantaeng,positive
+indolem-train-283,"Kamar OK, beresih, rapih jeung fasilitas OK. Ngan AC nu teu tiasa tiis, sanajan geus diatur suhu handap jeung Fan Jetfan. Punten dibebenah. Kaseluruhan OK. Hatur nuhun",positive
+indolem-test-430,"Kamarna kurang bersih, loba kotoran di bata",negative
+indolem-train-1516,"nyaah, cai panasna teu panas pisan , jadi lamun mandi katirisan. hhehe",negative
+indolem-train-2216,"aya keneh urut buuk kitu di sepre kasur, jeung aya sepre kasur nu teu beresih aya kokotorna..",negative
+indolem-test-650,"#WartaTerkini: Aneh, Kunaon Menkumham Standar Ganda Pangesahan Pangurus PPP jeung Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-2096,"Sinyal Wifi teu kuat pisan, punten diomean pikeun sinyal wifi",negative
+indolem-train-2853,nu ngajaga kurang someah,negative
+indolem-train-262,"pelayanan gancang, kamar bersih, toilet oge bersih, ngan hanjakalna kamari euweuh minibar gratis jiga biasa, tapi lokasi pangendongan gampang dijangkau jeung gampang neang tempat dahar. mugia meunang anu leuwih alus deui.",positive
+indolem-train-1558,akang akangna judes,negative
+indolem-train-1882,kamar ibak aya cucunguk. bantal biru barau hapeuk. sesana mah alus.,negative
+indolem-train-2038,"wifi ngan di lobby hungkul di kamar mah teu aya , jeung kudu mayar 5000 lamun di kamar",negative
+indolem-train-3240,Kangge backpaker alus pisan.. ngan kaamananna teu hayang muka panto lamun balik liwar ti tabuh 11 peuting,negative
+indolem-train-1000,Ulah fokus kana naon nu geus indit ti diri maneh. Fokus kanu naon nu bisa maneh lakukeun jang nyieun hirup maneh leuwih alus. -@WilzKanadi,positive
+indolem-train-2603,#Golkar #ARB 45 jalma tiwas sabab mobil nu dibom di Libya Wetan http://bit.ly/1AWA82b,negative
+indolem-test-310,"cai panas teu berfungsi, kaberesihan kamar kurang",negative
+indolem-train-3390,"kamar 617 hareudang. poe kahiji menta dibenerkeun. poe kadua hareudang keneh. protes ka resepsionis henteu direspon ku tim pameliharaan. Sapeupeuting eta pangadem hawa teu daek nyala, kapaksa kudu muka jandela",negative
+indolem-test-209,"Abdi rela indit isuk balik isuk ngan ukur neang rejeki,demi ngogo calon pamajikan didunia engke sarta di aherat.. #Ammmiiin",positive
+indolem-train-500,"Alus , nyaman jeung bersih. Lamun bisa jang saluran channel tv na ditambah deui ameh bisa nonton siaran tv anu sejenna. ngan eta hungkul sih saleuwihna alus lah",positive
+indolem-train-2474,#WartaSinaga: Raray Ayu Bereum Disindir ngenaan Shaheer: Ayu kaget ku sindiran Raffi Ahmad. http://bit.ly/187RFmE,negative
+indolem-train-486,Mamahhh..... ??? Bumil..... ????? eta beteungna geus katempo... ??????? malaikatna Raffi Ahmad... ??? Nagita Slavina jeung Raffi Ahmad,positive
+indolem-train-2768,anduk kotor kamar cai kurang beresih teu aya tisu di kamar,negative
+indolem-train-3486,cai panasna teu tiasa dipake wcna oge bau.. teu aya anduk,negative
+indolem-test-496,Syahrini Ngahaja Teu Menta Izin jang Karamean di Tempat Umum http://ift.tt/1AZQIHU  #MentionSatu,negative
+indolem-train-3474,"PDIP Ambek BG Teu Jadi Dilantik, Manuver Naon anu bakal Dilaksanakeun? http://dlvr.it/8g6JjV  ..",negative
+indolem-train-689,Atoh terus nya maraneh rukun2... tong ngadengekeun jelema-jelema anu sirik ka maraneh @RaffiAhmadLagi @Lady6igi Urang ? maraneh duaan,positive
+indolem-train-1496,"kamar mandi bau. parabot kamar ibak kirang maksimal siga kamar ibak kosan, kuciwa pisan salimbut na kotor jeung urang sepre na teu di ganti wae nepi urang arateul teu bisa sare. enya sih harga lokasi strategis dekeut kuliner tapi teu bisa sare.  sasarap kwetiaw na gaaleun",negative
+indolem-train-3397,"Ngemil Kadaharan Amis Diantara Waktos Tuang, Bahaya Lho http://republika.co.id/r/nkbqmh",negative
+indolem-train-54,"Meunang Bonus Raja Rp 384 Triliun, Wargi Arab Saudi Gentos HP Nepika Kawin Deui http://tinyurl.com/oem5tvp ",positive
+indolem-train-2574,kamar goreng kasur emperna ambruk. aya ac tapi teu bisa dipake jadi panas geus siga eweuh hawa,negative
+indolem-test-875,"hotel sae sareng pemandanganna oge hade. tapi husus jeung kamar Airy na beda pisan ti kamar-kamar laen, kamar Airy na seeur sayang lancah kasurna oge tos teu ngeunaheun sabab per na karasa pisan kanu awak jeung tos miring-miring, ac di kamar oge teu tiis komo di kamar teu aya pisan saluran hawa jadina beuki karasa eungap.",negative
+indolem-train-915,Bangga boga babaturan siga aranjeun tiasa nyieun mode pakean sorangan @infoMAN2BJM,positive
+indolem-train-1683,"Tapi Om, abdi sieun sukses, kumaha? - Teu hayang siga A Afgan? Ngora keneh, sukses, rendah ati. ???",negative
+indolem-test-212,#Golkar #ARB Rena Nozawa AKB48 angger diajar basa Indonesia http://bit.ly/1LjKjsr,positive
+indolem-train-658,Diskon 30 % -Lock & Lock - Parabot Neda & Ngaleeut Palastik +Diskon 10 % make Kartu Kredit Bank MEGA #PromoAhirMinggu,positive
+indolem-train-2316,Naha anjeun terang yen 100% kasus telepon seluler ragrag di kamar cai disababkeun ku jalma anu mawa ponsel ka kamar cai. #ProfesorMimin,negative
+indolem-train-1853,"Teu sababari eta nyadar aya jelema nu nyaah pisan ka maneh, nepi ahirna manehna milih mangkat jeung teu ngaperjuangkeun maneh deui. ",negative
+indolem-train-2284,Saupamana kenangan eta bisa dihapus siga foto di HP tinggal pencet tombol 'hapus' #jujur http://instagram.com/akujujurid,negative
+indolem-train-1782,"AC teu tiis, kalengkepan Airy kudu dipenta",negative
+indolem-train-65,Teu aya batasan pikeun kode pakean nu bener di kantor Google. ,positive
+indolem-train-1981,"Jadwal Padet Nepi Teu Sempet Istirahat, Syahrini: Urang Jadi Awewe Udara: Inohong Syahrini bisa disebut menjad... http://bit.ly/1Jve0uR ",negative
+indolem-test-943,"Kotor, teu aya cai, jorok, teu genaheun.",negative
+indolem-train-1402,Syahrini Deui-deui Henteu Minuhan Panggilan Mabes Polri http://goo.gl/fb/f5x3mf @tabloidbintang ,negative
+indolem-train-2648,"Pingpinan KPK Usulan SBY Teu Dipilih Jokowi, Demokrat Protes http://palembang.tribunnews.com/2015/02/19/pimpinan-kpk-usulan-sby-tak-dipilih-jokowi-demokrat-protes ? lewat @tribunnews",negative
+indolem-train-1805,"jamban kotor, kasur oge bau haseum dahareun teu ngeunah",negative
+indolem-train-1932,"Upami anjeun bogoh ka anjeunna, anjeun bosen makan ati. Ninggalkeun manehna. Mimitian kahirupan anyar ku tuang anu bergizi.",negative
+indolem-test-447,Ac kirang tiis,negative
+indolem-validation-302,"Palayanan teu muaskeun, dahareun beak pas sahur, kamar 2 poe eweuh dibersihan, resepsionis kasar jeung pikeuheuleun",negative
+indolem-train-2083,lantai kamar kotor pisan siga henteu di pel.,negative
+indolem-train-1869,Kasurna teuas. AC tiis suasana nyaman. TV loba sireumna. Tempatna di gigireun jalan gede jadi aksesna gampang.,negative
+indolem-train-268,India gaduh kantor pos jeung kantor pulisi pangseueurna di seluruh dunya.,positive
+indolem-train-467,"tempat beresih, rapih, nyaman, saluyu harga na pokona mah, ngan WiFi di luhur euweuh jadi rek WiFian kudu ka handap, sakabehna mah alus",positive
+indolem-train-3371,"Syuting Vidio Klip di Pasar Glodok, Syahrini Nyieun Riweuh http:bit.ly/19NuY7E",negative
+indolem-train-1411,"@jpnncom: PDIP Ambek Gede pas Jokowi Pilih BH http://m.jpnn.com/news.php?id=288565 ?""""- partai bae boneka, tapi presiden lain boneka partai @fadjroeL",negative
+indolem-validation-319,"Pagawe kurang someah , sarung anggeul kotor, panto kamar mandi ruksak",negative
+indolem-train-1721,cai panas henteu panas teuing,negative
+indolem-train-2834,tempat hade..kabeeresihan kirang jeung parabot mandina kurang. kangge pelayanan someah,negative
+indolem-train-2138,Jang naon sakola lamun kuliah jurusanna sasuai kahayang jeung teu dipaksa kos di sakola,negative
+indolem-train-1597,alus kamarna lalega. ngan teheulna kotor jeung patugas nu ngalayanan keur cek in kurang someah,negative
+indolem-train-3529,"Pelayanan sae, kamar hade saluyu jeung pangaosna, ngan kamar caina butuh panseuseungit sabab aya bau hangseur. Salian eta saluran TV seueur nu teu tiasa ditonton sabab jaringanna butut. Kasaluruhan, hotel ieu posisina strategis cocok kangge nu aya peryogi di daerah kuningan. Sisi alus sejenna nyaeta milarian tuangeun sabudeureun hotel gampil pisan.",negative
+indolem-train-896,SBY hayang Demokrat Balik deui Berjaya di Jawa Timur - Republika Online http://goo.gl/fb/B9wWL8  #Situbondo,positive
+indolem-train-1880,"#MakasaarTeuAman """"@Koran_Mks: 23.05 sepasang Kekasih Dijambret HP na di Jl batua raya 10 . Palakuna 2 jelama Kabur ka Borong",negative
+indolem-train-2515,"Beuli lila Anjeun wawuh simkuring, Beuki loba Kakirangan nu Anjeun bakal nampak. Maenya we, Anjeun aya dua pilihan. """"Rek mangkat atawa tetep jeung simkuring",negative
+indolem-train-612,"Kahebohan Rakyat Saudi Meunang Bonus ti Raja, Meuli Mobil Nepika Nikah Deui hhttp://bit.ly/1w9JU4B ",positive
+indolem-train-263,Hatur nuhun cinta kangge sagalana. ? Terima Kasih Cinta ku Afgan ? https://path.com/p/mGfgQ,positive
+indolem-train-1949,"Kamar saayana (cukup jang sare hungkul, kurang merenah), teu aya cai panas wastafel bocor. Kamar poek (sanajan aya lampu)-daerah hotel kurang beresih.",negative
+indolem-train-1875,kamarna rada kotor + poek batana oge jiganu tara dipel,negative
+indolem-train-59,Kamarna beresih jeung rapih. Kamar ibakna Lumayan. Tuanganna oge ngareuna jeung mirah. ngan hanjakal wifina lelet. nuhun,positive
+indolem-train-1777,#BaLamWarta | Politikus Partai Golkar Bambang Soesatyo ngaduga aya kasapukan antara Presiden Joko Widodo jeung partai... http://bit.ly/18b9QYI,negative
+indolem-train-3567,"kabersihan kacida kurang. kamar mandi bau, nepi hiji kamar bau kamar mandi. sprei kotor. kasur aya debuan. wifi euweuh. hammpura kudu diomongkeun, teu sesuai gambar & deskripsi",negative
+indolem-train-207,F-Demokrat: Kaputusan Presiden Mere Kapastian http://bit.ly/17hQVKB,positive
+indolem-train-2725,"Ekspesi pas mimiti abus kamar... siga nu teu pernah ditempatan. Parabotna kolot, tv tabung nu pulasna ngarobah wae. Pangladenan someah, tapi sepre tilu poe sare teu diganti. Wifi gancang. Pas peuting loba sato, hese sare sabab arateul. ",negative
+indolem-train-691,"Nolak HAMAS, Lengkah Pamarentah Dipuji PDIP http://bit.ly/1KwhWtq  AS retas kartu SIM kangge nganenjo komunika... http://bit.ly/1AXi8Qr ",positive
+indolem-train-2614,Johan hayang jadi menteri pencitraan bobok di gerbong kareta. Jadi menteri pencitraan akting ambek-ambekan sidak di Kantor AirAsia. Kasus LION? Caritana sare.,negative
+indolem-train-3301,Panarajangan Maehan Maneh Nargetkeun Mobil Kedutaan Turki di Kabul http://republika.co.id/r/nkd67a,negative
+indolem-train-3613,"Warga: Eta Syahrini Nya? Geulis Pisan, Tapi Pendek... http://fb.me/6Elu1t8yP ",negative
+indolem-test-7,"@PDemokrat Punten Pak Jokowi, lajengkeun program positif di era Pakk @SBYudhoyono @PintarPolitik http://www.republika.co.id/berita/nasional/politik/15/02/19/nk0thc-demokrat-minta-proyek-mp3ei-tetap-dijalankan ?",positive
+indolem-validation-135,"Ulah coba-coba bobogohan jeung awewe hiji sakolaan. Hiji jelema wae riweuh, komo deui lamun hiji sakolaan.",negative
+indolem-validation-203,Kunaon nempoan wae hp? nungguan kabar ti manehna? Percuma! manehna geus mere kabar ka jelema sejen.,negative
+indolem-test-369,Dimana-mana nu ngaranna mantan sok ngeselkeun! @kompascom: Demokrat Protes Pingpinan KPK Usulan SBY Teu Dipilih Jokowi http://kom.ps/AFploc,negative
+indolem-train-2164,"Upami masih aya kasempetan, kuring ngan ukur hoyong nyarios, tong angkat deui nya.",negative
+indolem-train-578,"Urang nyadar diri.. Urang emang lain sasaha maneh! Tapi urang bakal """"salawasna"""" aya jang maneh nalika manehna ninggalkeun maneh. :)",positive
+indolem-train-2014,"Posisi kamar pas tukangeun Mak Beng warung, jadi kamar bau goreng lauk jeung sambel tarasi",negative
+indolem-test-506,"Cai panas keranna euweuh, merek prodak airy euweuh, dahareun jeung kantong paket pakakas ibak airy euweuh, kamarna oge teu beresih",negative
+indolem-train-362,"Pagawe someah jeung giat, kamar beresih, hanjakal sinyal wifi kurang ngajangkau kamar",positive
+indolem-train-1660,"ruangan kurang beresih, aya puntung roko di jero kamar, plastik shower di kamar mandi mulai ngahideungan, barang haratis kadaluarsa",negative
+indolem-train-588,Resep dahar kadu? Wajib ngilu festival kadu di Semarang! http://ow.ly/JFu87,positive
+indolem-validation-343,PResep geura shaheer jeung syahrini maju mundur geulis ~ syahrini mah gesrekk moal kabawa kana hatee :p,negative
+indolem-train-1578,"urang ngalih kamar neupi 2x sabab ac di kamar nu kahiji paeh, nu kadua teu tiis jeung dititah nungguan",negative
+indolem-train-1620,kotak camilan airy na kosong,negative
+indolem-train-2625,Partai Demokrat : Jokowi Ngalecehkeun DPR http://bit.ly/1A9c4SE  @PDemokrat @DPR_RI,negative
+indolem-train-1990,"Janjina, anjeun ngubaran kanyeri abdi kan? Naha anjeun kalahka ninggalkeun pas kanyeuri abdi tereh cageur? Anjeun nambahan kanyeri tah.",negative
+indolem-test-126,"RT @nogoyoso: Indonesia teh indah gaes, leuwih indah tibatan pantat Syahrini. .",positive
+indolem-test-606,"Hiiihh telat kusabab bulang balik nyokot berkas nu tinggaleun, balik deui nyokot hape jeung dompet nu tinggaleun,? ? http://path.com/p/1QvUW7",negative
+indolem-train-3362,wifi teu bisa ngakses ka internet,negative
+indolem-train-1201,kamarna kotor,negative
+indolem-train-3028,"cai panasna euweuh, jambanna kirang beresih. sejenna oke sih..",negative
+indolem-train-2971,PDIP Ambek Budi Gunawan Teu Jadi Dilantik http://cnn.id/33754,negative
+indolem-train-456,Geuningan Ieu Rasiah Sehat Teu Make Dahar Sangu: Pola dahar nu dijalankeun Lena eta? http://goo.gl/fb/I6HOK9,positive
+indolem-test-733,internet paeh anduk bau,negative
+indolem-test-612,Pengendara Motor nu Kaseret Mobil 30 Km Dikuburkeun http://bit.ly/1zpnVHf,negative
+indolem-train-3031,Kabeh OK. Ngan kudu ditingkatkeun deui kabersihan lantai kamar jeung anduk.. Staff someh jeung sigep.. Gawe alus! Lamun bsia airy nyediakeun kamar anu aya sarapanna jadi bisa coba kadaharan inuman kumaha..,negative
+indolem-train-2745,tv na kirang ageung + renyek kabeh,negative
+indolem-train-1943,"kabeh alus. lokasina di tengah kota, nu kudu dibebenah ngeunaan layanan nyaeta : 1. kasediaan sasarap (urang turun tabuh 9 kirang, sangu goreng beak jeung roti euweuh oge meja kotor k/palayan ngan 2 ngarangkap resepsionis) 2. lift tanpa alesan nu tiasa dilereskeun dipaehkeun (sanajan euweuh ngalereskeun) janten simkuring tipaliteuk jeung kolot 80taun kudu liwat tangga",negative
+indolem-test-891,"#BreakingNews: Aneh, Kunaon Menhumkam Standar Ganda Pengesahan Pengurus PPP jeung Golkar? http://tinyurl.com/lagcrks ",negative
+indolem-train-1318,loba reungit jeung cucunguk.... teheulna oge kotor pisan!!! jeung meni gandeng pisan heeeee teu alus hmmmm.,negative
+indolem-validation-274,Panto toiletna ruksak jeung palayanan pagawena kirang someah,negative
+indolem-train-285,"Hal anu paling utama pas milarian calon salaki nyaeta mendakan jalma anu boga kapribadian. Mobil pribadi, imah pribadi sareng kolam renang pribadi.",positive
+indolem-train-787,"Murid sakola juara macakeun carita ku basa mandarin, pangalaman anyar kangge aranjeuna diajar basa mandarin",positive
+indolem-train-3449,"Demokrat Protes Pimpinan KPK Ngusulkeun SBY Teu Dipilih Jokowi http://nasional.kompas.com/read/2015/02/19/15225701/Demokrat.Protes.Pimpinan.KPK.Usulkan.SBY.Tak.Dipilih.Jokowi ? """" masih keneh kurang Ruki & Indriyanto? #ManehPikirRakyatBoloonNaon",negative
+indolem-train-64,#Ayeunapisan Charles Honoris Siap Merjuangkeun Kabebasa Beragama http://bit.ly/1KwfyTv  #wartaShell nyebutkeun euweuh perjangjian? http://dlvr.it/8ftGxX,positive
+indolem-test-360,"kamari pas kaluar ti gerbang bandara, ujug-ujug 'ceklek'..... kilat DSLR ka arah abdi sugan teh pikeun dicitak teras dijual siga wisuda ? pekteh jelemana indit.",negative
+indolem-train-767,"Hotel nu unik, beresih pelayanan alus lebar na naha pas peuting eta arurang mondok loba pisan reungit, nepi hese sare. ..",positive
+indolem-train-1091,Ulah nyalahkeun awewe lamun engke manehna mangkat sabab manehna cape ku sifat maneh nu cuek jeung teu pernah ngahargaan parjuangan manehna :') ,negative
+indolem-train-2547,Biasana di airy aya jajanan ayeuna mah teu aya,negative
+indolem-test-132,"Alesan naha babaturan sajati ngan saeutik, sedengkeun babaturan biasa loba nu indit http://mlsbgt.de/1wtspC4",positive
+indolem-test-450,"22.55: Kacilakaan beruntun 3 kandaraan (mobil Inova, mobil Avanza, mobil Carry) di jalur katuhu Km 9 Tol Jagorawi arah Jakarta. | (P. Rommy)",negative
+indolem-test-211,"Awewe nu keur di imah. Teu jauh ti gogoleran, nyoo hp, ngadangukeun lagu & lalajo tv. Manehna lamun geus jenuh pisan diimah, manehna leuwih milih sare.",positive
+indolem-test-88,Kangge naon hese milarian kaditu kadieu Tos payuneun soca? ? Kamulah Takdirku by Raffi Ahmad & Nagita Slavina ? https://path.com/p/1EE5QZ,positive
+indolem-train-934,detikcom Lima Fakta Ngeunaan Afgan: Afgan Syahreza katelah salah sahiji panyanyi solo pang berbakatna di nagara eta. Ngaran... http://bit.ly/1w1aDk2,positive
+indolem-train-2862,"sepre, sarung bantal, anduk geus kusu digentos. keran oge kudu dibebenah",negative
+indolem-train-1342,"tangtu lah bener RT @morry_osd: Manawi siap lamun tuang nepika seubeuh, kudu siap eta panon pasti tunduh #TaruihTarang",negative
+indolem-test-153,Wilujeung enjing! Siap-siap ka sakola! Muga-muga poe ieu pikaresepeun? Muga-muga poe maneh berkah nya!,positive
+indolem-test-1009,kacida berdebu jeung kurang menarik,negative
+indolem-test-490,Pelayanan resepsionis nu namina lolita jeung syarif teu sopan pisan jeung teu boga etika. Hotel sejen nu leuwih alus loga keneh.,negative
+indolem-train-3103,"Pas di mobil urang nyanyi Pada Sebuah Ranjang, anak urang ngomong, """"Ssst, cicing, Pak, alusan Anji anu mawakeun.."""" Asuuu? Gusti Mahas Asyiiiiik",negative
+indolem-train-2558,RT @VTAURAN: tolong dibantos yusi siswi smkn1 bandung tos opat dinten leungit pas angkat nyandak motor vario,negative
+indolem-train-375,"Karek datang dibere baju duh bageur haha, nuhun #voil udah ngasih buat #matalayu [pic] https://path.com/p/4umLN6 ",positive
+indolem-test-205,Tapi maneh moal sorangan urang aya di dieu? ? Untukmu Aku Bertahan ku Afgan ? https://path.com/p/3IhAUj,positive
+indolem-test-867,"nu ayeuna ngarasa kuciwa, kamar loba reungit, teu meunang parabotan ibak, jeung dahareun dikomplen siga biasana. mugia tiasa dibenah deui",negative
+indolem-test-115,"Unduh aplikasi pikeun ngaunduh pideo 9X langkung gancang Sareng haratis, cocok pikeun kabeh hp http://bit.ly/1rzX0cK",positive
+indolem-test-116,Ayeuna fans aa aya dua Raffifah jeung RANS jeung aa teu pernah ngabedakeun fans-fansna selalu paduli. Kerja anu alus kasep #RaffiAhmadLagi :),positive
+indolem-train-1923,teu aya cai panasna,negative
+indolem-train-1314,"respsionisna parah tabuh 12 wengi can tiasa bobo wifi sareng tv kabelna dipareuman jadi ngan tiasa nonton sireum sabari milarian sireum di kamar,mana panto kaluar dikoncian jadina teu tiasa milarian tuangeun atawa mesen gofood.ngan parah eta tipi sareng wifina",negative
+indolem-validation-113,Bidang Awewe Golkar Makassar Dibekeulan Elmu Kaprotokoleran : http://fajar.co.id/fajaronline-sulsel/2015/2015/02/21/bidang-perempuan-golkar-makassar-dibekali-ilmu-keprotokoleran.html ? ,positive
+indolem-train-3049,kirang beresih,negative
+indolem-validation-129,Kantor DPRD Makassar Jadi Tempat Masak jeung Saré: Dahar jeung sare di aula kantor. http://goo.gl/fb/bkhYfi,negative
+indolem-train-216,"Solusi Pikeun Ngadamel Baju 1pcs Make Gambar Sakahoyong, Nyandak Desain/Gambar Nu Dipikahoyong-Urang Wujudkeun Jadi Baju Impian  t",positive
+indolem-test-529,"Raffi Ahmad jeung Nagita Slavina - Raffi Ahmad Gering Ripuh, Gigi khawatir | 19 Februari 2015 http://youtu.be/7nZLBtxbt7g?a ",negative
+indolem-test-270,"Kamar bersih, rapih, kabehanna enak, parkiran enak, tempat tidur nyaman, ac tiis, cai haneut lancar, tv gede tapi kakuranganna ngan di anduk jeung salimut encan disadiakeun.",positive
+indolem-train-1592,"Kirang keneh resepsionisna we anu rada lami kedah nangguan lila kakara datang teu nangguan di tempat , nu terbaik we lah hargi mirah fasilitasna alus",negative
+indolem-train-808,"karek dahar deui, kurang sare, isukan isuk lumpat 21K. Urang kudu kuat.. (di Aroma Coto Gagak) [pic] ? http://path.com/p/1iqagL",positive
+indolem-train-61,Antara #tekno | Kopi ngurangan risiko kaserang multiple sclerosis http://bit.ly/1BHg7bi  | http://goo.gl/16Qox,positive
+indolem-train-1449,"Teu meunang jajanan jeung peralatan mandi, anduk nu aya ngan 1..",negative
+indolem-train-2618,#Ruangarurang_tvone:Kontroversi Pakean Palu Arit  http://bit.ly/1wvrNox,negative
+indolem-test-808,acna teu tiis keranna eweuh cai panasna kalah paeh.. anehh..,negative
+indolem-train-1148,"Suasanana kurang betah. Jang ngendong kudu deposit Rp300.000,00. tapi bisa diganti jeung KTP.",negative
+indolem-train-1642,Lumayan weh. Wifina butut. Tempat lumayan,negative
+indolem-train-379,"loba teuing drama, ningali konser Afgan wehhh yeshhh ? ? Demi Kamu dan Aku ku Afgan ? https://path.com/p/1g3olJ ",positive
+indolem-train-2084,Sinetron deuiiii.. !! @PintarPolitik: #NEWS Trimedya PDIP: Urang Kecewa Kaputusan Jokowi http://goo.gl/KDhhLB,negative
+indolem-train-1420,Urang ok lamun minyak naik 25 sen. Lamun beurat awak naik 25kg itu anu urang ripuh. Urang ripuh lamun awak dahar jang hidup atawa hirup jang dahar?,negative
+indolem-validation-291,"Hiji poe pas simkuring leres-leres bakal mangkat. Kamana wae oge eta tiasa wae kajadian, Jagi diri. Ulah bangor.. Simkuring nyaah anjeun({}) ?",negative
+indolem-train-1462,Ti #10TahunLepas nepilah ayeuna Conan masih teu gede-gede. Dah la bawa sial mana manehna mangkat aya war anu paeh.,negative
+indolem-train-433,"hotelna sae,palayanan cekap jeung kirangna ngan ac kirang tiis",positive
+indolem-train-1910,bak mandi teu bisa dipake sabab euweuh panutupna. jeung teu aya cai panasna.,negative
+indolem-test-609,kamar genaheun jeung lega..beresih...ngan teu aya wifi jeung cai panas...,negative
+indolem-train-451,Dompet Dhuafa Sulsel Babagi Pelengkap Sakola http://www.dompetdhuafa.org/post/detail/749/dompet-dhuafa-sulsel-berbagi-perlengkapan-sekolah ?,positive
+indolem-train-871,"Kaseluruhan nyamanlah. Lokasina deukeut stasion, loba warung daharan sarta laundri di sakitar. AC tiis, kamar ibak lumayan teu make pamanas, tipi oke. Hanjakal rada sempit weh jeung wifi teu tiasa diakses.",positive
+indolem-test-200,Pameunteu anjeun ngalihkeun belajar abdi ? ? Ku Mohon ku Afgan ?  https://path.com/p/KZNUg,positive
+indolem-train-9,"Babaturan, Indung jeung bapak anjeun mangkat lain hartina anjeunna ninggalkeun anjeun Tapi, Allah nyaah aranjeunna. Nyaah aranjeunna? Janten jalmi bageur Doakeun aranjeunna",positive
+indolem-test-227,kamar kurang bersih .. caina leutik jeung sering pareum. loba reungit. areana gandeng. loba barudak ngora perilakukan kurang ngabahagiakeun. ac lumayan tiis. pelayanan cukup alus.,positive
+indolem-test-994,"Pas mondok teu meunang jajanan jeung cai nginum, wifi na oge teu haratis",negative
+indolem-train-947,Jumlah Panumpang nu Ngabalikeun Tiket di Kantor Lion Air Nyaeutikan http://dlvr.it/8g7CC #Indonesia,positive
+indolem-train-2718,kasaluruhan alus ngan ac teu tiis. cai panasna kurang karasa. ,negative
+indolem-train-2979,"heurin,aqua ngan 1 botol,ciki teu aya,odol ,kekesed ge geu aya.",negative
+indolem-train-2046,jamban kurang beresih pisan,negative
+indolem-test-177,tempatna beresih seungit rapih. nu ngajieun kuciwa AC na bocor alias ruksak jadi kurang tiis,positive
+indolem-train-1223,"Tos cekap, ngan kedah dibenerkeun bau apekna weh",negative
+indolem-train-414,"Palayananna someah, tempat strategis&loba tempat dahar. Jeung anggaran murah geus meunang sasarap, cemilan&fasilitas kamar nu lumayan. Pikeun ngeunaheun, jang kaberesihan ditingkatkeun deui. Salanjutna..balik deui kadieu",positive
+indolem-train-1737,Demer Balik Deui Nyerang Kubu Sudikerta: Demer nuduh kubu Sudikerta teu ngarti mekanisme hukum di awak Golkar. ... http://bit.ly/1AWy7ht,negative
+indolem-train-781,Barang dagangan ti Afgan ieu bisa maneh meunangkeun lamun ngiluan #COTM_Afgan. Klik http://bit.ly/COTMafgan pikeun nyaho cara meunangkeuna,positive
+indolem-train-1327,kamar sieun jeung kotor. sigana bad coverna teu di ganti sabab loba bercak kokotor,negative
+indolem-train-992,Kamulah Takdirku - Single ku Raffi Ahmad & Nagita Slavina https://itun.es/id/M8Jr5,positive
+indolem-train-2229,"Teheul kamar siga aya cepel-cepelna, mereun kusabab can dipel",negative
+indolem-train-993,"35 siswa, 9 sakola, 3 kacamatan ngawakilan #Bima!! Jalan ka beasiswa 5 taun diajar di SMP-SMA @smartekselensia! ?",positive
+indolem-test-703,"teu aya fasilitas ti airy, kudu ditempo deui. kamar teu sasuai jeung nu dipesen. pas datang ditita",negative
+indolem-train-3374,Ratusan Wartawan Geruduk Kantor DPD PAN Kota Bekasi http://beritabekasi.co.id/2015/02/ratusan-wartawan-geruduk-kantor-dpd-pan-kota-bekasi/ ?,negative
+indolem-train-2348,Kurang merenah jeung heurin. Teu pati beresih seprena kucel,negative
+indolem-train-3090,"kamar aluss, disarankeun lah kangge mondok. Kamar caina lamun tiasa dipasihan seuseungitan supados leuwih merenah",negative
+indolem-train-1328,"Nonton """""""" Tangis dina Lagu Cherrybelle Kanggo Raffi Ahmad"""" | GoSpot RCTI | (10/04/2013)"""" dina YouTube http://bit.ly/17hA2jl",negative
+indolem-test-362,jamban bau jigana masalah dina saluran pamiceunan. sepre jeung simbut kotor. menta diganti tapi teu aya nu beberesih peuting. dibantuan resepsionis kangge masangkeun lapisan. isuk-isuk suku jeung leungeun arateul barentol. jigana ku tumila. TEU DISARANKEUN,negative
+indolem-train-1096,Groaking nyaeta kabiasaan hiji jalma ningali jalma sejen dahar kalawan harepan yen jalma eta bakal masihan sakedik dahareun na.,negative
+indolem-test-57,#Berita #Indonesia Demokrat meunteun kaputusan presiden mere kepastian: Sekretaris Fraksi Partai Demokrat di DPR D... http://bit.ly/17Z0dMC,positive
+indolem-train-1575,"Kloset ruksak, dititah ngalereskeun masih ruksak, kamar cai bau hangseur, pokokna kabeh masalah ngenaan toilet, pancuran macet, pokokna parah weh...!! Ulah murah tapi murahan teuing karunya ka nu mondok.",negative
+indolem-train-183,"Awewe teu kudu geulis, nu penting tiasa dangdos, acuk sae, sapatu sae, jeung nu pang pentingna... Teu bodo.",positive
+indolem-validation-59,Syahnaz nyaah ka Aaraffi? sehat-sehat nya kasep ? @RaffiAhmadLagi,positive
+indolem-train-3000,"kamar sih standar lah nya ku harga sakitu mah, sarapan oge bisa ditarima, tapi euweuh tisu, kamarna bau roko, euweuh sampo. tapi jang nu ngan sare hungkul, cukuplah nya",negative
+indolem-test-497,"Jreng! Ieu karek warta! """"Demokrat Protes Pimpinan KPK Ngusulkeun SBY Teu Dipilih Jokowi http://kom.ps/AFploc",negative
+indolem-train-1159,"@s3cretpers0n Alhamdulilah. Sukurlah, Uni. Ulahnepi leungit deui HAPE na :)) ",negative
+indolem-train-1048,Ya ! Susukan di Gigir Kantor Ridwan Kamil Makin Geulis http://bit.ly/1wa8FxR,positive
+indolem-test-445,Kusabab kacida loba kamar jadi teu diperhatikeun masalah kabersihan.,negative
+indolem-train-3601,kamar bau cat jeung jamban bau teu sedep :(,negative
+indolem-test-595,Ngelehan ka nafsu dahar nu ngagebu-gebu bakal ngagagalkeun program diet nu Maneh jalankeun. #Diet,negative
+indolem-test-350,"cc @DpsCallcentre RT @giri_sujana Tatangkalan parotong ninggang mobil hareupeun Popo Danes Hayam wuruk, punten bejaan DKP Denpasar",negative
+indolem-train-406,"#latepost alhamdulillah .. Teu percuma latihan band di kantor pos pas tanggal beureum hahaa.. Hatur nuhun guys,?https://instagram.com/p/zqccALpLDL/ ",positive
+indolem-validation-370,"Charles Honors: Patahkan Pilkada Langsung, KMP Ngakhianati Rakyat http://bit.ly/1y125zo  #Pilkada U.S. refinery? http://dlvr.it/8fzf4m ",negative
+indolem-train-1416,teu sarua jeung poto .. jajanan teu aya tuluy aya reungit,negative
+indolem-train-338,"pikeun ka 2x ngendong di dieun , kamar lega, lokasi strategis, sasarapna ngeunah, palayananna someah, WiFi lila saeutik",positive
+indolem-train-554,ciee nu masak babarengan haa @bangbily @raffiahmadlagi romantis oge nyaa abang ka aa haa @realsyahnazs,positive
+indolem-train-3557,"pretttt, siga kitu geuning diliput"""" Beberesih Kantor ESDM, Sudirman Said: Ieu Bagean Revolusi Mental via @detikfinance http://tinyurl.com/173n8m",negative
+indolem-train-314,http://samueltiur.com Tribun: Syahrini Jangji Arek Datang Lamun Balik Dipanggil Mabes Polri http://dlvr.it/8g26dL #WartaPoeIeu #DKK,positive
+indolem-train-174,"cyra  budak rancage bakat. sajaba ti jago nyanyi, anjeunna boga sagudang prestasi di sakola, anjeunna oge janten penyiar radio",positive
+indolem-train-2297,"ac teu tiis, cai pancuran leutik..",negative
+indolem-train-2775,Sorangan? RT @dillashelia: Aa @radityadika simkuring keur dahar martabak loh ,negative
+indolem-train-1407,"kaberesihan kudu di tingkatkeun,",negative
+indolem-validation-334,kasurna kebul,negative
+indolem-train-780,Hatur nuhun cinta pikeun sadayana anjeun pasihan deui kasempetan eta teu? ? Terima Kasih Cinta ku Afgan (jeung Hady) ? https://path.com/p/17rR8c,positive
+indolem-test-505,teu rekomendasi servis kurang alus.. teu boga etika.. lamun urang niat teu alus pasti nyalundup ieu terang-terangan.. biasana kan waktu check-out karek ditotal misal kena bayaran.. lha ieu peuting-peuting langsung menta di panto. di kamarna euweuh kaca..,negative
+indolem-train-2521,"Di Banda, 2 imah & 28 sapi, palid. 400 imah, 30 hektar pare jeung dua hektar jagong kakeueum, pager sakola jeung kantor desa ruksak ",negative
+indolem-train-2180,kamar tara diberesihan,negative
+indolem-train-3314,"Disangka Cabuli 2 Siswi, Kepala Sakola Dilaporkeun ka Pulisi http://republika.co.id/r/nk8dom ",negative
+indolem-test-366,"perugas pamondokan bageur tur somaeh, tapi sarung bantal rada hapeuk jeung sepre kurang beresih.",negative
+indolem-train-143,"PT Semen Padang Salurkeun Rp4,55 Miliar jang Sakola di Padang http://bitly.com/1anmEfd ",positive
+indolem-test-230,"lokasina di daerah komplek,. lamun pikeun kamar sorangan eta emang leutik, area solat di kamar kawates, mungkin kahareupna bisa diganti seprena sabab aya kokotor nu teu ngeunah ditempo, tapi sakabeh pikeun nu ngendong sapeuting jeung duitna saeutik cocok pisan, sajaba eta cai panasna oge aya",positive
+indolem-train-3488,euweuh cai panasna. teu luyu jeung promosi,negative
+indolem-validation-158,"Teuing iraha tah,nungguan teh leuwih alus tibatan neangan,?? ? Kamu Yang Kutunggu (jeung Afgan) ku Rossa ? https://path.com/p/15tpWQ ",negative
+indolem-test-20,@detikhot: Wilujeng Tepang Taun Raffi Ahmad sareng Nagita Slavina http://tinyurl.com/o8j2kdw,positive
+indolem-train-3515,Harga jeung fasilitas nu disadiakeun teu saluyu pisan. Pas check-in anduk euweuh kudu menta heula kakara aya. Jeung kaberesihanna bener-bener jauh ti kecap beresih jang standar hotel. Loba pisan kakebul komo deui pas muka hordeng katingali kebul nu sigana geus mangbulan-bulan teu diberesihkeun. Kamar mandi na bau teu ngeunah.,negative
+indolem-train-1945,kabeh memuaskan ngan AC kamar 2013 teu tiis jeung kamar mandina rada bau,negative
+indolem-test-981,Sanaos simkuring geus make pakean panangan panjang jeung calana panjang. Make jeket oge. Eta nyieun kangewaan simkuring kanu tiis beuki gede jeung beuki gede,negative
+indolem-train-46,Anjeun pencinta mobil Tamiya? #SapaIndonesia enjing ieu kasumpingan Komunitas Tamiya! Hayu nonton ayeuna https://www.youtube.com/watch?v=u1cusoD1zcM ?,positive
+indolem-train-2795,ranjang jeung anggeul bau hapek,negative
+indolem-train-3576,"keur cek in urang kudu nungguan salila 1 jam, dikamar ac urang teu tiis.. keur dikamar ngadadak kamar urang arek dibuka ti luar ku pagawe hotel nu ternyata mesen dobel, kasalahan ti hotel",negative
+indolem-validation-244,#WARTA Trimedya PDIP: Arurang Kuciwa Kaputusan Jokowi http://goo.gl/KDhhLB,negative
+indolem-validation-310,"Sacara umum mah alus, tapi saeutik catetan jang kamar mandina bau, loba siga laleur leutik, euweuh cai panas.",negative
+indolem-train-1,"Sono ka NaBil @RealSyahnazS @bangbily RaGa @RaffiAhmadLagi @OlgaSyahputra82 hiji acara, mesra-mesraan & bongkar-bongkaran Ya Allah ",positive
+indolem-train-2891,#Info : Syahrini Ngaku Teu Ngantongan Izin Syuting Video Klip di Tempat Umum http://owl.li/2UXB3k,negative
+indolem-test-427,pelanan kurang maksimal lift pareum wifi pareum pas keur aya guludug.,negative
+indolem-train-1074,"kamar oke, fasilitas oke. kasur teuas, meren tuas leuwih diperhatoskeun kaberesihana",negative
+indolem-train-125,"Kabogoh anyar teu? :DRT @PutriKodok76: Yeuh min Baju anyar, buuk anyar, sumanget anyar, pendakian anyar jeung nu anyar..",positive
+indolem-test-389,Kadang mah sirik ka jalma nu loba dahar tapi teu pernah gendut.,negative
+indolem-train-2512,Pelayanan kacida buruk. Tolong dibenerkeun,negative
+indolem-test-865,salimut jeung anduk aya kerak kotor.,negative
+indolem-validation-175,peryogi pangharum dikamar ibak jeung cai haneutna paeh. ,negative
+indolem-train-483,Malam minggu nonton Konser Dari Hati Afgan beuuuhhh ????? ? Knock Me Out ku Afgan ? https://path.com/p/3NGuhR,positive
+indolem-train-2245,"Pangladenanna kirang nyugemakeun, unggal poe teu dibere dahareun jeung parabot ibak. Kangge kama oge teu sami jeung nu dina gambar",negative
+indolem-test-824,"Nyieun Video Klip, Syahrini Ngagunakeun Konsep Aneh http://dlvr.it/8fsPMl",negative
+indolem-train-2447,anduk gede kudu sadia pas semah cek in. jeung kanggo resepsionis na kudu cicing di lobby. kaberesihan kamar kurang alus,negative
+indolem-train-1374,Kalotor sasarapna ngan nasi goreng hungkul. tapi ibuna bageur someah,negative
+indolem-train-3044,jajaneun na teu dibere...mimitina anduk ngan dibere 1..tapi saenggeus menta kakara dibere 2,negative
+indolem-train-2136,palayanan alus jeung someah pisan. ngan AC kurang tiis jeung saluran TV kurang lengkep,negative
+indolem-train-949,"Apal teu anjeung, di Jepang aya lowongan pagawean sebagai Tamu Kawinan Palsu, selain meunang gaji sagede Rp1,6 juta/poe oge meunang dahar gratis.",positive
+indolem-train-806,"Hatur nuhun Sekolah Harapan Bangsa acarana sukses,rame,seru",positive
+indolem-train-3569,"Panto kamar caina teu tiasa ditutupan, TV-na teu aya remot-na & teu aya andukna di perlengkapan mandina.",negative
+indolem-validation-367,Anak jaman baheula: Saacan dahar foto dahareunna. Anak jaman ayeuna: Saacan futsal foto sapatu futsalna.,negative
+indolem-train-1367,"Palayanan sae, tapi... kamarna rada eungap AC geus lila jeung gandeng.",negative
+indolem-test-856,Pulitikus Golkar Meunteun BG Nyeri Hate Gara-gara Jokowi: Presiden lambat nyokot kaputusan. http://bit.ly/1LmOHGZ,negative
+indolem-test-305,Syahrini Nantang KPK:   Klaim polisi jeung KPK teu boga buktos kadeukeutanna jeung Fransisca alias Feriyani. http://bit.ly/1LoweM5,negative
+indolem-train-3188,"pamandanganna sae . sacara kaseluruhan tempat kurang kaurus, ternyata jamban ruang kemah aya diluar padahal katerangan di traveloka kamar cai pribadi, jambanna teu kaurus jadi pancuranna karatan jeung keramik lanteina kerakan, kuring protes yen tv teu hirup dicek ku resepsionis cenah wifina bermasalah sahingga tv teu hirup tungtungna kuring oprek ku sorangan kuring ganti batre pas kitu teh hirup jigana resepsionisna hoream mariksa ka rohangan sabab ti rohangan kak resepsionis tebih, jeung di rohangan teu aya telepon sahingga lamun urang rek ngahubungi resepsionis/tukang beberesih kudu leumpang ka resepsionis. teu aya jalan nu deukeut ka pantai jeung waterboo jadi hoream pisan rwk turun ka pantai/waterboom. sarapan ngan sangu goreng+hayam+dadar endog+nutrisari jeruk",negative
+indolem-test-783,"kurang alus,kamarna heurin,kamar caina oge kurang beresih,menu sarapanna oge standar.",negative
+indolem-train-3627,"Cyclops :D """"@vikingcampaka: Sugan mah robocop :))) """"@YogaPHB: Syahrini mah aya aya wae... ",negative
+indolem-train-140,"Pangaos nu mirah ku kanyamanan jeung kaberesihan nu ok. Geus kaasup sasarap prasmanan. lokasi di deukeut jl. Lingkar utara, ngan abus di jalan buntu, janten teu gandeng sora kadaraan ",positive
+indolem-validation-264,camilan teu aya padahal mondok nepika 4 poe,negative
+indolem-test-741,"politisi Demokrat Harga beas naek, jokowi ulah wacana hungkul euweuh aksi http://www.tribunnews.com/nasional/2015/02/26/harga-beras-naik-politisi-demokrat-bilang-jokowi-jangan-berwacana-saja-tak-ada-aksi ? @didiemukri",negative
+indolem-validation-6,"Ayeuna sakolana geus alus, baheula pas jaman abdi parana masih bolong-bolong, anak-anakna masih aya nu pake sendal ka sakola, terus hiji bangku 5 orang",positive
+indolem-test-540,"lumayan nyaman, ngan ac kurang tiis jeung kabersihan perlu ditingkatkeun",negative
+indolem-train-3544,palayanan nyugemakeun. ngan bantal airy kotor siga teu diseusueh. jeung tempat nyimpen bantal biru airy kotor,negative
+indolem-train-1771,Patugas teu someah,negative
+indolem-test-261,Bidang Awewe Golkar Makassar Dibekelan Elmu Keprotokoleran -F http://goo.gl/fb/EUPFDo,positive
+indolem-train-1951,"#RuangNyantei 5 Mobil alun taun kamari, kudu dieureunkeun produksi taun ieu http://dlvr.it/8mdWsf  #Assadiqulhaq",negative
+indolem-train-322,"Wah, padahal KPK bentukan Fraksi Demokrat jeung Pak @SBYudhoyono kamari eta gawena muaskeun ngabasmi korupsi. http://www.beritasatu.com/nasional/250213-istana-ingin-bersihkan-kpk-dari-rezim-sby.html ? ",positive
+indolem-train-324,"Cukup alus ngan perlu dipiara hungkul dibagian kamar mandi. ruangan cukp beresih, ngan reungit masih loba",positive
+indolem-train-1336,"rohanganna hade, jajananna jigana ditambahan roti atawa kopi jeung enteh nya harga naek 5-10rebu teunanaon lah ngarah jiga bintang 4, oh enya di fulmar house aya cai panas tapi di web airyrooms fulmar teu aya cai panas, jeung satpamna ngaintimidasi teu someah oge ka semmah.",negative
+indolem-train-942,Rani Ngabela Syahrini... http://j.mp/1AZGo2D  #cumitweet,positive
+indolem-train-1086,"Pere kacida panjang = Ngabosenkeun. Pere kacida sakeudeung = ngeselkeun. Giliran pere hayangna asup sakola, giliran asup hayangna pere",negative
+indolem-validation-159,#InpoNdoroMoe Pupuhu DPD PDIP Riau Nyoret Rekaveny jeung Nuryanto ti Calon Wali Kota http://bit.ly/1LmOJ1C  #BlusukanDunyaMaya,negative
+indolem-train-1171,"jhon dahar siang yuk | moal ah | kunaon ? maneh kan can dahar ti isuk | heeh sebeuh keneh | ngadahar kenangan nya ? upps | fak -,,-",negative
+indolem-test-831,"Teu Ngaresmikeun Komjen BG, Golkar Nyebut Jokowi Ngaheureuykeun DPR http://www.jakpro.id/tak-lantik-komjen-bg-golkar-sebut-jokowi-permainkan-dpr/ ?",negative
+indolem-train-2733,"Salimbut jeung anggeul bau siga can diseseh, masih aya buuk paburencay dina anggeul",negative
+indolem-test-114,BAGIAN SALAJENGNA.. Digo ngajemput sisi jang mangkat ka kampus bareng ;) aiiih manisna nepi ka dituntun jiga kitu [cr as wm] Prilly Latuconsina jeung Aliando Syarief,positive
+indolem-train-1589,"AC teu tiis euweuh usaha lanjytan ti karyawan, kabersihan kacida kurang.. karek ayeuna kecewa pake airy",negative
+indolem-train-3225,11.19: RT @iskpage: Restoran kahuruan di margonda..,negative
+indolem-train-3106,wifi kurang alus,negative
+indolem-train-2200,Ups! Baju Model Morosod Keur Show Ardistia New York di IFW http://tinyurl.com/okjpcxz ,negative
+indolem-train-1093,"Mimiti asup ka kamar, TV teu lancar dipakena. teras menta pindah ka kamar anu tv na teu aya masalah tapi kamar anyarna teu disiapkeun nu bener... lantai karasa ngeres keneh...bau kamar teu ngeunah jeung kalengkapan sareng jajanan na teu aya. pas eta teu aya pagawe anu paduli ngenaan eta. aya cahaya panonpoe anu asup nepika serab lewat jandela leutik.. euweuh hordeng atawa lapisan kaca anu bisa ngurangan cahayana. rada ngaganggu. Tungtungna abdi menta dibalikkeun deui weh ka kamar nu mimiti jeung menta saluran tv na dibenerkeun. bau kamar ibak oge teu ngeunah mimitian tapi lamun geus dipake mah bauna leungit. salian eta sih hade. tempat anu nyaman tengan pikeun istirahat , pagawena someah sareng aya pantry anu nyadiakeun kopi teh + nginuman sereal nu haratis 24 jam.",negative
+indolem-validation-227,"WiFi jigana teu aya, kamar cai kurang beresih.",negative
+indolem-train-1403,"kotor pisan,,, loba sireum, simbutna jeung andukna leutik, patugas kaberesihana teu hayang miceun runtah sanajan simkuring 2 peuting, dianteokeun we numpuk, sepre oge teu digentos. lamun teu dititah meresihan kamar teu diberesihan... simkuring ngulang2 nyapu sorangan saking loba sireum jeung lamun kaluar saeutik tina panto kotorna lain ulin. simkuring kaduhung di airy ieu.",negative
+indolem-train-3410,"wangunan teu boga tanda jeung logo Airy tur euweuh angka. Tabuh 8 wengi, nalika ditaros naha ieu tempat Airy atanapi sanes, staf ngaresponna henteu ramah... palayanan anu goréng...",negative
+indolem-test-689,"jajaneun na euweuh, sampo sabun perlengkapan mandi euweuh, sepre na rada lodro/kotor",negative
+indolem-train-905,"Sateuacan janten CEO HP, Whitman teh nyaeta CEO eBay, salah sahiji perusahaan e-commerce panggedena di dunya. #inspirasi",positive
+indolem-train-1236,"Bungah pisan meunang tambahan camilan ti airy. Lokasi hotelna sae, cakeut ka pusat kota. Ngan kirang emput saalit bantalna hihi",negative
+indolem-train-981,"Sabenerna Allah leres2 ridho pada hamba lamun tuang teras muji Anjeunna kangge kadaharan eta, lamun nginum teras muji Anjeunna kangge inuman eta (HR Muslim)",positive
+indolem-train-2616,"Sepre &  panutup kasurna teu bersih, cai panas teu nyala, wifi di kamar teu aya.",negative
+indolem-train-2292,teu aya wifi sesuai anu diiklankeun..,negative
+indolem-test-538,Kamar caina rada bau teu ngenah,negative
+indolem-train-3135,"Abdi resep, genaheun jeung tenang, hanjakal kamar caina rada bau tapi kangge abdi teu nanaon tetep puas",negative
+indolem-train-2650,#JustInfo #ForYou PDIP Dinilai Aneh lamun Narima Badrodin Kapolri http://bit.ly/1Lp6W0d,negative
+indolem-train-1969,"saluran tv ngan aya 3 channel lokal, snack teu sesuai (kurang), wc bau, kusabab ieu kos-kosan jadi rada gandeng di peuting terus salimut ipis oge..plus ngan ukur resepsionisna anu someah..",negative
+indolem-train-2746,Lamun PKS jeung PDIP geus 'koalisi'... jigana Ahok bakal buru-buru angkat kaki http://dlvr.it/8jfFPB,negative
+indolem-test-929,Ulah teras nangisan anjeuna nu geus mangkat. Patah hate ngan cara Tuhan nyadarkeun lamun anjeuna lain jalma nu tepat kangge anjeunl. ,negative
+indolem-train-2439,"deukeut jeung halte jeun stasiun. anu kudu diomean menu sarapan kurang variatif jeung wifi ngadat.. kamar menta dibersihkeun tapi kurang bersih, anduk teu diganti.. tapi jang anu sejenna geus oke.. tq",negative
+indolem-train-2171,Saptu peuting? Ohh.. nyaatos di imah we dibaturan aa afgan nyaa kanyaudahh dirumah aja ditemani aa afgan yaa kan.. *biasanajpgekumahasihbnloo* ? [pic] ? https://path.com/p/1A7l97,negative
+indolem-test-534,"Tembok kamar kotor, saluran TV goreng teu tiasa nonton seueur sireum. Teu aya camilan airy jeung suasana kamar lain Airy Style biru putih.",negative
+indolem-test-453,"Hatur nuhun kanggo perhatosanna nu ngan sakeudeung, tuluy indit kieu wae :')",negative
+indolem-train-3257,kamar mandi rada bau jeung cai leutik,negative
+indolem-validation-196,"Kamar gandeng alatan jetpump. AC teu jalan, hawa pengap sareng panas..",negative
+indolem-train-932,pernah ku lihat lukisan cantik tujuh bidadari? ? Kamulah Takdirku ku Raffi Ahmad & Nagita Slavina (jeung Melinda) ? https://path.com/p/3TjsmH,positive
+indolem-test-791,"11.08: DPK Jakarta Utara: Kahuruan Kapal di Pelabuhan Muara Karang Jakarta Utara & tos dikirim 10 unit mobil pemadam ka lokasi, nu matak hariwang ngarembet ka kapal sejen.",negative
+indolem-train-491,Ngan anjeung jeung abdi nu terang hartos cinta anu urang boga *eakk=))?? ? Untukmu Aku Bertahan ku Afgan ? https://path.com/p/464y1W,positive
+indolem-train-1759,"Standar, wangunan heubeul.. Ngan colokan listrik geus teu kiat nanceb ka tembok, ac tiis ngabutuhkeun waktos lila, lift ngan nepi Lantei 4 sanajan kamar aya di Lantei 5",negative
+indolem-test-400,"Kecewa pisan, dimulai ti pertanyaan di mimiti anu lelet pisan mere konci kamar, penjagana malah pasea heula, kamar anu kotor (jiga jarang dibersihkeun) kotoran di mana-mana, peralatan sarena bau apek, AC rusak kamar mandina kotor pisan, euweuh peralatan mandi jiga di airy nu sejen, pokokna kecewa pisan teu sesuai jeung anu ditawarkeun dina aplikasi airy",negative
+indolem-test-82,"Waw! :D RT @CupyDevil: @caripenulis_com @jpg_pjay anu katingali teu mungkin jadi mungkin dina karya sastra, contoh pernikahan abdi & Afgan :3",positive
+indolem-test-527,resepp. ngan wifina rada lelet.,negative
+indolem-train-2476,"kamar jeung ruang tamu lumayan lega, lokasi strategis pisan ngan kaberesihan nu kudu ditingkatkeun deui.",negative
+indolem-train-3630,Proses asup meni lila. Staff oge kabingungan.,negative
+indolem-train-2385,"Jambanna kirang beresih, jeung kirang lengkep fasilitasna kangge di jamban, kangge nu sejenna lumayan",negative
+indolem-test-285,Jiga kieu mobil pintar anu bakal diliris ku Apple! http://ow.ly/Ju9fo,positive
+indolem-train-1774,"Pasti Aya Persetujuan, Buktina PDIP Santai Wae Nunjuk Jokowi Badrodin: Politikus Partai Golkar Bambang Soesatyo nga...  http://bit.ly/18b9QYI ",negative
+indolem-train-775,Syahrini Muji Desa Singaraja - http://Tempo.co http://goo.gl/fb/JPR6nW #singaraja #bali,positive
+indolem-train-652,Kawani Raffi Ahmad Pikeun Gigi @dahSyatMusik http://youtu.be/Lc4_J28QK-U?a,positive
+indolem-train-1293,"Kamar bau rokok, cemilan jeung pelengkap ti airyroom teu aya",negative
+indolem-test-896,kaberesihan kamar kurang dijaga saeutik.. ,negative
+indolem-test-530,"Aranjeun Mah Ngenah Elmuna Berkembang Pesat :') Lah Kuring? Ngan Modal HP, Internet Ge Haratisan :( Kumaha Dek... http://fb.me/1BvR2WkqB",negative
+indolem-train-1819,"AC na teu tiis, lampu kurang caang",negative
+indolem-train-687,Raffi Ahmad Latihan Ijab Kabul Ngabuburit 16 Jul?: http://youtu.be/OfgXsS2jnEc  sono ka maraneh kawas kieu manja-manjaan @bangbily @RealSyahnazS,positive
+indolem-train-2798,jamban kurang beresih,negative
+indolem-train-1524,"Kamar bau hapeuk pisan, kamar ibak kotor",negative
+indolem-test-59,"Kabogoh anu bageur teh; """"lamun hp na pareum, rela minjuem hp babaturannana ngan jang sms jeung mere kabar ka kabogohna",positive
+indolem-train-1791,AC teu berfungsi sampurna jadi panas. ,negative
+indolem-train-2925,"#viva Tas Hermes Rp1,5 Milyar Dipake Balanja Sayur ku Syahrini: Penampilanna ngahebohkeun jalma anu aya d... http://bit.ly/1Lopq18 ",negative
+indolem-test-684,"kamar leuga, aya restoran, kolam renang, & palayanan kamar, lebarna: kamar kotor & beueus. lingkungan sabundeureun kotor, jamban kotor, cai leutik & bau. lokasi kamar ka tempat parkir cekap teubih nu kuduna eta mobil golf cicing teras kangge nganter jemput tamu. nu hese pas parios kudu angkat barang sorangan. jalan ge teu ramah kangge ngadorong koper",negative
+indolem-train-2643,kurang beresih,negative
+indolem-test-636,"hotel heubeul, cekap beresih, cekap sreg. airy teu diberre dahaeun?, pangaos alus, remot ac euweuh,",negative
+indolem-validation-162,GWRS Ton (jeung lobaan di Kantor Instalasi Rawat Jalan RSSA) ? https://path.com/p/1k0wl9,negative
+indolem-train-546,Cara Ngatur Pola Dahar Kangge Ibu Nyusuan Meh Tereh Turun Beurat Awak http://tinyurl.com/qbbptuz,positive
+indolem-train-1866,Wifina hese,negative
+indolem-train-3585,"jambanna teu beresih atawa ngaluarkeun bau nu teu ngeunah di irung. Keranna oge ruksak. Siaran tv na saeutik. Ruanganna euweuh jandela, janten eungap di jero. mugia tiasa dibebenah. Saleuwihna alus.",negative
+indolem-train-1686,"Massa tergancang, Mobil W06 Hamilton Bermasalah http://dlvr.it/8lkkwC  ",negative
+indolem-train-2339,*Omongan Jongos eta bernilai Sampah*PDIP Ngarasa Mega Diskriminalisasi http://www.jawapos.com/baca/artikel/13275/PDIP-Merasa-Mega-Dikriminalisasi ?,negative
+indolem-train-1459,"Urang pernah kitu ngarepkeun maneh balik deui, ngan ahirna urang nu kudu ngarelakeun maneh bener-bener indit.",negative
+indolem-test-569,"Tuluy ngabobodo geuring meh bisa sare di UKS sakola ??? Lamun teu ngerjakeun PR titah ngerjakeun di perpus, tungtungna sare di perpus wkwkw ??",negative
+indolem-test-592,"kirang beresih , teu aya lobi, pelayanan teu salawasna siap",negative
+indolem-train-3268,bata ruangan kamar leueur... jeung anu perlu ditambahkeun nyaeta sendal di jero kamar. jang anu sejenna geus alus.,negative
+indolem-train-3016,"Kamarna kirang alus , bohlamna teu kabeh hurung , peuting pisan , ruangana bau pisan , jambana kotor",negative
+indolem-train-3636,Iklan partai Demokrat Katakan Henteu Kana Korupsi. Geus baraha nu dipenjara #nganngingetan,negative
+indolem-train-867,Mugia gusti ngabales sadaya nu lumangsung ka anjeun hiji mangsa nu bakal datang dugi ka anjeun sadar? ?Sadis ku Afgan ? https://path.com/p/4wkUis,positive
+indolem-train-2652,Di Denmark nyaeta ilegal kangge dahar daging atah pas aya bulan pirnama.,negative
+indolem-test-788,"Lokasi sabenerna strategis, kamar leutik terus AC-na gandeng, TV make keneh anteneu jero bantalna bau keneh waktos kuring kaditu. Kamar leutik tur heurin.",negative
+indolem-train-1456,"fasilitas kudu ditingkatkeun, bakal leuwih hade pikeun nambahkeun sendal hotel. penyediaan ranjang tambahan teu nyukupan. jaringan wifi bakal leuwih hade dipasang di unggal juru sangkan jaringan internet kuat di unggal kamr. pelayanan hotel tos alus, tapi bakal leuwih alus pikeun unggal pagawe hotel janten langkung someah ka semah",negative
+indolem-train-528,"Wah, Beurat Awak Afgan Nurun 19 Kilogram: Sababaraha sasih teu papanggih Afgan Syahreza (25), urang pangling. Anjeun... http://tinyurl.com/kftjjgw ",positive
+indolem-train-1050,My Idiot Brother ?? Keren da ieu pilem sumpah !!! ? Untukmu Aku Bertahan ku Afgan ? http://path.com/p/4fRWyk,positive
+indolem-train-1165,nasihat mangkat ngeusi minyak ayeuna. Tiasa jimat 25 sen/liter. Teu payah layan hasutan pembangkang. Minyak naek kusabab pasaran dunia oge salah BN?,negative
+indolem-test-402,Kabeh anu datang pasti bakal mangkat. Innalillahi wa'innaillaihi rojiuun pun bapak tercinta.,negative
+indolem-train-383,Sok tuang di Kenny Rogers Roasters? Ayeuna aya diskon 15% kanggo sadaya menu unggal dinten dugi ka 31 Juli? 15 min beuli 250rebu nganggo @KartuKreditBCA!,positive
+indolem-train-2417,"Kabersihan kamar perlu diomean, bau hangseur, meren ti tamu saeuncanna anu mawa anak balita",negative
+indolem-test-970,"kamar nyaman jeung beresih, ngan kamar mandi na bau na kurang enakeun jeung ngaganggu pisan jeung oge kasurna nyieun arateul. sarapan isuk-isuk standar.",negative
+indolem-train-1919,AC kamar 309 bocor,negative
+indolem-train-198,Golkar: Taya Kasapakatan Pulitik jeung Partai Koalisi http://dlvr.it/8fmKYx,positive
+indolem-train-2910,AC kurang tiis sareng lante kamar mandi mangga bersihan sateuacan semah sumping.,negative
+indolem-test-405,"Kantong Hermes Rp1,5 Miliar Dianggo Balanja Sayur ku Syahrini http://tinyurl.com/mjo5lbg ",negative
+indolem-test-991,"kaberesihan kamar, jamban, palayanan resepsionis, di jamban kalotor. Teheulna koneng, aya bungkus kondom nu can diberesihkeun",negative
+indolem-train-2364,"Caina kirang lancar, bau haseup roko, sarung bantal teu acan diganti. Eusi kotakna kosong teu aya cai mineral sareng henteu sapertos anu katingali dina tampilan.",negative
+indolem-test-969,"kamar beresih tapi euweuh pamanas cai di jero kamar, wifi lemot, saluran TV bintikan, sasarap ngan sangu goreng",negative
+indolem-train-499,"Lagu balon urang aya, ngajarkeun arurang pikeun nyekelan leuwih pageuh naon nu aya keneh, lain nyengcerikan nu geus mangkat ",positive
+indolem-train-447,Nostalgia zaman sakola saeutik.,positive
+indolem-train-668,"Si Ali sibuk pisan jigana ku hp, ngomong-ngomong seuri ii eta loh amis pisan!! SATUJU ? RETWEET!! @alysyarief @PrillyBie",positive
+indolem-train-1789,Kamar beresih ngan kamar ibak kalotor teu karawat.,negative
+indolem-train-764,@EdwardBosker Kangge kantor GA terminal 2 di bandara Soekarno-Hatta keneh beroperasi. Hatur Nuhun. - Fuadi,positive
+indolem-train-1026,"Rieut akademik di sakola bakal mere kauntungan, salah sahijina nambahan murid pinter. [Social Indicators Research]",positive
+indolem-test-474,PDIP maksa Jokowi ngangkat BG Kapolri pikeun nyalametkeun Mega. BLBI 647 Triliun! http://chirpstory.com/li/250482 ku @RBicara,negative
+indolem-train-3060,"AC paeh hirup, jeung lamun hurung sorana AC na gandeng..",negative
+indolem-train-2525,Kaberesihan kamar diperhatoskeun,negative
+indolem-train-2790,"Cai panasna rada goreng, ujug-ujug ngocorna leutik, terus teu aya lomarina, loba sireum di kamar",negative
+indolem-test-576,"ac teu tiis lanatai kotor pemesanan saeuncanna, teu meunang cemilan",negative
+indolem-train-2993,Rebuan Nelayan Ngepung Kantor Menteri Susi http://dlvr.it/8l4g0q,negative
+indolem-train-170,"lumayan, kaseluruhan nyaman ngan hanjakalna, aya sababaraha hal anu kudu diperhatikeun, kurangna kabersihan di kamar, aya urut rexona di handap kasur ti tamu samemehna, tapi saleuwihna luar biasa. nyaman, wifi gancang. pelayanan anu alus. hatur nuhun. rekomendasi kanggo bakcpacker anu bingung neang tempat ngendong, hatur nuhun airy. Anjeun emang keceeee",positive
+indolem-train-916,Forum Komite Sakola Dukung Wali Kota Makassar Ngabarantas Geng Motor http://bit.ly/1LBlquh,positive
+indolem-train-3583,"Haha""""@JosephSiahaan2: RT """"@kompascom: Demokrat Protes Pamimpin KPK Usulan SBY Teu Dipilih Jokowi http://kom.ps/AFploc """" @MohammadMakruf",negative
+indolem-train-1298,kamarna lumayan tapi wifi na teu bisa dipake... ,negative
+indolem-train-3439,"simkuring cicing 3 poe, tapi dahareunna ngan sakali hungkul heheheh",negative
+indolem-test-765,"Tas Hermes Rp1,5 Miliar Dipake Balanja Sayur ku Syahrini http://bit.ly/1Lopq18  | Lamun ka Calon Mitoha hargana sabaraha nyaa ^_^",negative
+indolem-validation-396,"Tanpa Izin, Syahrini Blusukan Pas Syuting MV 'Seperti Itu"""" http://ift.tt/1CYHLhi  #hiburan",negative
+indolem-train-2970,1. lampu kamar iuh teuing 2. lampu di kamar cai salah sahijina paeh 3. teu aya paralatan mandi 4. ac teu fungsi normal (teu karasa ac-na sanajan geus di leutikan) 5. cai panasna sakapeung bisa dipake & sakapeung henteu,negative
+indolem-train-1434,@JANJISUCI_TTV: lhooo.. itu @RaffiAhmadLagi keur naon nyaaa ka pangkalan ojek ngangge kostum kalinci?? #JANJISUCITTV,negative
+indolem-train-436,Demokrat nganilai Jokowi mere buktos lain jangji http://goo.gl/fb/CeJIjv,positive
+indolem-train-339,Poros Ngora Golkar Nganilai Jokowi Tiasa Ngendalikeun Situasi Ayeuna Ieu - BeritaSatu http://dlvr.it/8ft7y8,positive
+indolem-test-697,"Masih aya pagawean interior, kondisi toilet masih baseuh, lantai kamar masih kurang beresih jeung di sepre manggih bulu-bulu rambut",negative
+indolem-train-3009,Bakal aya masana anu mangkat tiba-tiba balik deui jeung entengna ngomong menta hampura. Urangna? Enteng oge jang nyieun teu paduli sama sekali.,negative
+indolem-validation-190,"Urang ninggali kamar masih kurang beresih nyaa. Di tukang korsi, meja masih aya kebul.",negative
+indolem-train-1461,AC lambat tiis,negative
+indolem-train-3105,WC-na lumutan..nyieun geuleuh,negative
+indolem-train-2254,"Dongkap jam 1 beurang teu menang check in dugi kak tabuh 2 padahal tos cape pisan. Sepre jorok, rohangan beueus, jauh ti kota, sesuai lah harga murah. Teu nyarankeun.",negative
+indolem-test-371,"Kelengkapan fasilitas jeung dahareun ringan di kamar geus OK. Tapi tempat sare kurang nyaman, karasa pisan per na di awak, tuluy bantal leutik nu warna biru rada bau, siga geu lila teu diganti-ganti, tapi sakabehna mah alus.",negative
+indolem-train-1854,Hotelna alus pamandanganna. Tapi AC punten dibebenah meh tiis meh tamu nambah betah deui.,negative
+indolem-train-2710,kamar ibakna kirang beresih,negative
+indolem-validation-119,Paling hoream pas hudang isuk siap-siap ka sakola. Komo deui lamun cuaca mendung atawa girimis #anakSMA,negative
+indolem-train-3472,"pelayanan pagawe kurang someah, jeung suasana gandeng teuing",negative
+indolem-test-847,Pliiis atuhlah hayang pisan ngabunuh jelema ?? ? Sabar ku Afgan ? https://path.com/p/1VUm4E,negative
+indolem-train-539,"Twitter muka kantor cabang di Indonesia, naon alesanna? Ini kateranganna liwat http://ngi.cc/n45c ",positive
+indolem-train-3357,"AC teu tiis,simbut jeung sepre arateul siga 10 taun teu diganti",negative
+indolem-train-2420,AC kamar na ngaluarkeun sora gandeng,negative
+indolem-train-2409,Demokrat Protes Pamimpin KPK Usulan SBY Teu Dipilih Jokowi: intelijen - Fraksi Partai Demokrat kaduhun... http://bit.ly/1Lh7jYS  #Kabari,negative
+indolem-test-443,Ieu Bukti PDIP Kabeulah Kena 'Jurus' Jokowi: Pro kontra soal pembatalan pelantikan Komjen Budi Gunawan... http://bit.ly/18adtOz  #Kabari,negative
+indolem-validation-284,baik jeung puas tapi masih aya kakurangannana keur urang mesen ruangan airy urang pilih hiji kasur tapi pas urang check in anu dibere dua kasur.! mohon ditingkatkeun deui.. hatur nuhun airy rooma.!,negative
+indolem-train-634,kamar na pantes jeung harga.. pangladen pagawena sae pisan. aya cai panas. ngan sepre na koneng kabeh. anduk na ge cokelat barau hapeuk can garing. teu aya lift tapi abdi betah diditu,positive
+indolem-train-914,Demokrat nilai kaputusan presiden mere kapastian http://ift.tt/17ZrApC  #MentionKanggo #PotoDoraemon #STMheurasbosss,positive
+indolem-train-3484,"Lumayan tenang, hanjakal ACna seueur nu reksak janten kurang tiis",negative
+indolem-train-3507,strategis. hanjakal kabersihan ranjangna kurang. sesana nyaeta nurutkeun harga,negative
+indolem-train-1651,Nya..aya anu mulai parno jigana RT @kompascom: Demokrat Protes Pimpinan KPK Usulan SBY Teu Dipilih Jokowi http://kom.ps/AFploc  |@kurawa,negative
+indolem-test-743,"kamar bau jeung kotor, toilet bau, beres mondok didieu urang keuna panyakit kulit (ruam kulit jeung arateul)",negative
+indolem-train-3536,"wifi teu hirup, caina bau, pelayanan kurang alus, mirip ngekos",negative
+indolem-train-1190,"@InfoBDL: #inpoBDL - Hiji Siswi Diteunggeul Babaturan Twitter-na, HP Direbut http://bit.ly/1AZYjYM """" awalna perang twit?",negative
+indolem-train-2217,"Kamar masih aya bau kebul. Kamar mandi pancuranna mampet, euewuh cai panas oge :')",negative
+indolem-train-1684,ngeunaheun ngan nyaah AC na bocor pisan,negative
+indolem-train-2086,Demokrat Protes Pamimpin KPK Usulan SBY Teu Dipilih Jokowi: Fraksi Partai Demokrat kaduhung lengkah Presiden... http://bit.ly/1Lh7jYS  #Kabari,negative
+indolem-test-908,"Rasa bambungan nu meunang sapedah urut, jeung rasa tokoh nu mimiti naek mobil kapresidenan ceuk urang SARUA. Bungah, terus kabiasaan jeung bosen ? ",negative
+indolem-train-608,"Abdi mondok 4 wengi, jatah jajanan jeung perlengakap mandi (sabun jeung sajabana) ngan di pasihan pas poe mimiti asup. Kangge kaberesihan & sarapan hade",positive
+indolem-train-1632,"ac teu tiis, geus 3x lapor euweuh tanggepan-tanggepan acan, teheul keramik loba nu ruksak",negative
+indolem-train-3187,KPU Sulut Ngan Ngakuan Golkar nu Dipimpin ARB http://dlvr.it/8hT6pP,negative
+indolem-validation-187,"Pagawena kirang someah, kirang inpormatif jeung gawena kirang hade. Kamar hese dipake netepan",negative
+indolem-train-1610,"resepsionis kurang someah, lift kotor jeung bau, kamar ibak kurang lancar tapi cai panas tina pancuran mantap, kaberesihan anggeul jeung sepre kudu dievaluasi deui. nyaah pisan potensi nu alus pisan teu didukung profesionalisme SDM na, fungsi kontrolna kudu ditingkatkeun.",negative
+indolem-validation-56,Tempat nyaman jeung resepsionis someah. Ngan pas tengah peuting aya tamu telepon di hareup resepsionis jeung panto pembatas ruangan diantepkeun ku patugas peuting anu perawakanna kuru jadina soarana kadenge ka kamar. Secara kabehanna alus.,positive
+indolem-train-2546,"Kamar rada Beresih, nyaah teu sasuai jeung ekspektasi nu dina gambar...telepon kamar paeh aya reungit ac teu tiis teu aya paket kamar ibak siga biasa standar airy ",negative
+indolem-train-2118,"Ngan sabab Kandang Hayam, Mobil Satpol PP Ampir Dibakar Massa http://bit.ly/1FrmsVH ",negative
+indolem-train-430,"Abdi bakal selalu aya kanggo anjeun, sanajan kudu bertahan dina sahiji kasedihan, jeung ngalawan rasa hate anu osok wae nuruh urang mangkat ti angjeun :')",positive
+indolem-test-557,jamban kirang beresih,negative
+indolem-train-3256,"Syahrini Diriung Waega: """"Eh eta Syahrini, geulis nya, ih geulis pisan. Ngan hanjakal naha pendek nya,"""" ceuk nu saurang? http://dlvr.it/8fvXBv",negative
+indolem-validation-57,Bade ka lawang lebet Soundwave Fest make baju ti band lejen..siap-siap sapoe jeput ceuli dibuai ku? https://instagram.com/p/zoe2kXh7yc/ ,positive
+indolem-train-396,"97. Komo deui Demokrat, pasti bakal atoh lamun PDIP ninggalkeun Jokowi jeung lamun bisa berhadap-hadapan jeung Jokowi. Jiga meunang durian runtuh.",positive
+indolem-train-3124,pelayanan kurang someah,negative
+indolem-train-2434,"15.23: Kahuruan Mobil Mercy Hideung B1945 SH di Jl. S. Parman, benerna di hareupeun Cental Park ti Tomang menuju Grogol Jakbar. (P. Momo)",negative
+indolem-train-946,Link obsesi= Raffi Ahmad Jeung Olga Syahputra Diramal Leuwih Eksis - Obsesi 19 Februari 2015: http://youtu.be/UjfYJCrlCfo?a ngaliwatan @YouTube,positive
+indolem-train-353,Tuang kacang-kacangan nalika kakandungan tiasa ngirangan resiko alergi murangkalih anu bakal dilahirkeun. [JAMA Pediatrics],positive
+indolem-train-1840,"tv rusak, wc kotor, euweuh snack... kecewa sih jang sakali ngendong di airyroom",negative
+indolem-test-342,"kamar aya sireumna. kamar mandi bermasalah, pamiceunan cai mampet..jadina cai meluber ka luar kamar",negative
+indolem-train-2748,Keueum hp maneh. RT @ndarahmat: @my_supersoccer lamun pesen simkuring ngan dibaca hungkul simkuring kudu naon min? #nanyamaenbalsuper,negative
+indolem-train-619,Anu nyieun hoream kamana-mana poe ayeuna Konser Dari Hati AFGAN :* (jeung Yodie at Yodieandliya's Castle) ? https://path.com/p/1E4W4E,positive
+indolem-train-1754,[NGERI] Raffi Ahmad Ampir Gelut Jeung Depkolektor @ Dahsyat 25 Sep.... : http://youtu.be/KKpOfy7G_UI  ngaliwatan @YouTube,negative
+indolem-train-3236,murah jeung nyaman tapi toilet rada kotor saeutik.,negative
+indolem-train-3368,Jalma ayeuna loba nu lamun dahar di kafe atawa resto emut moto dahareun tapi poho ngadoa. Ngilu @GadgetGaul kangge tips & info gadget alus,negative
+indolem-train-980,"positif: Lokasi strategis.. ti kabeh Airy hotel nu pernah urang anjangan.. ngan didieu kamar sare diberesihkeun unggal poe.. anduk diganti unggal poe.. jajanan, cai nginum jeung perlengkapan mandi dibere unggal poe, jadi salila 3 poe diditu urang meunang jajanan, cai nginum, perlengkapan mandi 3 set.. petugas someah.. lokasi strategis.. disabudureun hotel oge loba nu jual dahareun.. sakabehna mah oke pisan jang harga sakitu.. kaberesihan emang bener-bener diraksa.. disarankeun pisan lah.. negatif: sabab euweuh lift, jadi kudu naek tangga.. pas mimiti datang, urang manggul tas ransel jeung koper sorangan ka lantai 3.. padahal petugasna ningali urang hah heh hoh eureun di unggal tangga per laintai sabab kabeuratan ngangkat barang tapi tetep teu dibantuan.. cai panas na teu hurung.. di area meha euweuh lampu.. jadi rek gawe oge teu bisa sabab rada poek..",positive
+indolem-train-1056,Sono ka maraneh @raffiahmadLagi @lady6igi muga-muga ngilu lalakina ka pesbukers nyaaa... sono ka maraneh.. ,positive
+indolem-train-3284,"Ac kudu dicek teterusan, tanpa kudu nungguan palanggan Komplen, hatur nuhun",negative
+indolem-train-3021,Wifi teu keuna nepi kamar,negative
+indolem-train-736,SMS ti jelema anu dipikanyaah eta selalu bisa nyieun anjeun duduk manis sabari nyengir-nyengir sorangan ningali hp. Hihi,positive
+indolem-test-63,"tempatna beresih pisan sareng genah jeung palayanana anu someah, ngan cai panasna teu jalan.",positive
+indolem-train-3455,"11.35: RT @Yudi_Lands: Dampak takolan para demonstran di PTPN4, Jl. Suprapto Medan, hiji mobil janten korban  ",negative
+indolem-train-1465,"wifi teu nyambung, suasana kirang tengtrem sabab aya omean di lobi, kamar leuwih leutik tina katinggalina, teu aya pangjieunan kopi di kama sanaos dina potona aya, aya laleur di kamar jeung hese ngaluarkeunna sabab jandela ngan kaca jeung teu bisa dibuka. ",negative
+indolem-train-2796,"MediPutra ; PDIP Dinilai Aneh lamun Narima Badrodin Kapolri: INILAHCOM, Jakarta - Anggot... http://bit.ly/1Lp6W0d http://fb.me/mediputra.sh",negative
+indolem-train-1267,aroma ruangan kurang sedep. secara kasaluruhan kurang bersih weh jigana,negative
+indolem-train-2764,Sababaraha kali Pareum lampu jeung sepre tur simbut kurang beresih,negative
+indolem-train-1348,seprena kirang beresih. aya keneh urut buuk semah nu kamar luhur,negative
+indolem-train-1709,"tebih tina ekspektasi.. untung sare diskon ti airy janten rugi pisan. lantei dikupas, sepre siga henteu diseuseuh, simbut siga seprei ipis pisan. remot ac teu kapake. komo anduk wae kudu menta heula . camilan euweuh, ngan cai mineral. sabenerna lamun aya simkuring jarang dahar, tapi lainna eta geus standar ti airy? teu disarankeun lamun pangaos normal.",negative
+indolem-train-2079,"Aya masa timana awewe dikayaan teu ngeunah. Hayang mangkat tapi masih nyaah, hayang bertahan tapi nyeuri hate. Jeung eta pasti teu ngeunah. :')",negative
+indolem-train-461,Kanggo naon sesah-sesah milarian kaditu-kadieu padahal aya dipayuneun? ? Kamulah Takdirku ku Raffi Ahmad & Nagita Slavina ? https://path.com/p/xRE8V,positive
+indolem-train-2624,"Maneh nguruan yangg, goreng siah.. gendut heuh ? ? Pesan Cinta ku Afgan ? http://path.com/p/1Ly246",negative
+indolem-test-309,ac jeung wifi kamar mineung eror,negative
+indolem-train-1065,"Wifina kurang stabil, secara kaseluruhan alus, alus jeung bersih.. pelayanan someah jeung nulung pisan..",positive
+indolem-train-1221,"Upami anjeun bade diajar, anjeun kedah nempatkeun hp anjeun jauh ti urang. Lamun deukeut, komputer moal diajar.",negative
+indolem-train-2617,Tempat bagus tapi kamarna kurang bersih.,negative
+indolem-train-351,"http://beasiswaindo.com/5239 Beasiswa Pinuh, SPP & BPP Pokok - Sekolah Tinggi Manajemen Transpor (STMT) Trisakti ~0224",positive
+indolem-train-2037,"Benerkah Lamun Hatta Mimpin PAN Selalu di Handap Bayang-Bayang Demokrat?"""" ku @SangPemburu99 http://chirpstory.com/li/252988 """" @M4ngU5il @PintarPolitik",negative
+indolem-train-1284,kaberesihan kurang. punten diperhatoskeun deui. tapi mending lah ku harga sakitu jeung terjangkau.,negative
+indolem-train-3404,Kamarna saleresna sreg tapi tina jambana kacium bau solokan sanajan aya di lantei 2. Mugia dibebenah leuiwih alus deui nya.,negative
+indolem-train-866,Sing ati-ati di jalan aa @RaffiAhmadLagi wilujeng istirahat.. jaga kasehatan nyaa ulah gampang cape mimpi indah aa sareng @Lady6igi,positive
+indolem-train-1077,"asupna nu lila teh, rohangan kamar kirang beresih, da kamar ibak teu karawat, pancoran caina oge teu bisa dipake",negative
+indolem-validation-350,Wifina butut,negative
+indolem-train-2900,Tempatna kotor jeung poek remang remang,negative
+indolem-train-1889,"kasiapan jeung kasigapan pagawe kudu ditingkatkeun. keur semah anyar datang, kuduna kabeh fasilitas geus aya. semah nungguan babaraha jam dina kaayaan cape bener-bener teu ngeunaheun. ",negative
+indolem-train-72,"Nolak HAMAS, Lengkah Pamarentah, Dipuji PDIP http://bit.ly/1KwhWtq Menag Himbau umat islam ngilu pandangan mayor... http://bit.ly1AXKYQv",positive
+indolem-train-404,"Woh, naha bisa? :D RT @Arlaaan: abdi sempet oge nyobian kimchi chigae meunang farah quinn di kantor :D",positive
+indolem-train-2048,"Kaayaan kamar standar pisan... Urang sering ngagunakeun Airy Rooms... Tapi waktos ieu teu nyaman... 1. AC kurang tiis 2. Eweuh jajanan 3. Pamanas cai henteu jalan 4. kamar biasa wae teu nyarankeun sih, lamun ceuk urang...",negative
+indolem-test-539,"Palayananna lila, bukan ",negative
+indolem-train-3447,Jumlah Panumpang nu Ngabalikeun Tiket di Kantor Lion Air Nyusut: Panumpang nu terdampar alatan par... http://bit.ly/1vRUg9f,negative
+indolem-train-1510,"Hayang indit nya tapi nyaah keneh. Geus nanahan, tapi dinyerikeun wae. Sakapeung cinta teh salucu eta nyaa. Sagala salah :')",negative
+indolem-train-3174,tina review alus matakan urang milih ieu. tapi urang meunang kamar nu kebul. loba sarang lancah. simbut kebul. euweuh tisu. lantai teu disapu. pelayanan someah jeung alus. hatur nuhun. sugan aya peningkatan.,negative
+indolem-train-629,"Demokrat: Keputusan Jokowi ngeunaan Kapolri Mere Kepastian 
+http://www.gatra.com/politik-1/134860-demokrat-keputusan-jokowi-soal-kapolri-beri-kepastian.html ?",positive
+indolem-train-2752,(Bongkar Hambalang) Demokrat Protes Pimpinan KPK Ngusulkeun SBY Teu Dipilih Jokowi http://bit.ly/17ZEVOV,negative
+indolem-train-3548,"AC teu tiis, katingali kotor, teu direkomendasikeun.",negative
+indolem-train-2882,"tenang, sreg, tapi TVna rusak",negative
+indolem-validation-378,"#Teknologi Saatos nganggo berlian 5 M, ayeuna Syahrini dandan teu nyambung http://dlvr.it/8g8NZm  #Assadiqulhaq",negative
+indolem-train-169,"Dahar buah gedang bisa ngabantuan mengatasi Acid Reflux, kondisi dimana asam lambung naek nepi ka tikoro.",positive
+indolem-train-676,"Mobil leutik, gaya & irit emang pilihan pinter """"@AlexandraRacing: @Auto01_tvone #auto01tvone ",positive
+indolem-train-1680,Ati-ati. Aya nu amis guna kata. Jeung mangkat lamun beres ngarasa.,negative
+indolem-train-1669,pelayanannana kurang memuaskeun ngan nanya air panas oge beungeutna ngarengut jeung kapaksa kudu ngabantuan,negative
+indolem-train-99,Wanda Hamidah Eureun Ngajanda Ku Kawin Lalaki Tatoan - Sriwijaya Post http://gpon.co/-y5si  http://gpon.co/b,positive
+indolem-validation-28,"Sacara keseluruhan tempat nyaman, parkiran oge aman, AC, Wifii, jeung cai mandi oge lancar. Ngan rada kuciwa ka lantai kamarna lain keramik jeung kamar mandi kotor saeutik di hateupna. Sacara keseluruhan lamun jang cicing sih okee lah",positive
+indolem-train-2581,"kamarna kirang lega, sesana mah genah jeung wifina lumayan kanggo dikamar mah hanjakal sok lep-lepan. terus lamun bisa mah sasarap teh dianterkeun ka tiap kamar, sabab karunya kanu kabeurangan engke tungtungna teu kabagean sasarap. hatur nuhun",negative
+indolem-train-119,Jokowi Mulai Wani Nampar PDIP: Saha anu Bisa Dikte Presiden Jokowi? Euweuh! http://bit.ly/189Kryx  @PintarPolitik,positive
+indolem-test-511,"fasilitasna teu alus! sikap karyawanna teu memuaskeun, jeung hotelna serem loba jurig",negative
+indolem-train-282,Ayeuna nyanyi lagu ieu sorangan muga-muga sababaraha waktos ka? ? Kamulah Takdirku ku Raffi Ahmad & Nagita Slavina ? http://path.com/p/1c5BM0,positive
+indolem-train-2846,"cai panasna euweuh, teras saena dibere liang meh teu banjir,dihareup jamban oge punten dibere eulap suku,tv oge dibere remot nya... acna oge teu tiis.",negative
+indolem-train-1659,"Palayananna someah , kamarna alus sanajan seprena rada kusem tapi teu nanaon soalna urang mawa simbut cadangan tapi urang bingung mun rek sholat kudu turun heula ka musholla jang nginjeum mukena. riweuh euy utamana mun keur hujan",negative
+indolem-train-1666,wifina hungkul tolong pangbenerkeun jeung cai panasna terlalu panassssss,negative
+indolem-train-1319,kamar cai kotor...,negative
+indolem-test-119,"Syahrini Janji Hadir Jadi Saksi, Asal? http://bit.ly/1F6pAWE  via @PojokSatu",positive
+indolem-train-933,"cc; @RaffiAhmadLagi """"@TRANS7: """"Lamun aya lalaki anu nyaah ka indungna pasti bakalan nyaah ka pasanganana"""" #OkkyLukmanSaid @LawakKlubTrans7.",positive
+indolem-train-2534,"Tempatna kotor, remot tv teu bisa dipake, AC bocor jeung euweuh remot.",negative
+indolem-train-988,"kakak isukan sakola deu nya"""", ceuk salah sahiji krucil @SBMatahari bari seuri amis poe ieu *tuluy urang leleh~~ :"""")",positive
+indolem-train-2844,"Tempat beresih, set mandi lengkep, meunang jajanan oge, tapi lebar bau roko jeung lingkungan sepi pisan. tapi cukup strategis, kamana wae ge deukeut.",negative
+indolem-validation-46,"mimitina abdi meunang kamar anu AC na henteu jalan. Teras abdi protes ka resepsionis, jadi abdi dipindahkeun ka kamar anu langkung sae. kamar anyarna genah, beresih, aya cahya panonpoe nu ngajadikeun seger, aya camilan, cai bodas, parabot keur sare, jsb. abdi sugema",positive
+indolem-train-920,"Di hirup ieu, aya nu datang aya nu mangkat. Cekeulan pageh saha nu bakal babarengan jeung arurang.",positive
+indolem-train-2295,"tunduhna lamun keur diajar, kamun keur ulin hp mah teu kantos.",negative
+indolem-train-188,"Pilkada Sakaligus, PDIP teu Hayang Andelkeun Jokowi - http://JPNN.com  http://gpon.co/emdns  http://gpon.co/b ",positive
+indolem-train-318,"Kamar lega, bersih, jeung nyaman. Aya cai panas. Minus TV teu aya siaran.",positive
+indolem-test-598,"ngan aya 1 hal nu nyieun ilfeel, nyaeta di bantal biru khas Airy room aya URUT DAHDIR nu teu diberesihan & katinggali pisan, aya di dua bantal biruna, kumaha nya ieu Airy?",negative
+indolem-train-3224,"teru sesuai jeung difotona Kotor, sepre jeung sarung bantal koneng, Jeung bau hapeuk teu rekomendasi pisan",negative
+indolem-train-3170,Bau roko duka abus timana jeung bau wcna ti mimiti urang asup.. padshal urang acan ngagunakeun wc na,negative
+indolem-test-182,#TEAMFOLLOWBACK #TFB #alrasyid448ItuRasya Demokrat niai kaputusan presiden mere? http://dlvr.it/8dTP3s ROH3 SmantiBatam #JFB #AutoFollow,positive
+indolem-train-1861,jamban kotor. jambana teu tiasa dipake jeung bauna nepi kaluar. ACna tiis tapi gandeng. Teu disadiakeun anduk.,negative
+indolem-train-2992,"Sabar sabarlah cintaku, hanya sementara.. ? Sabar ku Afgan ? https://path.com/p/uBge3 ",negative
+indolem-test-895,"Pelayanan resepsionisna sih hade, someah, alus pisan, disarankeun. hanjakal kamar kuranh sesuei jeung rincian ti airy teras teu aya jajanan jeung parabot kamar cai ti airy. rapih sih, kurang seungit hungkul utamina kamar caina. Kahareupna, Tingkatkeun deui nya fasilitasna",negative
+indolem-train-241,tribuntimur: Awewe Golkar Makassar Dibekelan Elmu Keprotokoleran: Patihan ieu nampilkeun narasumber? http://goo.gl/fb/TbBYix,positive
+indolem-train-22,Jodoh Pasti Bertemu ku Afgan ? https://path.com/p/P9deN,positive
+indolem-test-628,"Kamar mandi kotor, hotel sering nyieun kagiatan aneh-aneh",negative
+indolem-train-399,"Tuh kan, seueur anu baheula pas alitna pernah gaduh baju parma. Teu terang eta teh tren atawa lain teu ngarti :') hahahaha",positive
+indolem-train-3378,"Wifi paeh, jamban ruksak",negative
+indolem-train-3324,PDIP Nyebut Ayana Kriminalisasi Megawati: JAKARTA - Partai Demokrat Indonesia Perjuangan (PDIP) nyebut... http://bit.ly/1AX7r0j #Kabaran,negative
+indolem-train-1657,"Meunang kamar lantai 3 teu bisa nyambung kana wifi, sempet aya cucunguk di kamar mandi tapi masih bisa diatasi, jenis panto nu digeser (saran weh leuwih alus milih jenis panto nu biasa we ameh leuwih rapet pas di konci, palayananna alus, kamar cukup beresih, sugan ka hareupna leuwih alus deui, lokasi cukup strategis.",negative
+indolem-test-814,AC na panas,negative
+indolem-train-2231,"Masak masak nyalira.....tuang tuang nyaliraaaaa nyeuseuh baju nyaliraa, bobo oge nyaliraaaa~~  ??????? (di Chexoz) ? https://path.com/p/1g2xgZ ",negative
+indolem-validation-394,"5' Aksi tarik menarik baju Diaz ku pamaen Selangor, Nasib teu oyag. Jelas katempo tarikan eta. ",negative
+indolem-train-1337,Tunduh -> mareuman laptop -> tarik salimut -> ngecek HP -> online deui -> teu jadi sare -> balik deui ka mimiti. Kitu weh terus.,negative
+indolem-test-174,"Hp sarua, ali sarua, kongkorong sarua, boa2 isuk alamat imahna oge sarua"""" <~aya nu komen kieu titadi nyieun mimin ngakak =))",positive
+indolem-train-229,"Aya kabar alus ti WhatsApp, ayeuna bisa ngagunakeun di PC, aseeek, bisa chat teu kudu muka HP? http://instagram.com/p/zWtm1CSwfX/ ",positive
+indolem-validation-105,Syukur jeung ikhlas mangrupakeun kunci bahagia. Ngahargaan naon anu ditarima jeung ngarelakuen naon anu kudu mangkat,positive
+indolem-train-1070,FAJARonline: Bidang Awewe Golkar Makassar Dibekelan Elmu Protokol : http://fajar.co.id/fajaronline-sulsel/2015/02/21/bidang-perempuan-golkar-makassar-dibekali-ilmu-keprotokoleran.html ?,positive
+indolem-train-2386,Naon nu kajadian keur paket internet HAPE arurang ujug-ujug beak? Naon nu kajadian keur arurang lila teu maca Al Qur?an?,negative
+indolem-train-897,Kangge naon hese-hese milarian kaditu kadieu parantos payuneun? ? Kamulah Takdirku ku Raffi Ahmad & Nagita Slavina ? https://path.com/p/1d1fcr,positive
+indolem-train-269,"Kamar beresih, parabotan mandi ok, ngan kamar heurin pisan jeung teu seungit",positive
+indolem-train-481,"Tahpan ceuk """"aa"" afgan oge ? muga-muga tuhan males kabeh nu kajadian ka urang engke? ? Sadis ku Afgan ? http://path.com/p/3H9UkB",positive
+indolem-train-1843,"AC teu tiis, remot TV ruksak.",negative
+indolem-test-462,"Rada alus, sasuai jeung tarif. Ngan cai panas ti pancuran, teu kaluar keur isuk. Terus dahareun sasarap keur isuk kurang ngeunah",negative
+indolem-validation-316,Lumayan.....ngan kaberesihanana kirang keneh...simbut jeung bantalna koneng...cik ditingkatkeun deui...kaberesihanana,negative
+indolem-train-2192,"Cai haneut di bathroom teu kapake, geus komplen tapi euweuh solusi, peuting jeung isuk mandi a",negative
+indolem-train-2445,"Kosanna lumaya jorok, sepre tempat sare rada deukil warna bodasna.",negative
+indolem-test-290,"Sok melang ka awewe nu ditinggalkeun ku kabogohna, dina hatena ngomong """"Manehna keur naonnya? Jeung saha? tangtayunan anjeunna Gusti"""".",positive
+indolem-train-571,"genaheun, beresih, seungit ngan hanjakal fasilitas sapertos remot tv jeung saklar lampu teu tiasa diangge , punten di omean deui nyaa ngarah langkung nyugemakeun palanggan alus pokona airyroom",positive
+indolem-train-2869,"R.E.N.G.S.E RT @vikrirasta: macet sabab angkot can beres, ayeuna ditambahan ku kantor pamarentahan pindah ka ... http://m.tmi.me/1eZxQB ",negative
+indolem-train-1757,"Pas libur mimiti: hayang sakola, sono babaturan. Pas h-1 abus sako;a: hayang libur saminggu deui we punten. Kanyataan murid jaman ayeuna..",negative
+indolem-train-3473,Beusi Tower Listrik PLN Dipaling Jang Dahar jeung Narkoba http://tinyurl.com/ohuqjhh,negative
+indolem-train-1087,andukna geus teu layak pake.:( pancuranna bocor.,negative
+indolem-train-1600,urang teu jadi ngendong kacauuuu hayang utah ku bau kamarna,negative
+indolem-train-2423,sprei jeung sarung bantal teu sesuai foto..,negative
+indolem-train-36,"Simkuring tes heula sora simkuring, saha apal aluspih ti apgang ? Untukmu Aku Bertahan ti Afgan ? https://path.com/p/2W4uxp ",positive
+indolem-validation-198,"Tangkal rug-rug ninggang mobil hareupeun Popo Danes Hayam Wuruk, punten hubungi DKP Denpasar cc : @BaleBengong",negative
+indolem-train-3053,Kanggo anu mondok kamari mah kasurna kirang beresih..,negative
+indolem-train-230,Opat Produk Mobil Honda Meunang Panghargaan Loyalitas Pelanggan http://bit.ly.com/1aucQQE,positive
+indolem-train-2950,"Euweuh cemilan sama sekali, euweuh cai nginum, euweuh cai panas, kamar beda jeung",negative
+indolem-train-1565,kacida pisan teu nyugemakeun sobat kuring datang jauh ti bogor ngan bisa nyimpang nepi ka jam 8..ulah ngaroko petugas na kurang someah,negative
+indolem-test-330,"Leuwih ti sapertilu murid, indit ka sakola alatan paksaan ti kolotna. #Psikologi",negative
+indolem-train-3180,"Abdi sempet ngarepkeun anjeun bakal balik deui, teras tungtungna abdi kedah daek ngarelakeun anjeun bener-bener indit.",negative
+indolem-test-664,"budak sakola jaman ayeuna cakeut jeung lingkungan luar , dina gambar sapertos 18 ka luhur. Teu aneh awewena sakola keneh lalakina geus kuliah. heuh",negative
+indolem-train-2172,bau cikiih. punten di perhatikeun. kalotor oge,negative
+indolem-test-675,"Sieun, WC na bau",negative
+indolem-train-2898,"Haha... Sieun disebut aneh. Tuluy kudu nolak? """"@inilahdotcom: PDIP Dinilai Aneh lamun Narima Badrolin Kapolri http://bit.ly/1B0gBaC ",negative
+indolem-test-545,cai panas hese... saeutik pisan .. ngan 5 menit langsung beak.. rohangan hade sih,negative
+indolem-train-2955,Caina bau siga cai cubluk. jadina rek ibak atawa ngosok huntu teh hoream . rohanganna sempit .,negative
+indolem-train-679,#Lounge ngan ukur 35rebu sinyal HP anjeun tiasa pinuh sanajan pelosok !! TESTI lengkep http://dlvr.it/8m19sg #Assadiqulhaq,positive
+indolem-train-2042,"AC, Toilet jeung Lantai Kurang Alus, Aya Reungit di Kamar",negative
+indolem-test-194,ceuk afgan mah nu penting pamajikan jaga penampilan jeung nu penting mah sholehah... hade hade hade. http://www.wowkeren.com/berita/tampil/00067823.html ? ..@MY_Afgan @ALLABOUTAFGAN,positive
+indolem-validation-379,"Tunjuk Badrodin, Bamsoet Nyangka aya Persetujuan Jokowi jeung PDIP: Cicingna Partai Demokrasi Indonesia Perjuangan? http://goo.gl/fb/xrmnuR  #MedanHits",negative
+indolem-train-1614,Ieu nu tiasa anjeun lakukeun lamun kantor anjeun telat ngagaji anjeun http://mlsbgt.de/1A58YKC,negative
+indolem-train-2509,Urang ngan menta hiji hal ka maneh; Ulah indit teu make alesan pas urang keur nyaah-nyaah na ka maneh.,negative
+indolem-train-655,"Bakal aya saatna anjeun sono diuk di korsi sakola. Janten, kangge nu masih sakola, tong nyia2keun momen2 penting bareng babaturan anjeun. :)",positive
+indolem-test-241,Wilujeng kanggo adek abdi Zana Roli Afgan anjeun tos nunjukkeun sikap dewasa jeung bijaksana anu hebat. Anjeun Pemimpin anu istimewa Salam hormat,positive
+indolem-test-433,"alamat hese diteanganna, ac teu tiis, eweuh cai panas",negative
+indolem-train-3412,"teu aya pancuran cai panas, tv tabung, kamar kotor kebul bau roko, kolam renang kotor, kamar cai model jaman baheula",negative
+indolem-train-1870,"Aya oge babaturan nyarita lamun manehna kudu kirim foto bukti lokasi ka mana wae manehna indit, di kantor, meeting, oge di imah!",negative
+indolem-train-1768,"Keran zonk, resepsionis nu awewe judes",negative
+indolem-train-3037,"Ac kirang tiis, kaayaan teheul kamar mimitian ngagelombang. ",negative
+indolem-train-3400,"Lega kamar didaptarkeun 20 m2 kanyataanna teu nepi, jeung ac kirang tiis, subuh kahudangkeun sabab hareudang",negative
+indolem-train-1611,"kualitas airy beuki nurun, keran ruksak, acna teu tiis.",negative
+indolem-train-1936,kamar kebul. kamar cai kurang beresih,negative
+indolem-train-1412,kondisi kamar saluyu jeung harga. sepre kudu diganti.,negative
+indolem-validation-226,"oke sih, ngan fasilitas cai nginumna we rada diperhatoskeun, soalna aya dispenser nu galonna teu digentos2.",negative
+indolem-train-2980,camilan kamar teu sadia pas urang ngendong,negative
+indolem-train-994,"Nya heeh atuh A Rafi saha sih nu teu resep ka Abang, @bangbily atos cocok pisan pikeun jadi calon adi ipar, toel @RaffiAhmadLagi",positive
+indolem-train-537,Hatur nuhun nisburrr... Saberes outing meunang cocooan anyar di kantor ??? (jeung Nisbur jeung Yepe) [pic] ? https://path.com/p/104ED,positive
+indolem-train-2446,"sasarap henteu ngeunah..parkir mayar..kamar  sepre belok, teheul kurang beresih.. ",negative
+indolem-train-1664,Nova Rialni @NovaRialni     : poe ieu skenariona loba anu berantakan @TRANSTV_CORP @RaffiAhmadLagi @WC...  http://goo.gl/m0Xsrk,negative
+indolem-train-3539,"Gede sih kamarna, beresih tapi kamar mandina bau pisan..",negative
+indolem-train-2872,airy rooms merekeun garansi cai panas gratis geuning ieu nambahan Rp 10.000/peuting kamar oge teu sasuai jeung poto leuwih goreng tv oge masih tv tabung lain LED,negative
+indolem-train-1952,"teu meunang dangdan, jeung nambahan geulis... seperti itu?? ? Seperti Itu? ku Syahrini ? http://path.com/p/4fPqtX",negative
+indolem-train-1607,"wifi teu nepi kamar, teu sadia cai panas jang ninyuh kopi/teh atawa dispenser jeung teu sadia korsi di hareupeun kamar jang ngarokok nepi kudu diuk di bata",negative
+indolem-train-3610,"teu aya fasilitas airy , ",negative
+indolem-train-536,Nabi Daud kagungan kamampuan pikeun ngalemeskeun beusi ngan ukur ku pananganna tanpa kedah ditempa ku seuneu teras jantenkeun acuk zirah,positive
+indolem-train-312,Geus kuduna boga obrolan peuting nu santai ku dua host nu dipikanyaah urang @RaffiAhmadLagi & @mrsayudewi di @latenights_ttv tabuh 23:00 WIB,positive
+indolem-train-1656,"Tambahan.. """"@republikaonline: Poros Ngora Golkar, Pamarentah Australia Biadab http://republika.co.id/r/nk2iak",negative
+indolem-train-936,"Unggal HAPE urang hurung, urang sok ngaharepkeun eta di maneh. :)?",positive
+indolem-train-504,FOTO: Pejabat UMNO Ngadatangan Golkar: Mempererat hubungan politik sakaligus nimba elmu Partai Golkar. http://bit.ly/1ATTyjb  #Kabari,positive
+indolem-train-1067,"Ahirna bos nu hiji ieu bijil oge di kantor, mawa duit sakarung ??? (jeung Raden Fandy di Dago Holiday) ? https://path.com/p/3PlAkl ",positive
+indolem-test-646,RT @Alifreak17: Hiji mobil honda freed kajungkel di sisi rel kereta jalan raya Klender.  (via @nabilaaII),negative
+indolem-train-1492,"lamun mak ambek urang leupas tah paksa turun bawa dahareun"""" jiga.......",negative
+indolem-train-1873,ngeunaheun sih tempatna tapi cai panas nu di kamar mandi embungeun tuluy teu dibere cai nginum,negative
+indolem-test-29,"Tolak HAMAS, Lengkah Pamarentah Dipuji http://bit.ly/1KwhWtq PDIP Penerbangan """"elat"""" sapoe, panumpang Lion A.. http://bit.ly/18aqpUr ",positive
+indolem-train-2861,"Rohangan lumayan genah. Standarna Airyroom lah. ngan aya babaraha kakurangan sapertos colokanna saeutik, WiFi pareum, cai rada bau, Teu aya gantungan baju di kamar ibak.",negative
+indolem-train-2767,09.36: Hiji mobil tigebrus ka solokan di Jl. I Susti Ngurah rai arah ka Pondok kopi. kahalangan dua arah  liwat @rzvdk,negative
+indolem-train-1285,Cai haneutna teu nyala di kamar ibak,negative
+indolem-test-614,"tapi hanjakalna tv na runyek loba sireumna jeung teu bisa ditonton, punten pangbenerkeun deui hehe",negative
+indolem-train-833,Konstruksi 'Sarang Laba-Laba' Kantor Puspemkot Tangsel karya Anak Indonesia http://www.detaktangsel.com/advetorial/item/5050-konstruksi-sarang-laba-laba-kantor-puspemkot-tangsel-karya-anak-indonesia ?,positive
+indolem-train-597,"RT @VIVA_log: Diusir ti Sekolah, Lalaki Ieu Ayena Boga Rp220 Trilliun http://dlvr.it/8kmNtq  ",positive
+indolem-train-2198,kamar ibak cai panasna ruksak,negative
+indolem-train-1638,wifina,negative
+indolem-test-535,"Heboh, Para Copet Naek Mobil Avanza Ngumbara di Medan @ramadhanpohan1 @MedanBangkit http://jurnaldemokratmedan.com/index.php/berita/medan-kita/item/327-heboh-para-pencopet-naik-mobil-avanza-berkeliaran-di-medan#.VOWwm1YsONg.twitter ?",negative
+indolem-train-2632,"(+) kamar gede, anyar, beresih. poe ka 1 AC teu tiis, tapi diganti ku pihak hotel ku kamar nu lain (-) eweuh lift, wifi lalaunan, Sasarap ngan dibere 2 piring. sasuai jeung hargana. ",negative
+indolem-train-2065,Dahar beurang jeung menu berlemak bisa nambah hormon Galanin (hormon anu nyebabkeun rasa lapar terus-terusan). [foxnews],negative
+indolem-test-259,#aurruz <3 #Afgan Hayang Go International & Duet jeung Adele http://www.aurruz.com/topic/4310/afgan-ingin-go-international-duet-dengan-adele/new/posts/ ? 3:),positive
+indolem-test-244,#Tokoh Charles Honoris: Jokowi Leuwih Wani Ngalawan Kapitalis http://bit.ly/1Csp0Bf  Demokrat nyebut kaputusan presiden be...  #ProfilTokohDPR,positive
+indolem-train-2225,"fasilitasna OK, ngan kurang jang pelayananna mah.",negative
+indolem-train-754,Urang puas ngendong di hotel ieu tina segi harga kacida terjangkau ac alus keamanan alus kabersihan oge alus anu kur cai panas teu panas,positive
+indolem-train-3430,"Nunjuk Badrodin, Bamsoet Curiga aya Kasepakatan Jokowi jeung PDIP: Lamun PDIP adem ayem wae, ngajelaskeun yen nyepakatan? http://dlvr.it/8fvJGp",negative
+indolem-train-1429,"Genah sih, ngan sepreina naha nya asa bau terus aya kotor siga urut getih.",negative
+indolem-train-2023,ac kurang tiis,negative
+indolem-validation-311,"Sigana maneh baik-baik wae jeung biasa wae lamun tanpa urang. Okelah, urang mangkat. :)",negative
+indolem-train-2959,Ieu Naib Pinunjul Konvensi Lamun Demokrat Teu Meunang 20 % Sora Pemilu http://tinyurl.com/m9mbuz4,negative
+indolem-train-2072,Kabéh nu datang pasti bakal indit.  Innalillahi wa'innaillaihi rojiuun ayah abdi nu dipikacinta.,negative
+indolem-train-1653,Rada alus. Ngan wifina saeutik kudu dibeneran..,negative
+indolem-train-2675,Politikus Golkar Nuduh Presiden Ngamangfaatkeun DPR kangge Nyingkirkeun BG; Bambang ngaku DPR teu keuna jeba... http://bit.ly/1vSfEuU,negative
+indolem-train-968,Charles Honoris : Indonesia Kudu Mawa Pangaruh di ASEAN http://bit.ly/14FyWwp Jadwal Padet Nepi Henteu Kungsi I... http://bit.ly/1vQMAEj,positive
+indolem-train-3350,"resepsionis cek in kurang someah, gandeng, teu aya tisu,",negative
+indolem-train-195,"Kamar lumayan bersih, sanajan saya sababaraha berdebu tapi masih cukup ngeunaheun. Cai haneut, ac tiis, wifi gancang, karyawan saeutik kurang someah, ngendong sababaraha poe, kuduna unggal poe diganti scnak atawa nawarkeun anduk anyar",positive
+indolem-train-374,"RT """"@RNJunior172: Karir raffi ahmad bakal leuwih naek ti tahun saacanna *selebritasiang trans7",positive
+indolem-test-654,"Sababaraha jelema sukses males sakola, tapi teu males jang diajar. Loba jelema sakola gagal sabab teu daek diajar, ngan neangan ijazah hungkul.",negative
+indolem-train-962,"kamarna beresih, sarapan ngeunah, ngan hanjakal sepre teu anyar",positive
+indolem-test-458,"Ayeuna geus teu manjur! RT @tribunnews: Nyanghareupan Pilkada Sakaligus, PDIP Henteu Deui Mangpaatkeun Jokowi Effect http://www.tribunnews.com/nasional/2015/02/21/hadapi-pilkada-serentak-pdip-tidak-lagi-manfaatkan-jokowi-effect/ ? via @tribunnews",negative
+indolem-validation-266,"kamarna kotor jeung heurin, andukna ipis jeung bai cai mani. jambanna banjir cai lila ngalir. simkuring langsung kaluar saeunggeus ninggali kondisi kamarna. Pokona teu dianjurkeun pisannnnn. Kaduhung oge teu saluyu jeung potona nipu pisannn kapok deh.",negative
+indolem-train-3280,Anduk katinggali kotor jeung aya tolol-totol... geus teu bodas jeung saroek sisina.,negative
+indolem-train-484,Ti keur Kuliah Syahrini Ngamimitian Investasi Berlian  via @detikhot http://tinyurl.com/ndk3dht,positive
+indolem-train-774,Dit tukangeun layar Donor Darah Karang Taruna Unit 010. Sumanget rerencangan sadaya !!!!!!  @ Kantor Sekretariat? https://instagram.com/p/zqalRCDrWn/,positive
+indolem-train-1064,Anggota Komisi I Dewan Perwakilan Rakyat RI Meutya Hafid ngadukung lengkah Kamenterian Luar Negri resep dut... http://bit.ly/1LnkE1V,positive
+indolem-train-1443,"Emang Kuring Pikirkeun RT""""@VIVAnews: RT @VIVA_log: Tas Hermes Rp1,5 Miliar Dipake Balanja Sayur ku Syahrini http://dlvr.it/8fs9jm ",negative
+indolem-validation-31,"Ayeuna waktosna nu sakola,ujian,gawe, hayu lanjutkeun aktivitas kagiatan deui. Sumanget nya :)",positive
+indolem-train-33,Geningan Ieu Rusiah Sehat Teu Make Dahar Sangu: Pola dahar nu dijalankeun Lena eta sabenerna geus lila menj... http://bit.ly/1LUZrN7,positive
+indolem-test-915,"Hiji studi nyimpulkeun, budak nu make kantong sakola nu beurat ka matak katalangsara nyero tonggong jeung Scoliosis.",negative
+indolem-train-1204,"#Louge Era Kanyahoan mobil na mogok, Adam Levine Langsung meuli mobil anyar! http://dlvr.it/8hkwgt #Assadiqulhaq",negative
+indolem-train-848,"Hotelna beresih, dahareunna ngeunah, pelayanan someah jeung alus. Ngan aya 1 nu kudu diomeang hateup urut bocor di kamar katingali kotor. Dwi Bidyawati, 16-17 Desember 2017",positive
+indolem-train-1887,"Nyieun Video Klip, Syahrini Make Konsep Absurd http://dlvr.it/8frt2D ",negative
+indolem-train-3448,parrahh kamarna. ac bocor. cai panas teu tiasa dipake. cai kotor. jamban kotor kamar bau. sepre aya bercak2 cai mani,negative
+indolem-train-309,Abdi bakal tetep bogoh ka anjeun ? 50 Tahun Lagi (sareng. Raffi Ahmad) ku Yuni Shara ? https://path.com/p/1OSK72,positive
+indolem-test-848,[Korupsi Inpormasi] PDIP Nyebutkeun Ayana Kriminalisasi Megawati - Indopos http://bit.ly/1LlJkrD,negative
+indolem-train-88,Lagu duet anu paling A+wesome ti teh Rossa (Sabab duet jeung Afgan) :'D >Panampilan- Rossa jeung Afgan - You're The One I'm Waiting for: http://youtu.be/L4SEVuJK_eg,positive
+indolem-train-1229,"Resiko boga kabogoh geulis??? ? Seperti Itu? ku Syahrini (sareng Fitria, Kaneka Putri, jeung 2 laenna) ? https://path.com/p/47C75r ",negative
+indolem-train-3590,"Ngajauhan dahar jeruk, nanas, anggur, & berries, pas peuting. Haseumna bisa ngaruh kanu kasehatan empedu.",negative
+indolem-validation-107,"Kamanawae #Pisces mangkat atawa jauh ti jelema-jelema nu dipikanyaah, hatena bakal tetep jeung moal pindah ka hate sejen.",positive
+indolem-validation-9,Ningali konser Afgan di Trans7 jadi kainget pas keur kepo ningali Afgan di Tiara nepi ka jongkok-jongkok jeung pika? (urang jeung Bagus) ? https://path.com/p/1CAPd6 ,positive
+indolem-test-904,"Pamandangan hade Kaberesihan kurang, kamar mandi bau hangseur",negative
+indolem-validation-371,"Teu sarua jeung gambar jeung penampilan dina poto, kabeh fasilitas geus kolot, wc kotor.",negative
+indolem-train-1635,teu dibere parabotan mandi (iwal anduk aya). teu dibere cai oge.. teu aya wifi.. Salain eta OK,negative
+indolem-test-287,"Lamun lalaki anu ku maneh hayang mangrupakeun lalaki anu resep ngajak maneh jalan-jalan naek mobil terus ka mall jeung ka kafe, terus? http://instagram.com/p/zWs6FElP5X/ ",positive
+indolem-train-1542,"ayeuna mun maneh renungkeun laci atawa lomari baju, mikir baju naon nu rek dipake isukan siga mikir projek 60 juta. lieurrna. alus mereput. ",negative
+indolem-train-2311,Kaseluruhan alus tapi kamar rada bau jeung di lomari aya cucunguk paeh,negative
+indolem-train-2535,Wifina butut. Geus lapor. Tapi teu diomean,negative
+indolem-train-2680,Hotel jorokkkkkkkk loba sireum,negative
+indolem-train-3370,"Kamar ibak na teu seungit, di pancuran eweuh cai panasna, Mimiti na ac kirang tiis",negative
+indolem-train-1551,"Simbut nu leuwih kandel, lembut, jeung beresih. Jeung peryogi bed cover. Palayananna kirang sae",negative
+indolem-train-2436,Kamarna heurin jeung eungap. unik emang rarancangna.. lamun lega saeutik deui we tangtu alus. jeung ventilasi/paniup.. eta butuh pisan. posisi ac kudu digentos.,negative
+indolem-test-722,tempat anu ngeunaheun ngan wifi keur rusak pas urang ngendong,negative
+indolem-train-593,Ulah hanjakal naon nu mangkat. Ulah nyengceurikan nu geus eweuh. Tapi bangkit jeung ngawangun deui nu geus leungit jeung musna.,positive
+indolem-train-3029,Wifi teu aya & panto kamar ibak teu tiasa dikoncian...,negative
+indolem-train-2069,Berkesan kusabab dekeut kamana-mana tapi nu ngieun urang kuciwa kamarna jorok ,negative
+indolem-train-950,FYI Afgan taun ieu bakal jadi juri tetep XFactor Indonesia otomatis jadi mentor pesertana oge. Nah saha ti maraneh nu ngilu XFactor? ?? ,positive
+indolem-test-992,jeung urang teu apal urang tatu atawa kuciwa deui saberes ieu sabab urang memang geus siap ku situasi eta. keur mah geus biasa jelema datang jeung indit.,negative
+indolem-train-3345,"Teu aya wifi di kamar Lampu di kamar poek, wat leutik kamar lokasi pang tung-tungna Wc kotor, mangpet Teu aya cai panas Sawareh fasilitas di wc teu fungsi Anduk kotor goreng pisan",negative
+indolem-train-1772,"Kamar kurang alus meureunan sabab wangunan lila,toilet teu beresih panto toilet jaman baheula pisan, cai keran netes tuluy, kurang beresih nya..",negative
+indolem-train-3405,Langkung seueur mobil anu dipaling kaping 1 Januari. [statistik ti Biro Kejahatan Asuransi Nasional AS],negative
+indolem-train-3127,eweuh jajanan nya,negative
+indolem-train-3067,"rada kuciwa sabab lepat masihan kamar, teu ngarasa kamar airy room saeutik-eutik acan. iraha deui ulah jiga kieu deui nyaa ",negative
+indolem-train-1241,"kamar mandi bau , euweuh bellboy",negative
+indolem-test-118,"Bere hiji jelema lauk, maka manehna bakal ngadahar jang sapoe.. Ajarkeun jelema eta mancing maka manehna bakal dahar saumur hirupna.. (Lao Tzu)",positive
+indolem-train-2685,Sinyal HP butut. wifi oge kabatas,negative
+indolem-test-750,Pangladenan kirang,negative
+indolem-test-43,"#Jokowi #PDIP Nyanghareupan Pilkada Serentak, PDIP Teu Ngamangpaatkeun Jokowi Efek - Tribun Lampung http://bit.ly/1LpxM8A @PDI_Perjuangan ",positive
+indolem-test-554,"Ngehek, sinx wae make listrik """"@despar54: Kacamata Futuristik Syahrini Ningali Jelema Transparan http://m.detik.com/hot/readfoto/2 ? @Gombez_875 @KodratArief",negative
+indolem-train-3359,"pangalaman hotel panggorengna, panto hotel butut, ac kolot kirang kapake, poe kahiji teu disadiakeun simbut, simbut oge kotor, sepre jeung tempat sare kotor, tempat sare pge lain spring bed, liang hawa jamban butut, janten bau, cai kotor, teheul awi, tv leutik nu lila teu kaurus, pangladenan oge teu nyugemakeun, hotel leuga panggorengna nu kantos aya.",negative
+indolem-train-10,#SoloNyarios Nyieun Pideo ?Sapertos Eta? di Tempat Panas Syahrini puas http://bit.ly/1LoBnnw,positive
+indolem-train-152,"Subhanalloh, karek ngadenge nyanyi wae sora Afgan geus nyieun ngageter. kumaha lamun Afgan adzan jeung ngaos nya? >> http://youtu.be/GcYHv5K5MrE ",positive
+indolem-test-521,#JombloEtaBagja - jaringan hp anjeun sok lelet teu ?,negative
+indolem-validation-42,"Numutkeun kana hasil panalungtikan di USA, nganepak tarang salila 30 detik bakal ngirangan kahoyong kangge dahar.",positive
+indolem-train-3442,2 Kantor Dinas Pamarentah Provinsi ieu Ngibarkeun Bandera Beureum Bodas Soek http://dlvr.it/8g7sWS,negative
+indolem-train-1155,Aneh jeung ajaib :) >> PDIP Dipeunteun Aneh lamun Tarima Badrodin Kapolri http://bit.ly/1B0gBaC  ||@PintarPolitik,negative
+indolem-train-2741,"babaraha fasilitas kamar mimitian rarusak sabab umur, cet kusem nyieun kesan kotor. lingkungan hotel (lorong, lobi, lift) oge kurang beresih. lokasi strategis, akses gampang, dekeut tempat dahar",negative
+indolem-train-1304,"kamar kebul, fasilitas cai panas di lantai 3 teu aya, telepon oge teu aya.. tapi patugasna someah pisan..",negative
+indolem-train-71,"sacara kasaluruhan tos sae, kamar sae jeung beresih, pelayanan nyugemakeun, nu kedah dilereskeun fasilitas cai panas sabab di kamar nu ku abdi tempatan teu fungsi sakumaha kuduna. hatur nuhun Airy Room.",positive
+indolem-train-2430,Bakal tiasa teu SBY ngancurkeun Demokrat liwat Nazaruddin? @TPK_RI http://chirpstory.com/li/252865 via @chirpstory,negative
+indolem-test-234,Desain gambar mobil sport keren - Yellow Lamborghini Aventador LP720 4 50 Anniversario http://goo.gl/l2VGsg,positive
+indolem-train-2766,"Urang nu gancang mutuskeun pikeun mangkat, atawa maneh nu telat nyadar. Ngan, kumaha oga arurang teu bisa narik ngulur waktos",negative
+indolem-train-2544,"Pikeun kultwit nu ka-5 ieu urang mere judul; """"Benerteu Lamun Hatta Mingpin, PAN di handap kalangkang Partai Demokrat""""? cc @tjatursaptoedy",negative
+indolem-train-2122,"Saumur hirupna, lalaki ieu nyetir mobil ngan make suku! http://bit.ly/1Lm1BoD ",negative
+indolem-test-129,[Politik] Yorrys Ngahimbau Unsur Golkar Tiasa Jadi Teges jeung Netral http://www.jitunews.com/read/9858/yorrys-himbau-elemen-golkar-bisa-tegas-dan-netral ? #Jitunews,positive
+indolem-train-881,Salah sahiji cara pikeun ngahibur diri ti kagiatan kantor nyaeta Tur http://kom.ps/AFnWQt,positive
+indolem-test-747,"Jokowi Pilih Badrodin, PDIP jeung PKS Disebut Bakal Ngahalangan - http://Tempo.co http://bit.ly/19P54jX ",negative
+indolem-train-3564,"mantap yeuh, nyaah wifi sinyalna kirang alus jero kamar, sigana sabab kamar urang dilantai 3, lamun ti hareup kamar alus sinyalna. ",negative
+indolem-train-2559,"aya kurang jeung leuwihna... misalna palayananna lila, badcoverna aya titik-titik kokotor/teu beresih, dijanjian bakal nganterkeun jajanan tapi nepi cekout eweuh. jeung sasarapna ngeunah, fasilitas lengkep. ",negative
+indolem-validation-312,rada jorok wcna jeung seprena teu beresih,negative
+indolem-train-405,"Cenah caritana murid anu nyengirna gede pas di foto buku tahunan sakola, condong leuwih sukses di pagawean jeung perkawinan ka hareupna.",positive
+indolem-train-2930,"#RadjaInfo Hayang Nyieun Heboh, Syahrini Nyieun Anu Konsepna Teu Jelas http://goo.gl/fb/qOir6d ",negative
+indolem-train-2486,"Kamar caina kotor, salami mondok 3dinten 2wengi ngan 1 poe diberesihan, kamar kotor, nyungkeun kekesed kamar lami, ngan 1x di bere cai herang",negative
+indolem-test-955,#Capricorn bisa ngabogaan napsu dahar nu ekstrim.,negative
+indolem-train-259,"Jadi lamun ceuk babaturan kantor, abdi anakna teu gampang kadistraksi. Jadi jelema atawa keadaan rek kukumaha oge abdi mah tetep sabodo teuing.",positive
+indolem-train-1396,"@yunartowijaya: Ouwwww... *reuwas* """"@kompascom: Demokrat Protes Pimpinan KPK Usulan SBY Teu Dipilih Jokowi http://kom.ps/AFploc """"""""wkwkwk",negative
+indolem-train-1258,teu sarua jeung dinu poto sepre lusuh jeung kotor,negative
+indolem-train-1971,"(grand deluxe lt.dasar) kamar lega, toilet lega (sanajan seungitna kurang ngeuna pas mimiti dibuka), cai",negative
+indolem-train-2569,Mobil Ieu Eleh Disuruduk Badak http://dlvr.it/8jTZbc,negative
+indolem-test-899,kamar beresih ngeunaheun..ngan kurang sasuai jeung panawaran fasilitasna..ac paeh..wifi teu bisa nyambung..jeung kamarna heurin pisan..,negative
+indolem-train-2145,tempat nyaman ngan hanjakalna channel tv teu komplit lamun komplit alus nyaman sakalian ngan aya 4 channel anu aya,negative
+indolem-train-3483,"Mang, meser kondom blekberi | Bade nu rasa naon? | Njir!! Jang HP Manggg | Ohh hampura teu fokus.. Istri abdi entos lami di kampung soalna | -__ -",negative
+indolem-train-2133,loba reungit jeung kamarna bau hapeuk teu aya wifi di kamar lantai 2,negative
+indolem-validation-1,Isuk @RaffiAhmadLagi @Lady6igi jumat barokah kangge arurang sadayana ,positive
+indolem-train-2737,"kamar kotor, kamar cai kotor, cai leutik panempatan kamar cai teu sesuai",negative
+indolem-train-3633,"ac teu tiis, bangunan geus lila, naek ka lantai 3 make tangga, eweuh wifi, palayanan ti patugas hotel na kurang muaskeun, kualitas kaberesihan kurang, teu siga layakna kualitas hotel airy nu lainna, punten standar hotel airy room leuwih di tingkatkeun deui, hatur nuhun",negative
+indolem-train-869,Dompet Dhuafa Sulsel Babagi Palengkepan Sakola http://bit.ly/1wis6Kj  @DDsulsel,positive
+indolem-train-3108,Inisiatif pikeun nyadiakeun cai aqua sareng parabot ibak sarta jajanan ti penjagana kirang keneh. Langkung sae upami dipasihkeun langsung teu kedah dipenta heula.,negative
+indolem-train-3088,"palayanan alus tapi fasilitasna teu ngeunah, ac kirang tiis, saluran tvna kawates, jamban jeung kamar kotor, loba reungit sare teu sreg",negative
+indolem-train-1376,hade lah teu ngabosenkeun ngan kamar sumpek teu aya ventilasi atau exhaust,negative
+indolem-test-582,"Dahareun teu ngeunah, kamar ibak kotor, teu aya lift naek tangga nepi lt 3, loba hasep roko jeung puntung roko",negative
+indolem-train-529,"Pikeun anjeun anu ngalaman kumaha endahna ngagunakeun HP heubeul, hayu urang ngelingan sakedap! http://buff.ly/1DDcjbj",positive
+indolem-train-1379,aya tisu urut konsumen saacanna,negative
+indolem-train-1099,"Kamarna sering dipariksa, sabab kamar ibakna kadang mampet, aya cucunguk, sarta sepre kudu mindeng diganti nyaaaa",negative
+indolem-train-121,"Nonton konser Afgan heula ahh cus anjeuna panyanyi lalaki karesep simkuring. Ieu karek ngarana konser, laguna loba jeung ngahits deui.... Ayyee! ",positive
+indolem-validation-207,Lamun Wifi emang eweuh.. ulah nyebutkeun aya.. Lantai 4 ribut.. Mereun aya kulawarga atawa naonlah.. Kamar gede.. ,negative
+indolem-train-3008,#faktababaturan manehna tukang nginjem hape lamun arurang keur eweuh pulsa ,negative
+indolem-train-3629,"sumpah nya teu hayang deui ngendong didieu, palayanna teu someah jeung kaberesihanna kurang diperhatikeun...",negative
+indolem-test-704,"kangge mimitina simkuring cicing di dieu jeung kulawargi. nu ngurusna mejakeun, lamun budak leutik beunang biaya? KUNAON? alesanna teu abus akal! simkuring moal balik ka hostel ieu deui. euweuh tempat runtah dikamar.atawa dihareupeun kamar. peunteun nambahna parabotan siga dispenser microwave, kulkas tiasa dianggo salami dirapihkeun deui. sakabehna mah goreng. teu dianjurkeun",negative
+indolem-train-1816,"Aya oge babaturan carita lamun anjeunna kudu ngirim poto buktos lokasi kamamana oge anjeuna mangkat, di kantor, rapat, nepi di imah!",negative
+indolem-train-197,Fadel: Mahkamah Partai Golkar Kudu Netral jeung Jujur http://dlvr.it/8l9pRk,positive
+indolem-validation-181,Resep. Ngan kamar ibak komo flash toiletna ruksak jeung rada kotor jadi bener-bener teu bisa dipake. Aya deposit 50k sanajan engke dibalikkeun. ,negative
+indolem-train-2011,alus. ngan ieu pikeun cai panasna kurang. sabab masih karasa tiiiiiiis euy.. kanggo tempat sare alus jeung ngeunaheun.,negative
+indolem-test-655,punten tingkatkeun deui kabersihanna utamana di spre jeung anduk ,negative
+indolem-train-598,Dahar beurang saacan jam 3 burit bisa ngabantuan Maneh nurunkeun beurat awak dibandingkeun jeung dahar beurang sanggeus liwat jam 3.,positive
+indolem-train-260,Bagja tuluy jang maraneh {} ? ? @RaffiAhmadLagi @Lady6igi  @ruben_onsu @sarwendah29,positive
+indolem-train-2583,"Telat mayar sakola, kalimah sakti ieu biasana digunakeun ku murid http://mlsbgt.de/1vqFdZm",negative
+indolem-train-2475,Lumayan nyarankeun. Tapi unggal poe teu dibere minuman jeung jajanan. Ngan 1x hungkul pas,negative
+indolem-train-1150,"lumayanlah,tapi kamar ibak kirang beresih",negative
+indolem-train-25,Pependak Sareng nu Ngidolakeun di Tepang Taun Raffi Ahmad - Nagita Slavina http://www.youtube.com/watch?v=EBmcbwBvbNg&sns=tw ? ? liwat @youtube,positive
+indolem-train-2645,kamar teu bersih,negative
+indolem-train-2934,"Keur istirahat, kamar ngadadak dibuka make akses ku pagawe hotel, make alesan leupat cek kamar, jantenna privasi simkuring kaganggu. Kuduna lamun emang cek kamar kudu aya SOP na/ aya daptar kamar nu geus kaisi, janten teu asal abus kamar tanpa ngetok panto heula. Nguciwakeun pisan jeung teu profesional sakali nanganan eta.",negative
+indolem-train-1764,"teheul kamarna keusikan, sepre kotor teu digentos, teheul jamban loba buuk, keran closet teu hurung. ",negative
+indolem-train-2836,"kamar bau, parabotan geus heubeul pisan",negative
+indolem-train-1674,"ok we lah, wi-fi euweuh",negative
+indolem-train-2387,"Nguciwakeun pisan-pisanan, kamar nu bau ditambih ku fasilitas tv nu goreng jeung jamban nu jorok",negative
+indolem-train-1286,urang mah naon sih ngan bisa selfie lamun hp keur sepi????,negative
+indolem-train-512,Tips Cageur Dahar Dahareun Tereh Ku Cara Cageur #JktSehat http://ow.ly/JFHo2,positive
+indolem-test-937,"Adegan Paudag-udag Mobil pikeun 'Spectre', Daniel Craig Cedera Sirah http://tinyurl.com/ohxfdnq",negative
+indolem-train-2941,"Lampu reueuk, kamar ibak kalotor, mondok 10 poe tapi ngan diberekeun paralatan ibak sakali hungkul pas mimiti asup.",negative
+indolem-train-1663,"lumayan keur anggaran rendah.. ngan acna sakapeung teu tiis, jadi kurang merenah waktos istirahatna. hatur nuhun",negative
+indolem-train-308,Supados anjeunna terang lamun ayeuna kuring Bogoh ! ? Pesan Cinta ku Afgan ? https://path.com/p/2uk74d,positive
+indolem-train-1027,pesbukers 18 juli 2014 :kabersamaan raffi ahmad jeung bella cie cie pesbu...: http://youtu.be/rd1yxjiy5h0  lewat @YouTube,positive
+indolem-train-2432,"Kantong Hermes Rp1,5 Miliar Dianggo Balanja Sayur ku Syahrini http://dlvr.it/8fstRf  #viva",negative
+indolem-train-3591,"Lamun urang teu pernah apal urang rek mangkat ka mana, maka urang sering pisan kajebak di jalan anu salah. #LSS",negative
+indolem-train-2566,"Balik kaditu DRUNK...! RT""""@detikcom: Jadwal Padet Nepi Teu Nyempetkeun Istirahat, http://tinyurl.com/mt6kng2  via @detikhot ",negative
+indolem-test-573,"Jamban kirang beresih, kamar teu pati sreg",negative
+indolem-train-695,"Kamar beresih, AC tiis, tapi sarung bantal + sepre teu beresih, masih aya kokotor, janten kirang sreg, menta nu anyar masih aya kokotorna",positive
+indolem-test-640,kituwe tuluy nepi ka Syahrini jadi awewe biasa RT @dedysatriono: obrolan teu aya ahir https://twitter.com/H_NinaJKT48/status/56903429062262784 ?,negative
+indolem-train-1698,#Warta Siswi SD di Pekanbaru dicabuli amang-amang di handap tangga sakola http://dlvr.it/8kd7Ym #Assadiqulhaq,negative
+indolem-train-3532,"Kamarna seungit karbol nyegrek pisan, abdi curiga freonna bocor. Cing leuwih diperhatikeun deui supados teu kudu aya nu karacunan. Hatur nuhun #101",negative
+indolem-train-181,Partai Demokrat: Kaputusan Jokowi Soal Kisruh KPK jeung Polri Mere Kapastian http://bit.ly/1vKaocZ  #politik,positive
+indolem-train-1113,"kamar nyaman, kolam renang ok. tapi kamar mandi punten dibere minyak seungit/kamper.",negative
+indolem-test-578,"layananna kurang, pelayananna kurang respon gancang,",negative
+indolem-train-1339,"alus, ngan aroma caina nu kurang ngadukung pas mandi siga bau got",negative
+indolem-train-3101,"Ieu mangrupakeun pangalaman PANGAWONNA kuring mondok di hotel, fasilitas nu dibikeun kabeh BUTUT, mimiti bantal, kamar cai jeung sepre nu kotor, Korsi nu pinuh ku sireum, Ac teu fungsi, Lomari nu ruksak, TV nu teu meunang sinyal nepi ka wastafel nu jiga rumah makan ! ieu nu pang bututna, jeung teu cocok jeung harepan.",negative
+indolem-validation-167,"Gara-gara hayang baju siga Raffi Ahmad, muter-muter toko nepi ka gempor danangplenthis #telatpos #nganngabagikeun http://intagsram.com/p/zTpWswwmpn/ ",negative
+indolem-train-2194,tempat geunah ngan ac na kirang tiis,negative
+indolem-train-1626,"kamar bau, pancuran goreng. mimiti abdi mondok diditu. kaayaan kamar ngeunaheun. tapi nu kadua kali mondok diditu kaayaan kamar teu ngeunaheun. naha padah kuring pesen make potongan diskon jadi kuring meunang kamar nu goreng",negative
+indolem-train-1008,#Sepakbola Demokrat nyebut kaputusan presiden masihan kapastian http://dlvr.it/8dTQsF  #Assadiqulhaq,positive
+indolem-train-400,"kaayaan pikaresepeun,kamar ibak rada kotor..liang pancuran rada mangpet, palayanan alus...di tungtung lorong ,aya jandela nu bolong teu aya kacana..jadi ampir budak urang labuh...kusabab meunang kamar pas di tungtung..kasur beresih,ac lumayan tiis,aya kolam renang beresih,lokasi babari di jangkau,harga sasuai,,",positive
+indolem-train-3153,Loba mitos anu nyieun salah kaprah. Salah sahijina anu ngomong suku Batak resep ngadahar jelema http://mlsbgt.de/1ArGO1d,negative
+indolem-train-3595,Baheula Sisil pernah salah make seragam sakolana pas poe Senen sabab telat jeung pas keur eta manehna kalakah make baju seragam pramuka.,negative
+indolem-train-2797,"Teu bener, kamar loba lebu, lampu kamar mandi pareum, kamar mandi teu beresih kabina-bina weh",negative
+indolem-train-496,"Ngan saukur 25rebu HP anjeun geus bisa jadi saalus ieu. Hayu pesen garskinna, gambarna oge bisa sasuai kahayang lhooo",positive
+indolem-train-1502,"Kuciwa pisan !!!! .... Resepsionis Mamarahan ka Kolot, kurang ajar ngajelaskeun, euweuh layanan kamar, Kamar BAU, Kapaksa mayar leuwih pikeun pindah kamar. Kuciwa ... !!!!",negative
+indolem-train-831,Bagja teh pas tiasa tuang sareng kulawargi jeung hasil kesang sorangan.. alhamdulillah ya Allah,positive
+indolem-test-284,Cita-cita Raffi Ahmad Ti Saprak Leutik - http://KasaKusuK.com http://shar.es/1WfAgg liwat @sharethis,positive
+indolem-test-87,#AntaraNews Demokrat meunteun keputusan presiden mere kepastian: Sekretaris Fraksi Partai Demokrat di DPR RI Didik...  http://bit.ly/1Lh2z7p,positive
+indolem-train-2828,"caina leutik jeung sepre teu diganti, masih aya kokotor urut semah samemehna",negative
+indolem-train-2933,"Lamun aya mantan anu tiba-tiba bageur ka maneh, tanyakeun. """"geus mangkat kok balik? aya nu rek dicokot, terus geus eta mangakat deui?""",negative
+indolem-validation-253,"kamarna heurin, eweuh cai mineral jeung jajanan khas airy, anggeul airy oge eweuh. resepsionisna kurang someah. jauuh beda jeung airy room nu hargana di handap ieu. ",negative
+indolem-train-3104,geus alus... ngan AC kurang tiis.,negative
+indolem-test-690,"Usulan SBY teu dipilih Jokowi, Demokrat protes http://ow.ly/JlTmg ",negative
+indolem-train-225,"Ulah Hariwang Gendut Sabab Loba Dahar, Ieu Teh Informasina #JKTSehat http://ow.ly/JCERY ",positive
+indolem-train-555,PDIP Pede Tanpa Dampak Jokowi di Pilkada Sakaligus http://bit.ly/19PXNk5  @PintarPolitik,positive
+indolem-train-247,TIPS SEDERHANA NGAGUNAKEUN HP SACARA BENER (KANGGE PALAKU UKM) | Ku @PartaiSocmed has.. http://chirpstory.com/li/253129,positive
+indolem-train-100,Beban Golkar Ayeuna Leuwih Ringan Dibanding Awal Reformasi http://goo.gl/YIx6zX,positive
+indolem-train-1224,6 Mobil Kabawa Kacalakaan Nguntuy di Sitinjau Laut  http://dlvr.it/8lGPzK,negative
+indolem-test-874,"Berlian Opick Teu Laku, Baju Melly Tembus Rp20 juta  http://bit.ly/1vZjvXp ",negative
+indolem-train-3621,"kamarna alus, rapih, ngeunaheun , AC na hungkul kurang mulus sorana, jeung palayananna kurang muaskeun. jeung, lamun sasarap eta kudu semah nu menta, kudu geus disadiakeun nya? ",negative
+indolem-test-837,Kamar bau teu ngeunah sapopoe.,negative
+indolem-train-2296,#Golkar #ARB BNN nyita dua kilogram sabu ti Malaysia http://bit.ly/1LlnbeP,negative
+indolem-train-556,Hayang dipoyokan pisan ieu mah. Cie RT @SuaraGolkar: Lengkah PRO RAKYAT GOLKAR di Pamarentahan Jokowi-JK nepi ka kiwari.,positive
+indolem-train-1580,"Anggeulna bau elay, kamarna beda jeung nu di poto, jarak jeung bandara emang dekeut, tapi aksesna",negative
+indolem-train-3158,"jang kamar...lumayan alus.. ngan pelayanan hungkul anu kurang alus. ka tamu kurang someah, mugia.. ka payunna makin baik",negative
+indolem-validation-288,kamar bau hapeuk,negative
+indolem-train-2595,"Pada taun 1920-an, Anjeun dilarang dahar popcorn di bioskop sabab gandeng pisan.",negative
+indolem-train-469,Malam mingguan na di kantor.. #antimainstream (bareng Dita jeung Agung di Kantor 8) ? https://path.com/p/2c6Nfp,positive
+indolem-validation-197,Palayanan langkung sae deui,negative
+indolem-test-21,"Lokasi caket setasiun Solo balapan, kamar beresih&seungit, ngan kamar cai di 311 aya seungit nu kurang ngeunah, beda jeung hotel sejen didieu aya jajanan wilujeung sumping sae, pangaosna lumayan cocok. cobi aya lift atuh.",positive
+indolem-train-209,Demokrat Nganilai Kaputusan Jokowi Mere Kapastian Ditengah Kisruh KPK Lawan Polri http://dlvr.it/8dzbWm,positive
+indolem-test-562,internetnya lelet,negative
+indolem-train-724,Nginum 2 gelas cai herang saacan dahar bisa ngabantu nurunkeun awak abot jeung ngalawan kelintuhan.,positive
+indolem-train-2823,"ULAH MILIH KAMAR DI DIEU Palayanana nguciwakeun. Urang disentak pas rek abus alesana sabab ngaran urang acan diperbarui. Kamar kotor pisan & teu diberesihan. Loba buuk di jamban. AC pareum, jeung teu meunang anduk. Palayanan palanggan ti airy oge teu ngagubris komplen urang. Urang komo geus nulis serat pamaca ka koran kangge parabot asal-asalan ieu",negative
+indolem-train-205,"Sakola juara ajarkeun siswa tata busana, Yudha siswa SD Juara Pekanbaru ayeuna geus bisa ngajait bajuna sorangan",positive
+indolem-test-666,alus tapi wifi teu bisa diangge,negative
+indolem-train-2021,baju awek zaman ayeuna leuwih ketat daripada undang-undang jalan raya.,negative
+indolem-train-2878,"eweuh wifi di lantai 2, kamar ibak eweuh gantungan anduk atawa baju, sakabehna alus jeung nyarankeun. ",negative
+indolem-train-3423,"AC NA KIRANG KARASA, KAMAR BOCOR, PATUGASNA KIRANG SIGEP DINA PALAYANAN, JAMBAN KIRANG BERESIH ",negative
+indolem-train-2772,yaelah arek nonton si abang malah eunggeusan????? ? Knock Me Out ku Afgan ? https://path.com/p/zkjvp,negative
+indolem-train-2452,"Maneh meunang naon anu ku maneh bayar. Harga total jang tilu kamar hiji peuting ngan 324 rebuan (pake promo airy) & di daerah Kemang! Lokasi oke, deket Kemang. Kamar lumayan gede tapi rada teu sesuai foto. Kusabab bangunanna imah, ukuran kamar beda-beda. Kolam renang oke. Euweuh cai panas jang mandi jeung wifina teu jalan (padahal username jeung password geus bener).",negative
+indolem-test-503,"Hotelna teu nyaman kusabab garandeng. Para staff anu teu berintelektual ti tengah peuting nepi ka subuh gogorowokan di luar sabari nyetel TV anu tarik. Staff ngan mikirkeun kanyamanan manehna sorangan jeung teu mikirkeun tamu anu geus sare, komo deui",negative
+indolem-validation-317,"Jadwal Padet Dugi ka Teu Kungsi Istirahat, Syahrini: Abdi Janten Awewe Udara: Sosok Syahrini bisa disebut menjad... http://bit.ly/1vQMNqQ",negative
+indolem-train-1282,WiFi teu Aya nuhun,negative
+indolem-train-3520,"Sprei jeung bantal guling kurang bersih, kamarna nyaman jeung tenang.",negative
+indolem-train-1756,21. Rupa-rupa manuver-manuver politik SBY dibidikkeun ka Anad ku cara ngalemahkeun posisina salaku Ketua Umum Partai Demokrat.,negative
+indolem-train-3234,sepre jeung simbutna sigana kudu diganti sabab geus katinggali rada usang.,negative
+indolem-validation-238,kurang beresih hungkul,negative
+indolem-train-1302,"Alus nyaman, hanjakal pas urang mondok kamar mandina bau pisan, sugan leuwih alus deui kahareupna mah, Rekomendasi pisan",negative
+indolem-train-2909,"kamar sarasa eungap, addmill teu sesuai",negative
+indolem-train-928,@wow_keren: Raffi Ahmad-Nagita Slavina Meunang Kado Umroh jeung Liburan ka London http://ow.ly/2ULvEU,positive
+indolem-train-1213,palayanan airyna kirang...pas datang pengaturana lain pengaturan airy...settingan hotel anu biasa keneh. .,negative
+indolem-train-1722,"euweuh wifi , TV teu bisa hurung kusabab kabel antene na dipotong, AC na lila tiis din",negative
+indolem-test-151,"genah,mirah,beresih,,,kabehanana tos sae,camilan,cai nginum,tv,cai panas,ac,parabot ibak. ngan ac hungkul kirang tiis",positive
+indolem-train-3499,salila ngagunakeun airy rooms ieu airy anu paling nguciwakeun 1. wifi teu nyambung ka kamar 2. panto kamar ibak teu bisa ditutup lamun teu dikonci ti jero 3. ac ngeclakan wae/bocor 4.pancoran cai kudu dicepengan teu bisa disimpen dina tempatna 5 IEU nu parah LISTRIK KAMAR PAREUM kusabab pulsa listrikna seep tapi responna kirang sigap yeuh teu aya inisiatif anu gancang,negative
+indolem-test-744,"cai na alit jadi hese rek kuramas.., AC na oge alit sarenng teu tiasa diatur jadi hareudang bobona..",negative
+indolem-test-869,"Sasih payun, dua rencangan di kantor bakal pitualang di tempat sanes. Hiji poe emang bakal aya pipisahan. Ku kituna ulah nyia-nyiakeun waktu pas babarengan.",negative
+indolem-train-2049,"kamar bau,kotor,ac teu tiis",negative
+indolem-train-840,"Di Perancis, make sapedah ka kantor bakal meunang bayaran per kilometerna (25 sen euro atawa sakitar Rp 4000) ",positive
+indolem-train-410,"Tadi urang sasalaman make baju ieu... hihihii, urang resep make baju ieu!! Lucu pisan ?? Atoh oge papanggih jeung maraneh?",positive
+indolem-validation-182,spreina bau ompol.. kolam renangna kotor..,negative
+indolem-train-666,"Sembahlah Ar Rahman, sebarkeun salam, jeung mere dahar ka batur, lanjeng maranehna bakal asup sorga. """" (HR Tirmidzi) ",positive
+indolem-test-513,"Panto Jamban teu tiasa ditutup. Jamban bau solokan punten diberes Kapur Barus, Pacaangan",negative
+indolem-train-1322,"kuciwa tempatna kotor, teu aya cai panas, pancuran teu jalan, ranjang sareng sprei kotor, tv sareng AC bocor sareng teu aya remote, kulkas paeh teu fungsi, teu di bere sarapan, sagalana teu sakumaha nu ditawarkeun....teu puasss",negative
+indolem-test-683,"AC teu tiis, teu bisa ganti kamar oge jeung parkiran heurin ukur mahi 5 motor. Cekap sakali kadieu weh",negative
+indolem-test-14,Syahrini Make Batik ka Kantor Tribun Timur Makassar http://bit.ly/1LFbeRf,positive
+indolem-train-2807,"09.14: RT @SimonBoykSinaga: Demonstrasi Nelayan di Kantor KKP, jalan di hareup ditutup, muteur di hareup kedutaan AS",negative
+indolem-train-3056,"Poe panungtungan mondok rada nguciwakeun , cai kotor rada hideung dina poe minggu",negative
+indolem-train-2332,16.27: RT @araputrasikumb1: Daan mogot Watesan jkt - tangerang salawasna macet sabab padagang nu make ruas jalan,negative
+indolem-train-976,"palayanan sae pisan, kabeh pagawe someah pisan, pamandangan alus, kamar sreg, aya camilan jeung cai inum di kamar, lamun peryogi cai panas di teko tiasa nyungkeun ka pagawe we. pangaos mirah, menu sasarap lumayan loba. pas dongkap telat 15 menit, jeung pas abus kamar, teheul baseuh sabab karek dikeupel jeung masih bau panyengit nu nyengat pisan.",positive
+indolem-test-31,Berikut kami infokan lima cara sederhana mengisi baterai ponsel tanpa charger yang bisa Anda lakukan tanpa susah... http://fb.me/1S7JJQ1Yo,positive
+indolem-train-1288,"Kangge kamar saleresna alus, ngan kaberesihana kirang. Siga sepre simbut warna kusem jeung kotor (sepre teu digentos)",negative
+indolem-train-3338,"kusabab meunangkeun kamar anu kotor, teu bersih...teu sesuai jeung anu difoto..keran cai bocor..keur sarapan di poe kadua pelayanna judes jeung teu someah sakalipun urang menta tolong jang pesen cai panas jang termos susu, malah ditolak pesen eta",negative
+indolem-train-2384,"Anduk na bau, dahareuna telat jeung teu siga standar Airy kawas biasana. karyawan teu someah pisan",negative
+indolem-train-718,#Golkar #ARB Kadatangan wisatawan asing ka Bali ningkat http://bit.ly/18abNEB,positive
+indolem-test-968,"wifi kurang tarik, teu meunang dahareun jeung jamban eweuh pamanas cai. lainna oke",negative
+indolem-train-2279,"Teu tiasa nonton tv sabab euweuh sinyal, sepre sigana acan digentos masih aya serpihan keubul, tapi kaseluruhan cekap nyugemakeunlaum kapeutingan di daerah setiabudi",negative
+indolem-test-332,"@hilfhunting: """"@JilbabX: geulis RT @ani_chank """" kumaha teu coli di kantor lamun nu diuk di sabelah kawas kie",negative
+indolem-train-2824,"Kantong Hermes Rp1,5 Miliar Dianggo Balanja Sayur ku Syahrini http://dlvr.it/8fsgV0  #mukaNgiluan",negative
+indolem-train-2562,#viva VIDIO: Raray Ayu Bereum Disindir ngenaan Shaheer: Ayu kaget ku sindiran Raffi Ahmad. http://bit.ly/187RFmE,negative
+indolem-train-132,aduuuhh afgan nyanyiii na :D *konserafgan ? Sadis ku Afgan ? https://path.com/p/30aI5c,positive
+indolem-test-353,"remot tv euweuh batrean, cai panas ruksak, kamar kotor, euweuh kekesed, acak-acakan. geus ditindak lanjut ka Deva airy euweuh respon ulang",negative
+indolem-train-1436,AC henteu tiis pisan nepi urang ahirna mutuskeun magkat. kasurna loba pisan pasir jeung ngareres dipake sare. caina bau siga cai payau,negative
+indolem-train-2621,"#WartaTeranyar: Aneh, Kunaon Menkumham Standar Ganda Pangesahan Pangurus PPP jeung Golkar? http://tinyurl.com/lagcrks ",negative
+indolem-train-2935,"Cai panasna euweuh, kamarna kotor jeung bau amis",negative
+indolem-validation-134,"Kamarna teu sesuai jeung nu di tampilkeun, ACna teu tiis.",negative
+indolem-test-958,Kadua kalina lalajo film ieu jeung kadua kalina simkuring ceurik.. My idiot brother  ???? ? Untukmu Aku Bertahan ti Afgan ? https://path.com/p/429oIB,negative
+indolem-train-1471,"2 kali ganti kamar, kamar kahiji jamban teu bisa dipake sabab kloset bocor, kamar kadua AC teu tiis tuluy pindah ka kamar katilu mimitina toilet teu kaluar cai jeung kudu nungguan 2 jam pikeun cai kaluar.",negative
+indolem-test-264,Hei hello sadayanaaa ? Nuhun kangge poe ayeuna bagja deh :3 Isuk simkuring carita di g+ nya hehe Tadi simkuring ngangge pakean ieu ^^,positive
+indolem-test-551,"Ngarana oge politik """"@kompascom: """"Lamun PDIP Adem Ayem, Hartina Aya Deal di Balik Panunjukan Badrodin jadi Kapolri"""" http://kom.ps/AFqKLU",negative
+indolem-train-3500,"#BreakingNews: Aneh, Naha Menkumham Boga Standar Ganda Pikeun Pengesahan Pangurus PPP jeung Golkar? http://tinyurl.com/lagcrks",negative
+indolem-train-3596,"#WartaMusik Saenggeus Make Berlian 5 M, Ayeuna Syahrini Dandan Teu Nyambung http://bit.ly/1AYQDpv ",negative
+indolem-train-1445,"simbutna bau, AC na oge sok disada, jeung saluran kamar mandina meureun mangpet sabab bau hangseur",negative
+indolem-train-1834,AC ruksak panas....Toilet ruksak....,negative
+indolem-test-990,"Anduk teu aya di kamar, kudu dipenta heula. Wifi teu nepi ka jero kamar, meureun kusabab kamarna di tungtung. Siaran TV teu alus jeung renyek, leuwih alus make tv kabel  ",negative
+indolem-train-21,RT @DeyanaIdhamR: Diajat di alam teh tiasa ngabeungharan pangaweruh nu teu arurang meunangkeun di bangku sakola.. ,positive
+indolem-test-454,bad cover na bau,negative
+indolem-train-2771,"kamar nu arurang meunangkeun teu sesuai jeung nu tertera di Airy. Di Airy ditulisan Deluxe, pas geus nepi hotel, arurang meunangkeun kamar Superior. Jang kaberesihan kamar, lumayan lah, tapi lamun kamar mandi, hampura ngomong tapi paling butut nu pernah ku urang datangan. Desain nu kurang pas, ngajadikeun lomari di handap wastafel pinuh ku bulukan, kamar mandi jadi bau hapeuk.",negative
+indolem-test-117,"Kamar ngeunaheun, make ac, tv hurung sanajan saluran teu lengkap, kamar ibak bersih, palayanan hade, cakeut sareng tempat emam, hanjakal sok tiba-tiba pareum listrikna, kaseluruhan mah sae. Hatur nuhun",positive
+indolem-train-1822,"lumayan sreg, tapi kaberesihan jamban kudu ditingkatkeun deui meh euweuh koneg2 di juruna leuwih alus",negative
+indolem-test-858,"Cukup lega kamarnaa,, ngan kamar mandi meureunan nu kurang bersihh teh. hatur nuhun Airy",negative
+indolem-train-1422,Wifi na butuuuuuuuut,negative
+indolem-train-2330,"kamar mandi : alus tapi cai panasna teu jalan kamar sare : kasurna teu ngeunaheun pisan per na geus rusak, suku kasurna oge geus laleupas lantaina rada rarodek wifina teu nyambung",negative
+indolem-train-3063,"Kantong Hermes Rp1,5 Miliar Dipake Balanja Sayur ku Syahrini http://dlvr.it/8fspMM ",negative
+indolem-train-3079,lumayan......tapi jeung kabersihan kamar ibak masih kirang.sapertos teu dirawat.,negative
+indolem-train-1115,Nonton konser Afgan sabari ngerjakeun ordera anu makin numpuk soalna kamari teu mood ngagambar..tadina sih? ? https://path.com/p/4di3hR,negative
+indolem-test-963,ac na mineung paeh sorangan,negative
+indolem-test-656,kamar gede.. cihaneut aya parabotanna tapi teu tiasa dianggo.. sendal kudu menta henteu disediakeun di jero kamar ..,negative
+indolem-train-3115,"Wifi teu tiasa nyambung, Hese pisan nimukeun AIRY GONDOKUSUMAN URIP SUMOHARJO 64,..Sapertos nelepon ka pusat bantuan kakara aya inpormasi nu nangananTickle Hotel",negative
+indolem-train-585,AC teu tiis jeung panto kamar mandi bocor tapi sakabehna mah alus. dahareunna. deukeut ti tempat dahar di luar hotel jeung supermarket,positive
+indolem-train-2674,"kamar kirang rapih, kamar ibak kotor",negative
+indolem-train-373,Kudu sumanget siga manuk-manuk nu sumanget neangan dahar saacan isuk-isuk.,positive
+indolem-train-684,"13-Misalna ngajaga kaberesihan & kasehatan diri urang, ngajaga meh ulah nepi urang ninggalkeun sampah atawa kotoran ka mana wae urang indit.",positive
+indolem-test-558,InFO JABAR | Budak Ti Parigi Titeuleum di Pantai Batu Hiu Pangandaran: Ilustr... http://bit.ly/1AYTlv6  http://goo.gl/GGnmCd,negative
+indolem-train-1143,"Aya waktuna urang bakal indit lamun maneh ngusir urang ti luar panto hate maneh. Tapi ayeuna, urang bener-bener can mampu kitu.",negative
+indolem-train-3081,"cai bau karat, kamar loba reungit, siaran tv lain siaran tv kabel, wifi teu asup ka kamar, park",negative
+indolem-train-1382,lebar kamar mandi bau,negative
+indolem-train-196,Bupati Jeneponto Ngarojong Program Ekonomi Dompet Dhuafa http://bit.ly/1wis6Kj,positive
+indolem-test-429,Dahsyat 16 Februari 2015 Full Part 1 - Raffi Ahmad dkk. ngabongkar kabohongan...: http://youtu.be/NA7P49eGcVI  lewat @YouTube,negative
+indolem-train-1340,"sadayana sae tapi jajanana teu aya, ceunah can dikiriman ti pihak airy na, remot tv teu jalan.",negative
+indolem-train-1387,"Disangka Mayit, Kulawarga Narajang Mobil Pangangkut Barang nu Korban http://dlvr.it/8fyR9L",negative
+indolem-train-1147,"Ngangkat Ahok. Gerindra & PG simkuring ngartos boga sajarah ditinggalkeun. Partai2 Islam.. ngartos ogelah. Tapi PDIP, Hanura, Nasdem? #gagalngartos simkuring",negative
+indolem-train-1034,"Nurutkeun tradisi Skandinavia, lamun lalaki jeung awewe ngadahar roti ti 1 roti nu sarua, lajeng maranehna kabeungkeut pikeun jatuh cinta. ",positive
+indolem-train-3312,Mahasiswa Maot Kasered Mobil Sajauh 30 KM http://republika.co.id/nkhh3m,negative
+indolem-train-3489,eweuh cai panas na,negative
+indolem-train-1700,"AC teu jalan alus, simkuring komo ningkatkeun kamar suite, ruangan angger teu tiis. Nyieun simkuring teu tiasa istirahat",negative
+indolem-test-1006,kurang pelayanna jadi lami nungguanna. tapi kamar hade,negative
+indolem-train-851,Tong pernah nyerah salami anjeun masih gaduh kawani pikeun bangkit sabab pas anjeun mutuskeun pikeun eureun pas eta oge kasuksesan anjeun bakal indit.,positive
+indolem-train-1233,Di saat malem minggu jiga kieu jeung hp urang sepi. Sakalina hurung oge sms ti operator. Didinya kadang urang ngarasa sedih ???,negative
+indolem-train-766,"?Saha wae nu indit ka mesjid jang sholat berjamaah, maka hiji lengkah bakal ngahapus hiji kasalahan ?",positive
+indolem-train-2306,"Sepre jeung bed coverna bau, kamarna loba reungit",negative
+indolem-validation-55,"Upami anjeun Cinta ka #Taurus, pertahankeun, sabab sakali manehna idnit, manehna moal balikdeui",positive
+indolem-train-744,"sasarapna ngeunah, pagawe jeung palayanana someah pisan, ngan Ac nu kirang tiis",positive
+indolem-train-827,"Teu ngan saukur ngageulisan ruangan, pepelakan di ruangan kantor gaduh mangpaat ngurangan karasa cape, nyeuri tikoro, batuk nepi kulit garing. ",positive
+indolem-train-1668,"kamar kacida lega, ngan hanjakalna bisa jang dua jelema leuwih katingali mubazir. + kamar bersih, kasur bersih, wc bersih, fasilitas ok lah. harga murah pisan, pake kupon diskon. -wifi teu bisa nyambung, sarapan kurang sesuai (sambel lontong kacida lada). lajengkeun' airy!",negative
+indolem-train-2634,Urang pesen 3 kamar 1 kamar na parah pisan beueus simbut kotor deuih.,negative
+indolem-train-983,Andai anjeun terang sabaraha abdi bogoh ka anjeun . Sok nyieun anjeun jadi eusi dina solat abdi ? Jodoh Pasti Bertemu by Afgan ? https://path.com/p/2NunPv,positive
+indolem-train-580,"Wilujeng Cutkak meunang kupon tuang HARATIS ti @one4chocolatte #5thiloveaceh ^_^ """"@arinaanira: Lava cake",positive
+indolem-test-316,"Lain awewe laler?""""@detikhot: Jadwal Padet Nepi Teu Sempet Istirahat, Syahrini: SImkuring Ja.. http://tinyurl.com/mt6kng2  ",negative
+indolem-train-1836,"hargana sih murah,  tempatna sepi,  teduh, aya kolam renang sareng ac. ngan bedcover jeung sepre asa kawas can dikumbah,  aliran kamar ibakna teu lancar sabab sistem aliran leuwih luhur, lantai na oge kebul jeung botol nginum anu dipake ku semah samemehna kuduna dipiceun. mugia tiasa langkung ditingkatkeun deui nya..",negative
+indolem-train-3498,"westafelna mampet jeung kabersihan kamar jeung kolam kuduna bisa leuwih bersih,",negative
+indolem-train-3151,"Charles Honoris: Ngabantah Pilkada Langsung, KMP ngahianat rahayat http://bit.ly/1y125zo #Pilkada Shell nyebutkeun henteu? http://dlvr.it/8fswSm",negative
+indolem-train-2896,[Warta] Politikus Golkar : PDIP Keuheul Budi Gunawan Teu Jadi Dilantik  http://bit.ly/1AZcbCw,negative
+indolem-train-2147,"Suasana hotel asri jeung enakeun, ngan perlengkapan kamar cai jeung jajanan acan sadia nalika asup",negative
+indolem-test-737,"AC di lantai handap teu hurung kapaksa pindah ka lantai 4, hurung sih tapi teu sakitu tiis",negative
+indolem-test-933,"Palayananna teu nyugemakeun pisannnn ti hotel eta. Teu nyarankeun Airy. Jeung lambat dina ngaulaan, tampa seuri & salam",negative
+indolem-test-199,Partai Demokrat jeung parpol dina Koalisi Merah Putih (KMP) bakal ngamangpaatkeun? http://goo.gl/fb/qIPiYt @voicenews,positive
+indolem-validation-337,"Ac kudu ditingkatkeun jeung cai panas oge perlu ditambahkeun, sesana mah tos hade",negative
+indolem-train-2374,Dahareun teu nyugemakeun sareng wifi hese nyambung,negative
+indolem-train-429,Sapertos ibun terang enjing. Sapertos ombak ngartos samudra.? ? Kamulah Takdirku ku Raffi Ahmad & Nagita Slavina ? https://path.com/p/1N04cZ,positive
+indolem-test-835,Peryogi sesengitan ruangan jeung ngabenerkeun AC,negative
+indolem-test-167,Mahkamah Partai Kudu Adil dina Mereskeun Masalah Golkar - Okezone http://dlvr.it/8fx1vz,positive
+indolem-train-2841,"PDIP Ambek BG Batal Dilantik, Manuver Naon anu Bakal Dilancarkeun? http://dlvr.it/8g4cjx ",negative
+indolem-test-564,@JANJISUCI_TTV: tahhh eta @RaffiAhmadLagi keur naon nyaaa ka pangkalan ojek make kostum kalinci?? #JANJISUCITTV,negative
+indolem-train-3481,Ac kirang tiis jeung loba reungit :(,negative
+indolem-train-3494,"cai Asin, ac teu tiis, sora gandeng",negative
+indolem-train-1851,"pelayanan kurang gancang,,",negative
+indolem-test-233,"Awewe"""" Hudang isuk - mata encan melek - fokus neang hp - ningali sosial media, sms, bbm, jsb. -berharap aya omongan manis ti jelema anu dipikanyaah.",positive
+indolem-train-1358,"Mirah, lumayan laah tapi loba cucunguk leutik kamarna, jeung salimbutna kurang beresih loba kokotor",negative
+indolem-train-573,RT @EkoTamba: Poe ayeuna mangkat jeung balik kantor nebeng mas @DAlexandro. Makasih masdon. Pendak deui enjingg. #CaritaNebeng,positive
+indolem-test-58,"Tuhan, sabot anjeun nempatkeun hate sim kuring, sim kuring menta ulah tempatkeun kanu hate nu lepat. Sim kuring tos cape sareng maranehna nu saukur dongkap laju mios deui.",positive
+indolem-validation-313,palayanan kirang someah kangge simkuring meren sabab program airy,negative
+indolem-train-2533,"Pelayananna alus, nubogana someah jeung bageur pisan, ngan jang kabersihan kamarna kurang alus. sprei jeung sarung bantalna katinggal kurang beresih jadi sare kurang geunaheun.",negative
+indolem-train-458,"kamar beresih,cai panas lancar ngan siaran tv lokal weh. saleuwihna nya oke lah... ",positive
+indolem-train-3074,"Sireum loba pisan, gandeng, kamar teu sesuai jeung gambar, ngan disadiakeun sabun batangan, kasur kotor, bata jiga aya imah sireumna jeung salimut leutik jeung ipis.",negative
+indolem-validation-155,ac bocor anduk sepre lusuh ,negative
+indolem-test-325,"Kuciwa pisan, kamarna kalotor komo deui di luhur lomari pabalatak sampah, pancuran cai teu aya jadi ibak make timbaan eta oge arurang laporan ngajawabna lila kudu nelepon airy jeung nu boga. kuciwa pisan ka airy room standarna henteu sasuai jeung nu dipikahayang. 1. eweuh pancuran cai 2. ac henteu tiis 3. eweuh cai panas 4. salimbut henteu sasuai standar. NGACEWAKEUN",negative
+indolem-train-876,"Wilujeng peutiiing, beuki nyaah ka pasangan tercintaaah ieu @RaffiAhmadLagi @Lady6igi :* muaaaaaach",positive
+indolem-test-799,"Baheula oge manusa teu meunang ngadahar mahluk hirup siga embe sapi & kuda,, hukumanana sarua jeung make narkoba ayeuna.",negative
+indolem-train-3409,"Dahar dihuapan, sare didodoi, ceurik dipujuk. Lamun ngeeus gede urang wani ngaluhurkeun soara ka emak bapak? Anak naon urang teh?",negative
+indolem-train-3047,"pesen 2 kamar, salah sahiji kamar na teu sasuai jeung nu dipesen, kuduna aya AC tapi teu aya, ngan dipasihan kasur, teu aya standar airyroom. kamar ibak bau, toilet bocor, sepre na kirang beresih. lokasi hade, teu jauh ti pusat kota.",negative
+indolem-test-890,Aman sareng nyaman + ac kurang tiis,negative
+indolem-validation-349,"Hayu dipoto siga syahrini... Tapi jadina kalah: Maju mundur maju mundur gendut, gendut..? http://instagram.com/p/zXOlAwTCAM/ ",negative
+indolem-train-1534,"Parkiranna sempit , wifi lelet, jaringan teu aya sinyal, sasarap ngan aya 2 pilihan mie goreng jeung nasi goreng eta ge geus dibungkusan kanu wadah leutik, tiis jeung anyep rasana =(",negative
+indolem-train-1365,"ac teu tiis, sumpek, jamban mangpet.",negative
+indolem-train-2539,"Teheulna lesang pisan, komo di kamar ibak. Andukna geus lila, kudu diganti",negative
+indolem-test-851,AC kamar nu simkuring pake kirang tiis,negative
+indolem-validation-27,"Urang keur ngaleutikan baju HS yeuh.. kagedean pisan, jadi urang ngaleutikeun sorangan wae make jaitan leungeun.. meh hemat saeutik wkwk",positive
+indolem-train-2965,"Saeunggeus pake berlian 5M, ayeuna Syahrini dandan teu nyambung: Syahrini anu biasana tampil mewah disertai p... http://bit.ly/18c9ocw ",negative
+indolem-train-1673,"alus wih, lokasi oke pisan deukeut kamana-mana, tapi teu gandeng teuing. kamar lega tapi AC teu tiis.",negative
+indolem-train-3403,Hapunten babaturan Afganisme. jadwal Afhan poe ieu di Ini Talkshow dirobah jadwalna sabab hiji jeung laen hal. Tungguan jadwal salajengna :),negative
+indolem-test-45,"Mimitina, kancing pakean diposisikeun pada tungtung panangan, meh panangan pakean teu kangge ngaeulap raray. ",positive
+indolem-validation-221,nguciwakeun pisan. keluhan teu di waro ac ti mimiti  abus nepi ka kaluar paeh 2 jam sakali. kangge sarapan sanguna kurang raos,negative
+indolem-validation-13,Babaturan teh anjeunna nu salawana maturan arurang pas sesah atawa bagja. Lain nu datang ngan pas arurang bagja tuluy mangkat pas arurang terpuruk.,positive
+indolem-train-29,"parapatan-parapatan dijaga petugas. papanggih patroli bermotor. papanggih mobil patroli, hatur nuhun respon pihak kaamanan. mugia saenggalna #MakassarMerenah",positive
+indolem-validation-130,"sumanget hayang begang tiba-tiba dahar teu inget kana dunya. cing sabar, urang ngan mampu ngarancang hm :')",negative
+indolem-train-531,Keren penampilan na tadi peuting di @latenights_ttv kabeh na @mrsayudewi @RaffiAhmadLagi @WunguRahayu @Haryotalijiwo @mbah_mijan @KiRaksaManggala,positive
+indolem-train-789,"Tolak HAMAS, Lengkah Pamarentah Dipuji PDIP http://bit.ly/1KwhWtq  Ruki neegaskeun KPK tetep usut kasus BG http://bit.ly/1AXaNjF ",positive
+indolem-train-136,Lamun cek afgan jodoh pasti bertemu... lamun teu ayeuna nya tangtu di palaminan.? ? Jodoh Pasti Bertemu ti Afgan ? https://path.com/p/1jUlC8,positive
+indolem-test-787,"Saorang aktifis ngora Muhammad Arsyad, kudu ngadekem di penjara kusabab masang status BBM di HP pribadi anu ujungna ngandung perkara. #MN",negative
+indolem-train-3098,Komunis? Ateis? Nu jelas aya begundal-begundal PDIP di DPR nu TEU BOGA AGAMA,negative
+indolem-train-590,"Hatur nuhun kadatanganna pak ARB jeung pangurus Golkar lainna, hampura rombonganna nepi aya nu henteu? http://instagram .com/p/zVAuLrKCQL/",positive
+indolem-train-3632,"tinggalkeun urang sorangan"""" = ulah mangkat, baturan urang, tapi ulah ngomong nanaon #KamusAwewe",negative
+indolem-train-1132,"#BreakingNews: Aneh, Kunaon Menhunkam Standar Ganda Pengesahan Pengurus PPP jeung Golkar? http://tinyurl.com/lagcrks ",negative
+indolem-train-1316,"Nuju siap-siap mulih tos di ketrokan ku akangna nu narosna kurang someah. Jeung Anduk ngan di pasih hiji,panto kamar cai teu bisa di tutup",negative
+indolem-train-812,Lamun urang emang diciptakeun jang maneh urang bakal miboga maneh.. Jodo mah pasti panggih.. ???? ? Jodoh Pasti Bertemu ku Afgan ? https://path.com/p/21ZAwK,positive
+indolem-test-229,"Lain hartina ulah pisan ninggali HP/email/sosmed pasangan. Lamun anjeun menta ijin jeung dibaekeun, nya sok mangga",positive
+indolem-train-63,"Cing, konon senah kantor Lego siga kieu.. lucu nya (jeung Felix) [pic] ? https://path.com/p/DVBQ9 ",positive
+indolem-train-538,Kaunikan Sakola di Korea http://bit.ly/1Ew4V0m  #UtasPanas,positive
+indolem-validation-194,"ngan ngendong 1 (hiji) peuting hungkul, kudu dipariksa ganda kaberesihan kamar ibak jeung jamban, ngadadak",negative
+indolem-train-1617,kamar kirang beresih ,negative
+indolem-test-108,"Wilujeung enjing kulawargi prillvers kuring!! Sumangetnya kangge nu nuju sakola,kuliah sareng didambel,tong hilap sarapan nyaaa pv!!! #salamprillvers?",positive
+indolem-train-3586,Pelayananna kurang someah.,negative
+indolem-train-519,"[Korpora] Perkuat Solusi Keamanan, HP Akuisisi Voltage http://owl.li/JvmSh ",positive
+indolem-train-1567,"Parabot ibak, lomari, TV ruksak ... teu tiasa dianggo",negative
+indolem-train-3385,lomari kamar na punten supaya henteu loba lebuan jeung loba urut-urut bangunan,negative
+indolem-train-1720,"lokasi strategis pisan, tempat pakrir leuga, cai panas guna jeung alus, kirang beresih, simbut rada bau, jeung tv kabel teu guna.",negative
+indolem-train-3080,"kamar mandi kurabg beresih , ac teu tiis",negative
+indolem-train-320,#Panganyarna Charles Honoris Siap Berjuang Pikeun Kabebasan Beragama http://bit.ly/1KwfyTv #wartaStatus ti U.S. Basisir kulon? http://dlvr.it/8fRk4f,positive
+indolem-train-73,Hiji lalaki indit ka kamar mandi umum ngan ukur hiji alesan. Tapina awewe ngagunakeun kamar mandi salaku rohangan terapi & pertemuan sosial.,positive
+indolem-validation-201,"PDIP Dinilai Aneh lamun Narima Badrodin Kapolri: INILAHCOM, Jakarta - Anggota Komisi III DPR Fraksi Golkar, Bam... http://bit.ly/1Lp73ZP",negative
+indolem-train-3530,lumayan sae jeung karasa aman ngan AC kirang tiis weh..... salam....,negative
+indolem-train-3382,"Kalimatna geus max, LOL""""@republikaonline: Poros Muda Golkar: Pemerintah Australia Biadab http://republika.co.id/r/nk2iak """"cc @andy_nurvita.",negative
+indolem-train-2703,"Kahiji: Naha anjeun datang nalika kuring lemah? Kadua: Naha nyieun kuring ngarasa nyaman? Katilu: Naha nyieun kuring bogoh? Kaopat: Naha, anjeun angkat?",negative
+indolem-train-3212,"Koper pinuh ku dahareun kabeh -,- baju oge ncan -,-",negative
+indolem-validation-93,"Babaturan lain hartina teu bisa dipisahkeun. Babaturan bakal datang jeung indit. Tapi sanajan geus papisah, euweuh nu robah.#NH",positive
+indolem-train-2347,"kamar ibakna kurang beresih, teu aya seseungitan oge. punten di tingkatkeun deui..",negative
+indolem-train-2720,"#Cancer eta egois & penyabar. Lamun geus nyaah ka jelema, bakal tetep satia terus jeung jelema eta. Tapi lamun teu jelas, manehna bakal mangkat.",negative
+indolem-train-765,Wilujeung tepang taun a imam alias raffi ahmad kw super wkwk sukses dunya aherat gancang meunang gawe wkwkwk? (w/ Imam) ? http://path.com/p/2kVbsH,positive
+indolem-train-2210,acna kirang tiis,negative
+indolem-test-382,"Sosok Firman, Korban Kasered Mobil 30 Km, di Panon Bapana http://bit.ly/1BNfkFO",negative
+indolem-test-315,Merenah pelayanan gancang asa di imah.. Hanjakal ngenaan privasi kurang sabab panjaga imahna mineung asup kamar tanpa dipenta nalika semah teu aya.,negative
+indolem-train-862,#WartaEkonomi Mobil-Mobil Retro Nyebarkeun Pesona di Serpong http://dlvr.it/8fyphC #Persaratus,positive
+indolem-train-1378,pas asup saisi kamar bau hangseur nepi ka urang kudu meuli pewangi ruangan,negative
+indolem-train-2054,"Kamar caina rada kotor, tuangeunna oge rada nguciwakeun, Sarapanna nembe ge tabuh 8 tapi to sareep",negative
+indolem-validation-390,"Mobil Bisa Diganti, Imah Bisa Pindah Alamat, Umur Bisa Nambahan, Kabogoh Bisa Kagantikeun, Tapi? [pic] http://path.com/p/A3fbl",negative
+indolem-train-3355,"AC panas, pelayanan tamu kurang someah",negative
+indolem-train-1276,"interior nyugemakeun, sarung bantal rada hapeuk, kasaluruhan alus",negative
+indolem-train-1394,Didaskaleinophobia nyaeta fobia atawa rasa sieun kangge angkat ka sakola.,negative
+indolem-train-2110,"Seenggeus make berlian 5 M, ayeuna Syahrini dandan teu nyambung http://ln.is/dlvr.it/1qPQO ",negative
+indolem-test-239,"Apal teu anjeun, nuang eksrim bisa ningkatkeun kakebalan tubuh kana virus influenza.",positive
+indolem-train-1904,"AC lamun bisa di genti, kamari kurang tiis teu saperti biasana...",negative
+indolem-test-849,Cekap beresih sanajan teu menang sarapan. Wifi & TV kudu di benerkeun sabab teu jalan,negative
+indolem-train-607,Aminnn 100x RT @RealMesha_17: ya Allah kabulkeun & Aamiini sagala Doa Harepan @Lady6igi ka salakina @RaffiAhmadLagi #janjisuciRANS,positive
+indolem-train-15,"Sanggeus Program Sapoe Sajuz, Kabupatén Bangka Bakal Ngaluncurkeun Program Basa Arab di Sakola http://fb.me/2QTiOkX1w",positive
+indolem-train-2830,Sakapeung nyobian ikhlas eta teu gampang. Komo deui nyobian ikhlas mantan nu arurang nyaah mangkat jeung bagja jeung awewe sejen :'),negative
+indolem-train-1438,Kamar kotor,negative
+indolem-train-3560,"Miris pisan, pas babaturan atau duluran ngan dihariwangkeun ku PIN BB atawa NO HP, sahandap eta kah?",negative
+indolem-test-889,"@Rauff_Abd @KPK_RI @WijatB teu aya nu bener jigana,,maranehna nu di Polri - KPK nu aub politik ka PDIP & Demokrat..",negative
+indolem-train-737,"Nolak HAMAS, Lengkah Pamarentah Dipuji PDIP http://bit.ly/1KwhWtq  Poe Basa Indung momentum ngembangkeun budaya lokal http://bit.ly/18ceVjx ",positive
+indolem-validation-315,"Tina segi kamar cukup bersih nyaman, tapi jang AC na gandeng jeung anu utama jang kamar mandi caina jadi banjir lamun saeunggeus mandi pembuanganna teu sampurna hampir asup ka ruang kamar jeung leueur jadi teu nyaman pisan, jang makanan teu enak, teu bervariasi",negative
+indolem-train-3373,ieu baju woy. oppai na di jero wk,negative
+indolem-validation-123,"Kamarna lucu, tapi pelayananna kurang memuaskan.. Masih 1 jam ti jam jam 12 jang kaluar ti hotel, tapi geus digogorowokan ti luar kamar.. Kaluar hotel, kaluar hotel walaupun mungkin lain jang urang, tapi urang jadi teu nyaman jeung perlakukan nu kos kitu..",negative
+indolem-train-872,10. Fitur Camera: Fitur Ieu jang versi Pro. Jadi HP anu leungit bisa ngambil foto terus di-upload ka website di mana?s MyDroid #AntiHilang,positive
+indolem-train-2271,"kamar mau ti solokan kamar mandi,loba reungitna,isuk-isuk cai jang mandi leutik pisan jadi kudu nungguan rada beurang jang mandi.",negative
+indolem-train-352,"miharep nalika gugah , peen-pesen enggal di HP eta teh ti anjeun :3",positive
+indolem-train-92,"Duaan jeung anjeun nyaeta salah sahiji momen sae dina hirup. Di mana arurang tiasa leumpang duaan, dahar, carita ngeunaan karesep anjeun & karesep simkuring.",positive
+indolem-train-1921,"bageur jang masukkan ka hareupna, kamari spreina rada demek jiganu encan garing, jeung kondisi musim hujan, ngabejaan ameh diperhatikeun hal nu kos kitu hatur nuhun",negative
+indolem-test-611,"Mana aya hubungan nu teu boga masalah. Teu rieut sirah, mangkat pasangan jeung Panadol. ",negative
+indolem-train-3252,"Jokowi 'Pisah Ranjang' Jeung PDIP, Demokrat Ngalamar. Partai Demokrat jeung parpol di Koalisi Merah Put... http://bit.ly/18a34SN  #Ngabaran",negative
+indolem-train-3620,"pangaos bersahabat. ngan siga biasana, kamar Airy teh tangtu dibere ruangan nu kirang strategis. arurang dibere ruangan ruang handap taneuh. kabeneran wifi hotel eror. sabab ruangan di ruang handap taneuh, Hp ngan nangkep sinyal 3G, lelet lah caritana. intina kamar Airy salawasna diterekeun.",negative
+indolem-train-2781,Sadishhhh teu sih ntan??????????? ? Sadis ti Afgan (jeung Intan) ? https://path.com/p/10XGhB,negative
+indolem-train-1458,kamarna kurang beresih,negative
+indolem-train-2318,"Alus, sreg, ngan we di jambanna bocor",negative
+indolem-train-2966,ac na pareum terus jadi ngaganggu kanu waktos istirahatna,negative
+indolem-validation-340,"kamar ibak kirang beresih, teu aya fasilitas sabun sareng shampoo ti Airy na.",negative
+indolem-train-492,Di kantor Google aya ruang musik jeung karaoke nu disadiakeun secara gratis kangge pagawena.,positive
+indolem-train-2658,"saluran tv kosong, jeung anteneuna kirang alus jadi gambar goreng pisan. nyarankeun pikeun masang tv kabel weh..informasi deposit kirang jelas lamun pikeun nyokot kudu dibareungan ku bon, mimitina ngomong ngan nyerahkeun konci hungkul engke deposit dibalikeun",negative
+indolem-train-2757,ac na paeh teu tiis,negative
+indolem-train-1695,sae sih ngan ACna panas...,negative
+indolem-validation-118,"urang kecewa pisan jeung fasilitas di airy eco Sawah Besar Kartini Jakarta. kabeh fasilitas anu disadiakeun tapi teu bisa dipake kabeh conton telepon anu di jero kamar teu bisa dipake, AC remotna euweuh jadi teu bisa diatur suhu pas katiisan, remot TV oge pas karek asup kamar teu disadiakeun.",negative
+indolem-train-3295,"Kaungkab, PDIP Ngambek Pisan Pas Jokowi Pilih Komjen Badrodin Haiti | Islam Toleran Com http://www.islamtoleran.com/terungkap-pdip-marah-besar-saat-jokowi-pilih-komjen-badrodin-haiti/ ?",negative
+indolem-train-348,hade.. aya camilan di tiap kamar. ngan hanjakal pas meunang kamar 305 ac na teu tiis-tiis acan. salangkungna sae. langganan didieu.,positive
+indolem-train-2009,"Perkawinan budak dampakna kompleks loh babaturan. nyaeta kasehatan reproduksi nu acan siap, kauangan kulawargi, & pegat sakola. #NundaNepiSiap",negative
+indolem-train-2563,"Kurang alus, AC teu hurung, pancuranna kurang alus, kurang beresih",negative
+indolem-test-971,TV na masih rumeukk.. Airy iraha di omean,negative
+indolem-validation-202,Kamar standar nu hade. caket jeung bandara. WIFI teu bisa,negative
+indolem-train-1315,"ac teu tiis, caina leutik. kuduna saacan aya nu mesen dipariksaan heula",negative
+indolem-train-1522,Sarapan teu jelas jamna jeung pas arek dahar euweuh dahareunna jeung euweuh tamu anu dahar jang informasi tempat dahar euweuh ngan aya meja makan hungkul jeung informasina di bagian man. kapaksa dahar di luar,negative
+indolem-train-3495,nu dipikahormat urut? mangkat ngaburukan anjeun ka ditu?,negative
+indolem-train-423,"Tribun: Nyanghareupan Pilkada Rampak Babarengan, PDIP Henteu Deui Ngamangpaatkeun Efek Jokowi: PDIP geus nekenkeun ka? http://dlvr.it/8g97KP  #WartaPoeIeu",positive
+indolem-train-2813,Ceurik saceurik-ceurikna jelema nu keur sedih kusabab nonton my idiot brother.... ?  Untukmu Aku Bertahan ku Afgan ? https://path.com/p/2B9v5T,negative
+indolem-train-1211,cai panas teu berfungsi,negative
+indolem-train-3296,Kunaon maneh Hodoh deukeut U? Simkuring ngadeukeutan maneh. Simkuring mikir kakaitan waktos kahareup. Lain rek neang awewe siga maneh. Geus kawin rek mere pamajikan dahar naon?,negative
+indolem-train-761,waah... @Lady6igi meni lucu pisan ngahuapan @RaffiAhmadLagi ..,positive
+indolem-validation-43,Hayang Raray Mulus Bebas Berod? Dahar We Coklat Ngeunah Ieu http://tinyurl.com/p8f2urb  via @detikfood,positive
+indolem-train-3247,teu cekap salimutna nuhun,negative
+indolem-train-1679,#JombloaTehBagja - HP anjeun kungsi tinggaleun di kantin ?,negative
+indolem-test-296,"Yeee,abdi tos gaduh tembang Aa @RaffiAhmadLagi nu """"terbaik untukmu"""" ",positive
+indolem-train-2027,"lantai leueur jeung kotor, kamar mandi kotor, sinyal HP hese, wifi komo deui. resepsionis na jutek, colokanna hese dijangkau. nu lainna mah oke.",negative
+indolem-test-343,ngeunaheun tempatna ngan hanjakal cai panasna teu jalan. kanggo kaseluruhan mah sae lah.,negative
+indolem-train-1676,"Anu paling keukeuh kan PDIP""""@RedaksiGoRiau: DPR Nyingkab Rahasia Ngahaja Loloskeun Komjen BG Pikeun Ngajebak Jokowi http://ln.is/www.goriau.com/nasio/kLBVQ ?",negative
+indolem-train-2773,Tempat alus jeung beresih tapi kaberesihan kurang sabab loba rambut di bantal,negative
+indolem-train-408,Demokrat nganilai kaputusan presiden mere kapastian http://bit.ly/1AKAT9G,positive
+indolem-validation-256,cai panasna lila pisan karek bisa panas nu di kamar 318,negative
+indolem-train-508,"Sateuacan UN tingkatkeun pamahaman pelajaran kudu rajin diajar sareng seueurkeun latian soal. Ngadua, nyuhunkeun restu indung bapa & nu paling penting teu bobogohan ^_^",positive
+indolem-train-1615,"teu kudu maen tebak deui, ngamaleskeun ? Keur serius ningali Afgan. Punten ngarti nya:( http://ask.fm/a/bndm3a6d ",negative
+indolem-train-559,"hebatlah Sahrini mah,, RW @VIVA_log Tas Hermes Rp1,5 Miliar Dianggo Balanja Sayur ku Syahrini http://dlvr.it/8fs9jm  ",positive
+indolem-train-3460,"kamar ngenaheun, neangan dahar babari, tapi sinyal di jero kamar rada hese ",negative
+indolem-train-1133,"mimiti datang asup kamar delux tapi eweuh kulkas teu sarua jeung gambar, ahirna di angkat pan kulkas ti kamar sejen ku karyawan na, oke lah.. tapi sanggeus eta kuciwa deui sabab anduk & kekesed ibak eweuh, jadi urang bolang balik turun ka handap ti lantai 2 make tangga. & kurang beresih, aya sesa puntung roko di jero lomari...",negative
+indolem-train-1016,Arateul bisa dileungitkeun http://www.klinikwienarto.com (0291)3332855 / HP. 08122893709 / PIN 29E22f2f,positive
+indolem-train-2361,Genah & lumayan beresih. Ceuk abdi mah menu sasarapna kirang seeur sareng sambungan wifi kedah ditambah.,negative
+indolem-train-3611,"caina leutik, tempatna jorok, bau, kotor, sepre jeung sarung bantalna siga teu digentos, eweuh tempat parkiran -teu dianjurkeun-",negative
+indolem-train-2443,"Kamar kotor, pas datang di kamarna aya noda warna cokelat terus di bantalna aya noda bercak hideung, Kotor pisan jiga nu teu diseuseuh ngan dibalik, pas arek check-out dituduh ngotoran salimutna anu padahal ti basa datang geus aya, jeung deposit arek dicokot, jadi lamun maraneh datang aya noda atawa kotoran di kamar langsung komplen weh. check-in karek bisa jam 2, sarapan ngan sangu goreng make endog, Kamar mandi bau jeung saluran cai di handapna kotor pisan jiga aya buuk-buukna, moal deui ngendong di hotel eta.",negative
+indolem-test-168,"Kalakuan alus naon nu geus maneh lakonan minggu ieu? ? ngumbah baju kolot,malikeun buku Bu Hani ka kantor d... http://ask.fm/a/bn8pbojn ",positive
+indolem-train-839,"Unggal HP urang disada, urang sok ngarep eta ti maneh. :)?",positive
+indolem-train-3575,"lila ngarespon.. lain Pagawe perhotelan, pagawe mineung euweuh di tempat.. kolam renang kotor ",negative
+indolem-train-1377,"Panggalian C Dilarang, Supir Trek Nyerbu Kantor Gubernur Jateng http://dlvr.it/8hj4Y1",negative
+indolem-train-3111,"Jadwak Padet Nepi Teu Kungsi Istirahat, Syahrini: Urang Jadi Awewe Hawa http://tinyurl.com/mt6kng2 via @detikhot",negative
+indolem-train-701,RT @VIVAlife_: Dua Pamuda Nyadiakeun Jasa Nyeuseuh Haratis kanggo Para Tunawisma http://dlvr.it/8k6HJ1,positive
+indolem-test-672,"nelepon callcenter dps 223333 tapi sibuk @giri_sujana: Tangkal runtuh nimpa mobil di payun Popo Danes H.wuruk, mangga ngahubungan DKP ",negative
+indolem-train-1616,"abdi mesen kamar abus kaping 18/08/18,4 kamar, tapi nalika abdi dongkap tabuh 17.00, 2'kamar masih ayaan (teu acan siap ditempatan ), punten sayogikeun fasilitas pamanas cai kangge nginum sacara umum(kangge fasilitas standar rohanganl, punten di pariksa kangge fasilitas haratis dikamar (inuman jeung jajanan wilujeung sumping) , anduk ti unggal kamar, piraku konci kamar cai, ngoncinq ti luar ???!",negative
+indolem-train-576,"Tempatna nyaman, bersih sanajan lomarina saeutik bau tapi secara keseluruhan alus",positive
+indolem-test-985,Partai Demokrat: Jokowi Lecehkeun DPR http://ift.tt/1BoBygB  #kabarbeurang,negative
+indolem-train-1415,"Nyieun Video Klip, Syahrini Make Konsep Teu Asup Akal: Penyanyi nu hiji ieu emang eukeur ngagarap video k... http://bit.ly/1vR1Ock  #WartaINFOmedia",negative
+indolem-train-2161,Anjeun tebih Naha ngarasa sajauh ieu Padahal anjeun aya di payuneun Seuri ka abdi tapi tetep? ? Jauh ku Afgan ? https://path.com/p/2xqtFB,negative
+indolem-train-3128,"Kasurna kotor, rada gandeng sabab kamar mandi ti kamar sabeulah kadenge, bau teu ngeunah oge",negative
+indolem-train-1095,"Jalma perfeksionis gampang ngalaman ngarasa hariwang, ngaganggu dahar, jeung sindrom kacapean kronis. [Penelitian di Universitas Brook]",negative
+indolem-train-2000,"Tv na kirang berfungsi, Neangan saluran tv lokal hese . jarang aya sinyal",negative
+indolem-train-3204,"http://kplg.co/Yf9H Sanggeus Ngagunakeun Inten 5 M, Ayeuna Syahrini Dangdan Teu Nyambung",negative
+indolem-train-2127,Pangedaran Batu Akik Palsu http://bit.ly/18cdrps  #Golkar #ARB,negative
+indolem-train-3383,"sadayana sae, iwal pamasangan TV, posisina teu bener. maenya TV di payun lomari.",negative
+indolem-test-69,Hadiah nu pangalusna jang jelema nu ku maneh pikadeudeuh nyaeta diri maneh sorangan. Pastikeun maneh balik/indit salamet #CURANMOR,positive
+indolem-train-1736,@wachidridwan: ustadz rarasaan teh pakean nu dianggo pas acara kawinan budak kyai Muhyidin di mesjid Andalusia hehe. (Hehe. Iya). ,negative
+indolem-train-751,Kasepna ulah sadis sadis lah aa afgan ?? ? Sadis ku Afgan ? http://path.com/p/4cck7R,positive
+indolem-train-975,Kamar beresih ac tiis pagawena someah tapi nu kurang cai panas kurang fungsi halaman asri,positive
+indolem-train-2668,"Persiapan dadakan ? batal camping jeung babaturan kantor, dadakan diajak camping ku budak? (di Omnia Salon & SPA) ? https://path.com/p/1TEkSp ",negative
+indolem-train-439,Kamar bersih jeung ngeunaheun. ngan hanjakalna caina panas pareum jeung tulung pang bere nyahokeun arah kiblat ameh ngagampangkeun muslim anu rek solat. Anu sejenna pelayanan alus.. nuhun airy,positive
+indolem-train-721,anggeulna ngeunaheun.. kamarna tiis.. kekesed eweuh deui nya. ,positive
+indolem-train-572,Hatur nuhun nya saran ti babaturan urang ngeunaan nyumbang baju! Tuhan memberkati.,positive
+indolem-train-811,"Sosok Syahrini bisa disebut jadi salah sahiji penyanyi anu paling laris di Indonesia. Teu heran, Syahrini pu...http://bit.ly/1vQZNg8  ",positive
+indolem-train-2107,Demokrat Kuciwa Pilihan SBY jang KPK Teu Dipilih Jokowi http://kanaltiga.com/?mod=berita&page=show&id=2060 ?,negative
+indolem-test-9,"Masa sakola rendah, maneh jeung babaturan maneh ? api-api rek nyeukeutan patlot sabab urang hayang ngobrol deukeut tong sampah . Kumaha urang sono na ka sokola dasar ?",positive
+indolem-train-2203,"JOROK! SALIMUT, SPREI BAU kamar sembab",negative
+indolem-train-3550,saluran tv diomean,negative
+indolem-test-480,Kaberesihan punten di tingkatkeun,negative
+indolem-train-670,"Resep. Ditumis ku Chopped cabe rawit + bawang beureum. """"@erliann1: @PakBondan @TerasiSuper pernah dahar sambel khas Bangka rusip?",positive
+indolem-train-948,Husus saptu ieu kantor arurang ngalih ka dieu... ?? jarang2 yeuh manggihan saptu nu kieu.. http://instagram.com/p/zWwAWgQ4Ln/,positive
+indolem-train-2897,euweuh cai panas jang mandi,negative
+indolem-train-364,"Hayang Gancang Kuru nu Sehat? Ternyata Sadarhana, Ngan Dahar Ieu: Amerika Serikat jeung Jepang? http://goo.gl/fb/VxqQpg",positive
+indolem-train-227,":)""""@ratihsari140: Wilujeung anjing a @RaffiAhmadLagi semangat kanggo aktivitas dinten ayeuna ?? FamilyRaffiah17 @FamilyRANS_FC ",positive
+indolem-train-1361,"Pamingpin KPK Usulan SBY Teu Dipilih Jokowi, Demokrat Protes http://dlvr.it/8dLcFp",negative
+indolem-train-805,"? manehna mangrupakeun anugerah anu berharga ti allah. ? Hargaan manehna saacan manehna mangkat. ? Saha? ? """"Indung maneh. """"     ? ",positive
+indolem-train-1082,"simbutna ipis, sepre jeung kaen2na katinggali bulukan, cai panasna teutiasa dipake :(",negative
+indolem-test-381,"Lampu ruangan kurang caang, hese lamun keur maca.. Loba reungit di kamar, sare teu tibra Pelayan kurang peka jang ngabantuan bawa kantong jeung koper, padahal tamuna awewe kabeh",negative
+indolem-test-4,"Wah Pak Jokowi tos kenging peunteun positif di mata fraksi Demokrat. Ayo Pak Jokowi, tegas jiga Pak @SBYudhoyono. http://www.antaranews.com/berita/480952/demokrat-nilai-keputusan-presiden-beri-kepastian ?",positive
+indolem-train-2637,Politikus PDIP Nyebut Megawati Atos Dikriminalisasi http://m.jpnn.com/news.php?id=288525 ? #JPNN #Jokowi,negative
+indolem-train-3139,tv teu aya jaringan,negative
+indolem-test-109,"resep konsep hotelna, minimalis, bersih, stafna someha, keseluruhan mantapp. ngan hanjakalna sinyal wifi teu nepi ka kamar.",positive
+indolem-test-10,Kamar bersih jeung peralatan tersedia. pelayanan oge lumayan alus jeung gancang. tempat tidur bersih. sower teu alus di lantai 4 tempat urang cicing caina leutik jeung teu cocok dipake jang mandi jam 5 subuh. jeung saluran cai ngaluarkeun bau teu ngeunah pas isuk-isuk...,positive
+indolem-train-2734,kotor kaamrna. kamar mandina oge. di laci kamat loba puntung jeung abu rokok anu teu dibersihkeun,negative
