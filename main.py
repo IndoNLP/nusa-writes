@@ -110,8 +110,8 @@ if __name__ == "__main__":
         dset, strlabel2int, tokenizer, args["num_sample"], args["seed"]
     )
     print(f"len(train_dataset): {len(train_dataset)}")
-    print(f"len(train_dataset): {len(train_dataset)}")
-    print(f"len(train_dataset): {len(train_dataset)}")
+    print(f"len(valid_dataset): {len(valid_dataset)}")
+    print(f"len(test_dataset): {len(test_dataset)}")
 
     # Define Training Arguments
     training_args = TrainingArguments(
