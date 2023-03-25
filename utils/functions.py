@@ -12,8 +12,8 @@ from transformers import T5Config, T5Tokenizer, T5ForConditionalGeneration
 from transformers import MT5ForConditionalGeneration
 from transformers import GPT2Tokenizer, GPT2Config, GPT2LMHeadModel
 # from modules.tokenization_indonlg import IndoNLGTokenizer
-from indobenchmark import IndoNLGTokenizer
-from modules.tokenization_mbart52 import MBart52Tokenizer
+# from indobenchmark import IndoNLGTokenizer
+# from modules.tokenization_mbart52 import MBart52Tokenizer
 
 import json
 import numpy as np

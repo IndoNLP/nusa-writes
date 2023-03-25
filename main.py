@@ -71,7 +71,7 @@ if __name__ == "__main__":
     output_dir = create_output_directory(
         args["model_dir"],
         args["task"],
-        args["dataset"],
+        args["lang"],
         args['model_checkpoint'].replace('/','-'),
         args['seed'],
         args["num_sample"],
