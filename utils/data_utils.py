@@ -1,5 +1,6 @@
 import glob
 import datasets
+import torch
 
 from torch.utils.data import Dataset, DataLoader
 from datasets import load_dataset, concatenate_datasets, Dataset as HFDataset
