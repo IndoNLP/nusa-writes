@@ -6,8 +6,6 @@ def load_dataset(dataset, task, lang, base_path='./data'):
     for path in glob.glob(f'{base_path}/{dataset}-{task}-{lang}-*.csv'):
         split = path.split('-')[-1][:-4]
         data_files[split] = path
-    if len(data_files) == 0:
-        print('Nah loh', dataset, task, lang)
     return datasets.load_dataset('csv', data_files=data_files)
 
 if __name__ == '__main__':
