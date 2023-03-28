@@ -12,7 +12,7 @@ if __name__ == '__main__':
     DATASET_NAMES = ['nusa_kalimat', 'nusa_alinea']
     DATASET_TO_TASKS = {
         'nusa_kalimat': ['emot', 'mt', 'senti'],
-        'nusa_alinea': ['emot', 'paragraph', 'topic']
+        'nusa_alinea': ['emot', 'paragraph', 'topic', 'author']
     }
     
     DATASET_TO_LANGS = {
@@ -26,7 +26,11 @@ if __name__ == '__main__':
         langs = DATASET_TO_LANGS[dataset_name]
         for task in tasks:
             for lang in langs:
-                dsets[f'{dataset_name}_{task}_{lang}'] = load_dataset(dataset_name, task, lang)
+                try:
+                    dsets[f'{dataset_name}_{task}_{lang}'] = load_dataset(dataset_name, task, lang)
+                except:
+                    print(f'No data for task `{task}` on lang `{lang}` in the {dataset_name} dataset')
+                    pass
                 
     print('LENGTH:', len(dsets))
     print('KEYS:', list(dsets.keys()))
