@@ -202,20 +202,21 @@ def append_generation_model_args(args):
 def append_generation_dataset_args(args):
     # source_lang, target_lang = args["dataset"].split("-") # e.g., bali-aceh
     target_lang = args["lang"] # e.g., sun
+    source_lang = "indonesian"
 
     #TBC to fill these mapper values
     lang_to_id_bart_map = {
-        "ambonese": "",
-        "batak": "",
-        "betawi": "",
-        "bimanese": "",
+        "ambonese": "am_AM",
+        "batak": "bt_BT",
+        "betawi": "bw_BW",
+        "bimanese": "bm_BM",
         "indonesian": "id_ID",
         "javanese": "jv_JV",
         "madurese": "ma_MA",
         "makassarese": "",
         "minangkabau": "mi_MI",
-        "palembangese": "",
-        "rejang": "",
+        "palembangese": "pm_PM",
+        "rejang": "rj_RJ",
         "sundanese": "su_SU",
     }
 
@@ -232,7 +233,7 @@ def append_generation_dataset_args(args):
     args['test_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-test.csv'
     args['source_lang'] = f"[{source_lang}]"
     args['target_lang'] = f"[{target_lang}]"
-    args['source_lang_bart'] = lang_to_id_bart_map["indonesian"]
+    args['source_lang_bart'] = lang_to_id_bart_map[source_lang]
     args['target_lang_bart'] = lang_to_id_bart_map[target_lang]
     args['swap_source_target'] = False
     args['k_fold'] = 1
