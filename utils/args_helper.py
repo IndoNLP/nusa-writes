@@ -30,7 +30,7 @@ def get_parser():
     parser = ArgumentParser()
     parser.add_argument("--experiment_name", type=str, default="exp", help="Experiment name")
     parser.add_argument("--model_dir", type=str, default="./save", help="Model directory")
-    parser.add_argument("--dataset_name", type=str, default='nusa_alinea', help="Choose between nusa_kalimat or nusa_alinea")
+    parser.add_argument("--dataset_name", type=str, default='nusa_kalimat', help="Choose between nusa_kalimat or nusa_alinea")
     parser.add_argument("--task", type=str, default='senti', help="Choose between sentiment or mt")
     parser.add_argument("--lang", type=str, default='sun', help="Choose between language of implementation, 3 char decoded, see 'https://github.com/IndoNLP/nusa-menulis/tree/main/data'")
     parser.add_argument("--model_checkpoint", type=str, default="bert-base-multilingual-uncased", help="Path, url or short name of the model")
@@ -106,7 +106,6 @@ def get_generation_parser():
     parser.add_argument("--experiment_name", type=str, default="exp", help="Experiment name")
     parser.add_argument("--model_dir", type=str, default="save/", help="Model directory")
     parser.add_argument("--lang", type=str, default='sun', help="Choose between language of implementation, 3 char decoded, see 'https://github.com/IndoNLP/nusa-menulis/tree/main/data'")
-    # parser.add_argument("--dataset_path", type=str, default="", help="Path or url of the dataset. If empty download from S3.")
     parser.add_argument("--dataset_cache", type=str, default='./dataset_cache', help="Path or url of the dataset cache")
     parser.add_argument("--model_type", type=str, default=None, help="Type of the model (`transformer`, `indo-bart`, `indo-t5`, `indo-gpt2`, `baseline-mbart`, or `baseline-mt5`)")
     parser.add_argument("--grad_accumulate", type=int, default=1, help="Gradient accumulation")
@@ -224,11 +223,14 @@ def append_generation_dataset_args(args):
     args['metrics_fn'] = generation_metrics_fn
     args['valid_criterion'] = 'SacreBLEU'
     # args['train_set_src_path'] = f'./data/mt/{source_lang}/train.csv'
-    args['train_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-train.csv'
+    # args['train_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-train.csv'
     # args['valid_set_src_path'] = f'./data/mt/{source_lang}/valid.csv'
-    args['valid_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-valid.csv'
+    # args['valid_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-valid.csv'
     # args['test_set_src_path'] = f'./data/mt/{source_lang}/test.csv'
-    args['test_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-test.csv'
+    # args['test_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-test.csv'
+    args['train_set_path'] = f'./data/nusa_kalimat-mt-{target_lang}-train.csv'
+    args['valid_set_path'] = f'./data/nusa_kalimat-mt-{target_lang}-valid.csv'
+    args['test_set_path'] = f'./data/nusa_kalimat-mt-{target_lang}-test.csv'
     args['source_lang'] = f"[{source_lang}]"
     args['target_lang'] = f"[{target_lang}]"
     args['source_lang_bart'] = lang_to_id_bart_map[source_lang]
