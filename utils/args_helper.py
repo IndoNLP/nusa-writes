@@ -28,8 +28,6 @@ def print_opts(opts):
 ###   
 def get_parser():
     parser = ArgumentParser()
-    #for colab execution
-    parser.add_argument('-f')
     parser.add_argument("--experiment_name", type=str, default="exp", help="Experiment name")
     parser.add_argument("--model_dir", type=str, default="./save", help="Model directory")
     parser.add_argument("--dataset_name", type=str, default='nusa_alinea', help="Choose between nusa_kalimat or nusa_alinea")
