@@ -1,18 +1,10 @@
 # TODO: implement MT and Generation Utils
-from utils.data_utils import SequenceClassificationDataset
-# the other two hasn't been added yet (used in MT)
-# ,MachineTranslationDataset, GenerationDataLoader
-
+from utils.data_utils import SequenceClassificationDataset, MachineTranslationDataset, GenerationDataLoader
 
 from utils.functions import WordSplitTokenizer
-# from utils.metrics import sentiment_metrics_fn, generation_metrics_fn
-from utils.metrics import sentiment_metrics_fn
-# this metric hasn't been added yet (used in MT)
-# , generation_metrics_fn
-# from utils.forward_fn import forward_sequence_classification, forward_generation, forward_generation_multilingual
+from utils.metrics import sentiment_metrics_fn, generation_metrics_fn
+from utils.forward_fn import forward_generation
 
-# this util hasn't been added yet (used in MT)
-# from utils.forward_fn import forward_generation
 
 from nltk.tokenize import TweetTokenizer
 from argparse import ArgumentParser
