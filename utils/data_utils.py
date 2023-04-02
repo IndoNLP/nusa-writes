@@ -20,12 +20,17 @@ class SequenceClassificationDataset(Dataset):
     def __len__(self):
         return len(self.labels)
 
-def load_dataset(dataset, task, lang, base_path='./data'):
+def load_dataset(dataset, task, lang, num_sample:int=-1, base_path='./data'):
     data_files = {}
     for path in glob.glob(f'{base_path}/{dataset}-{task}-{lang}-*.csv'):
         split = path.split('-')[-1][:-4]
         data_files[split] = path
-    return datasets.load_dataset('csv', data_files=data_files)
+        #add path arguments to enable sampled data collection
+    output_dataset = datasets.load_dataset('csv', data_files=data_files)
+    if num_sample == -1:
+      return output_dataset
+    else:
+      return output_dataset.filter(lambda _, idx: idx < num_sample, with_indices=True)
 
 def load_sequence_classification_dataset(raw_datasets, strlabel2int, tokenizer, num_sample=-1, random_seed=0):
     # Load dataset

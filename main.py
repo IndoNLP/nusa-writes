@@ -86,6 +86,7 @@ if __name__ == "__main__":
         dataset=args["dataset_name"],
         task=args["task"],
         lang=args["lang"],
+        num_sample=int(args["num_sample"]),
         base_path="./data"
     )
 
