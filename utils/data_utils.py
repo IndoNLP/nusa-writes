@@ -49,28 +49,13 @@ def load_sequence_classification_dataset(raw_datasets, strlabel2int, tokenizer, 
 # Machine Translation
 ##
 class MachineTranslationDataset(Dataset):
-    # CSV Format
-    # id, lang, source
-    # 501, aceh, Semoga selalu setia menemani rakyat indonesia dari sabang - merauke, dari kota sampai pelosok desa.
-    def load_dataset(self, path): 
-        data = []
-        with open(path) as f:
-            csv_reader = csv.reader(f, delimiter=',')
-            line_count = 0
-            for row in csv_reader:
-                if line_count == 0:
-                    line_count += 1
-                else:
-                    if len(row) != 2:
-                        assert 1==2
-                    data.append({"id": row[0], "source": row[1]})
-                    line_count += 1
-            print(f"load {path} total={line_count-1}")
-        return data
+    # Data Schema (CSV Format)
+    # id,	ind_text,	tgt_text
+    # emot-train-2361,	"gimana ya caranya ngerubah instagram story viewers? kok toxic people bisa ada di urutan pertama -_- padahal buka ignya aja, saya gapernah -_-",	"piye yo corone ngobah penonton Instagram Story? kok wong-wong toksik iso ono neng urutan pertama -_- senadyan buka Instagrame wae, aku ora pernah -_-"
 
-    def __init__(self, src_dataset_path, tgt_dataset_path, tokenizer, swap_source_target, *args, **kwargs):
-        self.src_data = self.load_dataset(src_dataset_path)
-        self.tgt_data = self.load_dataset(tgt_dataset_path)
+    def __init__(self, raw_dataset, tokenizer, swap_source_target, *args, **kwargs):
+        #slice the cols by removing unused ftrs from data_src and data_tgt
+        self.data_src, self.data_tgt = raw_dataset.remove_columns(["tgt_text"]), raw_dataset.remove_columns(["ind_text"])
         self.tokenizer = tokenizer
         self.swap_source_target = swap_source_target
     

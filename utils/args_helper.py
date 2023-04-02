@@ -201,7 +201,22 @@ def append_generation_dataset_args(args):
     target_lang = args["lang"] # e.g., sun
     source_lang = "indonesian"
 
-    #TBC to fill these mapper values
+    #WIP to fill these mapper values
+    lang_to_dataset_code_map = {
+      "ambonese": "abs",
+      "batak": "btk",
+      "betawi": "bew",
+      "bimanese": "bhp",
+      # "indonesian": "id_ID", unused, added to create parallelism to 'lang_to_id_bart_map'
+      "javanese": "jav",
+      "madurese": "mad",
+      "makassarese": "mak",
+      "minangkabau": "min",
+      "palembangese": "mui",
+      "rejang": "rej",
+      "sundanese": "sun",
+    }
+
     lang_to_id_bart_map = {
         "ambonese": "am_AM",
         "batak": "bt_BT",
@@ -210,7 +225,7 @@ def append_generation_dataset_args(args):
         "indonesian": "id_ID",
         "javanese": "jv_JV",
         "madurese": "ma_MA",
-        "makassarese": "",
+        "makassarese": "mk_MK",
         "minangkabau": "mi_MI",
         "palembangese": "pm_PM",
         "rejang": "rj_RJ",
@@ -233,8 +248,8 @@ def append_generation_dataset_args(args):
     args['test_set_path'] = f'./data/nusa_kalimat-mt-{target_lang}-test.csv'
     args['source_lang'] = f"[{source_lang}]"
     args['target_lang'] = f"[{target_lang}]"
-    args['source_lang_bart'] = lang_to_id_bart_map[source_lang]
-    args['target_lang_bart'] = lang_to_id_bart_map[target_lang]
+    args['source_lang_bart'] = lang_to_id_bart_map[lang_to_dataset_code_map[source_lang]]
+    args['target_lang_bart'] = lang_to_id_bart_map[lang_to_dataset_code_map[target_lang]]
     args['swap_source_target'] = False
     args['k_fold'] = 1
     return args

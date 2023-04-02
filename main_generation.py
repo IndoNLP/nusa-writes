@@ -14,6 +14,7 @@ from modules.tokenization_indonlg import IndoNLGTokenizer
 from modules.tokenization_mbart52 import MBart52Tokenizer
 from utils.functions import load_generation_model
 from utils.args_helper import get_generation_parser, print_opts, append_generation_dataset_args, append_generation_model_args
+from utils.data_utils import load_dataset
 
 def set_seed(seed):
     random.seed(seed)
@@ -210,6 +211,15 @@ if __name__ == "__main__":
     
     metrics_scores = []
     result_dfs = []
+
+    # Load dset
+    dset = load_dataset(
+        dataset=args["dataset_name"],
+        task=args["task"],
+        lang=args["lang"],
+        base_path="./data"
+    )
+
     # load model
     model, tokenizer, vocab_path, config_path = load_generation_model(args)
     optimizer = optim.Adam(model.parameters(), lr=args['lr'])
@@ -242,17 +252,17 @@ if __name__ == "__main__":
     
     print("=========== DATASET PREP PHASE ===========")
 
-    train_dataset = args['dataset_class'](args['train_set_src_path'], args['train_set_tgt_path'], tokenizer, lowercase=args["lower"], no_special_token=args['no_special_token'], 
+    train_dataset = args['dataset_class'](dset["train"], tokenizer, lowercase=args["lower"], no_special_token=args['no_special_token'], 
                                     speaker_1_id=args['speaker_1_id'], speaker_2_id=args['speaker_2_id'], separator_id=args['separator_id'],
                                     max_token_length=args['max_seq_len'], swap_source_target=args['swap_source_target'] if 'swap_source_target' in args else False)
     train_loader = args['dataloader_class'](dataset=train_dataset, model_type=args['model_type'], tokenizer=tokenizer, max_seq_len=args['max_seq_len'], batch_size=args['train_batch_size'], src_lid_token_id=src_lid, tgt_lid_token_id=tgt_lid, num_workers=8, shuffle=True)  
 
-    valid_dataset = args['dataset_class'](args['valid_set_src_path'], args['valid_set_tgt_path'], tokenizer, lowercase=args["lower"], no_special_token=args['no_special_token'], 
+    valid_dataset = args['dataset_class'](dset["valid"], tokenizer, lowercase=args["lower"], no_special_token=args['no_special_token'], 
                                     speaker_1_id=args['speaker_1_id'], speaker_2_id=args['speaker_2_id'], separator_id=args['separator_id'],
                                     max_token_length=args['max_seq_len'], swap_source_target=args['swap_source_target'] if 'swap_source_target' in args else False)
     valid_loader = args['dataloader_class'](dataset=valid_dataset, model_type=args['model_type'], tokenizer=tokenizer, max_seq_len=args['max_seq_len'], batch_size=args['valid_batch_size'], src_lid_token_id=src_lid, tgt_lid_token_id=tgt_lid, num_workers=8, shuffle=False)
 
-    test_dataset = args['dataset_class'](args['test_set_src_path'], args['test_set_tgt_path'], tokenizer, lowercase=args["lower"], no_special_token=args['no_special_token'], 
+    test_dataset = args['dataset_class'](dset["test"], tokenizer, lowercase=args["lower"], no_special_token=args['no_special_token'], 
                                     speaker_1_id=args['speaker_1_id'], speaker_2_id=args['speaker_2_id'], separator_id=args['separator_id'],
                                     max_token_length=args['max_seq_len'], swap_source_target=args['swap_source_target'] if 'swap_source_target' in args else False)
     test_loader = args['dataloader_class'](dataset=test_dataset, model_type=args['model_type'], tokenizer=tokenizer, max_seq_len=args['max_seq_len'], batch_size=args['test_batch_size'], src_lid_token_id=src_lid, tgt_lid_token_id=tgt_lid, num_workers=8, shuffle=False)
