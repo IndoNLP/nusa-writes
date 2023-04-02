@@ -220,6 +220,9 @@ if __name__ == "__main__":
         num_sample=int(args["num_sample"]),
         base_path="./data"
     )
+    print(f"len(train_dataset): {len(dset['train'])}")
+    print(f"len(valid_dataset): {len(dset['valid'])}")
+    print(f"len(test_dataset): {len(dset['test'])}")
 
     # load model
     model, tokenizer, vocab_path, config_path = load_generation_model(args)
