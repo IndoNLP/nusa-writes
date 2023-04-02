@@ -7,6 +7,10 @@ import datasets
 from sklearn.metrics import accuracy_score, f1_score, recall_score, precision_score
 from nltk import word_tokenize
 
+#download missing tokenizer (for eval using 'word_tokenize')
+import nltk
+nltk.download('punkt')
+
 bleu = datasets.load_metric('bleu')
 rouge = datasets.load_metric('rouge')
 sacrebleu = datasets.load_metric('sacrebleu')

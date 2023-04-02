@@ -1,3 +1,5 @@
+import numpy as np
+
 import glob
 import datasets
 import torch
@@ -58,17 +60,17 @@ class MachineTranslationDataset(Dataset):
     # id,	ind_text,	tgt_text
     # emot-train-2361,	"gimana ya caranya ngerubah instagram story viewers? kok toxic people bisa ada di urutan pertama -_- padahal buka ignya aja, saya gapernah -_-",	"piye yo corone ngobah penonton Instagram Story? kok wong-wong toksik iso ono neng urutan pertama -_- senadyan buka Instagrame wae, aku ora pernah -_-"
 
-    def __init__(self, raw_dataset, tokenizer, swap_source_target, *args, **kwargs):
-        #slice the cols by removing unused ftrs from data_src and data_tgt
-        self.data_src, self.data_tgt = raw_dataset.remove_columns(["tgt_text"]), raw_dataset.remove_columns(["ind_text"])
+    def __init__(self, raw_dataset, tokenizer, swap_source_target:bool=False, *args, **kwargs):
+        #slice the cols by removing unused ftrs from src_data and tgt_data
+        self.src_data, self.tgt_data = raw_dataset.remove_columns(["tgt_text"]), raw_dataset.remove_columns(["ind_text"])
         self.tokenizer = tokenizer
         self.swap_source_target = swap_source_target
     
     def __getitem__(self, index):
         src_data = self.src_data[index]
         tgt_data = self.tgt_data[index]
-        src_id, text = src_data['id'], src_data['source']
-        tgt_id, label = tgt_data['id'], tgt_data['source']
+        src_id, text = src_data['id'], src_data['ind_text']
+        tgt_id, label = tgt_data['id'], tgt_data['tgt_text']
         assert src_id == tgt_id
 
         input_subwords = self.tokenizer.encode(text.lower(), add_special_tokens=False)
