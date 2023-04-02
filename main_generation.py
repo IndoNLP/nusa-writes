@@ -200,7 +200,7 @@ if __name__ == "__main__":
         args["model_dir"],
         args["task"],
         args["lang"],
-        args['model_checkpoint'].replace('/','-'),
+        args['model_type'].replace('/','-'),
         args['seed'],
         args["num_sample"],
         args["force"]

@@ -104,9 +104,15 @@ def get_parser():
 def get_generation_parser():
     parser = ArgumentParser()
     parser.add_argument("--experiment_name", type=str, default="exp", help="Experiment name")
+    
+    #Init dataset params
+    parser.add_argument("--num_sample", type=int, default=-1, help="-1 to use all data otherwise take first 'num_samples' data")
+    parser.add_argument("--dataset_name", type=str, default='nusa_kalimat', help="Choose between nusa_kalimat or nusa_alinea")
+    parser.add_argument("--task", type=str, default='mt', help="Choose mt (for now)")
     parser.add_argument("--model_dir", type=str, default="save/", help="Model directory")
     parser.add_argument("--lang", type=str, default='sun', help="Choose between language of implementation, 3 char decoded, see 'https://github.com/IndoNLP/nusa-menulis/tree/main/data'")
     parser.add_argument("--dataset_cache", type=str, default='./dataset_cache', help="Path or url of the dataset cache")
+    
     parser.add_argument("--model_type", type=str, default=None, help="Type of the model (`transformer`, `indo-bart`, `indo-t5`, `indo-gpt2`, `baseline-mbart`, or `baseline-mt5`)")
     parser.add_argument("--grad_accumulate", type=int, default=1, help="Gradient accumulation")
     parser.add_argument("--model_checkpoint", type=str, default=None, help="Path, url or short name of the model")
@@ -198,23 +204,23 @@ def append_generation_model_args(args):
 
 def append_generation_dataset_args(args):
     # source_lang, target_lang = args["dataset"].split("-") # e.g., bali-aceh
-    target_lang = args["lang"] # e.g., sun
-    source_lang = "indonesian"
+    target_lang_code = args["lang"] # e.g., sun
+    source_lang_code = "ind" #indonesian
 
     #WIP to fill these mapper values
-    lang_to_dataset_code_map = {
-      "ambonese": "abs",
-      "batak": "btk",
-      "betawi": "bew",
-      "bimanese": "bhp",
-      # "indonesian": "id_ID", unused, added to create parallelism to 'lang_to_id_bart_map'
-      "javanese": "jav",
-      "madurese": "mad",
-      "makassarese": "mak",
-      "minangkabau": "min",
-      "palembangese": "mui",
-      "rejang": "rej",
-      "sundanese": "sun",
+    dataset_code_to_lang_map = {
+      "abs": "ambonese",
+      "btk": "batak",
+      "bew": "betawi",
+      "bhp": "bimanese",
+      "ind": "indonesian",
+      "jav": "javanese",
+      "mad": "madurese",
+      "mak": "makassarese",
+      "min": "minangkabau",
+      "mui": "palembangese",
+      "rej": "rejang",
+      "sun": "sundanese"
     }
 
     lang_to_id_bart_map = {
@@ -237,19 +243,13 @@ def append_generation_dataset_args(args):
     args['forward_fn'] = forward_generation
     args['metrics_fn'] = generation_metrics_fn
     args['valid_criterion'] = 'SacreBLEU'
-    # args['train_set_src_path'] = f'./data/mt/{source_lang}/train.csv'
-    # args['train_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-train.csv'
-    # args['valid_set_src_path'] = f'./data/mt/{source_lang}/valid.csv'
-    # args['valid_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-valid.csv'
-    # args['test_set_src_path'] = f'./data/mt/{source_lang}/test.csv'
-    # args['test_set_tgt_path'] = f'./data/nusa_kalimat-mt-{target_lang}-test.csv'
-    args['train_set_path'] = f'./data/nusa_kalimat-mt-{target_lang}-train.csv'
-    args['valid_set_path'] = f'./data/nusa_kalimat-mt-{target_lang}-valid.csv'
-    args['test_set_path'] = f'./data/nusa_kalimat-mt-{target_lang}-test.csv'
-    args['source_lang'] = f"[{source_lang}]"
-    args['target_lang'] = f"[{target_lang}]"
-    args['source_lang_bart'] = lang_to_id_bart_map[lang_to_dataset_code_map[source_lang]]
-    args['target_lang_bart'] = lang_to_id_bart_map[lang_to_dataset_code_map[target_lang]]
+    args['train_set_path'] = f'./data/nusa_kalimat-mt-{target_lang_code}-train.csv'
+    args['valid_set_path'] = f'./data/nusa_kalimat-mt-{target_lang_code}-valid.csv'
+    args['test_set_path'] = f'./data/nusa_kalimat-mt-{target_lang_code}-test.csv'
+    args['source_lang'] = f"[{dataset_code_to_lang_map[source_lang_code]}]"
+    args['target_lang'] = f"[{dataset_code_to_lang_map[target_lang_code]}]"
+    args['source_lang_bart'] = lang_to_id_bart_map[dataset_code_to_lang_map[source_lang_code]]
+    args['target_lang_bart'] = lang_to_id_bart_map[dataset_code_to_lang_map[target_lang_code]]
     args['swap_source_target'] = False
     args['k_fold'] = 1
     return args
