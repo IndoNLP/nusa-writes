@@ -270,16 +270,16 @@ if __name__ == "__main__":
 
     print("=========== TRAINING PHASE ===========")
     # Train
-    train(model, train_loader=train_loader, valid_loader=valid_loader, optimizer=optimizer, forward_fn=args['forward_fn'], metrics_fn=args['metrics_fn'], valid_criterion=args['valid_criterion'], tokenizer=tokenizer, n_epochs=args['n_epochs'], evaluate_every=1, early_stop=args['early_stop'], grad_accum=args['grad_accumulate'], step_size=args['step_size'], gamma=args['gamma'], max_norm=args['max_norm'], model_type=args['model_type'], beam_size=args['beam_size'], max_seq_len=args['max_seq_len'], model_dir=model_dir, exp_id=0, fp16=args['fp16'], device=args['device'])
+    train(model, train_loader=train_loader, valid_loader=valid_loader, optimizer=optimizer, forward_fn=args['forward_fn'], metrics_fn=args['metrics_fn'], valid_criterion=args['valid_criterion'], tokenizer=tokenizer, n_epochs=args['n_epochs'], evaluate_every=1, early_stop=args['early_stop'], grad_accum=args['grad_accumulate'], step_size=args['step_size'], gamma=args['gamma'], max_norm=args['max_norm'], model_type=args['model_type'], beam_size=args['beam_size'], max_seq_len=args['max_seq_len'], model_dir=args["model_dir"], exp_id=0, fp16=args['fp16'], device=args['device'])
 
     # Save Meta
     if vocab_path:
-        shutil.copyfile(vocab_path, f'{model_dir}/vocab.txt')
+        shutil.copyfile(vocab_path, f'{args["model_dir"]}/vocab.txt')
     if config_path:
-        shutil.copyfile(config_path, f'{model_dir}/config.json')
+        shutil.copyfile(config_path, f'{args["model_dir"]}/config.json')
         
     # Load best model
-    model.load_state_dict(torch.load(model_dir + "/best_model_0.th"))
+    model.load_state_dict(torch.load(args["model_dir"] + "/best_model_0.th"))
 
     # Evaluation
     print("=========== EVALUATION PHASE ===========")
@@ -302,5 +302,5 @@ if __name__ == "__main__":
     print('== Model Performance ==')
     print(metric_df.describe())
     
-    result_df.to_csv(model_dir + "/prediction_result.csv")
-    metric_df.describe().to_csv(model_dir + "/evaluation_result.csv")
+    result_df.to_csv(args["model_dir"] + "/prediction_result.csv")
+    metric_df.describe().to_csv(args["model_dir"] + "/evaluation_result.csv")

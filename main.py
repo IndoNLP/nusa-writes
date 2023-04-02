@@ -154,7 +154,7 @@ if __name__ == "__main__":
     print("=========== EVALUATION PHASE ===========")
     eval_metrics = {}
     test_res = trainer.predict(test_dataset)
-    eval_metrics[args["lang"]] = test_res.metrics
+    eval_metrics[lang] = test_res.metrics
 
     print(f'Test results: {test_res.metrics}')
 
