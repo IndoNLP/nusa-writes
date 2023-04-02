@@ -1,5 +1,6 @@
 import sys
 import argparse
+import os
 
 import numpy as np
 import pandas as pd
@@ -160,7 +161,7 @@ if __name__ == "__main__":
                         feat_col = FEAT_COLUMNS[dataset_name]
                         label_col = LABEL_COLUMNS[task]
                         # Train and test the dataset using the current feature
-                        results[f'{dataset_name}_{task}_{lang}'] = train_and_test(dataset_name, task, lang, feat_col,
+                        results[f'{dataset_name}_{task}_{lang}_{feature}'] = train_and_test(dataset_name, task, lang, feat_col,
                                                                                     label_col, feature=feature)
                     except OSError as e:
                         # If unable to open the dataset, print an error message and move on
