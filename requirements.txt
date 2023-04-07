@@ -7,7 +7,7 @@ unidecode
 rouge-score
 sacrebleu
 pyyaml
-# from indobenchmark toolkit reqs
+# from indobenchmark toolkit >= 0.1.4 reqs
 transformers==4.27.4
 sentencepiece==0.1.95
 datasets==2.11.0
