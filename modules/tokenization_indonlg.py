@@ -21,32 +21,32 @@ from transformers import PreTrainedTokenizer, BatchEncoding
 
 from collections.abc import Mapping
 from transformers.utils import (
-    EntryNotFoundError,
-    ExplicitEnum,
+    # EntryNotFoundError,
+    # ExplicitEnum,
     PaddingStrategy,
-    PushToHubMixin,
-    RepositoryNotFoundError,
-    RevisionNotFoundError,
+    # PushToHubMixin,
+    # RepositoryNotFoundError,
+    # RevisionNotFoundError,
     TensorType,
-    add_end_docstrings,
-    cached_path,
-    copy_func,
-    get_file_from_repo,
-    hf_bucket_url,
-    is_flax_available,
-    is_offline_mode,
-    is_remote_url,
+    # add_end_docstrings,
+    # cached_path,
+    # copy_func,
+    # get_file_from_repo,
+    # hf_bucket_url,
+    # is_flax_available,
+    # is_offline_mode,
+    # is_remote_url,
     is_tf_available,
-    is_tokenizers_available,
+    # is_tokenizers_available,
     is_torch_available,
     logging,
     to_py_obj,
-    torch_required,
+    # torch_required,
 )
 import sentencepiece as spm
 
-from transformers.utils import logging
-from transformers.utils.generic import _is_jax, _is_numpy, _is_tensorflow, _is_torch, _is_torch_device
+# from transformers.utils.generic import _is_jax, _is_numpy, _is_tensorflow, _is_torch, _is_torch_device
+from transformers.utils.generic import _is_tensorflow, _is_torch
 
 logger = logging.get_logger(__name__)
 
@@ -66,21 +66,21 @@ PRETRAINED_POSITIONAL_EMBEDDINGS_SIZES = {
     "indobenchmark/indobart-v2": 768
 }
 
-SHARED_MODEL_IDENTIFIERS = [
-    # Load with
-    "indobenchmark/indobart",
-    "indobenchmark/indogpt",
-    "indobenchmark/indobart-v2"
-]
+# SHARED_MODEL_IDENTIFIERS = [
+#     # Load with
+#     "indobenchmark/indobart",
+#     "indobenchmark/indogpt",
+#     "indobenchmark/indobart-v2"
+# ]
 
-SPIECE_UNDERLINE = "▁"
+# SPIECE_UNDERLINE = "▁"
 
 # Define type aliases and NamedTuples
-TextInput = str
-PreTokenizedInput = List[str]
+# TextInput = str
+# PreTokenizedInput = List[str]
 EncodedInput = List[int]
-TextInputPair = Tuple[str, str]
-PreTokenizedInputPair = Tuple[List[str], List[str]]
+# TextInputPair = Tuple[str, str]
+# PreTokenizedInputPair = Tuple[List[str], List[str]]
 EncodedInputPair = Tuple[List[int], List[int]]
 
 class IndoNLGTokenizer(PreTrainedTokenizer):
