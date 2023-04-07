@@ -321,37 +321,47 @@ def load_model(args):
 
 def load_generation_model(args, resize_embedding=True):
     # IndoNLG Tokenizer vocabulary
-    vocab_size = 40013
+    vocab_size = 40014
     special_tokens_to_ids = {
-        "[javanese]": 40000, 
-        "[sundanese]": 40001, 
-        "[indonesian]": 40002,
-        "<mask>": 40003,
-        "[english]": 40004,
-        "[acehnese]": 40005,
-        "[balinese]": 40006,
-        "[banjarese]": 40007,
-        "[buginese]": 40008,
-        "[madurese]": 40009,
-        "[minangkabau]": 40010,
-        "[ngaju]": 40011,
-        "[toba_batak]": 40012
+            "[english]": 40000,
+            "[indonesian]": 40001,
+            "[javanese]": 40002,
+            "[sundanese]": 40003,
+            "[ambonese]": 40004,
+            "[batak]": 40005,
+            "[betawi]": 40006,
+            "[bimanese]": 40007,
+            "[madurese]": 40008,
+            "[makassarese]": 40009,
+            "[minangkabau]": 400010,
+            "[palembangese]": 40011,
+            "[rejang]": 40012,
+            "<mask>": 40013
     }
     special_ids_to_tokens = {v: k for k, v in special_tokens_to_ids.items()}
 
     # Store Language token ID
-    javanese_token, javanese_token_id = '[javanese]', 40000
-    sundanese_token, sundanese_token_id = '[sundanese]', 40001
-    indonesian_token, indonesian_token_id = '[indonesian]', 40002
-    english_token, english_token_id = '[english]', 40004
-    acehnese_token, acehnese_token_id = '[acehnese]', 40005
-    balinese_token, balinese_token_id = '[balinese]', 40006
-    banjarese_token, banjarese_token_id = '[banjarese]', 40007
-    bugis_token, bugis_token_id = '[buginese]', 40008
-    madurese_token, madurese_token_id = '[madurese]', 40009
+    english_token, english_token_id = '[english]', 40000
+    indonesian_token, indonesian_token_id = '[indonesian]', 40001
+    javanese_token, javanese_token_id = '[javanese]', 40002
+    sundanese_token, sundanese_token_id = '[sundanese]', 40003
+    ambonese_token, ambonese_token_id = '[ambonese]', 40004
+    batak_token, batak_token_id = '[batak]', 40005
+    betawi_token, betawi_token_id = '[betawi]', 40006
+    bimanese_token, bimanese_token_id = '[bimanese]', 40007
+    madurese_token, madurese_token_id = '[madurese]', 40008
+    makassarese_token, makassarese_token_id = '[makassarese]', 40009
     minang_token, minang_token_id = '[minangkabau]', 40010
-    ngaju_token, ngaju_token_id = '[ngaju]', 40011
-    toba_bata_token, toba_batak_token_id = '[toba_batak]', 40012
+    palembangese_token, palembangese_token_id = '[palembangese]', 40011
+    rejang_token, rejang_token_id = '[rejang]', 40012
+
+    # UNUSED lang for nusa-menulis, commented from prev codebase
+    # acehnese_token, acehnese_token_id = '[acehnese]', 40004
+    # balinese_token, balinese_token_id = '[balinese]', 40005
+    # banjarese_token, banjarese_token_id = '[banjarese]', 40006
+    # madurese_token, madurese_token_id = '[madurese]', 40008
+    # ngaju_token, ngaju_token_id = '[ngaju]', 40010
+    # toba_bata_token, toba_batak_token_id = '[toba_batak]', 40011
 
     ##############################################
 
@@ -464,9 +474,10 @@ def load_generation_model(args, resize_embedding=True):
             tokenizer.bos_token_id, tokenizer.eos_token_id, tokenizer.sep_token_id, tokenizer.cls_token_id, 
             tokenizer.unk_token_id, tokenizer.pad_token_id, tokenizer.mask_token_id, 
             english_token_id, javanese_token_id, sundanese_token_id, indonesian_token_id,
-            acehnese_token_id, balinese_token_id, banjarese_token_id,
-            bugis_token_id, madurese_token_id, minang_token_id,
-            ngaju_token_id
+            ambonese_token_id, batak_token_id, betawi_token_id, bimanese_token_id, madurese_token_id,
+            makassarese_token_id, minang_token_id, palembangese_token_id, rejang_token_id
+            # acehnese_token_id, balinese_token_id,
+            # bugis_token_id, ngaju_token_id
         ]
         tokenizer.special_tokens_to_ids = special_tokens_to_ids
         tokenizer.special_ids_to_tokens = {v: k for k, v in special_tokens_to_ids.items()}
