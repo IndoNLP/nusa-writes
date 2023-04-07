@@ -10,8 +10,8 @@ from torch.optim.lr_scheduler import StepLR
 from tqdm import tqdm
 from transformers import AdamW, T5Tokenizer
 from nltk.tokenize import TweetTokenizer
-# from modules.tokenization_indonlg import IndoNLGTokenizer
-from indobenchmark import IndoNLGTokenizer
+from modules.tokenization_indonlg import IndoNLGTokenizer
+# from indobenchmark import IndoNLGTokenizer
 from modules.tokenization_mbart52 import MBart52Tokenizer
 from utils.functions import load_generation_model
 from utils.args_helper import get_generation_parser, print_opts, append_generation_dataset_args, append_generation_model_args
