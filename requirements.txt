@@ -16,3 +16,7 @@ transformers==4.3.2
 sentencepiece==0.1.95
 datasets==1.4.1
 torch==1.7.1
+#for compatibility in torch preset version defined
+torchvision==0.8.2
+torchtext==0.8.1
+torchaudio==0.7.2
