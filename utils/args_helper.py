@@ -231,7 +231,7 @@ def append_generation_dataset_args(args):
         "indonesian": "id_ID",
         "javanese": "jv_JV",
         "madurese": "ma_MA",
-        "makassarese": "mk_MK",
+        "makassarese": "mr_MR",
         "minangkabau": "mi_MI",
         "palembangese": "pm_PM",
         "rejang": "rj_RJ",
