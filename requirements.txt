@@ -1,0 +1,18 @@
+# indobenchmark-toolkit>=0.1.4
+pandas
+numpy
+scikit-learn
+tensorflow==2.7.0
+nltk
+unidecode
+# sentencepiece
+rouge-score
+sacrebleu
+pyyaml
+# transformers
+# datasets
+# from indobenchmark toolkit reqs
+transformers==4.3.2
+sentencepiece==0.1.95
+datasets==1.4.1
+torch==1.7.1
