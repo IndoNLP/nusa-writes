@@ -125,25 +125,56 @@ class IndoNLGTokenizer(PreTrainedTokenizer):
         # HACK: These tokens were added by fairseq but don't seem to be actually used when duplicated in the actual
         # sentencepiece vocabulary (this is the case for <s> and </s>
         self.special_tokens_to_ids = {
-            "[javanese]": 40000, 
-            "[sundanese]": 40001, 
-            "[indonesian]": 40002,
-            "<mask>": 40003
+            "[indonesian]": 40000,
+            "[javanese]": 40001, 
+            "[sundanese]": 40002,
+            "[ambonese]": 40003,
+            "[batak]": 40004,
+            "[betawi]": 40005,
+            "[bimanese]": 40006,
+            "[madurese]": 40007,
+            "[makassarese]": 40008,
+            "[minangkabau]": 40009,
+            "[palembangese]": 40010,
+            "[rejang]": 40011,
+            "<mask>": 40012
         }
         self.special_ids_to_tokens = {v: k for k, v in self.special_tokens_to_ids.items()}
         
         # Store Language token ID
-        self.javanese_token = '[javanese]'
-        self.javanese_token_id = 40000
-        self.sundanese_token = '[sundanese]'
-        self.sundanese_token_id = 40001
         self.indonesian_token = '[indonesian]'
-        self.indonesian_token_id = 40002
-        
+        self.indonesian_token_id = 40000
+        self.javanese_token = '[javanese]'
+        self.javanese_token_id = 40001
+        self.sundanese_token = '[sundanese]'
+        self.sundanese_token_id = 40002
+        self.ambonese_token = '[ambonese]'
+        self.ambonese_token_id = 40003
+        self.batak_token = '[batak]'
+        self.batak_token_id = 40004
+        self.betawi_token = '[betawi]'
+        self.betawi_token_id = 40005
+        self.bimanese_token = '[bimanese]'
+        self.bimanese_token_id = 40006
+        self.madurese_token = '[madurese]'
+        self.madurese_token_id = 40007
+        self.makassarese_token = '[makassarese]'
+        self.makassarese_token_id = 40008
+        self.minangkabau_token = '[minangkabau]'
+        self.minangkabau_token_id = 40009
+        self.palembangese_token = '[palembangese]'
+        self.palembangese_token_id = 40010
+        self.rejang_token = '[rejang]'
+        self.rejang_token_id = 40011
+
+
         self.special_token_ids = [
             self.bos_token_id, self.eos_token_id, self.sep_token_id, self.cls_token_id, 
             self.unk_token_id, self.pad_token_id, self.mask_token_id,
-            self.javanese_token_id, self.sundanese_token_id, self.indonesian_token_id
+            self.indonesian_token_id, self.javanese_token_id, self.sundanese_token_id,
+            self.ambonese_token_id, self.batak_token_id, self.betawi_token_id,
+            self.bimanese_token_id, self.madurese_token_id, self.makassarese_token_id,
+            self.minangkabau_token_id, self.palembangese_token_id, self.rejang_token_id
         ]
     
     def prepare_input_for_generation(self, inputs, model_type='indobart', lang_token='[indonesian]', decoder_inputs=None,
