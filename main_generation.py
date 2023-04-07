@@ -260,17 +260,17 @@ if __name__ == "__main__":
     train_dataset = args['dataset_class'](dset["train"], tokenizer, lowercase=args["lower"], no_special_token=args['no_special_token'], 
                                     speaker_1_id=args['speaker_1_id'], speaker_2_id=args['speaker_2_id'], separator_id=args['separator_id'],
                                     max_token_length=args['max_seq_len'], swap_source_target=args['swap_source_target'] if 'swap_source_target' in args else False)
-    train_loader = args['dataloader_class'](dataset=train_dataset, model_type=args['model_type'], tokenizer=tokenizer, max_seq_len=args['max_seq_len'], batch_size=args['train_batch_size'], src_lid_token_id=src_lid, tgt_lid_token_id=tgt_lid, num_workers=8, shuffle=True)  
+    train_loader = args['dataloader_class'](dataset=train_dataset, model_type=args['model_type'], tokenizer=tokenizer, max_seq_len=args['max_seq_len'], batch_size=args['train_batch_size'], src_lid_token_id=src_lid, tgt_lid_token_id=tgt_lid, num_workers=args["dataloader_num_workers"], shuffle=True)  
 
     valid_dataset = args['dataset_class'](dset["valid"], tokenizer, lowercase=args["lower"], no_special_token=args['no_special_token'], 
                                     speaker_1_id=args['speaker_1_id'], speaker_2_id=args['speaker_2_id'], separator_id=args['separator_id'],
                                     max_token_length=args['max_seq_len'], swap_source_target=args['swap_source_target'] if 'swap_source_target' in args else False)
-    valid_loader = args['dataloader_class'](dataset=valid_dataset, model_type=args['model_type'], tokenizer=tokenizer, max_seq_len=args['max_seq_len'], batch_size=args['valid_batch_size'], src_lid_token_id=src_lid, tgt_lid_token_id=tgt_lid, num_workers=8, shuffle=False)
+    valid_loader = args['dataloader_class'](dataset=valid_dataset, model_type=args['model_type'], tokenizer=tokenizer, max_seq_len=args['max_seq_len'], batch_size=args['valid_batch_size'], src_lid_token_id=src_lid, tgt_lid_token_id=tgt_lid, num_workers=args["dataloader_num_workers"], shuffle=False)
 
     test_dataset = args['dataset_class'](dset["test"], tokenizer, lowercase=args["lower"], no_special_token=args['no_special_token'], 
                                     speaker_1_id=args['speaker_1_id'], speaker_2_id=args['speaker_2_id'], separator_id=args['separator_id'],
                                     max_token_length=args['max_seq_len'], swap_source_target=args['swap_source_target'] if 'swap_source_target' in args else False)
-    test_loader = args['dataloader_class'](dataset=test_dataset, model_type=args['model_type'], tokenizer=tokenizer, max_seq_len=args['max_seq_len'], batch_size=args['test_batch_size'], src_lid_token_id=src_lid, tgt_lid_token_id=tgt_lid, num_workers=8, shuffle=False)
+    test_loader = args['dataloader_class'](dataset=test_dataset, model_type=args['model_type'], tokenizer=tokenizer, max_seq_len=args['max_seq_len'], batch_size=args['test_batch_size'], src_lid_token_id=src_lid, tgt_lid_token_id=tgt_lid, num_workers=args["dataloader_num_workers"], shuffle=False)
 
     print("=========== TRAINING PHASE ===========")
     # Train

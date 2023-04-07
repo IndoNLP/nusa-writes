@@ -113,15 +113,19 @@ def get_generation_parser():
     parser.add_argument("--lang", type=str, default='sun', help="Choose between language of implementation, 3 char decoded, see 'https://github.com/IndoNLP/nusa-menulis/tree/main/data'")
     parser.add_argument("--dataset_cache", type=str, default='./dataset_cache', help="Path or url of the dataset cache")
     
+    #Data Loader Params
+    parser.add_argument("--dataloader_num_workers", type=int, default=8, help="Number of workers for data loader")
+    parser.add_argument("--train_batch_size", type=int, default=8, help="Batch size for training")
+    parser.add_argument("--valid_batch_size", type=int, default=8, help="Batch size for validation")
+    parser.add_argument("--test_batch_size", type=int, default=8, help="Batch size for testing")
+    
+    #Model Params
     parser.add_argument("--model_type", type=str, default=None, help="Type of the model (`transformer`, `indo-bart`, `indo-t5`, `indo-gpt2`, `baseline-mbart`, or `baseline-mt5`)")
     parser.add_argument("--grad_accumulate", type=int, default=1, help="Gradient accumulation")
     parser.add_argument("--model_checkpoint", type=str, default=None, help="Path, url or short name of the model")
     parser.add_argument("--beam_size", type=int, default=5, help="Size of beam search")
     parser.add_argument("--max_history", type=int, default=1000000000, help="Number of previous exchanges to keep in history")
     parser.add_argument("--max_seq_len", type=int, default=512, help="Max number of tokens")
-    parser.add_argument("--train_batch_size", type=int, default=8, help="Batch size for training")
-    parser.add_argument("--valid_batch_size", type=int, default=8, help="Batch size for validation")
-    parser.add_argument("--test_batch_size", type=int, default=8, help="Batch size for testing")
     # parser.add_argument("--gradient_accumulation_steps", type=int, default=8, help="Accumulate gradients on several steps")
     # parser.add_argument("--vocab_path", type=str, default='./vocab/IndoNLG_finals_vocab_model_indo4b_plus_spm_bpe_9995_wolangid_bos_pad_eos_unk.model', help="Vocab path")
     parser.add_argument("--lr", type=float, default=6.25e-5, help="Learning rate")
