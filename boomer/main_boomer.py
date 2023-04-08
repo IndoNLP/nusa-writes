@@ -58,7 +58,7 @@ def hyperparam_tuning(xtrain, ytrain, xvalid, yvalid, classifier, param_grid):
     # create predefined split
     # -1 for all training and 0 for all validation
     ps = PredefinedSplit([-1] * len(ytrain) + [0] * len(yvalid))
-    clf = GridSearchCV(classifier, param_grid, cv = ps)
+    clf = GridSearchCV(classifier, param_grid, cv=ps, n_jobs=-1)
     clf = clf.fit(x, y)
 
     return clf
@@ -112,7 +112,7 @@ def train_and_test(datase_name, task, lang, feat_col, label_col, directory="../d
     # all params for grid-search
     param_grids = {"nb" : {"alpha": np.linspace(0.001,1,50)},
                    "svm": {'C': [0.01, 0.1, 1, 10, 100], 'kernel': ['rbf', 'linear']},
-                   "lr" : {'C': np.linspace(0.001,10,100)},
+                   "lr" : {'C': np.linspace(0.01, 0.1, 1, 10, 100)},
                   }
     
     results = {}
