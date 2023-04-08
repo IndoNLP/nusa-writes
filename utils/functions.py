@@ -322,6 +322,7 @@ def load_model(args):
 def load_generation_model(args, resize_embedding=True):
     # IndoNLG Tokenizer vocabulary
     vocab_size = 40014
+    non_lang_tokens = 1
     special_tokens_to_ids = {
             "[english]": 40000,
             "[indonesian]": 40001,
@@ -333,11 +334,14 @@ def load_generation_model(args, resize_embedding=True):
             "[bimanese]": 40007,
             "[madurese]": 40008,
             "[makassarese]": 40009,
-            "[minangkabau]": 400010,
+            "[minangkabau]": 40010,
             "[palembangese]": 40011,
             "[rejang]": 40012,
             "<mask>": 40013
     }
+    #avoiding hardcoded in middle of script
+    new_lang_starting_token_ids = 4004
+    indonesian_token_id = 40001
     special_ids_to_tokens = {v: k for k, v in special_tokens_to_ids.items()}
 
     # Store Language token ID
@@ -393,8 +397,7 @@ def load_generation_model(args, resize_embedding=True):
             
             # Added new language token For MT
             if resize_embedding:
-                # model.resize_token_embeddings(model.config.vocab_size + 4) # For su_SU, jv_JV, <speaker_1>, <speaker_2>
-                model.resize_token_embeddings(model.config.vocab_size + 15) # Adding new languages
+                model.resize_token_embeddings(model.config.vocab_size + vocab_size - non_lang_tokens) # Adding new languages
             
             # Freeze Layer
             if args['freeze_encoder']:
@@ -451,11 +454,11 @@ def load_generation_model(args, resize_embedding=True):
             # model.resize_token_embeddings(model.config.vocab_size + 4) # For su_SU, jv_JV, <speaker_1>, <speaker_2>
             model.resize_token_embeddings(vocab_size) # Adding new languages
             input_embeddings = model.get_input_embeddings()
-            input_embeddings.weight.data[40004:,:] = input_embeddings.weight.data[[40002],:] # Init with Indonesian Embedding
+            input_embeddings.weight.data[new_lang_starting_token_ids:,:] = input_embeddings.weight.data[[indonesian_token_id],:] # Init with Indonesian Embedding
             
             if model.get_output_embeddings() is not None and not model.config.tie_word_embeddings:
                 output_lm_head = model.get_output_embeddings()
-                output_lm_head.weight.data[:,40004:] = output_lm_head.weight.data[:,[40002]]
+                output_lm_head.weight.data[:,new_lang_starting_token_ids:] = output_lm_head.weight.data[:,[indonesian_token_id]] # Init with Indonesian Embedding
             
     elif 'indo-gpt2' in args['model_type']:
         # gpt2 models
