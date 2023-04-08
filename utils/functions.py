@@ -322,7 +322,6 @@ def load_model(args):
 def load_generation_model(args, resize_embedding=True):
     # IndoNLG Tokenizer vocabulary
     vocab_size = 40014
-    non_lang_tokens = 1
     special_tokens_to_ids = {
             "[english]": 40000,
             "[indonesian]": 40001,
@@ -340,6 +339,7 @@ def load_generation_model(args, resize_embedding=True):
             "<mask>": 40013
     }
     #avoiding hardcoded in middle of script
+    new_lang_tokens = 11
     new_lang_starting_token_ids = 4004
     indonesian_token_id = 40001
     special_ids_to_tokens = {v: k for k, v in special_tokens_to_ids.items()}
@@ -397,7 +397,7 @@ def load_generation_model(args, resize_embedding=True):
             
             # Added new language token For MT
             if resize_embedding:
-                model.resize_token_embeddings(model.config.vocab_size + vocab_size - non_lang_tokens) # Adding new languages
+                model.resize_token_embeddings(model.config.vocab_size + new_lang_tokens) # Adding new languages
             
             # Freeze Layer
             if args['freeze_encoder']:
