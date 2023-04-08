@@ -33,22 +33,9 @@ VOCAB_FILES_NAMES = {"vocab_file": "sentencepiece.bpe.model"}
 _all_mbart50_models = ["facebook/mbart-large-50-one-to-many-mmt"]
 SPM_URL = "https://huggingface.co/facebook/mbart-large-50-one-to-many-mmt/resolve/main/sentencepiece.bpe.model"
 
-# fmt: off
-FAIRSEQ_LANGUAGE_CODES = ["ar_AR", "cs_CZ", "de_DE", "en_XX", "es_XX", "et_EE", "fi_FI", "fr_XX", "gu_IN", "hi_IN", "it_IT", "ja_XX", "kk_KZ", "ko_KR", "lt_LT", "lv_LV", "my_MM", "ne_NP", "nl_XX", "ro_RO", "ru_RU", "si_LK", "tr_TR", "vi_VN", "zh_CN", "af_ZA", "az_AZ", "bn_IN", "fa_IR", "he_IL", "hr_HR", "id_ID", "ka_GE", "km_KH", "mk_MK", "ml_IN", "mn_MN", "mr_IN", "pl_PL", "ps_AF", "pt_XX", "sv_SE", "sw_KE", "ta_IN", "te_IN", "th_TH", "tl_XX", "uk_UA", "ur_PK", "xh_ZA", "gl_ES", "sl_SI", "su_SU", "jv_JV"]
-# FAIRSEQ_LANGUAGE_CODES += ["ac_AC", "ba_BA", "bn_BN", "ma_MA", "mi_MI", "ng_NG", "bt_BT"]
-# "acehnese": "ac_AC",
-# "balinese": "ba_BA",
-# "banjarese": "bn_BN",
-# "indonesian": "id_ID",
-# "javanese": "jv_JV",
-# "maduranese": "ma_MA",
-# "minang": "mi_MI",
-# "ngaju": "ng_NG",
-# "sundanese": "su_SU",
-# "bataknese": "bt_BT"
-# fmt: on
 
-FAIRSEQ_LANGUAGE_CODES += ["am_AM", "bt_BT", "bw_BW", "bm_BM", "ma_MA", "mr_MR", "mi_MI", "pm_PM", "rj_RJ"]
+# fmt: on
+FAIRSEQ_LANGUAGE_CODES = ["am_AM", "bt_BT", "bw_BW", "bm_BM", "ma_MA", "mr_MR", "mi_MI", "pm_PM", "rj_RJ"]
 # "ambonese": "am_AM",
 # "batak": "bt_BT",
 # "betawi": "bw_BW",
@@ -61,8 +48,22 @@ FAIRSEQ_LANGUAGE_CODES += ["am_AM", "bt_BT", "bw_BW", "bm_BM", "ma_MA", "mr_MR",
 # "palembangese": "pm_PM",
 # "rejang": "rj_RJ",
 # "sundanese": "su_SU"
-# fmt: on
 
+# FAIRSEQ_LANGUAGE_CODES = ["ac_AC", "ba_BA", "bn_BN", "ma_MA", "mi_MI", "ng_NG", "bt_BT"]
+# "acehnese": "ac_AC",
+# "balinese": "ba_BA",
+# "banjarese": "bn_BN",
+# "indonesian": "id_ID",
+# "javanese": "jv_JV",
+# "maduranese": "ma_MA",
+# "minang": "mi_MI",
+# "ngaju": "ng_NG",
+# "sundanese": "su_SU",
+# "bataknese": "bt_BT"
+
+
+# fmt: off
+FAIRSEQ_LANGUAGE_CODES += ["ar_AR", "cs_CZ", "de_DE", "en_XX", "es_XX", "et_EE", "fi_FI", "fr_XX", "gu_IN", "hi_IN", "it_IT", "ja_XX", "kk_KZ", "ko_KR", "lt_LT", "lv_LV", "my_MM", "ne_NP", "nl_XX", "ro_RO", "ru_RU", "si_LK", "tr_TR", "vi_VN", "zh_CN", "af_ZA", "az_AZ", "bn_IN", "fa_IR", "he_IL", "hr_HR", "id_ID", "ka_GE", "km_KH", "mk_MK", "ml_IN", "mn_MN", "mr_IN", "pl_PL", "ps_AF", "pt_XX", "sv_SE", "sw_KE", "ta_IN", "te_IN", "th_TH", "tl_XX", "uk_UA", "ur_PK", "xh_ZA", "gl_ES", "sl_SI", "su_SU", "jv_JV"]
 
 
 class MBart52Tokenizer(PreTrainedTokenizer):
