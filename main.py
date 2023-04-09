@@ -47,9 +47,10 @@ if __name__ == "__main__":
     args = get_parser()
 
     ## Helper 1: Create output directory
-    def create_output_directory(model_dir, task, dataset, model_checkpoint, seed, num_sample, force):
-        output_dir = '{}/{}/{}/{}_{}_{}'.format(
+    def create_output_directory(model_dir, dataset_name, task, dataset, model_checkpoint, seed, num_sample, force):
+        output_dir = '{}/{}/{}/{}/{}_{}_{}'.format(
             model_dir,
+            dataset_name,
             task,
             dataset,
             model_checkpoint.replace('/','-'),
@@ -70,6 +71,7 @@ if __name__ == "__main__":
     # Specify output dir
     output_dir = create_output_directory(
         args["model_dir"],
+        args["dataset_name"],
         args["task"],
         args["lang"],
         args['model_checkpoint'].replace('/','-'),
@@ -154,10 +156,11 @@ if __name__ == "__main__":
     print("=========== EVALUATION PHASE ===========")
     eval_metrics = {}
     test_res = trainer.predict(test_dataset)
-    eval_metrics[lang] = test_res.metrics
+    eval_metrics[args["lang"]] = test_res.metrics
 
     print(f'Test results: {test_res.metrics}')
 
+    trainer.save_model(f"{output_dir}/final_model")
     log_output_path = output_dir + "/test_results.json"
     with open(log_output_path, "w+") as f:
         json.dump({"valid": valid_res.metrics, "test": eval_metrics}, f)
