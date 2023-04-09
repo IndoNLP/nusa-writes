@@ -158,6 +158,7 @@ if __name__ == "__main__":
 
     print(f'Test results: {test_res.metrics}')
 
+    trainer.save_model(f"{output_dir}/final_model")
     log_output_path = output_dir + "/test_results.json"
     with open(log_output_path, "w+") as f:
         json.dump({"valid": valid_res.metrics, "test": eval_metrics}, f)

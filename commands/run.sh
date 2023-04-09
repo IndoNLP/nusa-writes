@@ -11,6 +11,7 @@ for num_sample in -1; do
                     # CUDA_VISIBLE_DEVICES=0 python main.py --dataset_name $dset_name --task emot --lang $lang --model_checkpoint ${models[$i]} --n_epochs 100 --lr 1e-5 --train_batch_size 32 --eval_batch_size 32 --seed 0 --num_sample $num_sample &
                 done
                 wait
+                rm -r save/$task/$lang/*/checkpoint*
             done
         done
     done
@@ -26,6 +27,7 @@ for num_sample in -1; do
                     # CUDA_VISIBLE_DEVICES=0 python main.py --dataset_name $dset_name --task emot --lang $lang --model_checkpoint ${models[$i]} --n_epochs 100 --lr 1e-5 --train_batch_size 32 --eval_batch_size 32 --seed 0 --num_sample $num_sample &
                 done
                 wait
+                rm -r save/$task/$lang/*/checkpoint*
             done
         done
     done
@@ -41,6 +43,7 @@ for num_sample in -1; do
                     # CUDA_VISIBLE_DEVICES=0 python main.py --dataset_name $dset_name --task emot --lang $lang --model_checkpoint ${models[$i]} --n_epochs 100 --lr 1e-5 --train_batch_size 32 --eval_batch_size 32 --seed 0 --num_sample $num_sample &
                 done
                 wait
+                rm -r save/$task/$lang/*/checkpoint*
             done
         done
     done
