@@ -1,3 +1,4 @@
+#!/bin/bash
 models=(bert-base-multilingual-uncased indobenchmark/indobert-base-p1 indobenchmark/indobert-large-p1 indolem/indobert-base-uncased xlm-roberta-base xlm-roberta-large)
 
 ## -- NUSA_ALINEA -- ##
