@@ -107,8 +107,6 @@ def get_generation_parser():
     
     #Init dataset params
     parser.add_argument("--num_sample", type=int, default=-1, help="-1 to use all data otherwise take first 'num_samples' data")
-    parser.add_argument("--dataset_name", type=str, default='nusa_kalimat', help="Choose between nusa_kalimat or nusa_alinea")
-    parser.add_argument("--task", type=str, default='mt', help="Choose mt (for now)")
     parser.add_argument("--model_dir", type=str, default="save/", help="Model directory")
     parser.add_argument("--lang", type=str, default='sun', help="Choose between language of implementation, 3 char decoded, see 'https://github.com/IndoNLP/nusa-menulis/tree/main/data'")
     parser.add_argument("--dataset_cache", type=str, default='./dataset_cache', help="Path or url of the dataset cache")
@@ -211,7 +209,6 @@ def append_generation_dataset_args(args):
     target_lang_code = args["lang"] # e.g., sun
     source_lang_code = "ind" #indonesian
 
-    #WIP to fill these mapper values
     dataset_code_to_lang_map = {
       "abs": "ambonese",
       "btk": "batak",
@@ -241,6 +238,10 @@ def append_generation_dataset_args(args):
         "rejang": "rj_RJ",
         "sundanese": "su_SU",
     }
+
+    #since these two args doesn't have any valid choices aside from the preset value, it's moved here
+    args["dataset_name"] = 'nusa_kalimat'
+    args["task"] = 'mt'
 
     args['dataset_class'] = MachineTranslationDataset
     args['dataloader_class'] = GenerationDataLoader

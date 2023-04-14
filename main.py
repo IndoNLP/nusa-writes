@@ -47,12 +47,12 @@ if __name__ == "__main__":
     args = get_parser()
 
     ## Helper 1: Create output directory
-    def create_output_directory(model_dir, dataset_name, task, dataset, model_checkpoint, seed, num_sample, force):
+    def create_output_directory(model_dir, dataset_name, task, dataset_lang, model_checkpoint, seed, num_sample, force):
         output_dir = '{}/{}/{}/{}/{}_{}_{}'.format(
             model_dir,
             dataset_name,
             task,
-            dataset,
+            dataset_lang,
             model_checkpoint.replace('/','-'),
             seed,
             num_sample,
