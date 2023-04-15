@@ -1,0 +1,79 @@
+id,text,label
+indolem-train-595,"Syahrini pakêi perhiasan Lemo M,baês gi :3 #sepertiItuh #sesuatu",positive
+indolem-validation-393,"Pelayanan ku ang ramah ngen coa gle, shower coa pungsi nyen,kamar mêndai liut gesea lok us trus",negative
+indolem-train-2494,"Sêbênêanê bilik baik tapi ku ang propesional,bi nadêak mukmêi pueng mei gureng,minoi nêmbês jam stêngêak sêmbilan sapêi nê jam sêmbilan do o kulo tênlepon kileak sudo o dê têko mie kuah telor.hmmmmmm",negative
+indolem-validation-280,Playannê coa sêmdio anduk utuk mêndai,negative
+indolem-train-3387,"Bilik jijai ba,sayang wifi payêak nyambung",negative
+indolem-validation-357,"#viva Tas Hermes Rp1,5 Miliar Nakêi Syahrini blanjo sayur: si têko mênêa gu ok tun2 dê... http://bit.ly/1Lopq11",negative
+indolem-train-1581,"Kerno permintaan khusus coa nam mênua, dau nyomok, mukmêi pueng ku ang baik, tv nê kabur..",negative
+indolem-train-1613,Poros Muda Golkar : Pemritêak Australia coa ade adat http://dlvr.it/8fFx5Y,negative
+indolem-train-1292,"Bilik dê nêlêi coa sesuoi ngen pesanan nak aplikasi...mêsên utuk bêduai  nêlêinê utuk su ang..nêkomplen nêlêinê duai pnan tidua..padêak nê dutuk bêduai pêi nêrsih...padahal mêsênnê dêbilai ayok yo..kamar mênai spit,gumok nyên..padahal hotel syariah.pihak hotel ku ang gle mêsên liwêt aplikasi",negative
+indolem-train-1587,"Teko jam 1 kêbilai tapi ati nam cek in,bilik ngêi,hotel rami ngen gumok.",negative
+indolem-train-2831,Ngerii oprasi senyapnê kuwat RT @skalanews: F-Demokrat: Keputusan Presiden Mêlêi Kepastian http://bit.ly/17hQVKB,negative
+indolem-test-562,Internetnê cêndok,negative
+indolem-train-925,Bilik bersih mukmêi pueng jijai ba dê sesuai ngen go nê. Pelayanan padêk ba Cuma bae waktau masuk perlu waktau agok an.,positive
+indolem-train-3180,"Uku pernêak maêp nyên ko belek, smudonê uku harus ikhlas ko lalau nyên.",negative
+indolem-train-217,"Syahrini janjai lok têko amên ndêu igai Mabes Polri: Rani kulo jmanjai,amên jadwalnê coa padat,? http://dlvr.it/8g25Tz ",positive
+indolem-test-575,"Slimut ku ang panjang ngen libêa utuk tun duai,gambar tv kulo cao baês,lajau coa nam noton,pnan pegas nak bilik bi kênluwêaku moi muko bilik utuk petugas muang,tapi sapêi kêlmên uku moi homestay,pêgas ati si nuang,biasonê nak pnan luyên bi nêrsih ade perbaikan biyoa,sehinggo ngêi nak muko bilik ngen gu ok",negative
+indolem-test-754,Ade istilah dewek utuk raso sabên lalau skulah do oba 'Didaskaleinophobia'. ,negative
+indolem-train-2450,"Nagas badai lai slamo duai bilai, Palestina timbun salju: KêKêDAU toko ngen kantor nak tepi barat , P... http://bit.ly/18bCmJM",negative
+indolem-validation-271,"Uku tmalêm utuk pat malêm nak Airy eco Sleman jambên milêak,ksan pertamo pas masuk moi lêm bilik kêciwo bilik ku ang lapang uku mêsên utuk family room,kamar mêndai kêmon,kuwat dêbilik alas kekea kêmon nyên,tip bilai uku minoi nêrsih,tapi wc têp ngêi/kêmon,kutênê kêciwo niên.",negative
+indolem-train-804,Mokasiak sudo mê download ?? ? Kamulah Takdirku kuni Raffi Ahmad & Nagita Slavina ( nak umêak Pewe ?) ? https://path.com/p/31lXg3 ,positive
+indolem-test-785,Ketuai DPD PDIP Riau Cêmu et Rekaveny ngen Nuryanto kuni Calon Wali Kota http://aktual.co/148194,negative
+indolem-validation-328,"Sêbênêanê kutênê bilik bi jijai ba,bersih,rapi ngen nyaman.Cuma dê mênêa kêciwo waktau tidua slimutnê ade tungêu nê jijai tidua nê coa silêm kerno harus gmaut kekea",negative
+indolem-train-905,"Pas sê ati jijai CEO HP, Whitman adalah CEO eBay, antaro perusahaan e-commerce paling lai nak dênio. #inspiration",positive
+indolem-train-2573,"#BreakingNews: agok sle, gentai Menkumham Standar Ganda Pengesahan Pengurus PPP ngen Golkar? http://tinyurl.com/lagcrks",negative
+indolem-validation-349,"Maro bêfoto awêi Syahrini...tapi jijainê: Maju mundur maju mundur gêmuk, gêmuk..? http://instagram.com/p/zXOlAwTCAM/",negative
+indolem-test-744,"Biyoa nê titik jijai saro lok keramas.., AC nê kulo titik ngen coa nam natur ijai panês tidua nê..",negative
+indolem-train-317,Partai Demokrat: Keputusan Jokowi Masalah Ribut KPK ngen Polri Mêlêi Kepastian http://indopolitika.com/partai-demokrat-keputusan-jokowi-masalah-ribut-kpk-ngen-polri-mêlêi-kepastian/?utm_campaign=partai-demokrat-keputusan-jokowi-masalah-ribut-kpk-ngen-polri-mêlêi-kepastian&utm_medium=twitter&utm_source=twitter ? via @Indopolitika,positive
+indolem-train-2955,Biyoanê kemon awêi biyoa paret.ijai lok mêndai atau kusut epen malas.ruangannê spit,negative
+indolem-test-380,"Biliknê sep, kamar mendai ago ngêi nak bagian sudut wastafel ngen kêa bêak bang kamar mêndai. Kondisi bilik pa ok bang coa aman. Coa dapêt biyoa panês pas masuk kondisi ujên/ welcome drink. Kmuk pueng tahu isai agok kêmon.",negative
+indolem-train-1427,"Tuhan,ktiko Ko méltok atéiku,uku minoi méak mpek nak atéi dé saléak.uku bi payéak ngen dé téko trus lalau igai :') ",negative
+indolem-train-1139,"Kekiro o bi jlas adenê,bahwa kecurigaan SBY ngen Anas lai nyên sêsudo kêciwonê ngen kongres Musda Partai Demokrat nak Sulut.",negative
+indolem-train-2152,Do o kader2 mok muko mamakk banteng @semiaji_w: *Omongan Jongos itu bernilai Sampah* PDIP Merasa Mega Dikriminalisasi http://www.jawapos.com/baca/artikel/13275/PDIP-Merasa-Mega-Dikriminalisasi ?,negative
+indolem-train-2182,Chanel TV nê ku ang jêniak ngen ku ang dau,negative
+indolem-train-308,Supayo si namên uyo uku gidong cito !? Pesan Cinta kuni Afgan ? https://path.com/p/2uk74d ,positive
+indolem-train-2409,Demokrat Protes Pimpinan KPK Usulan SBY coa niliak Jokowi: intelijen - Fraksi Partai Demokrat mnyesal... http://bit.ly/1Lh7jYS #Knabar,negative
+indolem-train-3540,"Gêgara Kasus Feriyani Lim, Syahrini Harus Têmuno Syuting Video Klip: http://goo.gl/AuRwgT ",negative
+indolem-train-2305,"Dio pertamo kilainê uku mêsênAiry room.uku mêsên tangêa 13 April utuk têmalêm tangêa 28 April,tapi pas uku sapêi nak hotel,bilik dê uku mêsên coa si ngen pihak hotel kêmulang caci ku,smudonê uku harus mêsoa hotel luyên bilai o! Kêciwo nyên kerno coa si mêlêi namên kuni uak bilai!  COA PROPESIONAL!",negative
+indolem-train-3597,"Wifi matêi, coa tingêt nêlêi slimut, biyoa panês cuman didik.AC kulo coa puês, mêsoa petugasnê kulo saro",negative
+indolem-train-1294,"AJUANÊ PARTAI DEMOKRAT COA SI  @SBYudhoyono"""" Bi nê khianat ngen @TM2000back http://bit.ly/1eFNWhF",negative
+indolem-train-834,"Pelayanan nê ramah,saran bae mungkin lêbiak nêpêrhati water heaternê.Slebiaknê,ok",positive
+indolem-test-660,"Resepsionis ngen pelayan baik, tapi bilik ku ang bersih ngen kêmon, anduk bi an ngen kêmon",negative
+indolem-train-39,Stom Indinesia paling Ekonomis 2015 #JktOtomotif http://ow.ly/JCESj ,positive
+indolem-test-242,"Playanan padek,pnan nyaman ngen bersih Cuma bae wifi cet gangguan.kutênê nyaman ngen bersih.",positive
+indolem-train-1482,Kubu Partai Golkar Agung Laksono kak ketuai DPP Partai Golkar Leo Nababan makau têkanjêt ngen rencana o. http://bit.ly/18cZVSu,negative
+indolem-train-871,"Overall nyamanba. Lokasi iding stasiun,dau waung kémuk ngen laundri nak di. AC sengok,kamar méndai padekba coa makéi pémanés,tv oke. Cuma agok spit bae ngen wifi coa nam akses.",positive
+indolem-train-2123,16.52: RT @cep_rafy: Blok M arah prapatan Prapanca macetnê sapêi Bundaran muko kantor Walikota Jaksel.,negative
+indolem-train-2690,"Sidang Mahkama Golkar Gesea ribut,Duai kubu saling mêngang http://bit.ly/1aioIVK ",negative
+indolem-train-1502,"Keciwo nyên!!!!....Recepsionis mêmêngiak ngen tun tuai, coa sopan jêmlasnê,dê mêrsih bilik coa si, bilik kêmon, makso masêbiak utuk baliak bilik.Kêciwo...!!!!",negative
+indolem-test-594,Nak skulah Cuma mot luceng prai ngen luceng belek -____-,negative
+indolem-train-3118,Bilik agok titik ngen tv titik kulo.kamar mêndai coa bersih agok gumok.slimut ngen sprai ngêi kulo tapi mênnê pas bi komplen gnitêi ngen dê agok bersih.kulam renang biyoa nê ngêi bi an coa nêrsih.walaupun didik kêciwo tapi mujua ba ade kêkucêp kuni airy ngen kracok mêndai .kutê nê bi jijai ba,negative
+indolem-train-3223,Kêkucêp(snack)nê bi cigai lêkêp igai,negative
+indolem-train-1036,"Mpkasiak nyên ngen donasi dr  @Ddsulsel bêrupo sragam olahraga,sragam skulah,tas ngen sepatu",positive
+indolem-test-931,Kamar mênai kêmon Kasua nê ku ang bersih lokasi strategis paok ngen farmhouse,negative
+indolem-train-1874,Ternyato PDIP mêngiak nyên pas Jokowi miliak BH http://dlvr.it/8gC9jl,negative
+indolem-train-1348,Sprainê ku ang bersih. Gi ade kês buknê dê bilik das.,negative
+indolem-validation-49,Si adeba hadiah bêgo kuni Allah. Nêgo si sêti si lalau. Api si? ‘’’’’’indok nu.,positive
+indolem-train-1665,Pegawainê ku ang rama.seharusnê nyaman jijai coa nyaman,negative
+indolem-train-3474,"PDIP Mêngiak BG buye nêlatik,aksi jano igai dê lok nanêunê? http://dlvr.it/8g6JjV .. ",negative
+indolem-train-526,"Awêi yo, jiwoku asai bi lalau kuni awok ku. Mindau ko adêba ca o ku utuk bêta ên.#MasalahIndau",positive
+indolem-train-2819,Bilik kêmon ngen ngêi. Kamar ngen kêmon biyoa panês coa kêluwêa,negative
+indolem-train-2936,"Bilik nê cet ulang, amên nam dênekor ulang kunyau kêten idup, sênonê jibêak dê mênyabên, coa nam bêkaco, Acnê nêa seh kunyau coa matêi dewek, tulung bnatang titik2 nunuak kulo, tapi petugas ngen staff kêmbiak ramah!!!lokasi hotel pa ok nyên pvj, lokasi baês sayang amên coa nêmaksimal, mokasiak",negative
+indolem-train-1077,"Check in né an, ruangan bilik ku ang bersih,ngen toilet coa terawat,shower coa nam makéi",negative
+indolem-train-1307,Ac nê usak coa fungsi tulung nêa (uku têmalêm nak bilik K/L).,negative
+indolem-train-2805,“ Kebersihan lemari ngen prabot.Coa ade wifi”,negative
+indolem-train-3319,Wastafel macet. Bilik ku ang bersih nak antaro lemari dau sa ng lawêak,negative
+indolem-train-672,Tulung uku têmau ca o utuk dapêt siiii.? Afgan calak gi? ? Pesan Cinta kuni Afgan (w/ andrine) ? https://path.com/p/49fHWf,positive
+indolem-train-2578,"#PDIPembohongan RT """"@TubasMediaCom: PDIP ati siap kuaso? - http://tubas.in/1AttvMr",negative
+indolem-train-965,Bêlbiak aspykritis.Uku têmau kasus.bubêt kanker moi SG pakêi askes kantor.Aspykritisnê nakêi utk tiket akomodasi#FinClic ,positive
+indolem-train-249,"Hotelnê bersih......pelayanannê padek, staffnê ramah. Tapi biyoa panêsnê coa fungsi.",positive
+indolem-test-824,"Mênêa video klip, Syahrini makêi konsep Absurd http://dlvr.it/8fsPMl ",negative
+indolem-test-289,DISKON! BEST SELLER BGT! DIOR SYAHRINI Normal Rp 145.000 Diskon ijai Rp 125.000 KUALITAS SUPER FREE HARDCASE & LAP,positive
+indolem-train-238,Utuk bilik baês ngen bersih. Dapêt mukmêi pueng agok dau pilihan. Cuma biyoa kamar mêdai nê kêmon ngen warno kuning.,positive
+indolem-train-3134,"#Full Amên Hatta Memimpin, PAN Selalu nak bêak Bayang2 Partai Demokrat [?] By @SangPemburu99 http://dlvr.it/8dYF1w ",negative
+indolem-train-3499,Slamo makêi Bilik Airy dio Airy dê paling mênêa kciwo 1.wifi coa nyambung moi bilik 2.bang kamar mêndai coa nam tênutup amên coa knucai kuni lêm 3.ac têtik bae/bocor 4.shower harus nêgong coa nam nêpek nak pnannê 5.dio dê parah LISTRIK BILIK COA IDUP kerno abis pulsa listrik nê tapi responnê ku ang tênangêp ba coa ade inisiatif gacang,negative
+indolem-test-585,"Coa ade nuansa bilikné awéi pnan luyén, biyoa menem gelas coa si kaco,kracok mendai ngen kmuk harus ninoi.Coa si mingét mukméi pueng.Pelayanan kidek nyén. Mokasiak",negative
+indolem-train-1788,"Uku gidong sayang-syangnê ngen ko, gidong lêlêkatnê maêp ko,tapi gêntai ko lalau?:’)",negative
+indolem-validation-37,"Yey ijai kulo mênêa bajau GOT7-Yugyeom sapêi aksesoris2nê haha, sapêi têmau nak @kss_event Cuma2 HTM, igai ??",positive
+indolem-test-265,"Pelayanan ramah niên,bilik kulo rapi ngen bersih tapi ade didik ku ang nê nak bagian anduk ngen slimutnê dê bi sêgit gênitêi ba..mokasiak",positive

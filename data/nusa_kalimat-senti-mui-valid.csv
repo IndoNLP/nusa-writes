@@ -1,0 +1,92 @@
+id,text,label
+indolem-train-666,"Sembahlah Ar Rahman, sebarke salam, trus njuklah makan uwong lain. agek kamu pacak masuk surgo."""" (HR Tirmidzi)",positive
+indolem-train-1100,aer panass taiik,negative
+indolem-train-1026,"stres akademik di sekolah nak njoke keuntungan, salah sikoknyo nambah bikin cerdas murid. [Social Indikators Research]",positive
+indolem-train-2872,airy rooms ngasih garansi aer panas gratis lab ini nambah 10.000/malam kamar jugo dak sesuai samo samo poto lebih jelek tipi jugo masih tipi tabung belom LED,negative
+indolem-train-1979,"serpis kebersihan kamar dak pulo bagus , bauk asep rokok dari pintu konek yg keruang sebelah",negative
+indolem-train-400,"suasano nyenengke , kamar mandi dikit kotor.. lobang pancuran agak mampet. pelayanan baek.. diujung lorong, ado jendelo yang tebok dak ado kaconyo.. jd amper bae anak aku terjun bebas.. karno dapet kamarnyo pas diojong .. kasur bersih , ac lumayan dingin, ado kolam renang bersih, lokasi mudah dijangkau, hargo sesuai,,",positive
+indolem-train-2665,kamarnyo lemak..bersih..harum..tolong jaringan wifinyo dilencengke..kalo di dalam kamar sering nian teputus2..mokaseh ,negative
+indolem-train-3138,"kamarnyo nyaman tapi di lantai 2 idak dapet wifi, trus agak kurang besahabat. sarapannyo lemak, yang doble kusaranke amen ado wifinyo",negative
+indolem-train-1161,mohon pelayananyo lebih ramah lagi. resepsionisnyo kurang ramah,negative
+indolem-train-2011,Bagus. cuma bae ontok aer panasnyo kurang. kareno masih teraso dingin oyy.. ontok tempat tedok sih bagus dan lapang.,negative
+indolem-train-3527,"Ac dak begitu dingin , bantalnyo busuk iler",negative
+indolem-train-903,legislator PDIP: Aturan maskapai telat terbang harusnyo di pertegas http://brt.st/4toD,positive
+indolem-test-407,kamar mandinyo agak bau nyengat,negative
+indolem-train-840,"Di prances , besepeda ke kantor agek dikasih bayaran perkilometernyo (25sen euro ato sekitar 4000 )",positive
+indolem-train-1087,andoknyo lah idak layak pakai . :( showernyo bocor.,negative
+indolem-train-3041,"pelayan dak begitu ramah, idak ado senyum dr customer service dan malah ngatoi aku tamunyo, ngatek lemari , selimut samo anduk cuma sikok, tipi kabel cuma ado 3 chanel yg pacak ditonton",negative
+indolem-train-1103,toilets nyo kotor idak jalan pulo pool kotor nian pecak kolam ikan wifi katek telpon dak biso dipakek segalonyo jelek,negative
+indolem-validation-208,Tolong dibeneri : 1. aer anget kecik 2 . deposit yang dibaleke sesuai dengan yang disetorke pdahal idak ado kerusakan yang ditimbukkan.,negative
+indolem-train-1090,dak bagus. dak ramah pelayanany,negative
+indolem-train-613,tolong sampek ke pesen ini ke dio biar dio tau amen sekrang ni aku jatuh cinta ???? ? Pesan cinta by Afgan (w/ Shofa ) ? https://path.com/pr1f5hVz,positive
+indolem-train-3482,Pelayanan kurang cepat dan aer anget nyo idak befungsi... selebihnyo sudah sesuai SOP,negative
+indolem-train-125,"cowok/ceweknyo baru dak? :DRT @Putrikodok76: Ni min Baju baru, rambot baru , semangat baru , pendakian baru samo yang baru..",positive
+indolem-train-2646,Poto: Ini Bos Lingerie Cantik yg Baret Mobil lakinyo pas abes diselingkuhi http://tinyurl.com/ly7a5hl,negative
+indolem-validation-321,"murah trus tu nyaman. deket kampus, banyak makanan, kurangnyo cuman showenyo galak error , mendingan ganti model yg biaso bae.. berat jugo palak showernyo.. minus keduo wifi idak masuk kamar",negative
+indolem-validation-96,untuk apo lagi saro nak nyari kolar keler lah ado didepan mati ? ? kamu lah takdirku dari Raffi Ahmas & Nagita Slavina ? https://path.com/pp/1lctLX,positive
+indolem-train-2577,Kakus kamar mandi kurang bersih.. dan aer panasnyo idak panas. Nambah lagi amen pagi aernyo dingin.,negative
+indolem-train-156,"kamarnyo tu kotor nian mintak ampun. banyak sarang laba-laba trus kasurnyo lah lamo dak digenti spreinyo & nyamok banyak nian, beken gatel, untungnyo cumak semalem bae untuk transit bae, yang bekesan cuma Ac nyo dingin, saluran tipi bagus, kamar mandi lumayan aer panasnyo dan deket bandara . malam sampe pajar suaro berisik dari tamu sebelah.",positive
+indolem-train-796,"( Calon) artes tu boleh caper, tapi dak boleh nyakiti perasaan uwong laen . apolagi banyak uwong. syahrini tunah pacak dijadike contoh yg bagus.",positive
+indolem-train-3432,para penumpang yang terlantar akibat delay parah di bandara soekarno Hatta masih berdatengan ke kantor lion air... http://bit.ly/1Lpcic0,negative
+indolem-train-2233,Syahrini Telibat kasusnyo Feriyani Lim? - Silet 21 Februari 2015: http://youtu.be/7KxGOaN4RqA?a via @Youtubr,negative
+indolem-train-751,Gantengnyo jangan sades sades nian kak afgan ?? ? Sadis by Afgan ? https://path.com/p/4cck7R,positive
+indolem-train-1658,"hotelnyo bagus , cuma wifinyo lemah, pintu kamar mandi jugo ado yang rusak, sabon dan sikat gigi jugo kadangan ado kadangan idak ado",negative
+indolem-test-755,"kotor.. sprei banyak nodanyo.. anduk jugo, kejingokan kamar jarang dibersihke.. reception cumak dewekan.. jd lamo amen minta perlatan mandi.. lantai kotor..",negative
+indolem-validation-87,"RT @DMCDompetDhuafa.: Persiapan sekolah cerio dampingi budak korban #kebakaran Rawa Buaya, Jakarta Barat. @Dompet_Dhuafa http://twitter.com/DMCDompetDhuafa/status/570856561414791168/photo/1pic.twitter.com/g0Q6kfliFl",positive
+indolem-train-1741,Ati -ati amen beli mobil belas terendam Banjir http://kom.ps/AFqaz7,negative
+indolem-test-959,baek . tapi mohon dibeneri salurin tipi,negative
+indolem-train-1275,Ngapo Beha ditarok di mato sih bi syahrini ??? [pic] ? https://path.com/p/2QMf4R,negative
+indolem-train-2281,ternyato disekolah itu bukan cumak rebutan cewek/cowok tapi ado jugo yg rebutan wifi,negative
+indolem-train-853,"Cumak acnyo bae kurang dingin ,, ngatek sandalnyo .. segalonyo nyaman kebersihan nyaman... tapi ngapo di jakut cuma dikit hote airynyo",positive
+indolem-train-1409,"MA beratke hukuman Ratu Atut, ini dio uji Gollat http://tinyurl.com/kon73wl",negative
+indolem-train-3055,air panasnyo kurang hmmm samo wifi dak nyampe :((,negative
+indolem-test-358,"aer anget bepungsi baik Wifi belom tesambung. agak kotor sprei kasurnyo , ado sarang laba labanyo.",negative
+indolem-train-299,"Kance, bagi dio yg pegi, memang bukanlah yg tebaek itu tu, sabar yo .. ;) . . Tag? https://instagram.com/p/zi5AJYAzh-/",positive
+indolem-test-728,"?@Tertua: Soteng pidio klip di pasar Glodok, Syahrini harus tetep Begaya http://bit.ly/1LoMzjM ?",negative
+indolem-train-1896,"Hotel kurang bersih, Pegawai hotl jugo kurang ramah",negative
+indolem-train-109,"dalem cinto, ketika kau harus betanyo apo arti dirikau dalam hidup dio yang mencintai kau, mungkin saat itu adalah waktu yang tepat tok pegi.",positive
+indolem-validation-394,5' Aksi tarek menarek baju Diaz samo pemaen Selangor. untung idak koyak.. jelas nian ditarek itu.,negative
+indolem-train-242,look around. semangat yo yang pado test (at Kntor Regional III BKN bandung) ? https://path.com/p/25Cvgd,positive
+indolem-train-1643,"lumayan nyaman, tapi dilantai tigo dak ado wifi . Wifinyo idak ngejangkau kamar",negative
+indolem-train-2906,"cukup nyaman kamarnyo besak, tp ac kurang dingin. enaknyo cukup deket kemano mano tempt strategis",negative
+indolem-train-3116,"pelayananyo idak bagus pas yg jago lanang dak ado sedikitpun kamar befentilasi udaro , dak ado kaco jugo dikamar . kamar mandi kotor masih ado baju yg digantong ntah punyo siapo .",negative
+indolem-train-3608,"NOT RECOMENDED soalnyo sering air mati, dak ado air panasnyo, tamu betamu cuma boleh 5 menit bae, pegawenyo judes nian..",negative
+indolem-train-3576,"pas check in aku mesti nunggu sampe amper 1 jam, dikamar ac idak dingin.. pas dikamar tibo tibo kamar aku nak dibuka dr luar oleh karyawan hotel ternyato double pesenan, hotelnyo yang salah",negative
+indolem-train-1075,dak katek pelayanan pas datang dan bantuan bawa barang padahal kami kesusahan. pas nak masuk kamar bau apek nian sampe duo jam akhirnyo kami pake wewangian,negative
+indolem-test-230,"Lokasi didaerah komplek.. kalo untuk kamar yang single room memang kecik, tempat tok solat di kamar tebatas, mungkin kedepannyo biso diganti spreinyo soalnyo ado noda yg kurang sedap dijingok. tapi secaro keseluruhan untuk yang nak nginep sehari cocok nian samo budget yang minimal . selain tu air panasnyo jugo ngatek",positive
+indolem-test-367,Astagaaa!! apo oi .. Syahrini = alien jaman sekarang ??? #Biartekenal #mecakitu,negative
+indolem-train-979,selamat pagi aku seneng nian nian jingok ini @RaffiAhmadLagi @Lady6igi @ruben_onsu @sarwendah semoga lancar persalinanyo agek ,positive
+indolem-train-3212,"Koper penuh samo makanan galo-,- baju bae belom -,-",negative
+indolem-train-3248,Dak katek aer panas sempit pokoknyo biaso bae,negative
+indolem-test-498,"#Aquarius selalu belebihan-nganalisi situasi, tapi pegi dengan ngutamake perasaan dibandingke logika.",negative
+indolem-validation-332,@anjani202 @fariz1234 @triwul82 tapi janji tinggal janji dibibir kau. titipan demokrat,negative
+indolem-validation-311,"Sepertinyo kau baek baek dan biaso bae men tanpo aku. baeklah, aku pamet pegi. :)",negative
+indolem-train-114,woy ado yang muncul di twitter aku ni hahaha??? oiyoo aku ni lagi stop dulu latihan hehe jangan lupo makan malem yo!<2??,positive
+indolem-train-316,Demokrat : Keputusan Presiden ngasih kepastian di tengah spekulasi http://www.sayangi.com/politik1/read/301844demokrat-keputusan-presiden-beri-kepastian-di-tengah-spekulasi? lewT @sayangkcom,positive
+indolem-validation-14,makan produk kacang semenjak bayi dapet ngurai resiko alergi secaro dramatis http://ngi.cc/n4N3,positive
+indolem-test-763,"air panasnyo ngatek, selebihnyo bagus,... AC mati tengah dalu",negative
+indolem-train-3217,"nyaman , deket pulo samo pusat kota. cuman aer panasnyo ( water heater ) panas nian .",negative
+indolem-train-1289,"dpt kamar yg pemanasnyo rusak, tp stlh mnt bs diganti dgn aer panas dr ember samo perugasnyo",negative
+indolem-train-3247,kurang selimutnyo mokasih,negative
+indolem-validation-277,"Maso jabatn 5thn, kuat nungguke? PDIP idak Jokowi iyo ? @PartaiSocmed Masih ado yang percayo ujinyo ini? ?Ya/Tidak? ?",negative
+indolem-train-3625,Aku idak jd nginep sano tempatnyo idak katek perawatan pas masuk bau bangke,negative
+indolem-test-912,"Dari Fasilitas, aku kecewa kau wifi yang idak biso dipakek. dan layanan sarapan yang idak di njuk tau batas waktu, makonyo idak biso aku dapetke kareno layanan cuma sampe jam 9.00",negative
+indolem-test-43,"#jokowi #PDIP ngadepi Pilkada Barengan, PDIP idak lagi manfaatke jokowi  Effect - Tribun Lampung http://bit.ly/1LpxM8A @PDI_Perjuangan",positive
+indolem-train-3012,"apo nianan? kito tunggu omongan ketum PDIP""""@CNNIndonesia: PDIP Kesal Budi Gunawan dak jadi Dilantik http://cnn.if/33754",negative
+indolem-train-680,Woho!! Milyaran hadiah siap dibagi-bagi Afgan! Info Selengkapnyo http://bit.ly/DariHati  atau hub *123*9359*1# (XL) http://ow.ly/i/8FNAg,positive
+indolem-train-2683,"kamar luas , sepi, nyaman. kunci kamar mandi idak biso, idak dapet snack . trus tvnyo cuma sikok chanel bae",negative
+indolem-train-1597,baik dan alap kamarnyo luas. cumak bae lantai kotor dan petugas yang ngelayani pas nak masuk kurang ramah,negative
+indolem-train-438,"Cinta tu salah sikok anugrah yg dikasih tuhan samo kito manusio , jagolah cinta sebelum cinta tu pegi.",positive
+indolem-train-3265,"Sejaoh ini untuk hargo hotelnyo mayanlah. Tapi ngapo pelayananyo agak idak bagus, wifi dak konek, trus amen nak mbersihke kamar , kuncinyo digantungke bae di pintu kamar, idak dititipke di resepsionis .",negative
+indolem-validation-20,demokrat nilai kepotosan presiden kasi kepastian - http://www.itoday.co.id/uncategorized/demokrat-nilai-keputusan-presiden-beri-kepastian ?,positive
+indolem-train-2539,"lantainyo licin nian , apolagi dikamar mandi. anduknyo lah usang , perlu diganti",negative
+indolem-train-178,rajen makan ikan dijamin Awet mudo dan bebas gemuk http://dlvr.it/8mzSq  (HalloRiau),positive
+indolem-train-3216,"aer panas kecik,makananyo ala kadarnyo trus idak sesuai dengan hargo hotel kalo cuma mak itu bae ",negative
+indolem-test-944,yg paling baik harus lanjut RT @marwan_cikasan:Politisi Demokrat Minta Jokowi Adopsi Proyek MP3EI http://dlvr.it/8f0w0,negative
+indolem-train-1157,"Hotel dengan nuanso interior tradisional. Tempat strategis dengan akses ke banyak moda transportasi mudah,, deket dengan mall samo food court. Kamar sempit dan AC yang berisik mongkin itu bae yg jadi kekuranganyo.",negative
+indolem-train-1039,ini dio monil linter buatan Google yg pacak nganteeke kito ke tempat tujuan dak makek sopir,positive
+indolem-train-314,http://samuelamtiur.com Tribun: Syahrini Janji nak Dateng amen balik dipanggil Mabes Polri hytp://dlbr.it/8g26dL #NewsToday #DKK,positive
+indolem-train-3010,yg disayangke cumak aer panasnyo bae ,negative
+indolem-validation-63,"@S_AngelJKT48: tadi aku gemeteran pake baju ini ...hihihii , aku gala pake baju inii !! lucu nian ?? ...",positive
+indolem-test-630,cumak bae aer showernyo... idak panas.. dingiinnn..,negative
+indolem-train-1020,"kamarnyo nyaman... ac dingin kamarmandi shower ado air panasnyo, bersih, tv lcd, ado snack box nyo jugo.. hanyo bae bawa temoat tedok idak ikut di sapu jadi ado debunyo.. tapi overall puas dan nyaman, staff ramah nian..",positive
