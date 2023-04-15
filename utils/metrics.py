@@ -15,6 +15,8 @@ bleu = datasets.load_metric('bleu')
 rouge = datasets.load_metric('rouge')
 sacrebleu = datasets.load_metric('sacrebleu')
 squad_v2_metric = datasets.load_metric('squad_v2')
+chrf = datasets.load_metric("chrf")
+
 
 def sentiment_metrics_fn(eval_pred):
     list_hyp, list_label = eval_pred
@@ -26,15 +28,18 @@ def sentiment_metrics_fn(eval_pred):
     metrics["PRE"] = precision_score(list_label, list_hyp, average='macro')
     return metrics
 
+
 def generation_metrics_fn(list_hyp, list_label):
     # hyp and label are both list of string
     list_hyp_bleu = list(map(lambda x: word_tokenize(x), list_hyp))
     list_label_bleu = list(map(lambda x: [word_tokenize(x)], list_label))
     list_label_sacrebleu = list(map(lambda x: [x], list_label))
-    
+    list_label_chrf = list(map(lambda x: [x], list_label))
+
     metrics = {}
     metrics["BLEU"] = bleu._compute(list_hyp_bleu, list_label_bleu)['bleu'] * 100
     metrics["SacreBLEU"] = sacrebleu._compute(list_hyp, list_label_sacrebleu)['score']
+    metrics["ChrF++"] = chrf._compute(list_hyp, list_label_chrf, word_order=2, lowercase=True)['score']
     
     rouge_score = rouge._compute(list_hyp,list_label)
     metrics["ROUGE1"] = rouge_score['rouge1'].mid.fmeasure * 100
