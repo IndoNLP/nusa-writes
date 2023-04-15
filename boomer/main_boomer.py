@@ -4,6 +4,7 @@ import os
 
 import numpy as np
 import pandas as pd
+import nltk
 
 from nltk import word_tokenize
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
@@ -22,7 +23,7 @@ from sklearn.exceptions import ConvergenceWarning
 
 DATASET_NAMES = ['nusa_kalimat', 'nusa_alinea']
 DATASET_TO_TASKS = {
-    'nusa_kalimat': ['emot', 'mt', 'senti'],
+    'nusa_kalimat': ['emot', 'senti'],
     'nusa_alinea': ['emot', 'paragraph', 'topic', 'author']
 }
 
@@ -58,13 +59,13 @@ def hyperparam_tuning(xtrain, ytrain, xvalid, yvalid, classifier, param_grid):
     # create predefined split
     # -1 for all training and 0 for all validation
     ps = PredefinedSplit([-1] * len(ytrain) + [0] * len(yvalid))
-    clf = GridSearchCV(classifier, param_grid, cv = ps)
+    clf = GridSearchCV(classifier, param_grid, cv=ps, n_jobs=-1)
     clf = clf.fit(x, y)
 
     return clf
 
 @ignore_warnings(category=ConvergenceWarning)
-def train_and_test(datase_name, task, lang, feat_col, label_col, directory="../data", feature="BoW"):
+def train_and_test(datase_name, task, lang, feat_cols, label_col, directory="../data", feature="BoW"):
     '''
     This function trains and tests machine learning classifiers on a given dataset. It takes in the following parameters:
 
@@ -82,9 +83,14 @@ def train_and_test(datase_name, task, lang, feat_col, label_col, directory="../d
     '''
     print(f"\tLoading Dataset")
     
-    xtrain, ytrain = load_data(f"{directory}/{dataset_name}-{task}-{lang}-train.csv", feat_col, label_col)
-    xvalid, yvalid = load_data(f"{directory}/{dataset_name}-{task}-{lang}-valid.csv", feat_col, label_col)
-    xtest, ytest = load_data(f"{directory}/{dataset_name}-{task}-{lang}-test.csv", feat_col, label_col)
+    try:
+        xtrain, ytrain = load_data(f"{directory}/{dataset_name}-{task}-{lang}-train.csv", feat_cols["nusa_kalimat"], label_col)
+        xvalid, yvalid = load_data(f"{directory}/{dataset_name}-{task}-{lang}-valid.csv", feat_cols["nusa_kalimat"], label_col)
+        xtest, ytest = load_data(f"{directory}/{dataset_name}-{task}-{lang}-test.csv", feat_cols["nusa_kalimat"], label_col)
+    except:
+        xtrain, ytrain = load_data(f"{directory}/{dataset_name}-{task}-{lang}-train.csv", feat_cols["nusa_alinea"], label_col)
+        xvalid, yvalid = load_data(f"{directory}/{dataset_name}-{task}-{lang}-valid.csv", feat_cols["nusa_alinea"], label_col)
+        xtest, ytest = load_data(f"{directory}/{dataset_name}-{task}-{lang}-test.csv", feat_cols["nusa_alinea"], label_col)
     
     print(f"\tlen({directory}/{dataset_name}-{task}-{lang}-train.csv): {len(xtrain)}")
     print(f"\tlen({directory}/{dataset_name}-{task}-{lang}-valid.csv): {len(xvalid)}")
@@ -112,7 +118,7 @@ def train_and_test(datase_name, task, lang, feat_col, label_col, directory="../d
     # all params for grid-search
     param_grids = {"nb" : {"alpha": np.linspace(0.001,1,50)},
                    "svm": {'C': [0.01, 0.1, 1, 10, 100], 'kernel': ['rbf', 'linear']},
-                   "lr" : {'C': np.linspace(0.001,10,100)},
+                   "lr" : {'C': [0.01, 0.1, 1, 10, 100]},
                   }
     
     results = {}
@@ -131,6 +137,7 @@ def train_and_test(datase_name, task, lang, feat_col, label_col, directory="../d
 
 if __name__ == "__main__":
     # Define arguments parser
+    nltk.download('punkt')
     parser = argparse.ArgumentParser(description='Evaluate datasets')
     parser.add_argument('--dataset_name', type=str, default='all', help='Name of the dataset to evaluate')
     parser.add_argument('--tasks', type=str, default='all', help='Comma-separated list of tasks to evaluate')
@@ -158,10 +165,9 @@ if __name__ == "__main__":
                 for feature in ['BoW', 'tfidf']:
                     try:
                         # Get the feature and label column for the dataset
-                        feat_col = FEAT_COLUMNS[dataset_name]
                         label_col = LABEL_COLUMNS[task]
                         # Train and test the dataset using the current feature
-                        results[f'{dataset_name}_{task}_{lang}_{feature}'] = train_and_test(dataset_name, task, lang, feat_col,
+                        results[f'{dataset_name}_{task}_{lang}_{feature}'] = train_and_test(dataset_name, task, lang, FEAT_COLUMNS,
                                                                                     label_col, feature=feature)
                     except OSError as e:
                         # If unable to open the dataset, print an error message and move on
