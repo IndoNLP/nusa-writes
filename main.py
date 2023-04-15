@@ -19,6 +19,7 @@ from utils.functions import load_model, WordSplitTokenizer
 from utils.args_helper import get_parser, print_opts
 from utils.data_utils import load_sequence_classification_dataset, SequenceClassificationDataset, load_dataset
 from utils.metrics import sentiment_metrics_fn
+from sklearn.metrics import classification_report
 
 def set_seed(seed):
     random.seed(seed)
@@ -93,7 +94,7 @@ if __name__ == "__main__":
     )
 
     # Get unique labels
-    unique_labels = list(set(dset["train"]["label"] + dset["valid"]["label"]))
+    unique_labels = list(set(dset["train"][args["label_column_name"]] + dset["valid"][args["label_column_name"]]))
     strlabel2int = {}
     for i, k in enumerate(unique_labels):
         strlabel2int[k] = i
@@ -110,7 +111,7 @@ if __name__ == "__main__":
 
     # Get train, valid and test split
     train_dataset, valid_dataset, test_dataset = load_sequence_classification_dataset(
-        dset, strlabel2int, tokenizer, args["num_sample"], args["seed"]
+        dset, strlabel2int, tokenizer, args["text_column_name"], args["label_column_name"], args["num_sample"], args["seed"]
     )
     print(f"len(train_dataset): {len(train_dataset)}")
     print(f"len(valid_dataset): {len(valid_dataset)}")
@@ -157,13 +158,27 @@ if __name__ == "__main__":
     eval_metrics = {}
     test_res = trainer.predict(test_dataset)
     eval_metrics[args["lang"]] = test_res.metrics
-
     print(f'Test results: {test_res.metrics}')
 
+    # get prediction and true labels
+    y_pred = test_res.predictions.argmax(axis=1)
+    y_true = test_dataset.labels
+    y_true = [strlabel2int[true_i] for true_i in y_true]
+
+    # generate classification report
+    cr = classification_report(y_true, y_pred, output_dict=True)
+    cr_df = pd.DataFrame(cr).transpose()
+
+    # saving performance results
     trainer.save_model(f"{output_dir}/final_model")
-    log_output_path = output_dir + "/test_results.json"
-    with open(log_output_path, "w+") as f:
+
+    with open(f"{output_dir}/test_results.json", "w+") as f:
         json.dump({"valid": valid_res.metrics, "test": eval_metrics}, f)
+
+    cr_df.to_csv(f"{output_dir}/classification_report_df.csv")
+
+    with open(f"{output_dir}/strlabel2int.json", "w+") as f:
+        json.dump(strlabel2int, f)
 
     print("## -- Evaluation Done. -- ##")
 

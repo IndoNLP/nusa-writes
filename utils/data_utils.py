@@ -8,9 +8,9 @@ from torch.utils.data import Dataset, DataLoader
 from datasets import load_dataset, concatenate_datasets, Dataset as HFDataset
 
 class SequenceClassificationDataset(Dataset):    
-    def __init__(self, raw_dataset, strlabel2int, tokenizer):
-        self.inputs = raw_dataset['text']
-        self.labels = raw_dataset['label']
+    def __init__(self, raw_dataset, strlabel2int, tokenizer, text_col, label_col):
+        self.inputs = raw_dataset[text_col]
+        self.labels = raw_dataset[label_col]
         self.tokenizer = tokenizer
         self.strlabel2int = strlabel2int
 
@@ -34,7 +34,7 @@ def load_dataset(dataset, task, lang, num_sample:int=-1, base_path='./data'):
     else:
       return output_dataset.filter(lambda _, idx: idx < num_sample, with_indices=True)
 
-def load_sequence_classification_dataset(raw_datasets, strlabel2int, tokenizer, num_sample=-1, random_seed=0):
+def load_sequence_classification_dataset(raw_datasets, strlabel2int, tokenizer, text_col, label_col, num_sample=-1, random_seed=0):
     # Load dataset
     train_dataset = None
     
@@ -46,9 +46,9 @@ def load_sequence_classification_dataset(raw_datasets, strlabel2int, tokenizer, 
     #     train_data = SequenceClassificationDataset(train_dset, strlabel2int, tokenizer)
     # else:
        
-    train_data = SequenceClassificationDataset(raw_datasets['train'], strlabel2int, tokenizer)    
-    valid_data = SequenceClassificationDataset(raw_datasets['valid'], strlabel2int, tokenizer)
-    test_data = SequenceClassificationDataset(raw_datasets['test'], strlabel2int, tokenizer)
+    train_data = SequenceClassificationDataset(raw_datasets['train'], strlabel2int, tokenizer, text_col, label_col)    
+    valid_data = SequenceClassificationDataset(raw_datasets['valid'], strlabel2int, tokenizer, text_col, label_col)
+    test_data = SequenceClassificationDataset(raw_datasets['test'], strlabel2int, tokenizer, text_col, label_col)
     return train_data, valid_data, test_data
 
 

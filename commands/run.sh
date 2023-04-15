@@ -56,7 +56,7 @@ for num_sample in -1; do
         for lang in btk bew jav mad mak min sun; do
             for task in author; do
                 for ((i = 0; i < ${#models[@]}; ++i)); do
-                    python main.py --dataset_name $dset_name --task $task --lang $lang --model_checkpoint ${models[$i]} --n_epochs 100 --lr 1e-5 --train_batch_size 32 --eval_batch_size 32 --seed 0 --num_sample $num_sample --force
+                    python main.py --dataset_name $dset_name --task $task --lang $lang --model_checkpoint ${models[$i]} --n_epochs 100 --lr 1e-5 --train_batch_size 32 --eval_batch_size 32 --seed 0 --num_sample $num_sample --force --text_column_name paragraph --label_column_name author_id
                     # CUDA_VISIBLE_DEVICES=0 python main.py --dataset_name $dset_name --task emot --lang $lang --model_checkpoint ${models[$i]} --n_epochs 100 --lr 1e-5 --train_batch_size 32 --eval_batch_size 32 --seed 0 --num_sample $num_sample &
                 done
                 wait
