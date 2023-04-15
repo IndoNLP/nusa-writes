@@ -176,11 +176,12 @@ if __name__ == "__main__":
     args = append_generation_model_args(args)
 
     ## Helper 1: Create output directory
-    def create_output_directory(model_dir, task, dataset, model_checkpoint, seed, num_sample, force):
-        output_dir = '{}/{}/{}/{}_{}_{}'.format(
+    def create_output_directory(model_dir, dataset_name, task, dataset_lang, model_checkpoint, seed, num_sample, force):
+        output_dir = '{}/{}/{}/{}/{}_{}_{}'.format(
             model_dir,
+            dataset_name,
             task,
-            dataset,
+            dataset_lang,
             model_checkpoint.replace('/','-'),
             seed,
             num_sample,
@@ -199,6 +200,7 @@ if __name__ == "__main__":
     # Specify output dir
     output_dir = create_output_directory(
         args["model_dir"],
+        args["dataset_name"],
         args["task"],
         args["lang"],
         args['model_type'].replace('/','-'),
