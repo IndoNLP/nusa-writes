@@ -32,6 +32,8 @@ def get_parser():
     parser.add_argument("--model_dir", type=str, default="./save", help="Model directory")
     parser.add_argument("--dataset_name", type=str, default='nusa_kalimat', help="Choose between nusa_kalimat or nusa_alinea")
     parser.add_argument("--task", type=str, default='senti', help="Choose between sentiment or mt")
+    parser.add_argument("--text_column_name", type=str, default='text', help="Text column name")
+    parser.add_argument("--label_column_name", type=str, default='label', help="Label column name")
     parser.add_argument("--lang", type=str, default='sun', help="Choose between language of implementation, 3 char decoded, see 'https://github.com/IndoNLP/nusa-menulis/tree/main/data'")
     parser.add_argument("--model_checkpoint", type=str, default="bert-base-multilingual-uncased", help="Path, url or short name of the model")
     parser.add_argument("--max_seq_len", type=int, default=512, help="Max number of tokens")
