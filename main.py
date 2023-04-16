@@ -153,7 +153,7 @@ if __name__ == "__main__":
     valid_res = trainer.predict(valid_dataset)
     print(valid_res.metrics)
 
-    # Evaluation
+    ## -- Evaluation -- ##
     print("=========== EVALUATION PHASE ===========")
     eval_metrics = {}
     test_res = trainer.predict(test_dataset)
@@ -169,16 +169,26 @@ if __name__ == "__main__":
     cr = classification_report(y_true, y_pred, output_dict=True)
     cr_df = pd.DataFrame(cr).transpose()
 
-    # saving performance results
+    # saving final model
     trainer.save_model(f"{output_dir}/final_model")
 
+    # save test results
     with open(f"{output_dir}/test_results.json", "w+") as f:
         json.dump({"valid": valid_res.metrics, "test": eval_metrics}, f)
+        f.close()
 
+    # save classification report
     cr_df.to_csv(f"{output_dir}/classification_report_df.csv")
 
+    # save mapping of str labels to int 
     with open(f"{output_dir}/strlabel2int.json", "w+") as f:
         json.dump(strlabel2int, f)
+        f.close()
+
+    # save prediction results
+    with open(f"{output_dir}/test_prediction_{args['lang']}.pkl", "wb") as f:
+        pickle.dump(test_res, f)
+        f.close()
 
     print("## -- Evaluation Done. -- ##")
 
