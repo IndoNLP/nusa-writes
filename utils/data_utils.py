@@ -1,4 +1,5 @@
 import numpy as np
+import pandas as pd
 
 import glob
 import datasets
@@ -51,6 +52,30 @@ def load_sequence_classification_dataset(raw_datasets, strlabel2int, tokenizer, 
     test_data = SequenceClassificationDataset(raw_datasets['test'], strlabel2int, tokenizer, text_col, label_col)
     return train_data, valid_data, test_data
 
+def load_sequence_classification_lolo_dataset(dataset, task, test_lang, strlabel2int, tokenizer, text_col, label_col, num_sample=-1, random_seed=0, base_path="./data"):
+    # Load train & validation dataset
+    train_datasets = []
+    valid_datasets = []
+    for train_path in glob.glob(f'{base_path}/{dataset}-{task}-*-train.csv'):
+        if '-all-' in train_path or f'-{test_lang}-' in train_path:
+            continue
+        
+        valid_path = train_path.replace('train.csv','valid.csv')
+        train_df = pd.read_csv(train_path)
+        if num_sample != -1:
+            train_df = train_df.groupby('label').sample(num_sample, random_state=random_seed)
+        valid_df = pd.read_csv(valid_path)
+
+        train_datasets.append(HFDataset.from_pandas(train_df.set_index('id')))
+        valid_datasets.append(HFDataset.from_pandas(valid_df.set_index('id')))
+    train_data = SequenceClassificationDataset(concatenate_datasets(train_datasets), strlabel2int, tokenizer, text_col, label_col)
+    valid_data = SequenceClassificationDataset(concatenate_datasets(valid_datasets), strlabel2int, tokenizer, text_col, label_col)
+        
+    # Load test dataset
+    test_df = pd.read_csv(f'{base_path}/{dataset}-{task}-{test_lang}-test.csv')
+    test_data = SequenceClassificationDataset(HFDataset.from_pandas(test_df.set_index('id')), strlabel2int, tokenizer, text_col, label_col)    
+
+    return train_data, valid_data, test_data
 
 ##
 # Machine Translation
