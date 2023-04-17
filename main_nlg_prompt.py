@@ -57,7 +57,7 @@ def load_nlg_tasks():
     for path in glob.glob('./data/*.csv'):
         meta.append(tuple(path.split('/')[-1][:-4].split('-')[:3]))
     meta = sorted(list(set(filter(lambda x: x[1] == 'mt', meta))))
-    dsets = { (dataset, task, lang) : load_dataset(dataset, task, lang) for (dataset, task, lang) in meta } 
+    return { (dataset, task, lang) : load_dataset(dataset, task, lang) for (dataset, task, lang) in meta } 
 
 def predict_generation(prompt, model_name):
     if "gpt" in model_name or "text" in model_name:

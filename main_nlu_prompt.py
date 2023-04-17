@@ -51,7 +51,7 @@ def load_nlu_tasks():
         meta.append(tuple(path.split('/')[-1][:-4].split('-')[:3]))
     meta = sorted(list(set(filter(lambda x: x[1] != 'mt' and x[1] != 'author', meta))))
 
-    dsets = { (dataset, task, lang) : load_dataset(dataset, task, lang) for (dataset, task, lang) in meta } 
+    return { (dataset, task, lang) : load_dataset(dataset, task, lang) for (dataset, task, lang) in meta } 
 
 @torch.no_grad()
 def get_logprobs(model, tokenizer, prompt, label_ids=None, label_attn=None):
