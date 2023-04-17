@@ -1,6 +1,7 @@
 import os, sys
 import csv
 from os.path import exists
+import glob
 
 from numpy import argmax
 import pandas as pd
@@ -13,10 +14,14 @@ import torch
 import torch.nn.functional as F
 
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, AutoModelForCausalLM
-from nusacrowd import NusantaraConfigHelper
+
+from utils.functions import load_model, WordSplitTokenizer
+from utils.args_helper import get_parser, print_opts
+from utils.data_utils import load_sequence_classification_dataset, SequenceClassificationDataset, load_dataset
+from utils.metrics import sentiment_metrics_fn
+from sklearn.metrics import classification_report
 
 DEBUG=False
-CONFIG_NAMES = ['sentimix_spaeng', 'tamil_mixsentiment', 'malayalam_mixsentiment']
 
 """# Loading NLU Datasets"""
 def to_prompt(input, prompt, labels, with_label=False):
@@ -41,13 +46,12 @@ def to_prompt(input, prompt, labels, with_label=False):
     return prompt
 
 def load_nlu_tasks():
-    dsets = {}
-    for config in CONFIG_NAMES:
-        dsets[config] = datasets.load_dataset(
-            'CodeSwitchBenchmark/CodeMixBench', config,
-            use_auth_token='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'
-        )
-    return dsets
+    meta = []
+    for path in glob.glob('./data/*.csv'):
+        meta.append(tuple(path.split('/')[-1][:-4].split('-')[:3]))
+    meta = sorted(list(set(filter(lambda x: x[1] != 'mt' and x[1] != 'author', meta))))
+
+    dsets = { (dataset, task, lang) : load_dataset(dataset, task, lang) for (dataset, task, lang) in meta } 
 
 @torch.no_grad()
 def get_logprobs(model, tokenizer, prompt, label_ids=None, label_attn=None):
@@ -78,11 +82,9 @@ def predict_classification(model, tokenizer, prompt, labels):
 
 if __name__ == '__main__':
     if len(sys.argv) != 3:
-        raise ValueError('main_nlu_prompt.py <model_path_or_name> <n_shot>')
+        raise ValueError('main_nlu_prompt.py <model_path_or_name>')
 
     MODEL = sys.argv[1]
-    K_SHOT = int(sys.argv[2])
-
     os.makedirs('./outputs_nlu', exist_ok=True) 
 
     # Load Prompt
@@ -93,8 +95,8 @@ if __name__ == '__main__':
     nlu_datasets = load_nlu_tasks()
 
     print(f'Loaded {len(nlu_datasets)} NLU datasets')
-    for i, dset_subset in enumerate(nlu_datasets.keys()):
-        print(f'{i} {dset_subset}')
+    for i, (dataset, task, lang) in enumerate(nlu_datasets.keys()):
+        print(f'{i} {dataset}_{task}_{lang}')
 
     # Load Model
     tokenizer = AutoTokenizer.from_pretrained(MODEL, truncation_side='left')
@@ -109,16 +111,16 @@ if __name__ == '__main__':
     model.eval()
     torch.no_grad()
 
-    metrics = { 'dataset':[], 'prompt_id':[], 'accuracy':[], 'macro_f1':[], 'micro_f1':[] }
-    for i, dset_subset in enumerate(nlu_datasets.keys()):
-        print(f'{i} {dset_subset}')
-        if dset_subset not in prompt_templates or prompt_templates[dset_subset] is None:
+    metrics = { 'dataset':[], 'task':[], 'lang':[], 'prompt_id':[], 'accuracy':[], 'macro_f1':[], 'weighted_f1':[] }
+    for (dataset, task, lang), dset in nlu_datasets.items():
+        print(f'{dataset} | {task} | {lang}')
+        if (dataset, task, lang) not in prompt_templates or prompt_templates[(dataset, task, lang)] is None:
             print('SKIP')
             continue
 
-        data = nlu_datasets[dset_subset]['test']
-        few_shot_data = nlu_datasets[dset_subset]['train']
-
+        # take test data
+        data = dset['test']
+        
         # preprocess label (lower case & translate)
         label_names = data.features['label'].names
         label_names = [str(label).lower().replace("_"," ") for label in label_names]
@@ -126,18 +128,18 @@ if __name__ == '__main__':
         # sample prompt
         print(f"LABEL NAME: {label_names}")
 
-        for prompt_id, prompt_template in enumerate(prompt_templates[dset_subset]):
+        for prompt_id, prompt_template in enumerate(prompt_templates[(dataset, task, lang)]):
             inputs = []
             preds = []
             golds = []
             
-            print(f'prompt_id: {prompt_id}, k_shot: {K_SHOT}, model: {MODEL.split("/")[-1]}')
-            print(f"SAMPLE PROMPT: {to_prompt(data[0], prompt_template, label_names)}")
+            print(f'prompt_id: {prompt_id}, model: {MODEL.split("/")[-1]}')
+            print(f"SAMPLE PROMPT: {to_prompt(test[0], prompt_template, label_names)}")
 
             # inference
-            if exists(f'outputs/{dset_subset}_{prompt_id}_{K_SHOT}_{MODEL.split("/")[-1]}.csv'):
+            if exists(f'outputs/{dataset}_{task}_{lang}_{prompt_id}_{MODEL.split("/")[-1]}.csv'):
                 print("Output exist, use partial log instead")
-                with open(f'outputs_nlu/{dset_subset}_{prompt_id}_{K_SHOT}_{MODEL.split("/")[-1]}.csv') as csvfile:
+                with open(f'outputs_nlu/{dataset}_{task}_{lang}_{prompt_id}_{MODEL.split("/")[-1]}.csv') as csvfile:
                     reader = csv.DictReader(csvfile)
                     for row in reader:
                         inputs.append(row["Input"])
@@ -148,33 +150,6 @@ if __name__ == '__main__':
 
             # if incomplete, continue
             if len(preds) < len(data):
-                few_shot_list = [[] for _ in range(len(label_names))]
-                if K_SHOT > 0: # Take N-way K-shot examples
-                    few_shot_done = [False for _ in range(len(label_names))]
-                    for sample in few_shot_data:
-                        if not few_shot_done[sample['label']]:
-                            # Add to few shot example
-                            few_shot_list[sample['label']].append(sample)
-                            
-                            # Check if already fulfill K-shot for the current label
-                            if len(few_shot_list[sample['label']]) == K_SHOT:
-                                # Flag the current label
-                                few_shot_done[sample['label']] = True
-                                
-                                # Break if all labels are done
-                                if sum(few_shot_done) == len(label_names):
-                                    break
-                
-                # Take one sample per label until all K_SHOT is fulfilled
-                few_shot_text_list = []
-                for i in range(K_SHOT):
-                    for j in range(len(label_names)):
-                        few_shot_text_list.append(
-                            to_prompt(few_shot_list[j].pop(), prompt_template, label_names, with_label=True)
-                        )
-                        
-                print(f'FEW SHOT SAMPLES: {few_shot_text_list}')
-
                 with torch.inference_mode():
                     for e, sample in enumerate(tqdm(data)):
                         if e < len(preds):
@@ -191,35 +166,34 @@ if __name__ == '__main__':
                         # partial saving
                         if len(preds) % 10 == 0:
                             inference_df = pd.DataFrame(list(zip(inputs, preds, golds)), columns =["Input", 'Pred', 'Gold'])
-                            inference_df.to_csv(f'outputs_nlu/{dset_subset}_{prompt_id}_{K_SHOT}_{MODEL.split("/")[-1]}.csv', index=False)
+                            inference_df.to_csv(f'outputs_nlu/{dataset}_{task}_{lang}_{prompt_id}_{MODEL.split("/")[-1]}.csv', index=False)
 
                 inference_df = pd.DataFrame(list(zip(inputs, preds, golds)), columns =["Input", 'Pred', 'Gold'])
-                inference_df.to_csv(f'outputs_nlu/{dset_subset}_{prompt_id}_{K_SHOT}_{MODEL.split("/")[-1]}.csv', index=False)
+                inference_df.to_csv(f'outputs_nlu/{dataset}_{task}_{lang}_{prompt_id}_{MODEL.split("/")[-1]}.csv', index=False)
             # if output log exists, skip
             else:
                 print("Output exist, use existing log instead")
-                with open(f'outputs_nlu/{dset_subset}_{prompt_id}_{K_SHOT}_{MODEL.split("/")[-1]}.csv') as csvfile:
+                with open(f'outputs_nlu/{dataset}_{task}_{lang}_{prompt_id}_{MODEL.split("/")[-1]}.csv') as csvfile:
                     reader = csv.DictReader(csvfile)
                     for row in reader:
                         inputs.append(row["Input"])
                         preds.append(row["Pred"])
                         golds.append(row["Gold"])
 
-            # to accomodate old bug where list are not properly re-initiated
-            inputs = inputs[-len(data):]
-            preds = preds[-len(data):]
-            golds = golds[-len(data):]
-
-            acc, macro_f1, micro_f1 = accuracy_score(golds, preds), f1_score(golds, preds, average='macro'), f1_score(golds, preds, average='micro')
-            print(dset_subset)
+            cls_report = classification_report(golds, preds, output_dict=True)
+            acc, macro_f1, weighted_f1 = cls_report['accuracy'], cls_report['macro avg']['f1-score'], cls_report['weighted avg']['f1-score']
+            print(f'{dataset}_{task}_{lang}')
             print('accuracy', acc)
             print('f1 macro', macro_f1)
-            print('f1 micro', micro_f1)
+            print('f1 weighted', weighted_f1)
             print("===\n\n")
-            metrics['dataset'].append(dset_subset)
+            
+            metrics['dataset'].append(dataset)
+            metrics['task'].append(task)
+            metrics['lang'].append(lang)
             metrics['prompt_id'].append(prompt_id)
             metrics['accuracy'].append(acc)
             metrics['macro_f1'].append(macro_f1)
-            metrics['micro_f1'].append(micro_f1)
+            metrics['weighted_f1'].append(weighted_f1)
 
-    pd.DataFrame.from_dict(metrics).reset_index().to_csv(f'outputs_nlu/nlu_results_{K_SHOT}_{MODEL.split("/")[-1]}.csv', index=False)
+    pd.DataFrame.from_dict(metrics).reset_index().to_csv(f'outputs_nlu/nlu_results_{MODEL.split("/")[-1]}.csv', index=False)

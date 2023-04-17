@@ -27,7 +27,6 @@ CONFIG_TO_PROMPT = {
         'Translate the following [SOURCE] text from to [TARGET].\nText: [INPUT]\nTranslation:',
         'Text in [SOURCE]: [INPUT]\nText in [TARGET]:',
     ],
-
     "lid":[
         '[INPUT] =>',
         "[INPUT] \n For each word in the text above, assign a language tag (lang1, lang2, or none) using the format [ word | tag ].",
@@ -39,6 +38,5 @@ CONFIG_TO_PROMPT = {
 def get_prompt(config_names):
     prompt_templates = {}
     for config, prompts in CONFIG_TO_PROMPT.items():
-        if config in config_names:
-            prompt_templates[config] = prompts
+        prompt_templates[config] = prompts
     return prompt_templates
