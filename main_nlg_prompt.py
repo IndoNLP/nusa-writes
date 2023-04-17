@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
     os.makedirs('./outputs_nlg', exist_ok=True) 
 
-    if len(sys.argv) != 5:
+    if len(sys.argv) != 2:
         raise ValueError('main_nlg_prompt.py <model_path_or_name>')
 
     MODEL = sys.argv[1]

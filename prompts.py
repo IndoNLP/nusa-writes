@@ -1,4 +1,4 @@
-CONFIG_TO_PROMPT = {
+TASK_TO_PROMPT = {
     'emot': [
         '[INPUT] => Emotion: [LABELS_CHOICE]',
         'Text: [INPUT] => Emotion: [LABELS_CHOICE]',
@@ -35,8 +35,8 @@ CONFIG_TO_PROMPT = {
         'Text in [SOURCE]: [INPUT]\nText in [TARGET]:',
     ]
 }
-def get_prompt(config_names):
+def get_prompt():
     prompt_templates = {}
-    for config, prompts in CONFIG_TO_PROMPT.items():
+    for config, prompts in TASK_TO_PROMPT.items():
         prompt_templates[config] = prompts
     return prompt_templates

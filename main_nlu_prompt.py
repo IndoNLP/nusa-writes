@@ -81,7 +81,7 @@ def predict_classification(model, tokenizer, prompt, labels):
     return probs
 
 if __name__ == '__main__':
-    if len(sys.argv) != 3:
+    if len(sys.argv) != 2:
         raise ValueError('main_nlu_prompt.py <model_path_or_name>')
 
     MODEL = sys.argv[1]
