@@ -115,14 +115,14 @@ if __name__ == '__main__':
     metrics = { 'dataset':[], 'task':[], 'src_lang':[], 'tgt_lang':[] }
     for (dataset, task, lang), dset in nlg_datasets.items():        
         print(f'{dataset} | {task} | {lang}')
-        if (dataset, task, lang) not in prompt_templates or prompt_templates[(dataset, task, lang)] is None:
+        if (dataset, task, lang) not in prompt_templates or prompt_templates[task] is None:
             print('SKIP')
             continue
     
         # take test data
         data = dset['test']
       
-        for prompt_id, prompt_template in enumerate(prompt_templates[dset_subset]):
+        for prompt_id, prompt_template in enumerate(prompt_templates[task]):
             inputs = []
             preds = []
             golds = []  
@@ -131,9 +131,9 @@ if __name__ == '__main__':
             print(f"SAMPLE PROMPT: {to_prompt(data[0], prompt_template, lang, to_ind=False)}")
             
             # zero-shot inference
-            if exists(f'./outputs_nlg/{dset_subset}_{prompt_id}_ind_{lang}_{MODEL.split("/")[-1]}.csv'):        
+            if exists(f'./outputs_nlg/{dataset}_{task}_{prompt_id}_ind_{lang}_{MODEL.split("/")[-1]}.csv'):        
                 print("Output exist, use existing log instead")
-                with open(f'./outputs_nlg/{dset_subset}_{prompt_id}_ind_{lang}_{MODEL.split("/")[-1]}.csv') as csvfile:
+                with open(f'./outputs_nlg/{dataset}_{task}_{prompt_id}_ind_{lang}_{MODEL.split("/")[-1]}.csv') as csvfile:
                     reader = csv.DictReader(csvfile)
                     for row in reader:
                         inputs.append(row["Input"])
@@ -157,15 +157,15 @@ if __name__ == '__main__':
                         # partial saving
                         if len(preds) % 10 == 0:
                             inference_df = pd.DataFrame(list(zip(inputs, preds, golds)), columns=['Input', 'Pred', 'Gold'])
-                            inference_df.to_csv(f'./outputs_nlg/{dset_subset}_{prompt_id}_ind_{lang}_{MODEL.split("/")[-1]}.csv', index=False)
+                            inference_df.to_csv(f'./outputs_nlg/{dataset}_{task}_{prompt_id}_ind_{lang}_{MODEL.split("/")[-1]}.csv', index=False)
 
             # final save
             inference_df = pd.DataFrame(list(zip(inputs, preds, golds)), columns=['Input', 'Pred', 'Gold'])
-            inference_df.to_csv(f'./outputs_nlg/{dset_subset}_{prompt_id}_ind_{lang}_{MODEL.split("/")[-1]}.csv', index=False)
+            inference_df.to_csv(f'./outputs_nlg/{dataset}_{task}_{prompt_id}_ind_{lang}_{MODEL.split("/")[-1]}.csv', index=False)
 
             eval_metric = generation_metrics_fn(preds, golds)
 
-            print(f'== {dset_subset} == ')
+            print(f'== {dataset}_{task}_ind_{lang} == ')
             for k, v in eval_metric.items():
                 print(k, v)            
             print("===\n\n")
@@ -183,14 +183,14 @@ if __name__ == '__main__':
     # xxx -> ind
     for (dataset, task, lang), dset in nlg_datasets.items():        
         print(f'{dataset} | {task} | {lang}')
-        if (dataset, task, lang) not in prompt_templates or prompt_templates[(dataset, task, lang)] is None:
+        if (dataset, task, lang) not in prompt_templates or prompt_templates[task] is None:
             print('SKIP')
             continue
     
         # take test data
         data = dset['test']
       
-        for prompt_id, prompt_template in enumerate(prompt_templates[dset_subset]):
+        for prompt_id, prompt_template in enumerate(prompt_templates[task]):
             inputs = []
             preds = []
             golds = []  
@@ -199,9 +199,9 @@ if __name__ == '__main__':
             print(f"SAMPLE PROMPT: {to_prompt(data[0], prompt_template, lang, to_ind=True)}")
             
             # zero-shot inference
-            if exists(f'./outputs_nlg/{dset_subset}_{prompt_id}_{lang}_ind_{MODEL.split("/")[-1]}.csv'):        
+            if exists(f'./outputs_nlg/{dataset}_{task}_{prompt_id}_{lang}_ind_{MODEL.split("/")[-1]}.csv'):        
                 print("Output exist, use existing log instead")
-                with open(f'./outputs_nlg/{dset_subset}_{prompt_id}_{lang}_ind_{MODEL.split("/")[-1]}.csv') as csvfile:
+                with open(f'./outputs_nlg/{dataset}_{task}_{prompt_id}_{lang}_ind_{MODEL.split("/")[-1]}.csv') as csvfile:
                     reader = csv.DictReader(csvfile)
                     for row in reader:
                         inputs.append(row["Input"])
@@ -225,14 +225,14 @@ if __name__ == '__main__':
                         # partial saving
                         if len(preds) % 10 == 0:
                             inference_df = pd.DataFrame(list(zip(inputs, preds, golds)), columns=['Input', 'Pred', 'Gold'])
-                            inference_df.to_csv(f'./outputs_nlg/{dset_subset}_{prompt_id}_{lang}_ind_{MODEL.split("/")[-1]}.csv', index=False)
+                            inference_df.to_csv(f'./outputs_nlg/{dataset}_{task}_{prompt_id}_{lang}_ind_{MODEL.split("/")[-1]}.csv', index=False)
 
             # final save
             inference_df = pd.DataFrame(list(zip(inputs, preds, golds)), columns=['Input', 'Pred',  'Gold'])
-            inference_df.to_csv(f'./outputs_nlg/{dset_subset}_{prompt_id}_{lang}_ind_{MODEL.split("/")[-1]}.csv', index=False)
+            inference_df.to_csv(f'./outputs_nlg/{dataset}_{task}_{prompt_id}_{lang}_ind_{MODEL.split("/")[-1]}.csv', index=False)
 
             eval_metric = generation_metrics_fn(preds, golds)
-            print(f'== {dset_subset} == ')
+            print(f'== {dataset}_{task}_{lang}_ind == ')
             for k, v in eval_metric.items():
                 print(k, v)            
             print("===\n\n")

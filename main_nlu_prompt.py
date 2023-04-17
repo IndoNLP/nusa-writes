@@ -73,9 +73,9 @@ def predict_classification(model, tokenizer, prompt, labels):
         list_label_ids =labels_encoded['input_ids'].to('cuda')
         list_label_attn =labels_encoded['attention_mask'].to('cuda')
         probs = [
-                    get_logprobs(model, tokenizer, prompt.replace('[LABELS_CHOICE]', ''), label_ids.view(1,-1), label_attn.view(1,-1)) 
-                     for (label_ids, label_attn) in zip(list_label_ids, list_label_attn)
-                ]
+            get_logprobs(model, tokenizer, prompt.replace('[LABELS_CHOICE]', ''), label_ids.view(1,-1), label_attn.view(1,-1)) 
+             for (label_ids, label_attn) in zip(list_label_ids, list_label_attn)
+        ]
     else:
         probs = [get_logprobs(model, tokenizer, prompt.replace('[LABELS_CHOICE]', label)) for label in labels]
     return probs
@@ -88,7 +88,7 @@ if __name__ == '__main__':
     os.makedirs('./outputs_nlu', exist_ok=True) 
 
     # Load Prompt
-    prompt_templates = get_prompt(CONFIG_NAMES)
+    prompt_templates = get_prompt()
 
     # Load Dataset
     print('Load NLU Datasets...')
@@ -114,7 +114,7 @@ if __name__ == '__main__':
     metrics = { 'dataset':[], 'task':[], 'lang':[], 'prompt_id':[], 'accuracy':[], 'macro_f1':[], 'weighted_f1':[] }
     for (dataset, task, lang), dset in nlu_datasets.items():
         print(f'{dataset} | {task} | {lang}')
-        if (dataset, task, lang) not in prompt_templates or prompt_templates[(dataset, task, lang)] is None:
+        if task not in prompt_templates or prompt_templates[task] is None:
             print('SKIP')
             continue
 
@@ -128,7 +128,7 @@ if __name__ == '__main__':
         # sample prompt
         print(f"LABEL NAME: {label_names}")
 
-        for prompt_id, prompt_template in enumerate(prompt_templates[(dataset, task, lang)]):
+        for prompt_id, prompt_template in enumerate(prompt_templates[task]):
             inputs = []
             preds = []
             golds = []
