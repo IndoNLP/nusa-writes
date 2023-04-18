@@ -122,7 +122,11 @@ if __name__ == '__main__':
         data = dset['test']
         
         # preprocess label (lower case & translate)
-        label_names = data.features['label'].names
+        try:
+            label_names = data.features['label'].names
+        except:
+            label_names = list(set(data['label']))
+        id_to_label_dict = { i : l for i, l in enumerate(label_names) }
         label_names = [str(label).lower().replace("_"," ") for label in label_names]
         
         # sample prompt
@@ -134,7 +138,7 @@ if __name__ == '__main__':
             golds = []
             
             print(f'prompt_id: {prompt_id}, model: {MODEL.split("/")[-1]}')
-            print(f"SAMPLE PROMPT: {to_prompt(test[0], prompt_template, label_names)}")
+            print(f"SAMPLE PROMPT: {to_prompt(data[0], prompt_template, label_names)}")
 
             # inference
             if exists(f'outputs/{dataset}_{task}_{lang}_{prompt_id}_{MODEL.split("/")[-1]}.csv'):
@@ -156,11 +160,10 @@ if __name__ == '__main__':
                             continue
                         # perform zero-shot / few-shot Inference
                         prompt_text = to_prompt(sample, prompt_template, label_names, with_label=False)
-                        prompt_text = '\n\n'.join(few_shot_text_list + [prompt_text])
                         out = predict_classification(model, tokenizer, prompt_text, label_names)
                         pred = argmax([o.cpu().detach() for o in out])
                         inputs.append(prompt_text)
-                        preds.append(pred)
+                        preds.append(id_to_label_dict[pred] if type(sample['label']) == str else pred)
                         golds.append(sample['label'])
 
                         # partial saving
