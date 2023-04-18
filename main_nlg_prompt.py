@@ -1,6 +1,7 @@
 import os, sys
 import csv
 from os.path import exists
+import glob
 
 from numpy import argmax
 import pandas as pd
@@ -18,26 +19,28 @@ import datasets
 from anyascii import anyascii
 import time
 
+from utils.data_utils import load_sequence_classification_dataset, SequenceClassificationDataset, load_dataset
 from utils.metrics import sentiment_metrics_fn, generation_metrics_fn
-
-openai.api_key = ""
-
 
 DEBUG=True
 
-""" Generation metrics """
-bleu = datasets.load_metric('bleu')
-rouge = datasets.load_metric('rouge')
-sacrebleu = datasets.load_metric('sacrebleu')
-chrf = datasets.load_metric('chrf')
-squad_v2_metric = datasets.load_metric('squad_v2')
-mt = MosesTokenizer(lang='id')
 """# Loading NLG Datasets"""
 
 lang_map = {
-    'hi': 'hindi',
-    'en': 'english',
+    'abs': 'Ambonese',
+    'btk': 'Batak',
+    'bew': 'Betawi',
+    'bhp': 'Bima',
+    'jav': 'Javanese',
+    'mad': 'Madurese',
+    'mak': 'Makassarese',
+    'min': 'Minangkabau',
+    'mui': 'Musi',
+    'rej': 'Rejang',
+    'sun': 'Sundanese',
+    'ind': 'Indonesian'
 }
+
 def to_prompt(input, prompt, lang, to_ind=False, with_label=False):
     if not to_ind:
         src_text, tgt_text = input['ind_text'], input['tgt_text']
@@ -111,11 +114,15 @@ if __name__ == '__main__':
     if model is not None:
         model = model.eval()
 
-    # ind -> xxx
+    # Result Buffer
     metrics = { 'dataset':[], 'task':[], 'src_lang':[], 'tgt_lang':[] }
+    
+    ######
+    # ind -> xxx
+    ######
     for (dataset, task, lang), dset in nlg_datasets.items():        
         print(f'{dataset} | {task} | {lang}')
-        if (dataset, task, lang) not in prompt_templates or prompt_templates[task] is None:
+        if task not in prompt_templates or prompt_templates[task] is None:
             print('SKIP')
             continue
     
@@ -147,17 +154,17 @@ if __name__ == '__main__':
                         if e < len(preds):
                             continue
                         prompt_text = to_prompt(sample, prompt_template, lang, to_ind=False)
-                        prompt_text = '\n\n'.join(few_shot_text_list + [prompt_text])
                         pred = predict_generation(prompt_text, MODEL)
                         
                         inputs.append(prompt_text)
                         preds.append(pred)
-                        golds.append(sample['translation'][tgt_lang])
+                        golds.append(sample['tgt_text'])
                 
                         # partial saving
                         if len(preds) % 10 == 0:
                             inference_df = pd.DataFrame(list(zip(inputs, preds, golds)), columns=['Input', 'Pred', 'Gold'])
                             inference_df.to_csv(f'./outputs_nlg/{dataset}_{task}_{prompt_id}_ind_{lang}_{MODEL.split("/")[-1]}.csv', index=False)
+                        break
 
             # final save
             inference_df = pd.DataFrame(list(zip(inputs, preds, golds)), columns=['Input', 'Pred', 'Gold'])
@@ -180,10 +187,12 @@ if __name__ == '__main__':
                     metrics[k] = []
                 metrics[k].append(eval_metric[k])
 
+    ######
     # xxx -> ind
+    ######
     for (dataset, task, lang), dset in nlg_datasets.items():        
         print(f'{dataset} | {task} | {lang}')
-        if (dataset, task, lang) not in prompt_templates or prompt_templates[task] is None:
+        if task not in prompt_templates or prompt_templates[task] is None:
             print('SKIP')
             continue
     
@@ -215,12 +224,11 @@ if __name__ == '__main__':
                         if e < len(preds):
                             continue
                         prompt_text = to_prompt(sample, prompt_template, lang, to_ind=True)
-                        prompt_text = '\n\n'.join(few_shot_text_list + [prompt_text])
                         pred = predict_generation(prompt_text, MODEL)
                         
                         inputs.append(prompt_text)
                         preds.append(pred)
-                        golds.append(sample['translation'][tgt_lang])
+                        golds.append(sample['ind_text'])
                 
                         # partial saving
                         if len(preds) % 10 == 0:
