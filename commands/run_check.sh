@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# ONLY FOR CHECKING PURPOSES
+
 export CUDA_VISIBLE_DEVICES=0
 
 ##### RUN_NLU #####
