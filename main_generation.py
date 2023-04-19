@@ -41,7 +41,7 @@ def metrics_to_string(metric_dict):
 ###
     
 # Evaluate function for validation and test
-def evaluate(model, data_loader, forward_fn, metrics_fn, model_type, tokenizer, beam_size=1, max_seq_len=512, is_test=False, device='cpu'):
+def evaluate_language_model(model, data_loader, forward_fn, metrics_fn, model_type, tokenizer, beam_size=1, max_seq_len=512, is_test=False, device='cpu'):
     model.eval()
     torch.set_grad_enabled(False)
     
@@ -76,8 +76,13 @@ def evaluate(model, data_loader, forward_fn, metrics_fn, model_type, tokenizer, 
     else:
         return total_loss/(i+1), metrics
 
+# Evaluate function for validation and test
+def evaluate_classical(list_hyp, list_label, metrics_fn):
+    metrics = metrics_fn(list_hyp, list_label)        
+    return None, metrics, list_hyp, list_label
+
 # Training function and trainer
-def train(model, train_loader, valid_loader, optimizer, forward_fn, metrics_fn, valid_criterion, tokenizer, n_epochs, evaluate_every=1, early_stop=3, step_size=1, gamma=0.5, max_norm=10, grad_accum=1, beam_size=1, max_seq_len=512, model_type='bart', model_dir="", exp_id=None, fp16=False, device='cpu'):
+def train_language_model(model, train_loader, valid_loader, optimizer, forward_fn, metrics_fn, valid_criterion, tokenizer, n_epochs, evaluate_every=1, early_stop=3, step_size=1, gamma=0.5, max_norm=10, grad_accum=1, beam_size=1, max_seq_len=512, model_type='bart', model_dir="", exp_id=None, fp16=False, device='cpu'):
     scheduler = StepLR(optimizer, step_size=step_size, gamma=gamma)
 
     best_val_metric = -100
@@ -166,37 +171,28 @@ def train(model, train_loader, valid_loader, optimizer, forward_fn, metrics_fn, 
                 if count_stop == early_stop:
                     break
 
-if __name__ == "__main__":
-    # Make sure cuda is deterministic
-    torch.backends.cudnn.deterministic = True
-    
-    # Parse args
-    args = get_generation_parser()
-    args = append_generation_dataset_args(args)
-    args = append_generation_model_args(args)
+## Helper 1: Create output directory
+def create_output_directory(model_dir, dataset_name, task, dataset_lang, model_checkpoint, seed, num_sample, force):
+    output_dir = '{}/{}/{}/{}/{}_{}_{}'.format(
+        model_dir,
+        dataset_name,
+        task,
+        dataset_lang,
+        model_checkpoint.replace('/','-'),
+        seed,
+        num_sample,
+    )
+    print(f"output_dir: {output_dir}")
 
-    ## Helper 1: Create output directory
-    def create_output_directory(model_dir, dataset_name, task, dataset_lang, model_checkpoint, seed, num_sample, force):
-        output_dir = '{}/{}/{}/{}/{}_{}_{}'.format(
-            model_dir,
-            dataset_name,
-            task,
-            dataset_lang,
-            model_checkpoint.replace('/','-'),
-            seed,
-            num_sample,
-        )
-        print(f"output_dir: {output_dir}")
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir, exist_ok=True)
+    elif args['force']:
+        print(f'overwriting model directory `{output_dir}`')
+    else:
+        raise Exception(f'model directory `{output_dir}` already exists, use --force if you want to overwrite the folder')
+    return output_dir
 
-        if not os.path.exists(output_dir):
-            os.makedirs(output_dir, exist_ok=True)
-        elif args['force']:
-            print(f'overwriting model directory `{output_dir}`')
-        else:
-            raise Exception(f'model directory `{output_dir}` already exists, use --force if you want to overwrite the folder')
-        return output_dir
-
-
+def process_language_model_benchmark(args):
     # Specify output dir
     output_dir = create_output_directory(
         args["model_dir"],
@@ -276,7 +272,7 @@ if __name__ == "__main__":
 
     print("=========== TRAINING PHASE ===========")
     # Train
-    train(model, train_loader=train_loader, valid_loader=valid_loader, optimizer=optimizer, forward_fn=args['forward_fn'], metrics_fn=args['metrics_fn'], valid_criterion=args['valid_criterion'], tokenizer=tokenizer, n_epochs=args['n_epochs'], evaluate_every=1, early_stop=args['early_stop'], grad_accum=args['grad_accumulate'], step_size=args['step_size'], gamma=args['gamma'], max_norm=args['max_norm'], model_type=args['model_type'], beam_size=args['beam_size'], max_seq_len=args['max_seq_len'], model_dir=args["model_dir"], exp_id=0, fp16=args['fp16'], device=args['device'])
+    train_language_model(model, train_loader=train_loader, valid_loader=valid_loader, optimizer=optimizer, forward_fn=args['forward_fn'], metrics_fn=args['metrics_fn'], valid_criterion=args['valid_criterion'], tokenizer=tokenizer, n_epochs=args['n_epochs'], evaluate_every=1, early_stop=args['early_stop'], grad_accum=args['grad_accumulate'], step_size=args['step_size'], gamma=args['gamma'], max_norm=args['max_norm'], model_type=args['model_type'], beam_size=args['beam_size'], max_seq_len=args['max_seq_len'], model_dir=args["model_dir"], exp_id=0, fp16=args['fp16'], device=args['device'])
 
     # Save Meta
     if vocab_path:
@@ -289,8 +285,18 @@ if __name__ == "__main__":
 
     # Evaluation
     print("=========== EVALUATION PHASE ===========")
-    test_loss, test_metrics, test_hyp, test_label = evaluate(model, data_loader=test_loader, forward_fn=args['forward_fn'], metrics_fn=args['metrics_fn'], 
-            model_type=args['model_type'], tokenizer=tokenizer, beam_size=args['beam_size'], max_seq_len=args['max_seq_len'], is_test=True, device=args['device'])
+    test_loss, test_metrics, test_hyp, test_label = evaluate_language_model(
+        model=model, 
+        data_loader=test_loader, 
+        forward_fn=args['forward_fn'], 
+        metrics_fn=args['metrics_fn'], 
+        model_type=args['model_type'], 
+        tokenizer=tokenizer, 
+        beam_size=args['beam_size'], 
+        max_seq_len=args['max_seq_len'], 
+        is_test=True, 
+        device=args['device']
+    )
 
     metrics_scores.append(test_metrics)
     result_dfs.append(pd.DataFrame({
@@ -310,3 +316,91 @@ if __name__ == "__main__":
     
     result_df.to_csv(args["model_dir"] + "/prediction_result.csv")
     metric_df.describe().to_csv(args["model_dir"] + "/evaluation_result.csv")
+
+def process_classical_benchmark(args):
+    # Specify output dir
+    output_dir = create_output_directory(
+        args["model_dir"],
+        args["dataset_name"],
+        args["task"],
+        args["lang"],
+        args['model_type'].replace('/','-'),
+        args['seed'],
+        args["num_sample"],
+        args["force"]
+    )
+
+    # Set random seed
+    set_seed(args['seed'])  # Added here for reproductibility    
+    
+    metrics_scores = []
+    result_dfs = []
+
+    # Load dset
+    dset = load_dataset(
+        dataset=args["dataset_name"],
+        task=args["task"],
+        lang=args["lang"],
+        num_sample=int(args["num_sample"]),
+        base_path="./data"
+    )
+    print(f"#Datapoints on train dataset: {len(dset['train'])}")
+    print(f"#Datapoints on valid dataset: {len(dset['valid'])}")
+    print(f"#Datapoints on test dataset: {len(dset['test'])}")
+
+    if args['model_type'] == "copy":
+        testset_df = pd.DataFrame(dset["test"]) 
+        list_hyp = testset_df['ind_text'].tolist()
+        list_label = testset_df['tgt_text'].tolist()
+    elif args['model_type'] == "word-substitution":
+        raise Error("Not Implemented")
+    elif args['model_type'] == "pbsmt":
+        raise Error("Not Implemented")
+    else:
+        raise ValueError(f"Error: Unknown model_type {args['model_type']}")
+
+    # Evaluation
+    print("=========== EVALUATION PHASE ===========")
+    test_loss, test_metrics, test_hyp, test_label = evaluate_classical(
+        list_hyp=list_hyp, 
+        list_label=list_label, 
+        metrics_fn=args['metrics_fn'], 
+    )
+
+    metrics_scores.append(test_metrics)
+    result_dfs.append(pd.DataFrame({
+        'hyp': test_hyp, 
+        'label': test_label
+    }))
+    
+    result_df = pd.concat(result_dfs)
+    metric_df = pd.DataFrame.from_records(metrics_scores)
+    
+    print('== Prediction Result ==')
+    print(result_df.head())
+    print()
+    
+    print('== Model Performance ==')
+    print(metric_df.describe())
+    
+    result_df.to_csv(args["model_dir"] + "/prediction_result.csv")
+    metric_df.describe().to_csv(args["model_dir"] + "/evaluation_result.csv")
+
+
+
+if __name__ == "__main__":
+    # Make sure cuda is deterministic
+    torch.backends.cudnn.deterministic = True
+    
+    # Parse args
+    args = get_generation_parser()
+    args = append_generation_dataset_args(args)
+    args = append_generation_model_args(args)
+
+    if args['model_type'] in ["indo-bart", "indo-gpt2"]:
+        process_language_model_benchmark(args)
+    elif args['model_type'] in ["copy", "word-substitution"]:
+        process_classical_benchmark(args)
+    else:
+        raise ValueError(f"Error: unrecognized model type: {args['model_type']}")
+
