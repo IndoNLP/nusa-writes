@@ -16,7 +16,7 @@ python main.py --dataset_name nusa_kalimat --task senti --lang btk --model_check
 python main.py --dataset_name nusa_kalimat --task senti --lang btk --model_checkpoint xlm-roberta-base --n_epochs 100 --lr 1e-5 --train_batch_size 32 --eval_batch_size 32 --seed 0 --num_sample -1 --force
 rm -r save/nusa_kalimat/senti/btk/*/checkpoint*
 
-##### RUN_NLG #####
+# ##### RUN_NLG #####
 
 python main_generation.py --lang rej --model_type indo-bart --device "cuda" --n_epochs 100 --lr 1e-5 --train_batch_size 8 --valid_batch_size 8 --test_batch_size 8 --seed 43 --num_sample -1 --force
 
