@@ -106,7 +106,7 @@ if __name__ == '__main__':
         if "xxl" not in MODEL:
             model = AutoModelForSeq2SeqLM.from_pretrained(MODEL).to('cuda')
         else:
-             model = AutoModelForSeq2SeqLM.from_pretrained(MODEL, device_map="auto")
+             model = AutoModelForSeq2SeqLM.from_pretrained(MODEL, device_map="auto", load_in_8bit=True)
 
     model.eval()
     torch.no_grad()

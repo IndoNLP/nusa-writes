@@ -104,7 +104,7 @@ if __name__ == '__main__':
         model = None
     elif 'mt0' in MODEL:
         if "xxl" in MODEL:
-            model = AutoModelForSeq2SeqLM.from_pretrained(MODEL, device_map="auto")
+            model = AutoModelForSeq2SeqLM.from_pretrained(MODEL, device_map="auto", load_in_8bit=True)
         else:
             model = AutoModelForSeq2SeqLM.from_pretrained(MODEL)
             model = model.to('cuda')
