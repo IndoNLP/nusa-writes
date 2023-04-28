@@ -141,7 +141,7 @@ if __name__ == '__main__':
             print(f"SAMPLE PROMPT: {to_prompt(data[0], prompt_template, label_names)}")
 
             # inference
-            if exists(f'outputs/{dataset}_{task}_{lang}_{prompt_id}_{MODEL.split("/")[-1]}.csv'):
+            if exists(f'outputs_nlu/{dataset}_{task}_{lang}_{prompt_id}_{MODEL.split("/")[-1]}.csv'):
                 print("Output exist, use partial log instead")
                 with open(f'outputs_nlu/{dataset}_{task}_{lang}_{prompt_id}_{MODEL.split("/")[-1]}.csv') as csvfile:
                     reader = csv.DictReader(csvfile)
