@@ -129,12 +129,12 @@ if __name__ == "__main__":
         weight_decay=args["gamma"],               # strength of weight decay
         gradient_accumulation_steps=args["grad_accum"], # Gradient accumulation
         logging_dir=logging_dir,            # directory for storing logs
-        logging_strategy="epoch",
+        logging_strategy="steps",
         evaluation_strategy='steps',
         save_strategy="steps",
-        # logging_steps=logging_steps,
-        eval_steps=150,
-        save_steps=150,
+        logging_steps=10,
+        eval_steps=300,
+        save_steps=300,
         load_best_model_at_end = True,
         save_total_limit=1
     )
