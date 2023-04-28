@@ -12,6 +12,7 @@ transformers==4.27.4
 sentencepiece==0.1.95
 datasets==2.11.0
 torch==1.11.0
+indobenchmark-toolkit==0.1.6
 #for compatibility in torch preset version defined
 torchvision==0.12.0
 torchtext==0.12.0
