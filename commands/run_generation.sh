@@ -1,14 +1,16 @@
 #!/bin/bash
 
+export CUDA_VISIBLE_DEVICES=0
+
 # hyperparams to execute script, pls change it appropriately for your needs
-num_sample=4
-train_batch_size=4
-valid_batch_size=4
-test_batch_size=4
-seed=0
-n_epochs=2
-lr=10e-5
-device=cpu
+num_sample=-1
+train_batch_size=8
+valid_batch_size=8
+test_batch_size=8
+seed=43
+n_epochs=100
+lr=1e-5
+device=cuda
 
 echo "Current directory: $PWD"
 

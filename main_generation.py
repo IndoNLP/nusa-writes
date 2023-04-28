@@ -77,7 +77,7 @@ def evaluate(model, data_loader, forward_fn, metrics_fn, model_type, tokenizer, 
         return total_loss/(i+1), metrics
 
 # Training function and trainer
-def train(model, train_loader, valid_loader, optimizer, forward_fn, metrics_fn, valid_criterion, tokenizer, n_epochs, evaluate_every=1, early_stop=3, step_size=1, gamma=0.5, max_norm=10, grad_accum=1, beam_size=1, max_seq_len=512, model_type='bart', model_dir="", exp_id=None, fp16=False, device='cpu'):
+def train(model, train_loader, valid_loader, optimizer, forward_fn, metrics_fn, valid_criterion, tokenizer, n_epochs, evaluate_every=1, early_stop=3, step_size=1, gamma=0.5, max_norm=10, grad_accum=1, beam_size=1, max_seq_len=512, model_type='bart', output_dir="", exp_id=None, fp16=False, device='cpu'):
     scheduler = StepLR(optimizer, step_size=step_size, gamma=gamma)
 
     best_val_metric = -100
@@ -156,9 +156,9 @@ def train(model, train_loader, valid_loader, optimizer, forward_fn, metrics_fn, 
                 best_val_metric = val_metric
                 # save model
                 if exp_id is not None:
-                    torch.save(model.state_dict(), model_dir + "/best_model_" + str(exp_id) + ".th")
+                    torch.save(model.state_dict(), output_dir + "/best_model_" + str(exp_id) + ".th")
                 else:
-                    torch.save(model.state_dict(), model_dir + "/best_model.th")
+                    torch.save(model.state_dict(), output_dir + "/best_model.th")
                 count_stop = 0
             else:
                 count_stop += 1
@@ -208,6 +208,7 @@ if __name__ == "__main__":
         args["num_sample"],
         args["force"]
     )
+    args["output_dir"] = output_dir
 
     # Set random seed
     set_seed(args['seed'])  # Added here for reproductibility    
@@ -231,13 +232,11 @@ if __name__ == "__main__":
     model, tokenizer, vocab_path, config_path = load_generation_model(args)
     optimizer = optim.Adam(model.parameters(), lr=args['lr'])
 
-    # set a specific cuda device
-    if "cuda" in args["device"]:
-        torch.cuda.set_device(int(args["device"][4:]))
-        args["device"] = "cuda"
-
     if args['device'] == "cuda":
         model = model.cuda()
+    elif "cuda:" in args["device"]: # set a specific cuda device
+        torch.cuda.set_device(int(args["device"].split(":")[-1]))
+        args["device"] = "cuda"
 
     if type(tokenizer) == IndoNLGTokenizer:
         src_lid = tokenizer.special_tokens_to_ids[args['source_lang']]
@@ -276,16 +275,16 @@ if __name__ == "__main__":
 
     print("=========== TRAINING PHASE ===========")
     # Train
-    train(model, train_loader=train_loader, valid_loader=valid_loader, optimizer=optimizer, forward_fn=args['forward_fn'], metrics_fn=args['metrics_fn'], valid_criterion=args['valid_criterion'], tokenizer=tokenizer, n_epochs=args['n_epochs'], evaluate_every=1, early_stop=args['early_stop'], grad_accum=args['grad_accumulate'], step_size=args['step_size'], gamma=args['gamma'], max_norm=args['max_norm'], model_type=args['model_type'], beam_size=args['beam_size'], max_seq_len=args['max_seq_len'], model_dir=args["model_dir"], exp_id=0, fp16=args['fp16'], device=args['device'])
+    train(model, train_loader=train_loader, valid_loader=valid_loader, optimizer=optimizer, forward_fn=args['forward_fn'], metrics_fn=args['metrics_fn'], valid_criterion=args['valid_criterion'], tokenizer=tokenizer, n_epochs=args['n_epochs'], evaluate_every=1, early_stop=args['early_stop'], grad_accum=args['grad_accumulate'], step_size=args['step_size'], gamma=args['gamma'], max_norm=args['max_norm'], model_type=args['model_type'], beam_size=args['beam_size'], max_seq_len=args['max_seq_len'], output_dir=args["output_dir"], exp_id=0, fp16=args['fp16'], device=args['device'])
 
     # Save Meta
     if vocab_path:
-        shutil.copyfile(vocab_path, f'{args["model_dir"]}/vocab.txt')
+        shutil.copyfile(vocab_path, f'{args["output_dir"]}/vocab.txt')
     if config_path:
-        shutil.copyfile(config_path, f'{args["model_dir"]}/config.json')
+        shutil.copyfile(config_path, f'{args["output_dir"]}/config.json')
         
     # Load best model
-    model.load_state_dict(torch.load(args["model_dir"] + "/best_model_0.th"))
+    model.load_state_dict(torch.load(args["output_dir"] + "/best_model_0.th"))
 
     # Evaluation
     print("=========== EVALUATION PHASE ===========")
@@ -308,5 +307,5 @@ if __name__ == "__main__":
     print('== Model Performance ==')
     print(metric_df.describe())
     
-    result_df.to_csv(args["model_dir"] + "/prediction_result.csv")
-    metric_df.describe().to_csv(args["model_dir"] + "/evaluation_result.csv")
+    result_df.to_csv(args["output_dir"] + "/prediction_result.csv")
+    metric_df.describe().to_csv(args["output_dir"] + "/evaluation_result.csv")
