@@ -1,0 +1,1233 @@
+# Sentence pair (3) source length 16 target length 18 alignment score : 5.55634e-11
+iya kak terima kasih . tetapi tadi sudah datang ke galeri indosatnya langsung . sudah normal kembali . 
+NULL ({ }) iya ({ 1 }) kak ({ 2 }) terimakasih ({ 3 4 }) . ({ 5 }) tapi ({ 6 }) tadi ({ 7 }) sudah ({ 8 }) datang ({ 9 }) ke ({ 10 }) galeri ({ 11 }) indosatnya ({ 12 }) langsung ({ 13 }) . ({ 14 }) sudah ({ 15 }) normal ({ 16 17 }) lagi ({ 18 }) 
+# Sentence pair (8) source length 18 target length 19 alignment score : 4.74705e-10
+saldo terpotong , tapi uang tidak keluar . ini sudah kali kedua saya melakukan penarikan tunai di atm . 
+NULL ({ 3 }) saldo ({ 1 }) kepotong ({ 2 }) tapi ({ 4 }) uang ({ 5 }) nggak ({ 6 }) keluar ({ 7 }) . ({ 8 }) ini ({ 9 }) udah ({ 10 }) kali ({ 11 }) kedua ({ 12 }) saya ({ 13 }) melakukan ({ 14 }) penarikan ({ 15 }) tunai ({ 16 }) di ({ 17 }) atm ({ 18 }) . ({ 19 }) 
+# Sentence pair (18) source length 21 target length 23 alignment score : 9.99758e-15
+pelanggan : pak , bisa ambil orderan go food saya ? driver : bisa bu , maaf abis dansa . pelanggan : . 
+NULL ({ 4 }) cust ({ 1 }) : ({ 2 }) pak ({ 3 }) bisa ({ 5 }) ambil ({ 6 }) orderan ({ 7 }) gofood ({ 8 9 }) saya ({ 10 }) ? ({ 11 }) driver ({ 12 }) : ({ 13 }) bisa ({ 14 }) bu ({ 15 }) , ({ 16 }) maaf ({ 17 }) abis ({ 18 }) joget ({ 19 }) . ({ 20 }) cust ({ 21 }) : ({ 22 }) . ({ 23 }) 
+# Sentence pair (25) source length 10 target length 10 alignment score : 3.05443e-06
+what ’ s happening xxxuserxxx ? grabfood tidak bisa . 
+NULL ({ }) what ({ 1 }) ’ ({ 2 }) s ({ 3 }) happening ({ 4 }) xxxuserxxx ({ 5 }) ? ({ 6 }) grab ({ }) foodnya ({ 7 }) gak ({ 8 }) bisaa ({ 9 10 }) 
+# Sentence pair (26) source length 11 target length 12 alignment score : 4.55682e-07
+admin , kode promo ovopayday di app saya mengapa tidak muncul ? 
+NULL ({ }) min ({ 1 }) , ({ 2 }) kode ({ 3 }) promo ({ 4 }) ovopayday ({ 5 }) di ({ 6 }) app ({ 7 }) saya ({ 8 }) kok ({ 9 }) ga ({ 10 }) muncul ({ 11 12 }) 
+# Sentence pair (29) source length 13 target length 12 alignment score : 5.96142e-08
+iya , tidak bisa sudah diandalkan yang model seperti ini hehe . 
+NULL ({ }) iye ({ 1 }) , ({ 2 }) ga ({ 3 }) bisa ({ 4 }) dah ({ 5 }) diandelin ({ 6 }) yang ({ 7 }) model ({ 8 }) begini ({ 9 }) he ({ 10 }) . ({ }) he ({ 11 }) . ({ 12 }) 
+# Sentence pair (32) source length 7 target length 12 alignment score : 2.22405e-13
+kita balas - membalas pesan otomatis masuk notification - nya markonah . 
+NULL ({ 12 }) kita ({ 1 }) reply2an ({ 2 }) kan ({ }) otomatis ({ 6 }) masuk ({ 7 }) notificatione ({ 8 }) markonah ({ 3 4 5 9 10 11 }) 
+# Sentence pair (33) source length 22 target length 25 alignment score : 9.25724e-14
+malam grab . pesanan saya malam ini tiba - tiba selesai , sebelum sampai . sudah melakukan pengaduan melalui email . berapa lama prosesnya ? 
+NULL ({ 12 }) malam ({ 1 }) grab ({ 2 }) . ({ 3 }) pesanan ({ 4 }) saya ({ 5 }) malam ({ 6 }) ini ({ 7 }) tiba2 ({ 8 9 10 }) selesai ({ 11 }) sebelum ({ 13 }) sampai ({ 14 }) . ({ 15 }) sudah ({ 16 }) melakukan ({ 17 }) pengaduan ({ 18 }) via ({ 19 }) email ({ 20 }) . ({ 21 }) berapa ({ 22 }) lama ({ 23 }) prosesnya ({ 24 }) ? ({ 25 }) 
+# Sentence pair (53) source length 17 target length 18 alignment score : 2.95223e-14
+kak , untuk layanan grab bandara . apakah harga yang tertera di aplikasi sudah termasuk biaya tol ? 
+NULL ({ 2 7 }) kak ({ 1 }) untuk ({ 3 }) layanan ({ 4 }) grab ({ 5 }) airport ({ 6 8 }) harga ({ 9 }) yang ({ 10 }) tertera ({ 11 }) di ({ 12 }) aplikasi ({ 13 }) sudah ({ 14 }) termasuk ({ 15 }) biaya ({ 16 }) tol ({ 17 }) belum ({ }) ya ({ }) ? ({ 18 }) 
+# Sentence pair (57) source length 22 target length 20 alignment score : 5.62082e-10
+admin , saya tadi beli voucher paket data yang xxxnumberxxx gb , tapi kenapa tidak bisa masuk paket datanya ? 
+NULL ({ }) min ({ 1 }) , ({ 2 }) sy ({ 3 }) tadi ({ 4 }) beli ({ 5 }) vocher ({ 6 }) paketan ({ 7 }) data ({ 8 }) yang ({ 9 }) xxxnumberxxx ({ 10 }) xxxnumberxxx ({ }) gb ({ 11 }) , ({ 12 }) tapi ({ 13 }) kok ({ 14 }) tidak ({ 15 }) bisa ({ 16 }) masuk ({ 17 }) ya ({ }) paketan ({ 18 }) datanya ({ 19 }) . ({ 20 }) 
+# Sentence pair (63) source length 13 target length 13 alignment score : 4.34999e-06
+kenapa beli pulsa ini tidak juga dikonfirmasi operator ? pulsa belum masuk . 
+NULL ({ }) kenapa ({ 1 }) beli ({ 2 }) pulsa ({ 3 }) ini ({ 4 }) tidak ({ 5 }) juga ({ 6 }) dikonfirmasi ({ 7 }) operator ({ 8 }) ? ({ 9 }) pulsa ({ 10 }) belum ({ 11 }) masuk ({ 12 }) ini ({ 13 }) 
+# Sentence pair (65) source length 6 target length 10 alignment score : 4.09427e-14
+tidak tahu cell . takutnya , seperti itu hahaha . 
+NULL ({ 4 10 }) gatau ({ 1 }) cell ({ 2 }) takutnya ({ 3 5 }) sih ({ 6 }) gitu ({ 7 8 }) hh ({ 9 }) 
+# Sentence pair (67) source length 6 target length 8 alignment score : 9.84851e-09
+lapor . bts mati di daerah kami . 
+NULL ({ 2 8 }) lapor ({ 1 }) bts ({ 3 }) mati ({ 4 }) di ({ 5 }) daerah ({ 6 }) kami ({ 7 }) 
+# Sentence pair (69) source length 8 target length 11 alignment score : 1.36311e-09
+si merah di sini xxxnumberxxx g + lek , hahaha . 
+NULL ({ 11 }) si ({ 1 }) merah ({ 2 }) disini ({ 3 4 }) xxxnumberxxx ({ 5 }) g ({ 6 }) + ({ 7 }) lek ({ 8 }) wkwkwk ({ 9 10 }) 
+# Sentence pair (72) source length 16 target length 16 alignment score : 4.56296e-07
+admin kalau mau membuat nomor kartu halo baru yang xxxnumberxxx itu bagaimana prosedur dan biayanya ? 
+NULL ({ }) min ({ 1 }) kalau ({ 2 }) mau ({ 3 }) buat ({ 4 }) nomer ({ 5 }) kartu ({ 6 }) halo ({ 7 }) baru ({ 8 }) yang ({ 9 }) xxxnumberxxx ({ 10 }) itu ({ 11 }) bagaimana ({ 12 }) prosedur ({ 13 }) dan ({ 14 }) biayanya ({ 15 }) ? ({ 16 }) 
+# Sentence pair (77) source length 12 target length 13 alignment score : 8.71141e-07
+cukup frey , saya dan xxxuserxxx teman saya senang kalau harga kembali . 
+NULL ({ 13 }) cukup ({ 1 }) frey ({ 2 }) , ({ 3 }) saya ({ 4 }) dan ({ 5 }) xxxuserxxx ({ 6 }) teman ({ 7 }) saya ({ 8 }) senang ({ 9 }) kalau ({ 10 }) harga ({ 11 }) kembali ({ 12 }) 
+# Sentence pair (78) source length 18 target length 19 alignment score : 4.04632e-13
+selamat pagi , admin . you have no internet connection . please check your connection and try again . 
+NULL ({ 19 }) selamat ({ 1 }) pagi ({ 2 }) , ({ 3 }) min ({ 4 }) ! ({ 5 }) you ({ 6 }) have ({ 7 }) no ({ 8 }) internet ({ 9 }) connection ({ 10 }) . ({ 11 }) please ({ 12 }) check ({ 13 }) your ({ 14 }) connection ({ 15 }) and ({ 16 }) try ({ 17 }) again ({ 18 }) 
+# Sentence pair (87) source length 24 target length 26 alignment score : 2.01678e-17
+admin , ini layanan grabfood di semarang apakah sedang masalah atau bagaimana ? dari kemarin pesan tidak bisa - bisa . tulisannya pengemudi sibuk semua . 
+NULL ({ }) min ({ 1 }) . ({ 2 }) ini ({ 3 }) layanan ({ 4 }) grabfood ({ 5 }) di ({ 6 }) semarang ({ 7 }) apa ({ 8 }) lagi ({ 9 }) trouble ({ 10 }) atau ({ 11 }) gimana ({ 12 }) sih ({ }) ? ({ 13 }) dari ({ 14 }) kemaren ({ 15 }) pesen ({ 16 }) gabisa2 ({ 17 18 19 20 }) . ({ 21 }) tulisannya ({ 22 }) pengemudi ({ 23 }) sibuk ({ 24 }) semua ({ 25 }) . ({ 26 }) 
+# Sentence pair (98) source length 12 target length 12 alignment score : 4.5168e-07
+dear xxxuserxxx , tolong baca dm dari saya , terima kasih . 
+NULL ({ 3 }) dear ({ 1 }) xxxuserxxx ({ 2 }) tolong ({ 4 }) baca ({ 5 }) dm ({ 6 }) dari ({ 7 }) saya ({ 8 }) ya ({ }) , ({ 9 }) terima ({ 10 }) kasih ({ 11 }) . ({ 12 }) 
+# Sentence pair (101) source length 16 target length 22 alignment score : 6.64917e-18
+tolong ya , antar paket saya ke rumah . sudah terlalu lama menunggunya . nomor resi jp xxxphonexxx dan jp xxxphonexxx . 
+NULL ({ 14 22 }) tolong ({ 1 }) ya ({ 2 3 }) antar ({ 4 }) paket ({ 5 }) sy ({ 6 }) kerumah ({ 7 8 }) , ({ 9 }) udh ({ 10 }) terlalu ({ 11 }) lama ({ 12 }) nunggunya ({ 13 15 16 }) jp ({ 17 }) xxxphonexxx ({ 18 }) dan ({ 19 }) jp ({ 20 }) xxxphonexxx ({ 21 }) 
+# Sentence pair (108) source length 11 target length 10 alignment score : 4.34126e-11
+apakah jaringan sedang terganggu malam ini ? daerah bali . 
+NULL ({ }) jaringan ({ 2 }) lagi ({ 3 }) tergangu ({ 4 }) kah ({ 1 }) malam ({ 5 }) ini ({ 6 }) ? ({ 7 }) - ({ }) bali ({ 8 }) area ({ 9 }) - ({ 10 }) 
+# Sentence pair (112) source length 10 target length 12 alignment score : 1.7458e-10
+mau dipaketkan dari tadi malam tidak bisa terus . bagaimana admin ? 
+NULL ({ }) mau ({ 1 }) dipaketin ({ 2 }) dr ({ 3 }) td ({ 4 }) malem ({ 5 }) gabsa ({ 6 7 }) terus ({ 8 9 }) gimana ({ 10 }) ya ({ 12 }) min ({ 11 }) 
+# Sentence pair (116) source length 21 target length 24 alignment score : 9.69193e-15
+admin , saya punya paketan telepon xxxnumberxxx x24 jam tapi barusan dipakai malah pulsa saya yang terpotong . tolong bantuannya untuk dikembalikan pulsanya . 
+NULL ({ 2 18 24 }) min ({ 1 }) saya ({ 3 }) punya ({ 4 }) paketan ({ 5 }) telpon ({ 6 }) xxxnumberxxx ({ 7 }) x24 ({ 8 }) jam ({ 9 }) tapi ({ 10 }) barusan ({ 11 }) dipake ({ 12 }) malah ({ 13 }) pulsa ({ 14 }) saya ({ 15 }) yg ({ 16 }) kepotong ({ 17 }) tolong ({ 19 }) bantuannya ({ 20 }) untuk ({ 21 }) dikembalikan ({ 22 }) pulsanya ({ 23 }) 
+# Sentence pair (128) source length 27 target length 26 alignment score : 7.07316e-19
+admin , mengapa minggu ini tidak ada promo grab ? saya tidak bisa makan enak harga murah , admin . admin , bantu , hahaha . 
+NULL ({ }) min ({ 1 }) , ({ 2 }) minggu ({ 4 }) ini ({ 5 }) kok ({ 3 }) promo ({ 8 }) grab ({ 9 }) kaga ({ 6 }) ada ({ 7 }) sih ({ }) . ({ 10 }) gw ({ 11 }) kaga ({ 12 }) bisa ({ 13 }) makan ({ 14 }) enak ({ 15 }) harga ({ 16 }) murah ({ 17 }) dong ({ 18 }) min ({ 19 }) . ({ 20 }) min ({ 21 }) , ({ 22 }) bantu ({ 23 }) dong ({ 24 }) wkwkwk ({ 25 }) . ({ 26 }) 
+# Sentence pair (143) source length 18 target length 18 alignment score : 2.80551e-10
+bangkunya tetap prioritas . jangan biasakan langsung mengambil bangku tengah , kasihan orang lagi tidur diminta bangun . 
+NULL ({ 11 }) bangkunya ({ 1 }) tetap ({ 2 }) prioritas ({ 3 }) , ({ 4 }) ya ({ }) jgn ({ 5 }) biasakan ({ 6 }) langsung ({ 7 }) ambil ({ 8 }) bangku ({ 9 }) tengah ({ 10 }) kasihan ({ 12 }) org ({ 13 }) lg ({ 14 }) tidur ({ 15 }) dsuruh ({ 16 }) bangun ({ 17 }) " ({ 18 }) 
+# Sentence pair (147) source length 6 target length 6 alignment score : 7.92788e-05
+tolong cek dm lagi admin . 
+NULL ({ }) tolongg ({ 1 }) cek ({ 2 }) dm ({ 3 }) lagi ({ 4 }) yaa ({ 6 }) min ({ 5 }) 
+# Sentence pair (150) source length 17 target length 18 alignment score : 1.76137e-13
+hai jnt xxxuserxxx . mau tanya mengapa paket yang saya kirim masih begini saja . mohon pencerahannya . 
+NULL ({ 4 18 }) hai ({ 1 }) jnt ({ 2 }) xxxuserxxx ({ 3 }) mau ({ 5 }) tanya ({ 6 }) dong ({ }) kenapa ({ 7 }) paket ({ 8 }) yg ({ 9 }) saya ({ 10 }) kirim ({ 11 }) masih ({ 12 }) gini ({ 13 }) aja ({ 14 }) ya ({ 15 }) mohon ({ 16 }) pencerahannya ({ 17 }) 
+# Sentence pair (154) source length 10 target length 9 alignment score : 1.23998e-09
+berapa lama proses pembukaan rekening tahaka melalui klikbca ? 
+NULL ({ }) kalo ({ }) proses ({ 3 }) pemrek ({ 4 }) tahaka ({ 5 6 }) via ({ 7 }) klikbca ({ 8 }) brp ({ 1 }) lama ({ 2 }) prosesnya ({ }) ? ({ 9 }) 
+# Sentence pair (156) source length 25 target length 24 alignment score : 1.73019e-09
+kembali kasih kak rizky , apabila ada pertanyaan atau kendala jangan ragu untuk dm atau mention kami di xxxuserxxx kak . salam mei . 
+NULL ({ }) kembali ({ 1 }) kasih ({ 2 }) kak ({ 3 }) rizky ({ 4 }) , ({ 5 }) apabila ({ 6 }) ada ({ 7 }) pertanyaan ({ 8 }) atau ({ 9 }) kendala ({ 10 }) jangan ({ 11 }) ragu ({ 12 }) untuk ({ 13 }) dm ({ 14 }) atau ({ 15 }) mention ({ 16 }) kami ({ 17 }) di ({ 18 }) xxxuserxxx ({ 19 }) ya ({ }) kak ({ 20 }) . ({ 21 }) salam ({ 22 }) ^ ({ 24 }) mei ({ 23 }) 
+# Sentence pair (170) source length 20 target length 19 alignment score : 7.31627e-16
+mengapa kuota internet lokal kami tidak dapat digunakan ? padahal , aktivasi di tempat domisili . bagaimana solusinya ? 
+NULL ({ 11 }) kenapa ({ 1 }) kuota ({ 2 }) internet ({ 3 }) lokal ({ 4 }) kami ({ 5 }) tidak ({ 6 }) bisa ({ 7 }) di ({ }) gunakan ({ 8 }) , ({ 9 }) padahal ({ 10 }) aktivasi ({ 12 }) di ({ 13 }) tempat ({ 14 }) domisili ({ 15 }) , ({ 16 }) bagaimana ({ 17 }) jalan ({ }) kluarnya ({ 18 }) , ({ 19 }) 
+# Sentence pair (175) source length 7 target length 6 alignment score : 0.00449962
+saya sudah balas via dm . 
+NULL ({ }) saya ({ 1 }) sudah ({ 2 }) balas ({ 3 }) via ({ 4 }) dm ({ 5 }) ya ({ }) , ({ 6 }) 
+# Sentence pair (177) source length 22 target length 23 alignment score : 2.41383e-12
+tidak ada pembenahan solusi antrian di kfc rata - rata xxxnumberxxx menit lebih di atas jam xxxnumberxxx . antrian bisa satu jam . 
+NULL ({ 18 23 }) tidak ({ 1 }) ada ({ 2 }) pembenahan ({ 3 }) solusi ({ 4 }) antrian ({ 5 }) di ({ 6 }) kfc ({ 7 }) rata ({ 8 }) - ({ 9 }) rata ({ 10 }) xxxnumberxxx ({ 11 }) xxxnumberxxx ({ }) mnit ({ 12 }) lebih ({ 13 }) di ({ 14 }) atas ({ 15 }) jam ({ 16 }) xxxnumberxxx ({ 17 }) antrian ({ 19 }) bisa ({ 20 }) satu ({ 21 }) jam ({ 22 }) 
+# Sentence pair (184) source length 15 target length 17 alignment score : 4.06576e-08
+aku orangnya sederhana . dapat gratis ongkos kirim saja bisa membuat perut senang . terima kasih . 
+NULL ({ }) aku ({ 1 }) orangnya ({ 2 }) sederhana ({ 3 }) . ({ 4 }) dapat ({ 5 }) gratis ({ 6 }) ongkir ({ 7 8 }) aja ({ 9 }) bisa ({ 10 }) bikin ({ 11 }) perut ({ 12 }) senang ({ 13 }) . ({ 14 }) makasih ({ 15 16 }) loh ({ 17 }) 
+# Sentence pair (187) source length 24 target length 23 alignment score : 2.4158e-12
+admin salah mengetiknya itu . sudah jelas di screenshotnya depannya itu xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx . 
+NULL ({ 23 }) mimin ({ 1 }) salah ({ 2 }) ngetiknya ({ 3 }) tuh ({ 4 }) , ({ 5 }) udh ({ 6 }) jelas ({ 7 }) di ({ 8 }) ss ({ 9 }) nya ({ }) depannya ({ 10 }) itu ({ 11 }) xxxnumberxxx ({ 12 }) xxxnumberxxx ({ 13 }) xxxnumberxxx ({ 14 }) xxxnumberxxx ({ 15 }) xxxnumberxxx ({ 16 }) . ({ }) xxxnumberxxx ({ 17 }) xxxnumberxxx ({ 18 }) xxxnumberxxx ({ 19 }) xxxnumberxxx ({ 20 }) xxxnumberxxx ({ 21 }) xxxnumberxxx ({ 22 }) 
+# Sentence pair (194) source length 11 target length 11 alignment score : 0.00019356
+halo ! kenapa resi wahana tidak update di history pengirimannya ? 
+NULL ({ }) hello ({ 1 }) ! ({ 2 }) kenapa ({ 3 }) resi ({ 4 }) wahana ({ 5 }) tidak ({ 6 }) update ({ 7 }) di ({ 8 }) history ({ 9 }) pengirimannya ({ 10 }) ? ({ 11 }) 
+# Sentence pair (196) source length 10 target length 11 alignment score : 7.02658e-07
+di android juga sama . btw ini video permintaan nya . 
+NULL ({ }) do ({ 1 }) android ({ 2 }) juga ({ 3 }) sama ({ 4 }) . ({ 5 }) btw ({ 6 }) ini ({ 7 }) video ({ 8 }) request ({ 9 }) nya ({ 10 11 }) 
+# Sentence pair (197) source length 24 target length 23 alignment score : 1.73799e-15
+hahaha . tetapi saya tanya sungguhan . saya pikir kalau akun institusi berbeda . kamu tetap bisa mention dia walaupun akunmu digembok . 
+NULL ({ 23 }) hahaha ({ 1 }) . ({ 2 }) etapi ({ 3 }) gw ({ 4 }) nanya ({ 5 }) beneran ({ 6 }) itu ({ }) , ({ 7 }) gw ({ 8 }) pikir ({ 9 }) klu ({ 10 }) akun ({ 11 }) institusi ({ 12 }) beda ({ 13 }) . ({ 14 }) lo ({ 15 }) tetep ({ 16 }) bisa ({ 17 }) mensyen ({ 18 }) dia ({ 19 }) walopun ({ 20 }) akun ({ }) lo ({ 21 }) digembok ({ 22 }) 
+# Sentence pair (203) source length 22 target length 24 alignment score : 2.42588e-10
+halo xxxuserxxx . sudah sejak kemarin jaringan anda lambat sekali di kendari , pekerjaan berantakan , ada solusi untuk saya ? terima kasih . 
+NULL ({ }) halo ({ 1 }) xxxuserxxx ({ 2 }) , ({ 3 }) sudah ({ 4 }) sejak ({ 5 }) kemaren ({ 6 }) jaringan ({ 7 }) anda ({ 8 }) lemoot ({ 9 }) pol ({ 10 }) di ({ 11 }) kendari ({ 12 }) , ({ 13 }) pekerjaan ({ 14 }) berantakan ({ 15 }) , ({ 16 }) ada ({ 17 }) solusi ({ 18 }) tuk ({ 19 }) saya ({ 20 }) ? ({ 21 }) thnks ({ 22 23 24 }) 
+# Sentence pair (212) source length 11 target length 14 alignment score : 2.30614e-18
+coba periksa dm - nya yaya . kamu seperti sepupu saya bernama yaya . 
+NULL ({ }) coba ({ 1 }) cek ({ 2 }) dmnya ({ 3 }) yaya ({ 4 }) , ({ 7 }) kaya ({ 9 }) sepupu ({ 10 }) gua ({ 11 }) lu ({ 8 }) namanya ({ }) yaya ({ 5 6 12 13 14 }) 
+# Sentence pair (219) source length 6 target length 7 alignment score : 6.34635e-05
+sedang menuju hari yang membuat panik . 
+NULL ({ 7 }) sedang ({ 1 }) menuju ({ 2 }) hari ({ 3 }) yang ({ 4 }) bikin ({ 5 }) panik ({ 6 }) 
+# Sentence pair (220) source length 13 target length 15 alignment score : 2.01506e-14
+pak , kenapa paket saya belum diantar - antar ? ini resinya jp xxxphonexxx . 
+NULL ({ 2 15 }) pak ({ 1 }) kenapa ({ 3 }) paket ({ 4 }) saya ({ 5 }) blum ({ 6 }) di ({ }) antar ({ 7 8 }) antar ({ 9 }) , ({ 10 }) ini ({ 11 }) resinya ({ 12 }) jp ({ 13 }) xxxphonexxx ({ 14 }) 
+# Sentence pair (224) source length 21 target length 21 alignment score : 1.11081e-18
+halo , selamat malam . saya ingin bertanya , apakah program kkb dapat dipergunakan untuk mobil bekas ? terima kasih . 
+NULL ({ 2 9 }) halo ({ 1 }) selamat ({ 3 }) malam ({ 4 }) . ({ 5 }) saya ({ 6 }) mau ({ 7 }) tanya ({ 8 }) kalo ({ 10 }) program ({ 11 }) kkb ({ 12 }) bisa ({ 13 }) dipergunakan ({ 14 }) untuk ({ 15 }) mobil ({ 16 }) bekas ({ 17 }) atau ({ }) tidak ({ }) ? ({ 18 }) terima ({ 19 }) kasih ({ 20 }) . ({ 21 }) 
+# Sentence pair (232) source length 7 target length 8 alignment score : 2.02131e-07
+wilayah pontianak abang dari xxxnumberxxx menjadi xxxnumberxxx . 
+NULL ({ 8 }) wilayah ({ 1 }) pontianak ({ 2 }) bang ({ 3 }) dari ({ 4 }) xxxnumberxxx ({ 5 }) jadi ({ 6 }) xxxnumberxxx ({ 7 }) 
+# Sentence pair (233) source length 15 target length 16 alignment score : 1.07914e-08
+assalamualaikum telkomsel xxxuserxxx ini jaringannya lagi mengapa ? sudah xxxnumberxxx g tapi tidak bisa dipakai . 
+NULL ({ }) semlikum ({ 1 }) telkomsel ({ 2 }) xxxuserxxx ({ 3 }) ini ({ 4 }) jaringannya ({ 5 }) lagi ({ 6 }) kenapa ({ 7 }) si ({ }) ? ({ 8 }) udah ({ 9 }) xxxnumberxxx ({ 10 }) g ({ 11 }) tapi ({ 12 }) gabisa ({ 13 14 }) dipakee ({ 15 16 }) 
+# Sentence pair (236) source length 9 target length 11 alignment score : 4.75716e-09
+admin . tolong ini , ada apa dengan toko saya ? 
+NULL ({ 2 }) admin ({ 1 }) tolong ({ 3 }) ini ({ 4 5 }) ada ({ 6 }) apa ({ 7 }) dengan ({ 8 }) toko ({ 9 }) saya ({ 10 }) ? ({ 11 }) 
+# Sentence pair (237) source length 26 target length 19 alignment score : 4.84312e-14
+kalau wifi mati dan paket data mau beli tidak bisa , bagaimana caranya mengakses aplikasi m3 admin xxxuserxxx ? 
+NULL ({ }) kalo ({ 1 }) wifi ({ 2 }) mati ({ 3 }) n ({ 4 }) paket ({ 5 }) data ({ 6 }) mau ({ 7 }) beli ({ 8 }) ga ({ 9 }) bisa ({ 10 }) , ({ 11 }) gimana ({ 12 }) cara ({ 13 }) ' ({ }) a ({ }) akses ({ 14 }) app ({ 15 }) m3 ({ 16 }) ' ({ }) a ({ }) min ({ 17 }) xxxuserxxx ({ 18 }) ? ({ 19 }) ada² ({ }) aja ({ }) . ({ }) 
+# Sentence pair (242) source length 11 target length 16 alignment score : 5.10948e-18
+kalau adminnya balas lagi . pada akhirnya diberi ucapan terima kasih saja terus , mas . 
+NULL ({ 16 }) kalau ({ 1 }) adminnya ({ 2 }) bales ({ 3 }) lagi ({ 4 }) . ({ 5 }) ujung2nya ({ 6 8 10 }) diterimakasih ({ 7 9 11 }) in ({ 12 }) terus ({ 13 }) nih ({ 14 }) mas ({ 15 }) 
+# Sentence pair (245) source length 8 target length 11 alignment score : 4.47283e-09
+ayo xxxuserxxx atau xxxuserxxx , ambil alih pembinaan bulu tangkis . 
+NULL ({ 5 }) ayo ({ 1 }) xxxuserxxx ({ 2 }) atau ({ 3 }) xxxuserxxx ({ 4 }) ambil ({ 6 }) alih ({ 7 }) pembinaan ({ 8 }) bulutangkis ({ 9 10 11 }) 
+# Sentence pair (247) source length 29 target length 28 alignment score : 1.28048e-19
+memang iya , resi j & t dapat ditrack setelah xxxnumberxxx hari ? saya sudah beberapa kali mengirim menggunakan j & t , sepertinya langsung dapat dilacak . 
+NULL ({ 3 23 }) emang ({ 1 }) iya ({ 2 }) resi ({ 4 }) j ({ 5 }) & ({ 6 }) t ({ 7 }) bisa ({ 8 }) di ({ }) track ({ 9 }) setelah ({ 10 }) xxxnumberxxx ({ 11 }) hari ({ 12 }) ? ({ 13 }) gw ({ 14 }) udah ({ 15 }) beberapa ({ 16 }) kali ({ 17 }) ngirim ({ 18 }) pake ({ 19 }) j ({ 20 }) & ({ 21 }) t ({ 22 }) kayanya ({ 24 }) langsung ({ 25 }) bisa ({ 26 }) di ({ }) track ({ 27 }) deh ({ }) . ({ 28 }) 
+# Sentence pair (257) source length 18 target length 19 alignment score : 6.2183e-19
+bisa jadi penipu , namun juga bisa jadi persaingan bisnis . apalagi go - jek sedang melebarkan sayapnya . 
+NULL ({ 19 }) bisa ({ 1 }) jd ({ 2 }) penipu ({ 3 }) , ({ 4 }) tp ({ 5 }) bsa ({ 6 7 }) jd ({ 8 }) persaingan ({ 9 }) bisnis ({ 10 }) 🤔 ({ 11 }) 🤔 ({ 12 }) 🤔 ({ }) 🤔 ({ }) pa ({ }) lg ({ 16 }) gojek ({ 13 }) melebarkn ({ 14 }) sayap ({ 15 17 18 }) 
+# Sentence pair (260) source length 20 target length 20 alignment score : 4.52197e-09
+halo admin , saya mengapa beli fore cofee tidak dapat cashback ? mengapa admin ? bisa di refund tidak ? 
+NULL ({ }) hallo ({ 1 }) min ({ 2 }) , ({ 3 }) saya ({ 4 }) kok ({ 5 }) beli ({ 6 }) fore ({ 7 }) cofee ({ 8 }) tidak ({ 9 }) dapat ({ 10 }) cashback ({ 11 }) yaa ({ }) ? ({ 12 }) kenapa ({ 13 }) minn ({ 14 }) ? ({ 15 }) bisa ({ 16 }) di ({ 17 }) refund ({ 18 }) tidakk ({ 19 20 }) 
+# Sentence pair (266) source length 12 target length 12 alignment score : 1.43049e-06
+senang bisa terhibur . sehat selalu pak dan semangat latihan dansanya . 
+NULL ({ }) senang ({ 1 }) bisa ({ 2 }) terhibur ({ 3 }) . ({ 4 }) sehat ({ 5 }) selalu ({ 6 }) pak ({ 7 }) , ({ }) dan ({ 8 }) semangat ({ 9 }) latihan ({ 10 }) dancenya ({ 11 12 }) 
+# Sentence pair (270) source length 9 target length 10 alignment score : 1.16044e-08
+masih gangguan , daily gift tidak bisa dibuka min . 
+NULL ({ 10 }) masih ({ 1 }) error ({ 2 }) nih ({ 3 }) daily ({ 4 }) gift ({ 5 }) gak ({ 6 }) bisa ({ 7 }) dibuka ({ 8 }) min ({ 9 }) 
+# Sentence pair (272) source length 24 target length 26 alignment score : 1.94995e-21
+halo kak ingin bertanya , kenapa aplikasi gojek saya tidak bisa dibuka ? sudah install ulang dua kali tetap tidak mau terbuka . terima kasih . 
+NULL ({ 5 26 }) halo ({ 1 }) kak ({ 2 }) mau ({ 3 }) nanya ({ 4 }) kok ({ 6 }) app ({ 7 }) gojek ({ 8 }) saya ({ 9 }) gabisa ({ 10 11 }) di ({ }) buka ({ 12 }) ya ({ }) ? ({ 13 }) udh ({ 14 }) re ({ 15 }) - ({ }) instal ({ 16 }) xxxnumberxxx ({ 17 }) x ({ 18 }) tetap ({ 19 }) gamau ({ 20 21 }) kebuka ({ 22 }) . ({ 23 }) makasih ({ 24 25 }) 
+# Sentence pair (280) source length 20 target length 22 alignment score : 2.19014e-15
+kamu chat xxxuserxxx atau dari pelanggan kamu chat ke shopee , bilang dananya mengapa tidak dapat cair padahal sudah terima barang . 
+NULL ({ 11 22 }) kamu ({ 1 }) chat ({ 2 }) xxxuserxxx ({ 3 }) atau ({ 4 }) dari ({ 5 }) cust ({ 6 }) kamu ({ 7 }) chat ({ 8 }) ke ({ 9 }) shopee ({ 10 }) bilang ({ 12 }) dana ({ 13 }) nya ({ }) kenapa ({ 14 }) ga ({ 15 }) cair ({ 16 17 }) pdhl ({ 18 }) sudah ({ 19 }) terima ({ 20 }) barang ({ 21 }) 
+# Sentence pair (284) source length 24 target length 25 alignment score : 7.66623e-14
+halo maaf mau tanya , handphone saya tiba - tiba kartunya no service . itu kenapa ? minta tolong bantuannya kak . terima kasih . 
+NULL ({ }) halo ({ 1 }) maaf ({ 2 }) mau ({ 3 }) tanya ({ 4 }) , ({ 5 }) hape ({ 6 }) saya ({ 7 }) tiba ({ 8 9 }) tiba ({ 10 }) kartunya ({ 11 }) no ({ 12 }) service ({ 13 }) . ({ 14 }) itu ({ 15 }) kenapa ({ 16 }) ya ({ }) ? ({ 17 }) minta ({ 18 }) tolong ({ 19 }) bantuannya ({ 20 }) kak ({ 21 }) . ({ 22 }) terima ({ 23 }) kasih ({ 24 25 }) 
+# Sentence pair (289) source length 8 target length 8 alignment score : 0.00346009
+sampai kapan aku harus menunggu , admin ? 
+NULL ({ }) sampai ({ 1 }) kapan ({ 2 }) ku ({ 3 }) harus ({ 4 }) menunggu ({ 5 }) , ({ 6 }) min ({ 7 }) ? ({ 8 }) 
+# Sentence pair (290) source length 20 target length 19 alignment score : 4.95133e-15
+mungkin terlalu asyik dengan pekerjaan sendiri , tetapi betul kemarin baru saja belanja tidak bisa pakai dua voucher . 
+NULL ({ }) mungkin ({ 1 }) terlalu ({ 2 }) asik ({ 3 }) dengan ({ 4 }) kerjaan ({ 5 }) sendiri ({ 6 }) tapi ({ 8 }) beneran ({ 9 }) deh ({ 19 }) , ({ 7 }) kmaren ({ 10 }) baru ({ 11 }) aja ({ 12 }) belanja ({ 13 }) , ({ }) ga ({ 14 }) bisa ({ 15 }) pake ({ 16 }) xxxnumberxxx ({ 17 }) voucher ({ 18 }) 
+# Sentence pair (296) source length 14 target length 15 alignment score : 1.37532e-11
+kukira , mengirimkan tweetnya ke yang satu lagi . rupanya , kemari juga sampai . 
+NULL ({ }) kukira ({ 1 }) ngetweetnya ({ 2 3 4 }) ke ({ 5 }) yg ({ 6 }) satu ({ 7 }) lagi ({ 8 }) . ({ 9 }) rupanya ({ 10 }) . ({ 11 }) kemari ({ 12 }) juga ({ 13 }) . ({ }) sampai ({ 14 }) . ({ 15 }) 
+# Sentence pair (302) source length 9 target length 9 alignment score : 0.000107326
+tolong notice kali ini . we need you . 
+NULL ({ }) tolong ({ 1 }) notice ({ 2 }) kali ({ 3 }) ini ({ 4 }) ya ({ }) . ({ 5 }) we ({ 6 }) need ({ 7 }) you ({ 8 9 }) 
+# Sentence pair (304) source length 6 target length 6 alignment score : 0.0273372
+lihat kamunya bukan jualan tehnya . 
+NULL ({ }) liat ({ 1 }) kamunya ({ 2 }) bukan ({ 3 }) jualan ({ 4 }) tehnya ({ 5 }) hish ({ 6 }) 
+# Sentence pair (305) source length 19 target length 16 alignment score : 1.48536e-11
+minta pencerahannya . mengapa saldo tidak masuk ? xxxnumberxxx trip xxxnumberxxx . ada apakah ini ? 
+NULL ({ }) minta ({ 1 }) pencerahan ({ 2 }) nya ({ }) hu ({ }) . ({ 3 }) kok ({ 4 }) saldo ({ 5 }) ga ({ 6 }) msk ({ 7 }) ya ({ }) , ({ 8 }) xxxnumberxxx ({ 9 }) trip ({ 10 }) xxxnumberxxx ({ 11 }) . ({ 12 }) ada ({ 13 }) apa ({ 14 }) kah ({ 16 }) ini ({ 15 }) 
+# Sentence pair (308) source length 13 target length 12 alignment score : 1.54288e-05
+potongan ke mitra xxxpercentxxx halan . insentif terus dipangkas . halo ? 
+NULL ({ }) potongan ({ 1 }) ke ({ 2 }) mitra ({ 3 }) xxxpercentxxx ({ 4 }) jalan ({ 5 }) . ({ 6 }) insentif ({ 7 }) terus ({ 8 }) di ({ }) pangkas ({ 9 }) . ({ 10 }) haloo ({ 11 }) ? ({ 12 }) 
+# Sentence pair (310) source length 9 target length 10 alignment score : 1.74285e-07
+bales dm admin , sudah xxxnumberxxx hari tidak dibalas . 
+NULL ({ 10 }) bales ({ 1 }) dm ({ 2 }) minn ({ 3 }) , ({ 4 }) udh ({ 5 }) xxxnumberxxx ({ 6 }) hari ({ 7 }) ga ({ 8 }) dibales2 ({ 9 }) 
+# Sentence pair (313) source length 7 target length 8 alignment score : 1.4234e-06
+hahaha jadi ingin pas tanggal xxxnumberxxx besok . 
+NULL ({ 8 }) haha ({ 1 }) jd ({ 2 }) pengen ({ 3 }) pas ({ 4 }) tgl ({ 5 }) xxxnumberxxx ({ 6 }) besok ({ 7 }) 
+# Sentence pair (315) source length 20 target length 19 alignment score : 8.58574e-08
+kalau sudah minta kode otp sudah pasti xxxpercentxxx penipuan , langsung matikan hp atau maki - maki penelponnya . 
+NULL ({ }) kalau ({ 1 }) udah ({ 2 }) minta ({ 3 }) kode ({ 4 }) otp ({ 5 }) udah ({ 6 }) pasti ({ 7 }) xxxpercentxxx ({ 8 }) penipuan ({ 9 }) , ({ 10 }) langsung ({ 11 }) matiin ({ 12 }) hp ({ 13 }) atau ({ 14 }) maki ({ 15 }) - ({ 16 }) maki ({ 17 }) aja ({ }) penelponnya ({ 18 }) . ({ 19 }) 
+# Sentence pair (321) source length 29 target length 32 alignment score : 4.64699e-26
+hai admin - admin . saya baru menukar fiesta poin mandiri untuk gift card tokopedia . mengapa saat saya masukkan kodenya , muncul " kode promo tidak ditemukan . bagaimana ya ? 
+NULL ({ 22 }) hi ({ 1 }) admin2 ({ 2 3 4 }) , ({ 5 }) sy ({ 6 }) abis ({ 7 }) nuker ({ 8 9 }) fp ({ 10 }) mandiri ({ 11 }) utk ({ 12 }) e ({ }) gift ({ 13 }) card ({ 14 }) tokped ({ 15 }) , ({ 16 }) pas ({ 18 }) sy ({ 19 }) masukin ({ 20 }) kodenya ({ 21 }) kok ({ 17 }) kayanya ({ 23 }) " ({ 24 }) kode ({ 25 }) promo ({ 26 }) tidak ({ 27 }) ditemukan ({ 28 }) . ({ 29 }) gimana ({ 30 }) y ({ 31 }) ? ({ 32 }) 
+# Sentence pair (335) source length 7 target length 9 alignment score : 4.16047e-08
+hmm , sebentar . aku akan bikin videonya . 
+NULL ({ 2 }) hmm ({ 1 }) bentar ({ 3 }) , ({ 4 }) aku ({ 5 }) bakal ({ 6 }) bikin ({ 7 }) videonya ({ 8 9 }) 
+# Sentence pair (337) source length 8 target length 10 alignment score : 4.96375e-09
+beli handphone baru mau jadi drivernya , mohon bantuannya . 
+NULL ({ 7 }) beli ({ 1 }) hape ({ 2 }) baru ({ 3 }) mau ({ 4 }) jadi ({ 5 }) driver ({ 6 }) mohon ({ 8 }) supportnya ({ 9 10 }) 
+# Sentence pair (340) source length 14 target length 14 alignment score : 3.77698e-10
+kenapa dm ? beri tahu , ingin tahu halangan apa di daerah semarang . 
+NULL ({ }) kok ({ 1 }) dm ({ 2 }) ? ({ 3 }) kasihtahu ({ 4 }) dong ({ }) , ({ 6 }) pengin ({ 5 }) tahu ({ 7 }) force ({ 8 }) majeure ({ 9 }) apa ({ 10 }) daerah ({ 11 12 }) semarang ({ 13 }) . ({ 14 }) 
+# Sentence pair (341) source length 25 target length 25 alignment score : 1.68925e-13
+halo kak , mau tanya dong . aku mengirim barang ke rembang tapi kenapa di tujuannya ke gamping sleman kak . nomor resi xxxnumberxxx . 
+NULL ({ 25 }) halo ({ 1 }) kak ({ 2 }) , ({ 3 }) mau ({ 4 }) nanya ({ 5 }) dong ({ 6 }) kan ({ 7 }) aku ({ 8 }) ngirim ({ 9 }) barang ({ 10 }) ke ({ 11 }) rembang ({ 12 }) tp ({ 13 }) kenapa ({ 14 }) di ({ 15 }) destinationnya ({ 16 }) ke ({ 17 }) gamping ({ 18 }) sleman ({ 19 }) ya ({ }) kak ({ 20 }) . ({ 21 }) no ({ 22 }) resi ({ 23 }) xxxnumberxxx ({ 24 }) 
+# Sentence pair (348) source length 7 target length 8 alignment score : 1.5811e-06
+sampai kapan ini ? sangat butuh internet . 
+NULL ({ }) sampe ({ 1 }) kapan ({ 2 }) ini ({ 3 }) ? ({ 4 }) butuh ({ 5 6 }) internet ({ 7 }) banget ({ 8 }) 
+# Sentence pair (349) source length 6 target length 9 alignment score : 7.08637e-12
+milea sangat kepo minta - minta nomor dilan . 
+NULL ({ 9 }) milea ({ 1 }) kepo ({ 2 }) sekali ({ }) minta2 ({ 3 }) nomer ({ 7 }) dilan ({ 4 5 6 8 }) 
+# Sentence pair (350) source length 23 target length 26 alignment score : 1.29977e-12
+selamat malam xxxuserxxx , kak jika barang ada di dc , misal dc_cibiru , apakah bisa datang ke lokasi dc untuk diambil ? terima kasih . 
+NULL ({ 14 }) selamat ({ 1 }) malam ({ 2 }) xxxuserxxx ({ 3 }) , ({ 4 }) kak ({ 5 }) jika ({ 6 }) barang ({ 7 }) ada ({ 8 }) di ({ 9 }) dc ({ 10 }) , ({ 11 }) misal ({ 12 }) dc_cibiru ({ 13 }) apakah ({ 15 }) bisa ({ 16 }) datang ({ 17 }) ke ({ 18 }) lokasi ({ 19 }) dc ({ 20 }) untuk ({ 21 }) diambil ({ 22 }) ? ({ 23 }) thx ({ 24 25 26 }) 
+# Sentence pair (358) source length 7 target length 9 alignment score : 8.42011e-06
+mau diadili tapi tidak boleh . ah sudahlah . 
+NULL ({ }) mau ({ 1 }) judge ({ 2 }) tapi ({ 3 }) ga ({ 4 }) boleh ({ 5 }) . ({ 6 }) ahsudahlah ({ 7 8 9 }) 
+# Sentence pair (362) source length 7 target length 7 alignment score : 2.0957e-07
+mengapa sinyalnya jika malam selalu buruk ? 
+NULL ({ }) kenapa ({ 1 }) sinyalnya ({ 2 }) kalau ({ 3 }) malam ({ 4 }) jelek ({ }) mulu ({ 5 }) sihh ({ 6 7 }) 
+# Sentence pair (364) source length 8 target length 8 alignment score : 1.68079e-07
+iya admin , semoga lancar semua kerjaannya . 
+NULL ({ 3 }) iya ({ 1 }) min ({ 2 }) semoga ({ 4 }) lancar ({ 5 }) semua ({ 6 }) kerjaan ({ 7 }) nya ({ 8 }) ya ({ }) 
+# Sentence pair (365) source length 19 target length 20 alignment score : 6.56413e-12
+halo , apa ini memang sedang gangguan top up via m - banking ? kenapa saldo saya tidak bertambah ? 
+NULL ({ 2 }) halo ({ 1 }) apa ({ 3 }) ini ({ 4 }) emg ({ 5 }) lagi ({ 6 }) gangguan ({ 7 }) top ({ 8 }) up ({ 9 }) via ({ 10 }) m ({ 11 }) banking ({ 12 13 }) ? ({ 14 }) kok ({ 15 }) saldo ({ 16 }) saya ({ 17 }) ga ({ 18 }) nambah ({ 19 }) ya ({ }) ? ({ 20 }) 
+# Sentence pair (371) source length 11 target length 12 alignment score : 1.13021e-09
+admin . untuk resi jp xxxphonexxx , estimasinya berapa hari sampai ? 
+NULL ({ 2 7 }) min ({ 1 }) untuk ({ 3 }) resi ({ 4 }) jp ({ 5 }) xxxphonexxx ({ 6 }) estimasi ({ 8 }) berapa ({ 9 }) hari ({ 10 }) nyampe ({ 11 }) nya ({ }) ? ({ 12 }) 
+# Sentence pair (374) source length 10 target length 10 alignment score : 5.91534e-09
+sudah dibalas dmnya bos . terima kasih sudah direspons . 
+NULL ({ }) sdh ({ 1 }) dibalas ({ 2 }) dm ({ 3 }) . ({ 10 }) nya ({ }) bos ({ 4 }) . ({ 5 }) makasih ({ 6 7 }) sdh ({ 8 }) direspon ({ 9 }) 
+# Sentence pair (378) source length 22 target length 27 alignment score : 3.96699e-23
+sama , sudah dm xxxuserxxx di ig tetapi tidak ada jawaban . saya mau tetap mencoba datang ke lokasi nanti sore walaupun saya belum mengisi form . 
+NULL ({ 2 27 }) sama ({ 1 }) udah ({ 3 }) dm ({ 4 }) xxxuserxxx ({ 5 }) di ({ 6 }) ig ({ 7 8 }) ga ({ 9 }) ada ({ 10 }) jawaban ({ 11 }) , ({ 12 }) mau ({ 14 }) tetep ({ 15 }) coba ({ 16 }) dateng ({ 17 }) ke ({ 18 }) lokasi ({ 19 }) nanti ({ 20 }) sore ({ 21 }) walau ({ 13 22 23 }) belum ({ 24 }) isi ({ 25 }) form ({ 26 }) 
+# Sentence pair (383) source length 8 target length 8 alignment score : 1.17847e-07
+saya sudah dapat . terima kasih xxxuserxxx . 
+NULL ({ }) udah ({ 2 }) dapet ({ 3 }) dong ({ }) gue ({ 1 }) , ({ 4 }) thankyou ({ 5 6 }) xxxuserxxx ({ 7 }) ️ ({ 8 }) 
+# Sentence pair (384) source length 21 target length 18 alignment score : 8.04361e-11
+dari pagi pemesanan grabbike dan grabfood tidak dapat driver . lagi gangguan atau bagaimana ojolnya wilayah jogja ? 
+NULL ({ }) dari ({ 1 }) pagi ({ 2 }) pemesanan ({ 3 }) grab ({ }) bike ({ 4 }) dan ({ 5 }) grab ({ }) food ({ 6 }) ga ({ 7 }) dapet ({ 8 }) driver ({ 9 }) . ({ 10 }) lagi ({ 11 }) gangguan ({ 12 }) atau ({ 13 }) gimana ({ 14 }) sih ({ }) wilayah ({ 16 }) jogja ({ 17 }) ojolnya ({ 15 }) ? ({ 18 }) 
+# Sentence pair (389) source length 28 target length 27 alignment score : 2.20923e-15
+bagaimana bos ? urgent . telepon ke xxxnumberxxx menunggu lama sekali . saat sudah nyambung , cs menanyakan panjang lebar keburu habis pulsa masalah tidak selesai . 
+NULL ({ 16 }) lha ({ }) gimana ({ 1 }) bos ({ 2 }) . ({ 3 }) urgen ({ 4 }) . ({ 5 }) telopon ({ 6 }) ke ({ 7 }) xxxnumberxxx ({ 8 }) nunggu ({ 9 }) lama ({ 10 }) bgt ({ 11 }) , ({ 12 }) giliran ({ 13 }) udh ({ 14 }) nyambung ({ 15 }) cs ({ 17 }) nanyanya ({ 18 }) panjang ({ 19 }) x ({ }) lebar ({ 20 }) keburu ({ 21 }) habis ({ 22 }) pulsa ({ 23 }) masalah ({ 24 }) gak ({ 25 }) kelar ({ 26 }) . ({ 27 }) 
+# Sentence pair (397) source length 19 target length 20 alignment score : 1.28843e-09
+driver xxxuserxxx di jogjakarta malam ini sibuk semua . luar biasa . sejam klak klik klak klik sibuk melulu . 
+NULL ({ }) driver ({ 1 }) xxxuserxxx ({ 2 }) di ({ 3 }) jogja ({ 4 }) malam ({ 5 }) ini ({ 6 }) sibuk ({ 7 }) semua ({ 8 }) . ({ 9 }) warbiasakk ({ 10 11 }) . ({ 12 }) sejam ({ 13 }) klak ({ 14 }) klik ({ 15 }) klak ({ 16 }) klik ({ 17 }) busy ({ 18 }) mulu ({ 19 }) . ({ 20 }) 
+# Sentence pair (403) source length 20 target length 22 alignment score : 2.29415e-14
+apakah ini bisa disebut penipuan ? beli paket harga rp . xxxnumberxxx , saat dapat sms harga berubah jadi rp xxxnumberxxx . 
+NULL ({ 11 22 }) apakah ({ 1 }) ini ({ 2 }) bisa ({ 3 }) disebut ({ 4 }) penipuan ({ 5 }) . ({ 6 }) beli ({ 7 }) paket ({ 8 }) harga ({ 9 }) rp ({ 10 }) xxxnumberxxx ({ 12 }) , ({ 13 }) pas ({ 14 }) dapat ({ 15 }) sms ({ 16 }) harga ({ 17 }) berubah ({ 18 }) jd ({ 19 }) rp ({ 20 }) xxxnumberxxx ({ 21 }) 
+# Sentence pair (409) source length 26 target length 27 alignment score : 5.9302e-16
+sudah admin , sampai voucher habis , mata perih , perut lapar , atm kosong . nanti kalau lapar , tinggal makan makanan kucing . aduh . 
+NULL ({ 20 }) udah ({ 1 }) min ({ 2 }) , ({ 3 }) nyampe ({ 4 }) abis ({ 5 }) tu ({ 6 }) voucher ({ }) , ({ 7 }) mata ({ 8 }) perih ({ 9 }) , ({ 10 }) perut ({ 11 }) laper ({ 12 }) , ({ 13 }) atm ({ 14 }) kosong ({ 15 }) , ({ 16 }) tar ({ 17 }) kalo ({ 18 }) laper ({ 19 }) tinggal ({ 21 }) makan ({ 22 }) makanan ({ 23 }) kucing ({ 24 }) , ({ 25 }) hadeeh ({ 26 27 }) 
+# Sentence pair (433) source length 12 target length 13 alignment score : 1.58415e-06
+tidak perlu melayani cuitan si dumber . dia saja yang fakir kuota . 
+NULL ({ 13 }) tidak ({ 1 }) perlu ({ 2 }) layani ({ 3 }) cuitan ({ 4 }) si ({ 5 }) dumber ({ 6 }) . ({ 7 }) dia ({ 8 }) saja ({ 9 }) yang ({ 10 }) fakir ({ 11 }) kuota ({ 12 }) 
+# Sentence pair (439) source length 12 target length 12 alignment score : 1.26818e-11
+mengapa xxxnumberxxx g di bawah xxxnumberxxx mbps ? xxxnumberxxx g palsu ! 
+NULL ({ }) xxxnumberxxx ({ 2 }) g ({ 3 }) kok ({ 1 }) dibawah ({ 4 5 }) xxxnumberxxx ({ 6 }) mbps ({ 7 }) . ({ 8 }) xxxnumberxxx ({ 9 }) g ({ 10 }) abal ({ 11 }) - ({ }) abal ({ 12 }) 
+# Sentence pair (445) source length 10 target length 10 alignment score : 2.69085e-05
+butut . koneksi mahal hanya kuat dipakai whatsapp saja . 
+NULL ({ }) butut ({ 1 }) , ({ 2 }) koneksi ({ 3 }) mahal ({ 4 }) cuma ({ 5 }) kuat ({ 6 }) dipake ({ 7 }) wasapan ({ 8 }) doang ({ 9 }) ! ({ 10 }) 
+# Sentence pair (450) source length 15 target length 17 alignment score : 2.14628e-10
+sudah non aktif , jaringannya juga sudah xxxnumberxxx g atau xxxnumberxxx g . tetap tidak bisa . 
+NULL ({ 17 }) sudah ({ 1 }) off ({ 2 3 }) , ({ 4 }) jaringannya ({ 5 }) jga ({ 6 }) udh ({ 7 }) xxxnumberxxx ({ 8 }) g ({ 9 }) / ({ 10 }) xxxnumberxxx ({ 11 }) g ({ 12 }) . ({ 13 }) tetep ({ 14 }) ga ({ 15 }) bisa ({ 16 }) 
+# Sentence pair (456) source length 8 target length 10 alignment score : 7.70317e-08
+admin , tolong cek dm ya . terima kasih . 
+NULL ({ 2 }) min ({ 1 }) tolong ({ 3 }) cek ({ 4 }) dm ({ 5 }) ya ({ 6 }) . ({ 7 }) terima ({ 8 }) kasih ({ 9 10 }) 
+# Sentence pair (460) source length 6 target length 7 alignment score : 1.31661e-05
+saya cuma dapat xxxnumberxxx tapi alhamdulillah . 
+NULL ({ 7 }) gw ({ 1 }) cuma ({ 2 }) dpt ({ 3 }) xxxnumberxxx ({ 4 }) tp ({ 5 }) alhamdulillah ({ 6 }) 
+# Sentence pair (462) source length 9 target length 9 alignment score : 0.000147094
+bagaimana mas caranya ? punya saya begini melulu . 
+NULL ({ }) gimana ({ 1 }) mas ({ 2 }) caranya ({ 3 }) ? ({ 4 }) punya ({ 5 }) saya ({ 6 }) gimi ({ 7 }) mulu ({ 8 }) . ({ 9 }) 
+# Sentence pair (466) source length 10 target length 13 alignment score : 2.13159e-07
+gara - gara ini aku tidak jadi bayar google one . hahaha . 
+NULL ({ }) gara² ({ 1 2 3 }) ini ({ 4 }) aku ({ 5 }) ga ({ 6 }) jadi ({ 7 }) bayar ({ 8 }) google ({ 9 }) one ({ 10 }) . ({ 11 }) hahaha ({ 12 13 }) 
+# Sentence pair (470) source length 8 target length 9 alignment score : 2.25786e-05
+iya , tolong tambah lagi malam ini saja . 
+NULL ({ }) iyaa ({ 1 }) tlong ({ 2 }) dongg ({ 3 }) nambah ({ 4 }) lagi ({ 5 }) malem ({ 6 }) ini ({ 7 }) ajaa ({ 8 9 }) 
+# Sentence pair (472) source length 26 target length 26 alignment score : 1.93966e-18
+itu nomor resi standar e - ress / iwe dari korea , ketika sudah sampai di indonesia yang lainnya dilanjutkan dengan jne , bagaimana melacaknya ? 
+NULL ({ }) itu ({ 1 }) no ({ 2 }) . ({ }) resi ({ 3 }) standar ({ 4 5 6 }) eress ({ 7 }) / ({ 8 }) lwe ({ 9 }) dari ({ 10 }) korea ({ 11 }) , ({ 12 }) pas ({ 13 }) udah ({ 14 }) sampe ({ 15 }) di ({ 16 }) indo ({ 17 }) yg ({ 18 }) lain ({ 19 }) dilanjutinnya ({ 20 }) pake ({ 21 }) jne ({ 22 }) , ({ 23 }) gimana ({ 24 }) lacaknya ({ 25 }) ya ({ }) ? ({ 26 }) 
+# Sentence pair (492) source length 19 target length 19 alignment score : 1.06062e-13
+kalau saya setuju dan kemudian saya menolak , apakah tidak bisa disetujui ? jadi gimana solusi buat saya ? 
+NULL ({ 8 }) kalo ({ 1 }) saya ({ 2 }) setuju ({ 3 }) dan ({ 4 }) kemudian ({ 5 }) saya ({ 6 }) menolak ({ 7 9 }) tidak ({ 10 }) bisa ({ 11 }) di ({ }) setujui ({ 12 }) ya ({ }) ? ({ 13 }) jadi ({ 14 }) gimana ({ 15 }) solusinya ({ 16 }) buat ({ 17 }) saya ({ 18 }) ? ({ 19 }) 
+# Sentence pair (503) source length 21 target length 18 alignment score : 1.21173e-13
+halo admin . pulsa saya xxxnumberxxx ribu hilang ke mana ya ? bisa tolong diperiksa penggunaan pulsanya ? 
+NULL ({ }) halo ({ 1 }) admin ({ 2 }) , ({ 3 }) ini ({ }) pulsa ({ 4 }) saya ({ 5 }) xxxnumberxxx ({ 6 }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) k ({ 7 }) ilang ({ 8 }) kemana ({ 9 10 }) yaa ({ 11 }) ? ({ 12 }) bisa ({ 13 }) tolong ({ 14 }) cek ({ }) traffic ({ 15 }) pemakaian ({ 16 }) pulsanya ({ 17 }) ? ({ 18 }) 
+# Sentence pair (512) source length 16 target length 19 alignment score : 4.3075e-13
+dari xxxtimexxx paket saya di bekasi gateway terus . apakah tersangkut , admin ? nomor resi jp xxxphonexxx . 
+NULL ({ 12 19 }) dari ({ 1 }) xxxtimexxx ({ 2 }) paket ({ 3 }) saya ({ 4 }) di ({ 5 }) bekasi ({ 6 }) gateway ({ 7 }) terus ({ 8 }) , ({ 9 }) nyangkut ({ 10 11 }) min ({ 13 }) ? ({ 14 }) no ({ 15 }) resi ({ 16 }) jp ({ 17 }) xxxphonexxx ({ 18 }) 
+# Sentence pair (519) source length 14 target length 17 alignment score : 6.99201e-12
+bagaimana ini xxxuserxxx , paket saya dari kemarin stuck padahal sudah dekat . aduh bagaimana sih . 
+NULL ({ 4 }) gmn ({ 1 }) nih ({ 2 }) xxxuserxxx ({ 3 }) paket ({ 5 }) saya ({ 6 }) dr ({ 7 }) kmrn ({ 8 }) stuck ({ 9 }) pdhl ({ 10 }) udh ({ 11 }) deket ({ 12 }) hadeh ({ 13 14 17 }) gmn ({ 15 }) sii ({ 16 }) 
+# Sentence pair (528) source length 38 target length 38 alignment score : 2.01978e-31
+nomor order adr - xxxnumberxxx - xxxnumberxxx - xxxnumberxxx , pengemudi atas nama slamet riyadi , saya minta tolong kirim kontak / nomor telepon pengemudi tersebut , karena saya belum membayar . saya ingin transfer ke bapaknya . 
+NULL ({ 10 }) no ({ 1 }) . ({ 38 }) order ({ 2 }) adr ({ 3 }) - ({ 4 }) xxxnumberxxx ({ 5 }) - ({ 6 }) xxxnumberxxx ({ 7 }) - ({ 8 }) xxxnumberxxx ({ 9 }) driver ({ 11 }) a ({ }) . ({ }) n ({ }) slamet ({ 12 14 }) riyadi ({ 13 15 }) , ({ 16 }) saya ({ 17 }) minta ({ 18 }) tolong ({ 19 }) kirim ({ 20 }) kontak ({ 21 }) / ({ 22 }) no ({ 23 }) telfon ({ 24 }) driver ({ 25 }) tersebut ({ 26 }) , ({ 27 }) karena ({ 28 }) saya ({ 29 }) belum ({ 30 }) bayar ({ 31 }) . ({ 32 }) pengen ({ 34 }) saya ({ 33 }) transfer ({ 35 }) ke ({ 36 }) bapaknya ({ 37 }) 
+# Sentence pair (564) source length 25 target length 26 alignment score : 7.51585e-15
+halo . halo saya isi gopay tapi gopay - nya tidak masuk , saya melaporkan ke siapa ? aplikasi mobile bank sudah berhasil masuk soalnya . 
+NULL ({ }) halo ({ 1 }) . ({ 2 }) kl ({ 3 }) saya ({ 4 }) isi ({ 5 }) gopay ({ 6 }) tp ({ 7 }) gopaynya ({ 8 9 10 }) ga ({ 11 }) masuk ({ 12 }) . ({ 13 }) saya ({ 14 }) ngadu ({ 15 }) ke ({ 16 }) siapa ({ 17 }) ya ({ }) ? ({ 18 }) aplikasi ({ 19 }) mobile ({ 20 }) bank ({ 21 }) sudah ({ 22 }) berhasil ({ 23 }) masuk ({ 24 }) soalnya ({ 25 }) . ({ 26 }) 
+# Sentence pair (586) source length 11 target length 12 alignment score : 5.55534e-07
+terima kasih xxxuserxxx . karena sudah diberikan voucher potongan pulsa xxxpercentxxx . 
+NULL ({ 4 }) terima ({ 1 }) kasih ({ 2 }) xxxuserxxx ({ 3 }) karena ({ 5 }) sudah ({ 6 }) dikasi ({ 7 }) voucher ({ 8 }) potongan ({ 9 }) pulsa ({ 10 }) xxxpercentxxx ({ 11 }) . ({ 12 }) 
+# Sentence pair (587) source length 10 target length 10 alignment score : 0.000109184
+apakah penjualan tiket kereta api masih perbaikan dari kemarin ? 
+NULL ({ }) penjualan ({ 1 2 }) tiket ({ 3 }) kereta ({ 4 }) api ({ 5 }) masih ({ 6 }) perbaikan ({ 7 }) ya ({ }) dr ({ 8 }) kmrn ({ 9 }) ? ({ 10 }) 
+# Sentence pair (591) source length 18 target length 21 alignment score : 1.48967e-12
+saya bayar e - samsat di tokopedia . jika sudah lewat xxxnumberxxx hari , apakah pembayaran saya tidak berlaku lagi ? 
+NULL ({ 14 }) saya ({ 1 }) bayar ({ 2 }) esamsat ({ 3 4 5 }) di ({ 6 }) tokopedia ({ 7 }) , ({ 8 }) jika ({ 9 }) sudah ({ 10 }) lewat ({ 11 }) xxxnumberxxx ({ 12 }) hari ({ 13 }) apakah ({ 15 }) pembayaran ({ 16 }) saya ({ 17 }) tidak ({ 18 }) berlaku ({ 19 }) lagi ({ 20 }) ? ({ 21 }) 
+# Sentence pair (596) source length 8 target length 11 alignment score : 5.23553e-10
+tolong undang , agar dapat mengirim pm . terima kasih . 
+NULL ({ }) invite ({ 1 }) donk ({ 2 3 }) biar ({ 4 }) bisa ({ 5 }) pm ({ 6 7 }) . ({ 8 }) terima ({ 9 }) kasih ({ 10 11 }) 
+# Sentence pair (600) source length 7 target length 7 alignment score : 7.91243e-06
+perlu adanya kampanye tertib lalu lintas . 
+NULL ({ }) perlu ({ 1 }) ada ({ }) kampanye ({ 2 3 }) tertib ({ 4 }) lalu ({ 5 }) lintas ({ 6 }) . ({ 7 }) 
+# Sentence pair (602) source length 7 target length 9 alignment score : 7.30713e-15
+saya sudah kirim , admin . mohon dicek . 
+NULL ({ 6 9 }) sudah ({ 2 }) saya ({ 1 }) kirim ({ 3 }) min ({ 5 }) mohon ({ 7 }) di ({ 4 }) cek ({ 8 }) 
+# Sentence pair (604) source length 12 target length 13 alignment score : 2.25144e-09
+driver di jogjakarta sedang apa ? mengapa sibuk semua ? lapar nih . 
+NULL ({ }) driver ({ 1 }) di ({ 2 }) jogja ({ 3 }) pada ({ 4 }) ngapain ({ 5 }) ea ({ 6 }) kok ({ 7 }) sibuk ({ 8 }) semuaa ({ 9 }) hh ({ 10 }) laper ({ 11 }) neh ({ 12 13 }) 
+# Sentence pair (608) source length 8 target length 8 alignment score : 1.43707e-05
+bagaimana caranya menghapus akun gojek ? terimakasih . 
+NULL ({ }) bagaimana ({ 1 }) caranya ({ 2 }) menghapus ({ 3 }) akun ({ 4 }) gojek ({ 5 }) ? ({ 6 }) terima ({ 7 }) kasih ({ 8 }) 
+# Sentence pair (610) source length 24 target length 27 alignment score : 4.28086e-16
+paketan yellow tidak otomatis diperpanjang , padahal katanya otomatis perpanjang , jadinya pulsa terpotong sampai habis . kalau seperti ini yang salah konsumen atau provider admin ? 
+NULL ({ 6 27 }) paketan ({ 1 }) yellow ({ 2 }) ga ({ 3 }) otomatis ({ 4 }) diperpanjang ({ 5 }) padahal ({ 7 }) katanya ({ 8 }) otomatis ({ 9 }) perpanjang ({ 10 }) , ({ 11 }) jadinya ({ 12 }) pulsa ({ 13 }) kesedot ({ 14 }) sampe ({ 15 }) habis ({ 16 }) , ({ 17 }) kalo ({ 18 }) gini ({ 19 20 }) yg ({ 21 }) salah ({ 22 }) konsumen ({ 23 }) atau ({ 24 }) provider ({ 25 }) min ({ 26 }) 
+# Sentence pair (626) source length 17 target length 21 alignment score : 5.06885e-16
+bias : anggota terfavorit . maknae : anggota termuda . aegyo : bertingkah dan menggemaskan . mari kawan ikut berpartisipasi ! 
+NULL ({ 10 16 }) bias ({ 1 }) : ({ 2 }) member ({ 3 }) terfavorite ({ 4 5 }) maknae ({ 6 }) : ({ 7 }) member ({ 8 }) termuda ({ 9 }) aegyo ({ 11 }) : ({ 12 }) bertingkah ({ 13 }) dan ({ 14 }) menggemaskan ({ 15 }) mari ({ 17 }) guys ({ 18 }) ikutan ({ 19 }) berpartisipasi ({ 20 21 }) 
+# Sentence pair (634) source length 23 target length 21 alignment score : 1.02438e-20
+dm juga tidak dibales min . jangan seperti dia min , online namun tidak dibalas pesannya . tolong dicek min . 
+NULL ({ 11 21 }) dm ({ 1 }) pun ({ 2 }) gk ({ 3 }) d ({ 4 }) bls ({ }) min ({ 5 }) , ({ 6 }) jangan ({ 7 }) kaya ({ 8 }) dia ({ 9 }) deh ({ }) min ({ 10 }) online ({ 12 }) tp ({ 13 }) gk ({ 14 }) d ({ }) bls ({ 15 }) pesannya ({ 16 }) . ({ 17 }) tolong ({ 18 }) di ({ }) cek ({ 19 }) min ({ 20 }) 
+# Sentence pair (640) source length 16 target length 20 alignment score : 2.53535e-20
+admin xxxuserxxx . mengapa kecepatan mengunduh sangat lambat sekali . jaringan xxxnumberxxx g , kecepatan koneksi seperti xxxnumberxxx g . 
+NULL ({ 3 14 20 }) min ({ 1 }) xxxuserxxx ({ 2 }) ini ({ 4 }) speed ({ 5 }) download ({ }) busuk ({ 6 }) amat ({ 7 8 9 }) . ({ 10 }) jaringan ({ 11 }) xxxnumberxxx ({ 12 }) g ({ 13 }) kecepatan ({ 15 }) koneksi ({ 16 }) serasa ({ 17 }) xxxnumberxxx ({ 18 }) g ({ 19 }) 
+# Sentence pair (646) source length 26 target length 23 alignment score : 4.76145e-13
+tiga hari ini jaringan xxxnumberxxx g terhambat , xxxnumberxxx g terengah - engah . sedekar buka web saja lambat . tolong ditindaklanjuti . 
+NULL ({ }) xxxnumberxxx ({ 1 }) hari ({ 2 }) ini ({ 3 }) jaringan ({ 4 }) xxxnumberxxx ({ 5 }) g ({ 6 }) ngadat ({ 7 }) , ({ 8 }) xxxnumberxxx ({ 9 }) g ({ 10 }) pun ({ }) ngos ({ 11 }) - ({ 12 }) ngosan ({ 13 }) . ({ 14 }) sekedar ({ 15 }) buka ({ 16 }) web ({ 17 }) saja ({ 18 }) luaamaa ({ 19 }) . ({ 20 }) tolong ({ 21 }) dong ({ }) di ({ }) tindak ({ 22 }) lanjuti ({ 23 }) 
+# Sentence pair (654) source length 8 target length 9 alignment score : 1.21336e-07
+aku baru sadar sekarang ovo , kukira oppo . 
+NULL ({ 9 }) aku ({ 1 }) baru ({ 2 }) ngeh ({ 3 }) sekarang ({ 4 }) ovo ({ 5 }) tak ({ }) kira ({ 6 }) oppo ({ 7 8 }) 
+# Sentence pair (655) source length 7 target length 7 alignment score : 1.30633e-06
+tolong xxxuserxxx ditindaklanjuti yang seperti ini . 
+NULL ({ 7 }) tolong ({ 1 }) xxxuserxxx ({ 2 }) di ({ }) tindak ({ 3 }) lanjuti ({ }) yang ({ 4 }) beginian ({ 5 6 }) 
+# Sentence pair (657) source length 8 target length 9 alignment score : 6.46026e-05
+terima kasih atas responnya admin . happy weekend . 
+NULL ({ }) terima ({ 1 }) kasih ({ 2 }) atas ({ 3 }) responnya ({ 4 }) min ({ 5 }) . ({ 6 }) happy ({ 7 }) weekend ({ 8 9 }) 
+# Sentence pair (659) source length 18 target length 19 alignment score : 5.89894e-19
+selamat malam kak . nomor saya kalau diisi pulsa mengapa tersedot terus ? bisa dicekin ? terima kasih . 
+NULL ({ 4 19 }) selamat ({ 1 }) malam ({ 2 }) k ({ 3 }) no ({ 5 }) saya ({ 6 }) kalo ({ 7 }) diisi ({ 8 }) pulsa ({ 9 }) kok ({ 10 }) ke ({ }) sedot ({ 11 }) terus ({ 12 }) ya ({ 13 }) bisa ({ 14 }) di ({ }) cek ({ }) kin ({ 15 }) terimskasih ({ 16 17 18 }) 
+# Sentence pair (665) source length 8 target length 9 alignment score : 4.37444e-08
+sudah xxxnumberxxx hari barang terhenti . tolong ditindaklanjuti . 
+NULL ({ }) sudah ({ 1 }) xxxnumberxxx ({ 2 }) hari ({ 3 }) barang ({ 4 }) nyangkut ({ 5 }) tolong ({ 7 }) follow ({ 6 }) upnya ({ 8 9 }) 
+# Sentence pair (666) source length 16 target length 17 alignment score : 1.37222e-11
+halo admin . saya ingin daftar paket unlimited tapi tidak bisa registrasi . apakah sedang gangguan ? 
+NULL ({ 3 }) hallo ({ 1 }) admin ({ 2 }) saya ({ 4 }) ingin ({ 5 }) daftar ({ 6 }) paket ({ 7 }) unlimited ({ 8 }) tidak ({ 10 }) bisa ({ 11 }) teregistrasi ({ 9 12 }) . ({ 13 }) apakah ({ 14 }) sedang ({ 15 }) gangguan ({ 16 }) ya ({ }) ? ({ 17 }) 
+# Sentence pair (668) source length 27 target length 28 alignment score : 3.1309e-12
+sekencang - kencangnya mantan incaran cewek yang baru sehabis putus , lebih kencang lagi admin twitter xxxuserxxx dan tim kreatifnya memanfaatkan konten viral dengan menjadikannya konten marketing . 
+NULL ({ }) sekencang ({ 1 }) - ({ 2 }) kencangnya ({ 3 }) mantan ({ 4 }) gebet ({ 5 6 }) cewek ({ 7 }) baru ({ 8 }) abis ({ 9 }) putus ({ 10 }) , ({ 11 }) lebih ({ 12 }) kencang ({ 13 }) lagi ({ 14 }) admin ({ 15 }) twitter ({ 16 }) xxxuserxxx ({ 17 }) dan ({ 18 }) tim ({ 19 }) kreatifnya ({ 20 }) memanfaatkan ({ 21 }) konten ({ 22 }) viral ({ 23 }) dengan ({ 24 }) menjadikannya ({ 25 }) konten ({ 26 }) marketing ({ 27 }) . ({ 28 }) 
+# Sentence pair (678) source length 26 target length 26 alignment score : 6.05132e-19
+admin , apakah dm lagi cuti admin ? saya saja melamar jadi admin xxxuserxxx khusus balaskan dm . jari - jari lentik saya cekatan ngetiknya . 
+NULL ({ 2 }) admin ({ 1 }) dm ({ 4 }) lagi ({ 5 }) cuti ({ 3 6 }) ya ({ }) min ({ 7 }) ? ({ 8 }) sy ({ 9 }) aja ({ 10 }) deh ({ }) ngelamar ({ 11 }) jadi ({ 12 }) admin ({ 13 }) xxxuserxxx ({ 14 }) khusus ({ 15 }) balesin ({ 16 }) dm ({ 17 }) 🤭 ({ 18 }) jari ({ 19 }) - ({ 20 }) jari ({ 21 }) lentik ({ 22 }) saya ({ 23 }) cekatan ({ 24 }) ko ({ }) ngetiknya ({ 25 26 }) 
+# Sentence pair (684) source length 26 target length 26 alignment score : 2.00514e-10
+setelah baca kasus ini , mari kita biasakan tidak isi gopay terlalu banyak biar kalau ada ancaman disedot kita bisa berfikir tenang dengan kemungkinan terburuknya . 
+NULL ({ }) setelah ({ 1 }) baca ({ 2 }) kasus ({ 3 }) ini ({ 4 }) , ({ 5 }) mari ({ 6 }) kita ({ 7 }) biasakan ({ 8 }) tidak ({ 9 }) isi ({ 10 }) gopay ({ 11 }) terlalu ({ 12 }) banyak ({ 13 }) biar ({ 14 }) kalo ({ 15 }) ada ({ 16 }) ancaman ({ 17 }) disedot ({ 18 }) kita ({ 19 }) bisa ({ 20 }) mikir ({ 21 }) tenang ({ 22 }) dengan ({ 23 }) kemungkinan ({ 24 }) terburuknya ({ 25 }) . ({ 26 }) 
+# Sentence pair (694) source length 20 target length 21 alignment score : 1.63546e-11
+halo admin . saldo ovo tidak muncul di grab . padahal nomor hp sudah sama . tolong cek dm admin . 
+NULL ({ 3 21 }) halo ({ 1 }) min ({ 2 }) saldo ({ 4 }) ovo ({ 5 }) ga ({ 6 }) muncul ({ 7 }) di ({ 8 }) grab ({ 9 }) , ({ 10 }) padahal ({ 11 }) nomor ({ 12 }) hp ({ 13 }) sudah ({ 14 }) sama ({ 15 }) . ({ 16 }) tolong ({ 17 }) cek ({ 18 }) dm ({ 19 }) ya ({ }) min ({ 20 }) 
+# Sentence pair (699) source length 10 target length 10 alignment score : 8.79042e-06
+berisik ! betulkan dulu jaringan yang katanya " prioritas . 
+NULL ({ }) bacot ({ 1 }) ! ({ 2 }) benerin ({ 3 }) dulu ({ 4 }) jaringan ({ 5 }) yang ({ 6 }) katanya ({ 7 }) " ({ 8 }) prioritas ({ 9 }) " ({ 10 }) 
+# Sentence pair (701) source length 12 target length 11 alignment score : 2.01224e-08
+dari xxxnumberxxx ribu , sekarang menyisakan xxxnumberxxx ribu . baik . 
+NULL ({ 4 }) dari ({ 1 }) xxxnumberxxx ({ 2 }) xxxnumberxxx ({ }) ribu ({ 3 }) skarang ({ 5 }) nyisa ({ 6 }) xxxnumberxxx ({ }) xxxnumberxxx ({ 7 }) ribu ({ 8 }) . ({ 9 }) oik ({ 10 }) , ({ 11 }) 
+# Sentence pair (703) source length 18 target length 17 alignment score : 1.55536e-10
+kenapa internet jadi lambat ? padahal sudah di pengaturan terus pilih jaringan manual tetap saja lambat . 
+NULL ({ 17 }) kenapa ({ 1 }) ya ({ }) internet ({ 2 }) jadi ({ 3 }) lemot ({ 4 }) ? ({ 5 }) padahal ({ 6 }) udah ({ 7 }) di ({ 8 }) pengaturan ({ 9 }) terus ({ 10 }) pilih ({ 11 }) jaringan ({ 12 }) manual ({ 13 }) tapi ({ }) tetap ({ 14 }) saja ({ 15 }) lemot ({ 16 }) 
+# Sentence pair (708) source length 13 target length 14 alignment score : 1.21301e-05
+kemarin saya sudah ke toko indosat yang di ciputra mall . terima kasih . 
+NULL ({ }) kmrn ({ 1 }) sy ({ 2 }) sudah ({ 3 }) ke ({ 4 }) outlet ({ 5 }) indosat ({ 6 }) yg ({ 7 }) di ({ 8 }) ciputra ({ 9 }) mall ({ 10 }) . ({ 11 }) terima ({ 12 }) kasih ({ 13 14 }) 
+# Sentence pair (712) source length 10 target length 11 alignment score : 5.81327e-06
+masih error , saya beralih saja ke kartu yang lain . 
+NULL ({ 11 }) masih ({ 1 }) error ({ 2 }) , ({ 3 }) saya ({ 4 }) beralih ({ 5 }) aja ({ 6 }) ke ({ 7 }) kartu ({ 8 }) yang ({ 9 }) lain ({ 10 }) 
+# Sentence pair (715) source length 14 target length 15 alignment score : 2.20578e-11
+apakah lagi ada gangguan ? kenapa tidak bisa mau pesan grabfood ? kelaparan ini . 
+NULL ({ }) lg ({ 1 2 }) ada ({ 3 }) gangguan ({ 4 }) ya ({ }) ? ({ 5 }) kok ({ 6 }) gak ({ 7 }) bisa ({ 8 }) mau ({ 9 }) pesan ({ 10 }) grabfood ({ 11 }) , ({ 12 }) kelaperan ({ 13 }) nih ({ 14 15 }) 
+# Sentence pair (717) source length 24 target length 32 alignment score : 5.06658e-25
+selamat malam admin xxxuserxxx . saya baru isi pulsa xxxnumberxxx xxxnumberxxx k , tiba - tiba pulsa hilang entah kenapa . padahal belum saya lakukan apa - apa . sebel saya . 
+NULL ({ 5 32 }) malam ({ 1 2 }) admin ({ 3 }) xxxuserxxx ({ 4 }) saya ({ 6 }) baru ({ 7 }) isi ({ 8 }) pulsa ({ 9 }) xxxnumberxxx ({ 10 }) xxxnumberxxx ({ 11 }) k ({ 12 }) , ({ 13 }) tiba2 ({ 14 15 16 }) pulsa ({ 17 }) ilang ({ 18 }) entah ({ 19 }) kenapa ({ 20 }) . ({ 21 }) padahal ({ 22 }) belum ({ 23 }) saya ({ 24 }) apa2in ({ 25 }) . ({ 29 }) sebel ({ 26 27 28 30 }) saya ({ 31 }) 
+# Sentence pair (727) source length 12 target length 14 alignment score : 2.94252e-09
+lagi error ? login auto keluar , mau masuk tidak bisa - bisa . 
+NULL ({ 14 }) lagi ({ 1 }) error ({ 2 }) yak ({ }) ? ({ 3 }) logi ({ 4 }) auto ({ 5 }) keluar ({ 6 }) , ({ 7 }) mau ({ 8 }) masup ({ 9 }) gak ({ 10 }) bisa2 ({ 11 12 13 }) 
+# Sentence pair (729) source length 14 target length 17 alignment score : 3.36944e-14
+kak , indosat baru saja trouble atau bagaimana ya ? mengapa kartu saya tidak ada sinyal ? 
+NULL ({ 2 17 }) kak ({ 1 }) indosat ({ 3 }) baru ({ 4 }) troble ({ 5 }) ato ({ 6 7 }) gmn ({ 8 }) ya ({ 9 }) ? ({ 10 }) kok ({ 11 }) kartu ({ 12 }) saya ({ 13 }) gk ({ 14 }) ada ({ 15 }) sinyal ({ 16 }) 
+# Sentence pair (732) source length 13 target length 16 alignment score : 2.30696e-17
+admin , saya mengisi pulsa menggunakan ovo point mengapa keterangannya server error terus - menerus ? 
+NULL ({ }) min ({ 1 }) ko ({ 2 }) saya ({ 3 }) ko ({ 4 }) isipulsa ({ 5 }) pake ({ 6 }) ovopoint ({ 7 10 }) server ({ 8 9 11 }) error ({ 12 }) mulu ({ 13 }) ya ({ }) kterangannya ({ 14 15 }) ? ({ 16 }) 
+# Sentence pair (736) source length 15 target length 14 alignment score : 2.28181e-11
+admin , tolonglah kuota si xxxnumberxxx gb , tapi kenapa tidak bisa digunakan ? 
+NULL ({ 2 }) min ({ 1 }) tolonglah ({ 3 }) kuota ({ 4 }) sy ({ 5 }) xxxnumberxxx ({ 6 }) xxxnumberxxx ({ }) gb ({ 7 }) , ({ 8 }) tp ({ 9 }) knp ({ 10 }) nggk ({ 11 }) bsa ({ 12 }) di ({ }) gunakan ({ 13 }) ? ({ 14 }) 
+# Sentence pair (739) source length 14 target length 12 alignment score : 2.34978e-05
+mau jajan aset / saham xxxuserxxx xxxnumberxxx ribu dapat berapa persen ? 
+NULL ({ }) mau ({ 1 }) jajan ({ 2 }) aset ({ 3 }) / ({ 4 }) saham ({ 5 }) xxxuserxxx ({ 6 }) xxxnumberxxx ({ 7 }) xxxnumberxxx ({ }) k ({ 8 }) dapet ({ 9 }) berapa ({ 10 }) persen ({ 11 }) ya ({ }) ? ({ 12 }) 
+# Sentence pair (742) source length 14 target length 13 alignment score : 7.03357e-07
+admin , saya pesan tiket kereta api mengapa tidak bisa buka aplikasi ? 
+NULL ({ }) . ({ 2 }) min ({ 1 }) saya ({ 3 }) psen ({ 4 }) tiket ({ 5 }) kereta ({ 6 }) api ({ 7 }) kok ({ 8 }) ga ({ 9 }) bisa ({ 10 }) buka ({ 11 }) aplikasi ({ 12 }) ya ({ }) ? ({ 13 }) 
+# Sentence pair (747) source length 6 target length 8 alignment score : 1.07653e-06
+karena panik , ingat setahun yang lalu . 
+NULL ({ 8 }) gara2 ({ 1 }) panik ({ 2 }) inget ({ 3 4 }) setaun ({ 5 }) yg ({ 6 }) lalu ({ 7 }) 
+# Sentence pair (748) source length 6 target length 8 alignment score : 7.56153e-06
+iya , makanya malas komplain . hahaha . 
+NULL ({ }) iya ({ 1 }) makanya ({ 2 }) ra ({ 3 }) males ({ 4 }) komplain ({ 5 }) wkwk ({ 6 7 8 }) 
+# Sentence pair (749) source length 22 target length 22 alignment score : 2.72429e-08
+malam , koneksi telkomsel semakin lama semakin buruk bukan membaik , sudah seminggu lebih seperti ini , jadi bagaimana solusi terbaik ? 
+NULL ({ }) malam ({ 1 }) , ({ 2 }) koneksi ({ 3 }) telkomsel ({ 4 }) semakin ({ 5 }) lama ({ 6 }) semakin ({ 7 }) buruk ({ 8 }) bukan ({ 9 }) membaik ({ 10 }) , ({ 11 }) sudah ({ 12 }) seminggu ({ 13 }) lebih ({ 14 }) seperti ({ 15 }) ini ({ 16 }) , ({ 17 }) jadi ({ 18 }) gmn ({ 19 }) solusi ({ 20 }) terbaik ({ 21 }) ? ({ 22 }) 
+# Sentence pair (758) source length 8 target length 7 alignment score : 0.00189736
+sama . http error terus katanya . 
+NULL ({ }) sama ({ 1 }) nih ({ }) . ({ 2 }) http ({ 3 }) eror ({ 4 }) terus ({ 5 }) katanya ({ 6 }) . ({ 7 }) 
+# Sentence pair (761) source length 16 target length 16 alignment score : 1.58919e-08
+saya tunggu respon disini , segera ! sebelum dapat jawaban saya retweet simultan supaya ingat ! 
+NULL ({ }) sy ({ 1 }) tunggu ({ 2 }) responnya ({ 3 }) disini ({ 4 }) , ({ 5 }) segera ({ 6 }) ! ({ 7 }) sblm ({ 8 }) dpt ({ 9 }) jwban ({ 10 }) sy ({ 11 }) retweet ({ 12 }) simultan ({ 13 }) biar ({ 14 }) inget ({ 15 }) ! ({ 16 }) 
+# Sentence pair (763) source length 8 target length 11 alignment score : 9.46889e-08
+ini mengapa tarik tunai tiba - tiba minta ganti pin ? 
+NULL ({ }) ini ({ 1 }) kok ({ 2 }) taril ({ 3 }) tunai ({ 4 }) tiba2 ({ 5 6 7 }) minta ({ 8 }) ganti ({ 9 }) pin ({ 10 11 }) 
+# Sentence pair (764) source length 9 target length 10 alignment score : 3.59323e-08
+beli token listrik admin , karena sudah mau habis . 
+NULL ({ 10 }) beli ({ 1 }) token ({ 2 }) listrik ({ 3 }) min ({ 4 }) , ({ 5 }) udah ({ 7 }) mau ({ 8 }) abis ({ 9 }) soalnya ({ 6 }) 
+# Sentence pair (767) source length 14 target length 13 alignment score : 2.10929e-14
+admin . jika ingin downgrade paket halo kick , apakah bisa dibantu ? 
+NULL ({ 9 }) min ({ 1 }) , ({ 2 }) kalo ({ 3 }) mau ({ 4 }) down ({ }) grade ({ 5 }) paket ({ 6 }) halo ({ 7 }) kick ({ 8 10 }) bisa ({ 11 }) di ({ }) bantu ({ 12 }) gak ({ }) ? ({ 13 }) 
+# Sentence pair (769) source length 18 target length 19 alignment score : 3.22774e-10
+saya mau tanya , ini saya mau beli paket yellow kenapa sama xxxnumberxxx tidak direspons / tidak dibalas ? 
+NULL ({ 19 }) saya ({ 1 }) mau ({ 2 }) tanya ({ 3 }) , ({ 4 }) ini ({ 5 }) saya ({ 6 }) mau ({ 7 }) beli ({ 8 }) paket ({ 9 }) yellow ({ 10 }) kenapa ({ 11 }) sama ({ 12 }) xxxnumberxxx ({ 13 }) tidak ({ 14 }) direspon ({ 15 }) / ({ 16 }) tidak ({ 17 }) dibalas ({ 18 }) 
+# Sentence pair (773) source length 9 target length 11 alignment score : 2.72657e-13
+saya tidak bisa aktivasi ovo . padahal , sudah ditingkatkan . 
+NULL ({ 6 11 }) saya ({ 1 }) gak ({ 2 }) bisa ({ 3 }) aktivasi ({ 4 }) ovo ({ 5 }) padahal ({ 7 }) sudah ({ 9 }) di ({ 8 }) upgrade ({ 10 }) 
+# Sentence pair (776) source length 9 target length 9 alignment score : 0.00113684
+saldo grab dan ovo kan sudah menyatu sekarang . 
+NULL ({ }) saldo ({ 1 }) grab ({ 2 }) dan ({ 3 }) ovo ({ 4 }) kan ({ 5 }) udah ({ 6 }) nyatu ({ 7 }) sekarang ({ 8 }) . ({ 9 }) 
+# Sentence pair (779) source length 6 target length 7 alignment score : 0.00026086
+tolong admin dikasih bonus untuk masnya . 
+NULL ({ }) tolong ({ 1 }) min ({ 2 }) dikasih ({ 3 }) bonus ({ 4 }) buat ({ 5 }) masnya ({ 6 7 }) 
+# Sentence pair (780) source length 7 target length 7 alignment score : 0.00585679
+ini paket mengapa gagal kirim admin ? 
+NULL ({ }) ni ({ 1 }) paket ({ 2 }) napa ({ 3 }) gagal ({ 4 }) kirim ({ 5 }) min ({ 6 }) ? ({ 7 }) 
+# Sentence pair (781) source length 38 target length 38 alignment score : 1.24779e-13
+pagi admin . paket saya dari shopee dengan kode xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx r04b tidak terbaca nomor resinya . mohon dibantu . dari hari jumat masih mengendap di jne malang . 
+NULL ({ 38 }) pagi ({ 1 }) admin ({ 2 }) , ({ 3 }) paket ({ 4 }) saya ({ 5 }) dari ({ 6 }) shopee ({ 7 }) dengan ({ 8 }) kode ({ 9 }) xxxnumberxxx ({ 10 }) xxxnumberxxx ({ 11 }) xxxnumberxxx ({ 12 }) xxxnumberxxx ({ 13 }) xxxnumberxxx ({ 14 }) xxxnumberxxx ({ 15 }) xxxnumberxxx ({ 16 }) xxxnumberxxx ({ 17 }) xxxnumberxxx ({ 18 }) xxxnumberxxx ({ 19 }) xxxnumberxxx ({ 20 }) r04b ({ 21 }) tidak ({ 22 }) kebaca ({ 23 }) nomor ({ 24 }) resinya ({ 25 }) , ({ 26 }) mohon ({ 27 }) dibantu ({ 28 }) ya ({ }) . ({ 29 }) dari ({ 30 }) hari ({ 31 }) jumat ({ 32 }) masih ({ 33 }) ngendep ({ 34 }) di ({ 35 }) jne ({ 36 }) malang ({ 37 }) 
+# Sentence pair (814) source length 18 target length 18 alignment score : 6.89854e-10
+mohon maaf saya transfer dana untuk top up . tapi hingga saat ini belum masuk . bagaimana ? 
+NULL ({ }) mohon ({ 1 }) maaf ({ 2 }) saya ({ 3 }) transfee ({ 4 }) dana ({ 5 }) untuk ({ 6 }) top ({ 7 }) up ({ 8 }) . ({ 9 }) tapi ({ 10 }) hingga ({ 11 }) saat ({ 12 }) ini ({ 13 }) blm ({ 14 }) masuk ({ 15 }) bagaimana ({ 17 }) ya ({ 18 }) . ({ 16 }) 
+# Sentence pair (816) source length 22 target length 26 alignment score : 2.17543e-30
+pastinya saldo yang sudah diambil tidak akan kembali lagi . salam untuk teman mas , agar lebih sabar dan lebih berhati - hati lain kali . 
+NULL ({ 10 26 }) yg ({ }) pasti ({ 1 }) saldo ({ 2 }) yg ({ 3 }) sudah ({ 4 }) diambil ({ 5 }) gak ({ 6 }) akan ({ 7 }) balik ({ 8 }) lagi ({ 9 }) salam ({ 11 }) buat ({ 12 }) temen ({ 13 }) nya ({ }) mas ({ 14 }) yg ({ 15 }) sabar ({ 16 18 19 }) lebih ({ 17 20 }) hati ({ 21 23 }) " ({ 22 }) lain ({ 24 }) kali ({ 25 }) 
+# Sentence pair (823) source length 17 target length 15 alignment score : 1.16559e-12
+seberapa kamu ? tahun depan beli rumah . lalu ? mengumpulkan uangnya mulai sekarang . 
+NULL ({ 15 }) : ({ }) seberapa ({ 1 }) kamu ({ 2 }) ! ({ 3 }) : ({ }) tahun ({ 4 }) depan ({ 5 }) beli ({ 6 }) rumah ({ 7 }) : ({ 8 }) terus ({ 9 }) ! ({ 10 }) : ({ }) ngumpulin ({ 11 }) duitnya ({ 12 }) mulai ({ 13 }) sekarang ({ 14 }) 
+# Sentence pair (825) source length 18 target length 17 alignment score : 7.89959e-14
+oh iya sekarang hari sabtu , bukan jam kerja . adminnya lagi sedang malam mingguan hahaha . 
+NULL ({ }) oya ({ 1 2 }) skarang ({ 3 }) kan ({ }) hari ({ 4 }) sabtu ({ 5 }) , ({ 6 }) bukan ({ 7 }) jam ({ 8 }) kerja ({ 9 }) : ({ 10 }) v ({ 11 }) mimin ({ }) - ({ }) miminnya ({ }) lagi ({ 12 }) pada ({ 13 }) malmingan ({ 14 15 }) hahaha ({ 16 17 }) 
+# Sentence pair (828) source length 10 target length 14 alignment score : 9.6891e-14
+supaya dapat main bareng di sela - sela penyusunan laporan magang dan skripsi . 
+NULL ({ 14 }) biar ({ 1 }) bisa ({ 2 }) mabar ({ 3 4 }) di ({ 5 }) sela ({ 6 8 }) nyusun ({ 7 9 }) laporan ({ 10 }) magang ({ 11 }) dan ({ 12 }) skripsian ({ 13 }) 
+# Sentence pair (831) source length 20 target length 18 alignment score : 1.53117e-15
+selamat malam admin , saya ingin bertanya . apakah paket xl combo vip yang ada iflixnya unlimited ? 
+NULL ({ 4 8 }) selamat ({ 1 }) malam ({ 2 }) admin ({ 3 }) saya ({ 5 }) ingin ({ 6 }) bertanya ({ 7 }) untuk ({ 9 }) paket ({ 10 }) xl ({ 11 }) combo ({ 12 }) vip ({ 13 }) yang ({ 14 }) ada ({ 15 }) iflix ({ 16 }) - ({ }) nya ({ }) itu ({ }) unlimited ({ 17 }) gak ({ }) ? ({ 18 }) 
+# Sentence pair (836) source length 14 target length 22 alignment score : 1.35304e-28
+jp xxxphonexxx . tolong , sudah sekitar seminggu tetapi belum sampai - sampai . saya kecewa sebagai pelanggan j & t . 
+NULL ({ 3 22 }) jp ({ 1 }) xxxphonexxx ({ 2 }) tolong ({ 4 }) ini ({ 5 }) sudah ({ 6 }) semingguan ({ 7 8 }) tapi ({ 9 }) belum ({ 10 }) sampe2 ({ 11 13 }) saya ({ 15 }) kecewa ({ 16 19 }) sbagai ({ 17 20 }) langganan ({ 12 18 21 }) jnt ({ 14 }) 
+# Sentence pair (842) source length 24 target length 29 alignment score : 1.00749e-30
+ya tuhan . saran untuk selanjutnya harus bisa seperti e - money milik mandir . bisa topup langsung dari ponsel menggunakan satu aplikasi . ok , terima kasih . 
+NULL ({ 26 }) omg ({ 1 2 }) . ({ 3 }) saran ({ 4 13 14 }) yah ({ 5 }) next ({ 6 }) harus ({ 7 }) bisa ({ 8 }) kaya ({ 9 }) emoney ({ 10 11 12 }) punya ({ }) mandiri ({ }) . ({ 15 }) bisa ({ 16 }) topup ({ 17 }) langsung ({ 18 }) dari ({ 19 }) hape ({ 20 }) loh ({ }) pake ({ 21 }) xxxnumberxxx ({ 22 }) aplikasi ({ 23 }) . ({ 24 }) ok ({ 25 }) thx ({ 27 28 29 }) 
+# Sentence pair (852) source length 24 target length 26 alignment score : 7.79931e-18
+admin juga senang kak , yuk kak pantau terus website kita an jangan lupa follow xxxuserxxx juga . terima kasih sobat setia smartfren . dee . 
+NULL ({ 5 26 }) mimin ({ 1 }) juga ({ 2 }) seneng ({ 3 }) kak ({ 4 }) yuk ({ 6 }) kak ({ 7 }) pantau ({ 8 }) terus ({ 9 }) web ({ 10 }) kita ({ 11 }) dan ({ 12 }) jangan ({ 13 }) lupa ({ 14 }) follow ({ 15 }) xxxuserxxx ({ 16 }) juga ({ 17 }) ya ({ 18 }) terima ({ 19 }) kasih ({ 20 }) sobat ({ 21 }) setia ({ 22 }) smartfren ({ 23 }) . ({ 24 }) dee ({ 25 }) 
+# Sentence pair (861) source length 19 target length 23 alignment score : 1.00749e-22
+hi admin . saya sudah memesan barang . sudah ditransfer juga . tapi mengapa setelah melakukan pembayaran , tulisannya pemesanan tidak sah ? 
+NULL ({ 3 8 12 18 }) hay ({ 1 }) min ({ 2 }) saya ({ 4 }) suda ({ 5 }) pesen ({ 6 }) barang ({ 7 }) sudah ({ 9 }) transfer ({ 10 }) juga ({ 11 }) tp ({ 13 }) kenapa ({ 14 }) habis ({ 15 }) banyar ({ 16 17 }) tulisannya ({ 19 }) pemesanan ({ 20 }) tidak ({ 21 }) sah ({ 22 }) ya ({ }) ? ({ 23 }) 
+# Sentence pair (867) source length 23 target length 28 alignment score : 5.63496e-31
+siang , mau bertanya . mengapa pakey saya belum sampai ? padahal menggunakan lazeres . dari kemarin informasinya sedang diproses terus . mohon informasinya . terima kasih . 
+NULL ({ 2 5 }) siang ({ 1 }) mau ({ 3 }) tanya ({ 4 }) paket ({ 7 }) saya ({ 8 }) ko ({ 6 }) blm ({ 9 }) sampai ({ 10 }) ya ({ 11 }) padahal ({ 12 }) pke ({ 13 }) lazeres ({ 14 19 }) , ({ 15 }) dari ({ 16 }) kemarin ({ 17 }) info ({ 18 }) diproses ({ 20 }) terus ({ 21 22 }) mohon ({ 23 }) infonya ({ 24 }) dong ({ }) . ({ 25 }) trimss ({ 26 27 28 }) 
+# Sentence pair (882) source length 7 target length 6 alignment score : 6.70028e-05
+kalau kayak ini kenapa admin ? 
+NULL ({ }) kalo ({ 1 }) kaya ({ 2 }) gini ({ 3 }) kenapa ({ 4 }) yaa ({ }) min ({ 5 }) ? ({ 6 }) 
+# Sentence pair (883) source length 28 target length 31 alignment score : 2.88723e-18
+tidak usah dicari . saya sudah tidak menghindar dari kalian teman - teman . selamat , amplop yang kalian sepelekan sudah berpindah ke ninj * dan balik ke jn * . 
+NULL ({ 16 31 }) ga ({ 1 }) ush ({ 2 }) dcari ({ 3 }) . ({ 4 }) gw ({ 5 }) udh ({ 6 }) g ({ 7 }) stay ({ 8 }) out ({ 9 }) from ({ 10 }) u ({ 11 }) gaes ({ 12 13 }) . ({ 14 }) selamat ({ 15 }) amplop ({ 17 }) yg ({ 18 }) kalian ({ 19 }) sepelekan ({ 20 }) sdh ({ 21 }) berpindah ({ 22 }) ke ({ 23 }) ninj ({ 24 }) * ({ 25 }) dan ({ 26 }) balik ({ 27 }) ke ({ 28 }) jn ({ 29 }) * ({ 30 }) 
+# Sentence pair (894) source length 25 target length 24 alignment score : 3.43686e-14
+admin , mengapa begini terus ? data sudah dimatikan , pulsa cukup , jaringan diatur ke xxxnumberxxx g , tetapi masih belum bisa . 
+NULL ({ 19 }) woi ({ }) min ({ 1 }) , ({ 2 }) ini ({ }) kenapa ({ 3 }) gini ({ 4 }) terus ({ 5 }) ? ({ 6 }) data ({ 7 }) udah ({ 8 }) dimatiin ({ 9 }) , ({ 10 }) pulsa ({ 11 }) cukup ({ 12 }) , ({ 13 }) jaringan ({ 14 }) diatur ({ 15 }) ke ({ 16 }) xxxnumberxxx ({ 17 }) g ({ 18 }) tapi ({ 20 }) masih ({ 21 }) belom ({ 22 }) bisa ({ 23 }) . ({ 24 }) 
+# Sentence pair (900) source length 25 target length 26 alignment score : 6.87408e-11
+halo , mohon dibantu dipercepat dan diinfokan perkiraan barang tiba ke alamat penerima : jp xxxphonexxx tujuan ntb . saya pengirim . terima kasih bantuannya ! 
+NULL ({ }) halo ({ 1 }) , ({ 2 }) mohon ({ 3 }) dibantu ({ 4 }) dipercepat ({ 5 }) dan ({ 6 }) info ({ 7 }) perkiraan ({ 8 }) barang ({ 9 }) tiba ({ 10 }) ke ({ 11 }) alamat ({ 12 }) penerima ({ 13 }) : ({ 14 }) jp ({ 15 }) xxxphonexxx ({ 16 }) tujuan ({ 17 }) ntb ({ 18 }) . ({ 19 }) saya ({ 20 }) pengirim ({ 21 }) . ({ 22 }) trimakasih ({ 23 24 }) bantuannya ({ 25 }) ! ({ 26 }) 
+# Sentence pair (909) source length 10 target length 11 alignment score : 4.4404e-09
+admin , saya dapat bonus onnet . itu maksudnya bagaimana ? 
+NULL ({ 2 7 }) min ({ 1 }) saya ({ 3 }) dapet ({ 4 }) bonus ({ 5 }) onnet ({ 6 }) itu ({ 8 }) maksudnya ({ 9 }) gimana ({ 10 }) ya ({ }) ? ({ 11 }) 
+# Sentence pair (913) source length 13 target length 15 alignment score : 1.37709e-10
+tiba - tiba ubah dari xxxnumberxxx giga jadi xxxnumberxxx giga . kenapa ? pemberitahuannya . 
+NULL ({ }) tiba2 ({ 1 2 3 }) ubah ({ 4 }) dari ({ 5 }) xxxnumberxxx ({ 6 }) giga ({ 7 }) jadi ({ 8 }) xxxnumberxxx ({ 9 }) giga ({ 10 }) ? ({ 11 }) kenapa ({ 12 }) ? ({ 13 }) pemberitahuan ({ 14 }) nya ({ 15 }) 
+# Sentence pair (916) source length 8 target length 8 alignment score : 0.000983191
+tolong cek dm saya . terima kasih . 
+NULL ({ }) tolong ({ 1 }) cek ({ 2 }) dm ({ 3 }) saya ({ 4 }) , ({ 5 }) terima ({ 6 }) kasih ({ 7 }) . ({ 8 }) 
+# Sentence pair (917) source length 8 target length 15 alignment score : 2.66806e-22
+saya lupa pin , bagaimana reset - nya ? apakah saya harus menelepon cs ? 
+NULL ({ 4 }) lupa ({ 1 2 }) pin ({ 3 }) gimana ({ 5 }) resetnya ({ 6 7 8 12 }) ? ({ 9 }) telpon ({ 10 13 }) cs ({ 11 14 }) ? ({ 15 }) 
+# Sentence pair (919) source length 19 target length 19 alignment score : 3.73306e-10
+ada masalah apa di poris ? ping , packet loss , kecepatan tidak jelas semua . mohon direspon . 
+NULL ({ 19 }) ada ({ 1 }) problem ({ 2 }) apa ({ 3 }) ya ({ }) di ({ 4 }) poris ({ 5 }) ? ({ 6 }) ping ({ 7 }) , ({ 8 }) packet ({ 9 }) loss ({ 10 }) , ({ 11 }) speed ({ 12 }) ga ({ 13 }) jelas ({ 14 }) semua ({ 15 }) , ({ 16 }) mohon ({ 17 }) direspon ({ 18 }) 
+# Sentence pair (923) source length 9 target length 13 alignment score : 7.41419e-11
+motor honda spacy xxxnumberxxx xxxnumberxxx xxxnumberxxx cc ke arcawinangun , purwokerto timur . 
+NULL ({ 13 }) motor ({ 1 }) honda ({ 2 }) specy ({ 3 4 5 }) xxxnumberxxx ({ 6 }) cc ({ 7 }) ke ({ 8 }) arcawinangun ({ 9 }) purwokerto ({ 10 11 }) timur ({ 12 }) 
+# Sentence pair (925) source length 18 target length 17 alignment score : 1.73068e-14
+saya baru saja mengisi saldo ketika masuk , malah terblokir . bagaimana ini ? terima kasih . 
+NULL ({ }) saya ({ 1 }) habis ({ 2 }) top ({ 3 }) up ({ 4 }) saldo ({ 5 }) ketika ({ 6 }) log ({ 7 }) in ({ 8 }) malah ({ 9 }) terblokir ({ 10 }) . ({ 11 }) ini ({ 13 }) bagaimana ({ 12 }) yaa ({ }) ? ({ 14 }) terima ({ 15 }) kasih ({ 16 }) . ({ 17 }) 
+# Sentence pair (928) source length 18 target length 19 alignment score : 1.59541e-10
+iya , grabwheels di noble house itu ada xxxnumberxxx kak , tetapi semuanya tidak tersedia saat aku scan . 
+NULL ({ 19 }) iya ({ 1 }) jadi ({ 2 }) grabwheels ({ 3 }) di ({ 4 }) noble ({ 5 }) house ({ 6 }) itu ({ 7 }) ada ({ 8 }) xxxnumberxxx ({ 9 }) kak ({ 10 }) , ({ 11 }) tapi ({ 12 }) semuanya ({ 13 }) not ({ 14 }) avail ({ 15 }) pas ({ 16 }) aku ({ 17 }) scan ({ 18 }) 
+# Sentence pair (935) source length 24 target length 24 alignment score : 3.85862e-09
+admin xxxuserxxx mengapa setiap saya mau unggah foto ktp selalu seperti ini ? sudah saya upgrade aplikasi , sudah saya clear cache juga . 
+NULL ({ }) min ({ 1 }) xxxuserxxx ({ 2 }) kenapa ({ 3 }) setiap ({ 4 }) saya ({ 5 }) mau ({ 6 }) unggah ({ 7 }) foto ({ 8 }) ktp ({ 9 }) selalu ({ 10 }) seperti ({ 11 }) ini ({ 12 }) ? ({ 13 }) sudah ({ 14 }) saya ({ 15 }) upgrade ({ 16 }) app ({ 17 }) , ({ 18 }) sudah ({ 19 }) saya ({ 20 }) clear ({ 21 }) cache ({ 22 }) juga ({ 23 }) . ({ 24 }) 
+# Sentence pair (940) source length 16 target length 14 alignment score : 2.88655e-11
+apa fungsi dari telepon admin ? dihubungi juga tidak bisa . bagaimana ini . 
+NULL ({ }) ini ({ 1 }) fungsi ({ 2 3 }) telp ({ 4 }) admin ({ 5 }) nya ({ }) apaan ({ }) yak ({ }) ? ({ 6 }) dihubungin ({ 7 }) juga ({ 8 }) ga ({ 9 }) bisa ({ 10 }) . ({ 11 }) gmn ({ 12 }) sih ({ 13 }) . ({ 14 }) 
+# Sentence pair (943) source length 7 target length 9 alignment score : 2.49658e-06
+tidak pak , saya mau ganti kartu saja . 
+NULL ({ }) gak ({ 1 }) pa ({ 2 3 }) saya ({ 4 }) mw ({ 5 }) ganti ({ 6 }) kartu ({ 7 }) ja ({ 8 9 }) 
+# Sentence pair (945) source length 23 target length 27 alignment score : 6.125e-21
+mohon bantuannya . driver cancel pick up tetapi statusnya sudah proses antar dan barang belum diambil . tolong bantu re - pick up gk - xxxnumberxxx . 
+NULL ({ 3 27 }) mohon ({ 1 }) bantuannya ({ 2 }) driver ({ 4 }) cancel ({ 5 }) pick ({ 6 }) up ({ 7 }) tetapi ({ 8 }) statusnya ({ 9 }) sudah ({ 10 }) proses ({ 11 }) antar ({ 12 }) dan ({ 13 }) barang ({ 14 }) belum ({ 15 }) diambil ({ 16 }) . ({ 17 }) tolong ({ 18 }) bantu ({ 19 }) repick ({ 20 22 }) up ({ 21 23 }) gk ({ 24 }) - ({ 25 }) xxxnumberxxx ({ 26 }) 
+# Sentence pair (955) source length 12 target length 14 alignment score : 2.37247e-09
+saya mencoba free trial paylater . mengapa tagihannya harus dibayar xxxnumberxxx hari setelahnya ? 
+NULL ({ 6 }) saya ({ 1 }) nyobain ({ 2 }) freetrial ({ 3 4 }) paylater ({ 5 }) kok ({ 7 }) tagihannya ({ 8 }) hrs ({ 9 }) dibayar ({ 10 }) xxxnumberxxx ({ 11 }) hari ({ 12 }) setelahnya ({ 13 }) ya ({ 14 }) 
+# Sentence pair (956) source length 16 target length 17 alignment score : 3.1102e-13
+ini ngobrol dengan triva , cepat sekali responnya . jadi tidak lama menunggu pesan dari dia . 
+NULL ({ 9 17 }) ini ({ 1 }) chattingan ({ 2 }) sama ({ 3 }) triva ({ 4 }) , ({ 5 }) cepet ({ 6 }) banget ({ 7 }) responnya ({ 8 }) jadi ({ 10 }) gak ({ 11 }) lama ({ 12 }) nunggu ({ 13 }) kaya ({ }) chat ({ 14 }) dari ({ 15 }) dia ({ 16 }) 
+# Sentence pair (961) source length 19 target length 18 alignment score : 3.31335e-10
+mengapa muncul seperti ini terus min ? bisa xxxnumberxxx - xxxnumberxxx kali semenit . bagaimana cara menghilangkannya ? 
+NULL ({ }) ini ({ }) kok ({ 1 }) muncul ({ 2 }) ginian ({ 3 4 }) terus ({ 5 }) sih ({ }) min ({ 6 }) ? ({ 7 }) bisa ({ 8 }) xxxnumberxxx ({ 9 }) - ({ 10 }) xxxnumberxxx ({ 11 }) x ({ 12 }) semenit ({ 13 }) . ({ 14 }) gmn ({ 15 }) cara ({ 16 }) ilanginnya ({ 17 }) ? ({ 18 }) 
+# Sentence pair (965) source length 10 target length 11 alignment score : 1.09542e-12
+tidak bisakah tarifnya kembali ke yang dulu ? saldoku habis . 
+NULL ({ }) tarifnya ({ 1 2 3 }) balik ({ 4 }) ke ({ 5 }) yg ({ 6 }) dulu ({ 7 }) gabisa ({ }) apa ({ }) . ({ 11 }) saldoku ({ 8 }) ambyar ({ 9 10 }) 
+# Sentence pair (968) source length 10 target length 10 alignment score : 1.89689e-13
+berapa lama waktu yang dibutuhkan untuk konfirmasi sms collect ? 
+NULL ({ }) untuk ({ 6 }) waktu ({ 3 }) konfirmasi ({ 4 7 }) sms ({ 8 }) collect ({ 5 9 }) itu ({ }) berapa ({ 1 }) lama ({ 2 }) sih ({ }) ? ({ 10 }) 
+# Sentence pair (971) source length 16 target length 15 alignment score : 2.98085e-07
+admin , kenapa pulsa saya selalu tersedot terus ? padahal data selalu saya matikan . 
+NULL ({ }) min ({ 1 }) , ({ 2 }) kok ({ 3 }) pulsa ({ 4 }) saya ({ 5 }) selalu ({ 6 }) tersedot ({ 7 }) terus ({ 8 }) ya ({ }) ? ({ 9 }) padahal ({ 10 }) data ({ 11 }) selalu ({ 12 }) saya ({ 13 }) matiin ({ 14 }) ? ({ 15 }) 
+# Sentence pair (975) source length 15 target length 14 alignment score : 4.66707e-06
+apakah betul kabel optik telkomsel di papua diputus oleh orang tidak bertanggung jawab ? 
+NULL ({ }) apakah ({ 1 }) betul ({ 2 }) kabel ({ 3 }) optic ({ 4 }) telkomsel ({ 5 }) di ({ 6 }) papua ({ 7 }) di ({ }) putus ({ 8 }) oleh ({ 9 }) orang ({ 10 }) tak ({ 11 }) bertanggung ({ 12 }) jawab ({ 13 }) ? ({ 14 }) 
+# Sentence pair (978) source length 22 target length 22 alignment score : 1.18107e-07
+kata bantuan bukalapak saya suruh mengirimkan foto screenshot driver seperti ini agar pihak bukalapak bisa membantu memasukkan resi dan bisa dilacak . 
+NULL ({ }) kata ({ 1 }) bantuan ({ 2 }) bukalapak ({ 3 }) saya ({ 4 }) suruh ({ 5 }) mengirimkan ({ 6 }) foto ({ 7 }) screenshoot ({ 8 }) driver ({ 9 }) seperti ({ 10 }) ini ({ 11 }) agar ({ 12 }) pihak ({ 13 }) bukalapak ({ 14 }) bisa ({ 15 }) membantu ({ 16 }) menginput ({ 17 }) resi ({ 18 }) dan ({ 19 }) bisa ({ 20 }) dilacak ({ 21 }) . ({ 22 }) 
+# Sentence pair (981) source length 15 target length 14 alignment score : 4.03188e-08
+xxxuserxxx , aneh , seharian barang tersangkut di gudang saja , ada apa ? 
+NULL ({ }) xxxuserxxx ({ 1 }) , ({ 2 }) aneh ({ 3 }) , ({ 4 }) seharian ({ 5 }) barang ({ 6 }) stuck ({ 7 }) di ({ 8 }) warehouse ({ 9 }) doang ({ 10 }) . ({ 11 }) ada ({ 12 }) apa ({ 13 }) ya ({ }) ? ({ 14 }) 
+# Sentence pair (985) source length 14 target length 16 alignment score : 4.32749e-11
+malam , mas tono . kebetulan kekhawatiran saya sudah teratasi , mas . masalah teratasi . 
+NULL ({ 2 }) malam ({ 1 }) mas ({ 3 }) tono ({ 4 }) , ({ 5 }) kebetulan ({ 6 }) kekhawatiran ({ 7 }) saya ({ 8 }) sudah ({ 9 }) teratasi ({ 10 }) , ({ 11 }) mas ({ 12 }) . ({ 13 }) problem ({ 14 }) solved ({ 15 16 }) 
+# Sentence pair (990) source length 10 target length 10 alignment score : 2.31594e-06
+keasikan seperti operator punya bapak kamu sendiri . hahaha . 
+NULL ({ }) ke ({ }) asyikan ({ 1 }) ya ({ }) kaya ({ 2 }) operator ({ 3 }) punya ({ 4 }) bapak ({ 5 }) kamu ({ 6 }) sendiri ({ 7 }) wkwkwkwk ({ 8 9 10 }) 
+# Sentence pair (991) source length 10 target length 10 alignment score : 4.11194e-08
+aku mau admin , supaya bisa beli obrolan netizen . 
+NULL ({ 4 }) aku ({ 1 }) mau ({ 2 }) min ({ 3 }) biar ({ 5 }) bisa ({ 6 }) beli ({ 7 }) bacotan ({ 8 }) netijen ({ 9 }) : ({ 10 }) xxxnumberxxx ({ }) 
+# Sentence pair (993) source length 15 target length 14 alignment score : 1.94616e-06
+xxxuserxxx menunjuk mantan petinggi di unilever dan uber untuk memperkuat pemasaran secara global . 
+NULL ({ }) . ({ }) xxxuserxxx ({ 1 }) menunjuk ({ 2 }) mantan ({ 3 }) petinggi ({ 4 }) di ({ 5 }) unilever ({ 6 }) dan ({ 7 }) uber ({ 8 }) untuk ({ 9 }) memperkuat ({ 10 }) pemasaran ({ 11 }) secara ({ 12 }) global ({ 13 }) . ({ 14 }) 
+# Sentence pair (996) source length 14 target length 14 alignment score : 1.42212e-08
+kenapa pulsa saya hilang terus ? sudah mau coba pesan tapi tidak bisa . 
+NULL ({ 14 }) knp ({ 1 }) pulsa ({ 2 }) saya ({ 3 }) hilang ({ 4 }) trs ({ 5 }) ya ({ }) ? ({ 6 }) sudah ({ 7 }) mau ({ 8 }) coba ({ 9 }) dm ({ 10 }) tapi ({ 11 }) ga ({ 12 }) bisa ({ 13 }) 
+# Sentence pair (997) source length 33 target length 30 alignment score : 5.08098e-14
+sempat berpikir xxxuserxxx itu fiktif , ternyata asli . terimakasih untuk infonya xxxuserxxx . samsung a50 harga xxxnumberxxx ribu , sudah sampai tanggal xxxdatexxx . mantap ! penuh segel ! 
+NULL ({ }) sempet ({ 1 }) berfikir ({ 2 }) xxxuserxxx ({ 3 }) itu ({ 4 }) fiktif ({ 5 }) , ({ 6 }) ternyata ({ 7 }) real ({ 8 }) , ({ 9 }) trimaksih ({ 10 }) buay ({ 11 }) info ({ 12 }) - ({ }) nya ({ }) xxxuserxxx ({ 13 }) . ({ 14 }) samsung ({ 15 }) a50 ({ 16 }) harga ({ 17 }) xxxnumberxxx ({ 18 }) xxxnumberxxx ({ }) rb ({ 19 }) , ({ 20 }) sudah ({ 21 }) sampai ({ 22 }) tgl ({ 23 }) xxxdatexxx ({ 24 }) . ({ 25 }) mantul ({ 26 }) ! ({ 27 }) full ({ 28 }) segel ({ 29 }) ! ({ 30 }) 
+# Sentence pair (1011) source length 6 target length 8 alignment score : 3.1374e-10
+halo , tolong cek dm . penting . 
+NULL ({ 2 8 }) halo ({ 1 }) tolong ({ 3 }) check ({ 4 }) dm ({ 5 }) yah ({ 6 }) urgent ({ 7 }) 
+# Sentence pair (1015) source length 6 target length 8 alignment score : 2.9428e-11
+ya allah . ada apa dengan adminnya ? 
+NULL ({ }) ya ({ 1 }) allah ({ 2 }) ini ({ 3 }) adminnya ({ 4 }) kenapa ({ }) sihh ({ 5 6 7 8 }) 
+# Sentence pair (1016) source length 20 target length 21 alignment score : 2.71242e-11
+sudah saya balas lagi min . bisa lihat dm ? karena saya sudah bayar dan nominalnya tidak sebanyak yang dilaporkan . 
+NULL ({ 21 }) sudah ({ 1 }) saya ({ 2 }) bales ({ 3 }) lagi ({ 4 }) min ({ 5 }) . ({ 6 }) busa ({ 7 }) liat ({ 8 }) dm ({ 9 }) . ({ 10 }) krena ({ 11 }) saya ({ 12 }) sudah ({ 13 }) byr ({ 14 }) dan ({ 15 }) nominalnya ({ 16 }) tidak ({ 17 }) sebanyak ({ 18 }) yg ({ 19 }) dilaporkan ({ 20 }) 
+# Sentence pair (1021) source length 8 target length 7 alignment score : 4.30596e-06
+rifat girang sekali . selamat bertugas . 
+NULL ({ }) girang ({ 1 }) bgt ({ 3 }) rifat ({ }) ^~^ ({ 2 }) daghh ({ 4 }) selamat ({ 5 }) bertugas ({ 6 }) yaa ({ 7 }) 
+# Sentence pair (1023) source length 11 target length 11 alignment score : 0.000378879
+admin , jak linko bisa digunakan di krl commuterline tidak ? 
+NULL ({ }) min ({ 1 }) , ({ 2 }) jak ({ 3 }) lingko ({ 4 }) bisa ({ 5 }) digunakan ({ 6 }) di ({ 7 }) krl ({ 8 }) commuterline ({ 9 }) gak ({ 10 }) ? ({ 11 }) 
+# Sentence pair (1024) source length 19 target length 21 alignment score : 6.80052e-18
+admin , untuk bayar ongkos kirim ditempat itu bagaimana ? ada s & knya tidak untuk seller ? terima kasih . 
+NULL ({ 2 }) min ({ 1 }) untuk ({ 3 }) bayar ({ 4 }) ongkir ({ 5 6 }) ditempat ({ 7 }) itu ({ 8 }) gimana ({ 9 }) ya ({ }) ? ({ 10 }) ada ({ 11 }) s ({ 12 }) & ({ 13 }) k ({ 14 }) nya ({ }) enggak ({ 15 }) ? ({ 18 }) untuk ({ 16 }) seller ({ 17 }) thanks ({ 19 20 21 }) 
+# Sentence pair (1032) source length 20 target length 21 alignment score : 1.73388e-09
+admin , saya sebagai seller , mohon dibantu untuk penyelesaian komplain inv / xxxnumberxxx / xix / vii / xxxnumberxxx . 
+NULL ({ 21 }) min ({ 1 }) . ({ 2 }) saya ({ 3 }) sebagai ({ 4 }) seller ({ 5 }) , ({ 6 }) mohon ({ 7 }) dibantu ({ 8 }) untuk ({ 9 }) penyelesaiian ({ 10 }) komplain ({ 11 }) inv ({ 12 }) / ({ 13 }) xxxnumberxxx ({ 14 }) / ({ 15 }) xix ({ 16 }) / ({ 17 }) vii ({ 18 }) / ({ 19 }) xxxnumberxxx ({ 20 }) 
+# Sentence pair (1036) source length 12 target length 12 alignment score : 1.34004e-10
+kakak . misteri boks nya kenapa tidak ada saat jam xxxnumberxxx ? 
+NULL ({ 2 }) kak ({ 1 }) misteri ({ 3 }) box ({ 4 }) nya ({ 5 }) kok ({ 6 }) gk ({ 7 }) ada ({ 8 }) pas ({ 9 }) jam ({ 10 }) xxxnumberxxx ({ 11 }) knp ({ 12 }) ya ({ }) 
+# Sentence pair (1038) source length 9 target length 10 alignment score : 3.45747e-09
+admin , apakah ada kontak telepon yang dapat dihubungi ? 
+NULL ({ }) min ({ 1 }) , ({ 2 }) ada ({ 4 }) kontak ({ 3 5 }) tlpn ({ 6 }) yang ({ 7 }) bisa ({ 8 }) dihubungi ({ 9 }) ? ({ 10 }) 
+# Sentence pair (1040) source length 19 target length 22 alignment score : 4.07955e-13
+hi xxxuserxxx . mengapa internet banking saya tidak bisa transfer hari ini ? tertulis , " transaksi gagal . terima kasih . 
+NULL ({ 3 15 }) hi ({ 1 }) xxxuserxxx ({ 2 }) mengapa ({ 4 }) internet ({ 5 }) banking ({ 6 }) saya ({ 7 }) tidak ({ 8 }) bisa ({ 9 }) transfer ({ 10 }) hari ({ 11 }) ini ({ 12 }) ? ({ 13 }) tertulis ({ 14 }) " ({ 16 }) transaksi ({ 17 }) gagal ({ 18 }) . ({ 19 }) terima ({ 20 }) kasih ({ 21 22 }) 
+# Sentence pair (1045) source length 20 target length 23 alignment score : 1.433e-16
+tolong admin tindak lanjut jp xxxphonexxx . mengapa paket diretur karena penerima tidak bisa dihubungi ? padahal tidak ada telepon sama sekali . 
+NULL ({ 7 23 }) tolong ({ 1 }) min ({ 2 }) follow ({ 3 }) up ({ 4 }) jp ({ 5 }) xxxphonexxx ({ 6 }) kenapa ({ 8 }) paket ({ 9 }) diretur ({ 10 }) karena ({ 11 }) penerima ({ 12 }) tak ({ 13 }) bisa ({ 14 }) dihubungi ({ 15 16 }) padahal ({ 17 }) ngga ({ 18 }) ada ({ 19 }) telepon ({ 20 }) sama ({ 21 }) sekali ({ 22 }) 
+# Sentence pair (1049) source length 11 target length 13 alignment score : 5.29399e-14
+sabar kem , kira - kira ganteng atau tidak daniel dan bani ? 
+NULL ({ }) sabar ({ 1 }) atuh ({ 2 }) kem ({ }) , ({ 3 }) kirakira ({ 4 6 }) ganteng ({ 5 7 8 }) ga ({ 9 }) ya ({ }) daniel ({ 10 }) sama ({ 11 }) bani ({ 12 13 }) 
+# Sentence pair (1050) source length 24 target length 26 alignment score : 6.69163e-15
+di m - card - nya juga salah penulisan namanya . sama kayak di profile jenius . beda sama ktp . jadi harus ganti kartu ? 
+NULL ({ 11 }) di ({ 1 }) m ({ 2 }) - ({ 3 }) card ({ 4 }) nya ({ 5 6 }) juga ({ 7 }) salah ({ 8 }) penulisan ({ 9 }) namanya ({ 10 }) sama ({ 12 }) kayak ({ 13 }) di ({ 14 }) profile ({ 15 }) jenius ({ 16 }) . ({ 17 }) beda ({ 18 }) sama ({ 19 }) ktp ({ 20 }) . ({ 21 }) jadi ({ 22 }) harus ({ 23 }) ganti ({ 24 }) kartu ({ 25 }) ? ({ 26 }) 
+# Sentence pair (1059) source length 22 target length 22 alignment score : 2.53314e-18
+sudah bisa kak . tadi cuma sebentar sepertinya tidak bsia share link . thank you ya xxxuserxxx . salam sukses kak . 
+NULL ({ 18 }) sudah ({ 1 }) bisa ({ 2 }) kak ({ 3 }) . ({ 4 }) tadi ({ 5 }) cuma ({ 6 }) sebentar ({ 7 }) kayanya ({ 8 }) nggak ({ 9 }) bisa ({ }) share ({ 10 11 }) link ({ 12 }) . ({ 13 }) thank ({ 14 }) you ({ 15 }) ya ({ 16 }) xxxuserxxx ({ 17 }) salam ({ 19 }) sukses ({ 20 }) ya ({ }) , ({ 22 }) kak ({ 21 }) 
+# Sentence pair (1067) source length 12 target length 16 alignment score : 1.6844e-16
+apakah ada pemberitahuannya ? mengapa saya tidak ada ya ? maaf saya ikut - ikut . 
+NULL ({ 16 }) ada ({ 2 }) pemberitahuannya ({ 3 }) ? ({ 4 }) kok ({ 5 }) saya ({ 6 }) ga ({ 7 }) ada ({ 8 }) ya ({ 9 }) ? ({ 10 }) * ({ }) sori ({ 11 14 }) nyamber ({ 1 12 13 15 }) 
+# Sentence pair (1070) source length 11 target length 12 alignment score : 5.37596e-07
+pontianak timur , kecamatannya . hp samsung dengan baterai yang tertanam . 
+NULL ({ 3 }) pontianak ({ 1 }) timur ({ 2 }) kecamatannya ({ 4 }) , ({ 5 }) hape ({ 6 }) samsung ({ 7 }) dng ({ 8 }) baterai ({ 9 }) yg ({ 10 }) tertanam ({ 11 }) . ({ 12 }) 
+# Sentence pair (1073) source length 13 target length 12 alignment score : 1.11845e-07
+xxxnumberxxx ribu . ada juga yang versi inggrisnya sampai xxxnumberxxx jutaan . 
+NULL ({ }) xxxnumberxxx ({ 1 }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) k ({ 2 }) , ({ 3 }) ada ({ 4 }) jg ({ 5 }) yg ({ 6 }) english ({ 7 }) version ({ 8 }) nyampe ({ 9 }) xxxnumberxxx ({ 10 }) jtan ({ 11 12 }) 
+# Sentence pair (1074) source length 18 target length 14 alignment score : 1.93211e-13
+baca . aku lapar mau gofood . belum makan dari pagi . tolong . 
+NULL ({ 14 }) read ({ 1 }) dong ({ }) , ({ 2 }) aku ({ 3 }) lapar ({ 4 }) nih ({ }) mau ({ 5 }) go ({ 6 }) - ({ }) food ({ }) . ({ 7 }) belum ({ 8 }) ada ({ }) makan ({ 9 }) dari ({ 10 }) pagi ({ 11 }) . ({ 12 }) tolong ({ 13 }) 
+# Sentence pair (1077) source length 20 target length 20 alignment score : 3.4934e-11
+ini toko online tapi tidak mau merespons chatnya . kalau memang tidak mau dagang tidak usah dagang lebih baik . 
+NULL ({ }) ni ({ 1 }) toko ({ 2 }) online ({ 3 }) tp ({ 4 }) ga ({ 5 }) mau ({ 6 }) ngerespon ({ 7 }) chat ({ 8 }) nya ({ }) ? ({ 9 }) kalo ({ 10 }) emang ({ 11 }) ga ({ 12 }) mau ({ 13 }) dagang ({ 14 }) ga ({ 15 }) usah ({ 16 }) dagang ({ 17 }) mendingan ({ 18 19 }) . ({ 20 }) 
+# Sentence pair (1084) source length 12 target length 14 alignment score : 1.99235e-08
+nomor barcode rv417785365gb , hampir xxxnumberxxx hari tidak ada pergerakan mengenai barang saya . 
+NULL ({ 14 }) no ({ 1 }) barcode ({ 2 }) rv417785365gb ({ 3 4 }) hampir ({ 5 }) xxxnumberxxx ({ 6 }) hari ({ 7 }) tidak ({ 8 }) ada ({ 9 }) pergerakan ({ 10 }) mengenai ({ 11 }) barang ({ 12 }) saya ({ 13 }) 
+# Sentence pair (1086) source length 9 target length 10 alignment score : 6.95637e-05
+tweet ini saya posting menggunakan jaringan xxxuserxxx . budi . 
+NULL ({ }) tweet ({ 1 }) ini ({ 2 }) saya ({ 3 }) posting ({ 4 }) menggunakan ({ 5 }) jaringan ({ 6 }) xxxuserxxx ({ 7 }) ~ ({ 8 }) budi ({ 9 10 }) 
+# Sentence pair (1088) source length 12 target length 11 alignment score : 6.46212e-12
+di mana tempat makan yang bisa pakai tapcash di bandung ? 
+NULL ({ }) kalo ({ }) tempat ({ 3 }) makan ({ 4 }) yang ({ 5 }) bisa ({ 6 }) pake ({ 7 }) tapcash ({ 8 }) di ({ 1 }) bandung ({ 2 10 }) dimana ({ 9 }) ya ({ }) ? ({ 11 }) 
+# Sentence pair (1089) source length 21 target length 24 alignment score : 4.55938e-17
+sudah berpuluh - puluh kali saya mengirimkan data dan tipe perangkat , tapi tidak ada perbaikan sinyal . semakin parah daerah , percuma . 
+NULL ({ 22 24 }) sudah ({ 1 }) berpuluh2 ({ 2 3 4 }) kali ({ 5 }) saya ({ 6 }) mengirimkan ({ 7 }) dtaa ({ 8 }) dan ({ 9 }) tipe ({ 10 }) prangkat ({ 11 }) , ({ 12 }) tapi ({ 13 }) gak ({ 14 }) ada ({ 15 }) perbaikkan ({ 16 }) ini ({ }) signal ({ 17 }) . ({ 18 }) makin ({ 19 }) parah ({ 20 }) daerah ({ 21 }) percuma ({ 23 }) 
+# Sentence pair (1096) source length 10 target length 11 alignment score : 6.40232e-08
+bolehkah meminta uang parkir pada pelanggan saat membelikan makanan grabfood ? 
+NULL ({ }) bolehkah ({ 1 }) meminta ({ 2 }) uang ({ 3 }) parkir ({ 4 }) pada ({ 5 }) customer ({ 6 }) saat ({ 7 }) membelikan ({ 8 11 }) makanan ({ 9 }) grabfood ({ 10 }) 
+# Sentence pair (1099) source length 11 target length 10 alignment score : 5.69998e-09
+sudah admin , tolong , beli token listrik lancar . 
+NULL ({ }) sudah ({ 1 }) min ({ 2 }) . ({ 3 }) tolong ({ 4 }) dong ({ }) . ({ 5 }) beli ({ 6 }) token ({ 7 }) listrik ({ 8 }) mah ({ 10 }) lancar ({ 9 }) 
+# Sentence pair (1100) source length 27 target length 30 alignment score : 1.14944e-18
+mau bertanya . untuk mendapatkan promo ini , syaratnya harus isi ulang lewat myim3 saja ? kalau beli pulsa elektrik seperti itu , apakah tidak akan dapat bonus ini ? 
+NULL ({ 23 }) mau ({ 1 }) tanya ({ 2 }) . ({ 3 }) buat ({ 4 }) dapet ({ 5 }) promo ({ 6 }) ini ({ 7 }) , ({ 8 }) syaratnya ({ 9 }) harus ({ 10 }) isi ({ 11 }) ulang ({ 12 }) leway ({ 13 }) myim3 ({ 14 }) aja ({ 15 }) ? ({ 16 }) kalo ({ 17 }) beli ({ 18 }) pulsa ({ 19 }) elektrik ({ 20 21 24 }) gitu ({ 22 }) gak ({ 25 }) bakal ({ 26 }) dapet ({ 27 }) bonus ({ 28 }) ini ({ 29 }) ? ({ 30 }) 
+# Sentence pair (1110) source length 18 target length 16 alignment score : 5.91018e-10
+halo gojek . tolong masalah diselesaikan . dan xxxuserxxx saya sudah follow up lagi ini . 
+NULL ({ 3 }) halo ({ 1 }) gojek ({ 2 }) tolong ({ 4 }) masalah ({ 5 }) di ({ }) selesai ({ 6 }) kan ({ }) . ({ 7 }) dan ({ 8 }) xxxuserxxx ({ 9 }) sy ({ 10 }) udah ({ 11 }) follow ({ 12 }) up ({ 13 }) lg ({ 14 }) ya ({ }) ini ({ 15 }) . ({ 16 }) 
+# Sentence pair (1113) source length 9 target length 12 alignment score : 1.21857e-12
+saya top - up kenapa saldonya berkurang sendiri , bagaimana itu ? 
+NULL ({ 9 }) gw ({ 1 }) top ({ 2 }) up ({ 3 4 }) kok ({ 5 }) saldonya ({ 6 }) berkurang ({ 7 }) sendiri ({ 8 }) gimana ({ 10 }) tuh ({ 11 12 }) 
+# Sentence pair (1114) source length 21 target length 23 alignment score : 2.75521e-11
+saldo shopee pay saya belum kembali . nomor pemesanan : xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx tn24 . 
+NULL ({ 23 }) saldo ({ 1 }) shopeepay ({ 2 3 }) sya ({ 4 }) belum ({ 5 }) kembali ({ 6 }) . ({ 7 }) nomor ({ 8 }) pemesanan ({ 9 }) : ({ 10 }) xxxnumberxxx ({ 11 }) xxxnumberxxx ({ 12 }) xxxnumberxxx ({ 13 }) xxxnumberxxx ({ 14 }) xxxnumberxxx ({ 15 }) xxxnumberxxx ({ 16 }) xxxnumberxxx ({ 17 }) xxxnumberxxx ({ 18 }) xxxnumberxxx ({ 19 }) xxxnumberxxx ({ 20 }) xxxnumberxxx ({ 21 }) tn24 ({ 22 }) 
+# Sentence pair (1119) source length 15 target length 17 alignment score : 2.67906e-15
+admin , kebijakan barukah dana dilepas tanggal xxxnumberxxx ? padahal tanggal xxxnumberxxx pembeli sudah konfirmasi pesanan . 
+NULL ({ 2 17 }) min ({ 1 }) kebijakan ({ 3 }) baru ({ 4 }) kah ({ 9 }) dana ({ 5 }) dilepas ({ 6 }) tanggal ({ 7 }) xxxnumberxxx ({ 8 }) padahal ({ 10 }) tanggal ({ 11 }) xxxnumberxxx ({ 12 }) pembeli ({ 13 }) udah ({ 14 }) konfirmasi ({ 15 }) pesanan ({ 16 }) 
+# Sentence pair (1123) source length 24 target length 26 alignment score : 4.43263e-23
+ini min , minta tolong diperiksa sudah sampai mana . masa , sudah xxxnumberxxx minggu belum sampai . tolong banget admin , diperbaharui sampai mana . 
+NULL ({ 3 12 26 }) ini ({ 1 }) min ({ 2 }) minta ({ 4 }) tolong ({ 5 }) di ({ }) cek ({ 6 }) sudah ({ 7 }) sampe ({ 8 }) mana ({ 9 }) . ({ 10 }) masa ({ 11 }) sudah ({ 13 }) xxxnumberxxx ({ 14 }) minggu ({ 15 }) blm ({ 16 }) sampe ({ 17 }) . ({ 18 }) tolong ({ 19 }) banget ({ 20 }) min ({ 21 }) di ({ 22 }) update ({ 23 }) smp ({ 24 }) mana ({ 25 }) 
+# Sentence pair (1130) source length 12 target length 16 alignment score : 5.20333e-16
+baik . intinya , kuota transfer gratis ke rekening bank itu maksimal xxxnumberxxx kali ya . 
+NULL ({ 2 4 }) baik ({ 1 }) intinya ({ 3 }) kuota ({ 5 }) trf ({ 6 12 }) gratis ({ 7 }) ke ({ 8 }) rekening ({ 9 }) bank ({ 10 }) itu ({ 11 }) xxxnumberxxx ({ 13 }) kali ({ 14 }) ya ({ 15 16 }) 
+# Sentence pair (1134) source length 16 target length 17 alignment score : 7.84743e-08
+selamat pagi admin xxxuserxxx , tolong tiket bermasalah id ttb000003452245 di follow up . terima kasih . 
+NULL ({ }) selamat ({ 1 }) pagi ({ 2 }) min ({ 3 }) xxxuserxxx ({ 4 }) , ({ 5 }) tolong ({ 6 }) trouble ({ 7 }) ticket ({ 8 }) id ({ 9 }) ttb000003452245 ({ 10 }) di ({ 11 }) follow ({ 12 }) up ({ 13 }) . ({ 14 }) terima ({ 15 }) kasih ({ 16 17 }) 
+# Sentence pair (1137) source length 13 target length 15 alignment score : 2.85833e-07
+dear admin , apakah kuota transfer dan cashout gabungan atau berbeda ? terima kasih . 
+NULL ({ }) dear ({ 1 }) admin ({ 2 }) , ({ 3 }) apakah ({ 4 }) kuota ({ 5 }) transfer ({ 6 }) dan ({ 7 }) cashout ({ 8 }) gabungan ({ 9 }) atau ({ 10 }) berbeda ({ 11 }) ? ({ 12 }) thanks ({ 13 14 15 }) 
+# Sentence pair (1139) source length 16 target length 17 alignment score : 1.25386e-09
+admin , jaringan xxxnumberxxx g dilokasi ini error . tolong dibantu cek . terima kasih sebelumnya . 
+NULL ({ 17 }) min ({ 1 }) , ({ 2 }) jaringan ({ 3 }) xxxnumberxxx ({ 4 }) g ({ 5 }) dilokasi ({ 6 }) ini ({ 7 }) error ({ 8 }) . ({ 9 }) tolong ({ 10 }) dibantu ({ 11 }) cek ({ 12 }) dong ({ }) . ({ 13 }) tks ({ 14 15 }) before ({ 16 }) 
+# Sentence pair (1143) source length 16 target length 16 alignment score : 5.22231e-18
+admin , ingin bertanya . kalau membeli paket kombo terdapat kuota lokal , itu apa ? 
+NULL ({ 2 5 }) min ({ 1 }) mau ({ 3 }) nanya ({ 4 }) kalo ({ 6 }) beli ({ 7 }) paket ({ 8 }) combo ({ 9 }) ada ({ 10 }) kuota ({ 11 }) lokal ({ 12 }) nh ({ 13 }) itu ({ 14 }) tuh ({ }) apa ({ 15 }) ya ({ }) ? ({ 16 }) 
+# Sentence pair (1147) source length 22 target length 23 alignment score : 1.85867e-09
+masalahnya email saya pada akun tersebut lupa password . saya sudah mengikuti cara mengganti email hanya saja tidak bisa terganti email tersebut . 
+NULL ({ 23 }) masalahnya ({ 1 }) email ({ 2 }) saya ({ 3 }) pada ({ 4 }) akun ({ 5 }) tsb ({ 6 }) lupa ({ 7 }) password ({ 8 }) , ({ 9 }) saya ({ 10 }) sudah ({ 11 }) mengikuti ({ 12 }) cara ({ 13 }) mengganti ({ 14 }) email ({ 15 }) hanya ({ 16 }) saja ({ 17 }) tidak ({ 18 }) bisa ({ 19 }) terganti ({ 20 }) email ({ 21 }) tsb ({ 22 }) 
+# Sentence pair (1153) source length 12 target length 14 alignment score : 8.61552e-18
+ya ampun , ini masih xxxnumberxxx g dan tidak kunjung diperbaiki . parah . 
+NULL ({ }) ya ({ 1 }) ampun ({ 2 }) masih ({ 5 }) xxxnumberxxx ({ 6 }) g ({ 7 }) ini ({ 4 }) , ({ 3 }) kagak ({ 9 }) d ({ 8 }) bener ({ 10 }) benerin ({ 11 }) parah ({ 12 13 14 }) 
+# Sentence pair (1155) source length 12 target length 14 alignment score : 1.77294e-13
+terima kasih xxxuserxxx . sedang krisis moneter seperti ini , sangat berharga untukku . 
+NULL ({ 10 }) thank ({ 1 }) you ({ 2 }) xxxuserxxx ({ 3 }) lagi ({ 5 }) krisis ({ 6 }) moneter ({ 7 }) gini ({ 8 9 }) sangat ({ 11 }) berharga ({ 12 }) untukku ({ 13 }) 🤣 ({ 14 }) 🤣 ({ 4 }) 
+# Sentence pair (1157) source length 26 target length 28 alignment score : 4.86921e-30
+coba periksa di daerah bandar lampung , banyak yang mengeluhkan hal yang sama . siapa tahu , ada masalah . masa , xxxnumberxxx jam mitranya selalu sibuk . 
+NULL ({ 7 17 22 }) coba ({ 1 }) cek ({ 2 }) di ({ 3 }) daerah ({ 4 }) bandar ({ 5 }) lampung ({ 6 }) banyak ({ 8 }) yg ({ 9 }) kasih ({ 10 }) keluhan ({ 11 }) yang ({ 12 }) sama ({ 13 }) min ({ }) , ({ 14 }) siapa ({ 15 }) tau ({ 16 }) ada ({ 18 }) masalah ({ 19 }) , ({ 20 }) yakali ({ 21 }) xxxnumberxxx ({ 23 }) jam ({ 24 }) mitranya ({ 25 }) sibuk ({ 27 }) terus ({ 26 }) 🤔 ({ 28 }) 
+# Sentence pair (1167) source length 16 target length 16 alignment score : 1.70136e-12
+saya isi saldo gopay . tapi saldonya tidak masuk . mohon bantuannya , terima kasih . 
+NULL ({ 13 16 }) saya ({ 1 }) isi ({ 2 }) saldo ({ 3 }) go ({ }) - ({ }) pay ({ 4 }) . ({ 5 }) tapi ({ 6 }) saldonya ({ 7 }) tidak ({ 8 }) masuk ({ 9 }) ya ({ }) . ({ 10 }) mohon ({ 11 }) bantuannya ({ 12 }) terimakasih ({ 14 15 }) 
+# Sentence pair (1171) source length 6 target length 7 alignment score : 1.1181e-06
+maling jadi provider seperti ini jadinya . 
+NULL ({ }) maling ({ 1 }) jadi ({ 2 }) provider ({ 3 }) y ({ 7 }) begini ({ 4 5 }) jadinya ({ 6 }) 
+# Sentence pair (1174) source length 20 target length 19 alignment score : 3.51625e-10
+bener ini dipesan itu grabfoodnya dan jangan lupa apapun makanannya minumannya teh botol sosro ( endorse dong xxxuserxxx ) 
+NULL ({ }) nah ({ 1 }) bener ({ }) nih ({ 2 }) dipesen ({ 3 }) itu ({ 4 }) grabfoodnya ({ 5 }) dan ({ 6 }) jangan ({ 7 }) lupa ({ 8 }) apapun ({ 9 }) makanannya ({ 10 }) minumannya ({ 11 }) teh ({ 12 }) botol ({ 13 }) sosro ({ 14 }) ( ({ 15 }) endorse ({ 16 }) dong ({ 17 }) xxxuserxxx ({ 18 }) ) ({ 19 }) 
+# Sentence pair (1180) source length 22 target length 24 alignment score : 1.61204e-17
+kemarin kurir ke rumah yang diantar bukan barang yang itu , tapi barang saya yang lain . padahal sama - sama sudah dikurir . 
+NULL ({ 20 24 }) kemaren ({ 1 }) kurir ({ 2 }) kerumah ({ 3 4 }) yg ({ 5 }) dianter ({ 6 }) bukan ({ 7 }) barang ({ 8 }) yg ({ 9 }) itu ({ 10 }) , ({ 11 }) tapi ({ 12 }) barang ({ 13 }) saya ({ 14 }) yg ({ 15 }) lain ({ 16 }) , ({ 17 }) padahal ({ 18 }) sama ({ 19 }) sama ({ 21 }) sudah ({ 22 }) di ({ }) kurir ({ 23 }) 
+# Sentence pair (1191) source length 24 target length 24 alignment score : 4.12826e-19
+admin , mau bertanya , mengapa aku sudah top up shopee pay tetapi di aplikasi aku masih xxxnumberxxx ? padahal sudah ada pemberitahuannya . 
+NULL ({ 2 }) min ({ 1 }) mau ({ 3 }) nanya ({ 4 }) dong ({ }) ini ({ 5 }) kenapa ({ 6 }) ya ({ }) aku ({ 7 }) udh ({ 8 }) top ({ 9 }) up ({ 10 }) shopee ({ 11 }) pay ({ 12 }) . ({ 19 }) tp ({ 13 }) di ({ 14 }) aplikasi ({ 15 }) aku ({ 16 }) masih ({ 17 }) xxxnumberxxx ({ 18 }) pdhl ({ 20 }) udh ({ 21 }) ada ({ 22 }) pemberitahuannya ({ 23 24 }) 
+# Sentence pair (1199) source length 8 target length 7 alignment score : 0.00964588
+ini saya menunggu berapa hari lagi ? 
+NULL ({ }) ini ({ 1 }) saya ({ 2 }) menunggu ({ 3 }) berapa ({ 4 }) hari ({ 5 }) lagi ({ 6 }) ya ({ }) ? ({ 7 }) 
+# Sentence pair (1202) source length 13 target length 16 alignment score : 5.04987e-11
+saya sudah aktifkan paket , namun tidak ada balasan . padahal saya sudah melakukan konfirmasi . 
+NULL ({ 16 }) saya ({ 1 }) aktifkan ({ 2 3 }) paket ({ 4 }) , ({ 5 }) tp ({ 6 }) tidak ({ 7 }) ada ({ 8 }) blasan ({ 9 }) , ({ 10 }) pdhal ({ 11 }) saya ({ 12 }) sudah ({ 13 }) konfirm ({ 14 15 }) 
+# Sentence pair (1205) source length 16 target length 16 alignment score : 1.83091e-10
+hai admin . saya dari pagi tidak bisa . tolong periksa dm . terima kasih . 
+NULL ({ 16 }) hai ({ 1 }) min ({ 2 }) , ({ 3 }) internet ({ }) saya ({ 4 }) dari ({ 5 }) pagi ({ 6 }) ga ({ 7 }) bisa ({ 8 }) . ({ 9 }) tolong ({ 10 }) cek ({ 11 }) dm ({ 12 }) yaa ({ }) . ({ 13 }) makasih ({ 14 15 }) 
+# Sentence pair (1207) source length 34 target length 38 alignment score : 1.89508e-25
+admin xxxuserxxx , saya mau memasukkan resi nomor pesanan : xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx xxxnumberxxx fjmh tapi tidak ada pilihannya . malah ada cashless . itu apa admin ? tidak mengerti . 
+NULL ({ 3 27 31 38 }) min ({ 1 }) xxxuserxxx ({ 2 }) saya ({ 4 }) mu ({ 5 }) masukin ({ 6 }) resi ({ 7 }) no ({ 8 }) pesanan ({ 9 }) : ({ 10 }) xxxnumberxxx ({ 11 }) xxxnumberxxx ({ 12 }) xxxnumberxxx ({ 13 }) xxxnumberxxx ({ 14 }) xxxnumberxxx ({ 15 }) xxxnumberxxx ({ 16 }) xxxnumberxxx ({ 17 }) xxxnumberxxx ({ 18 }) xxxnumberxxx ({ 19 }) xxxnumberxxx ({ 20 }) xxxnumberxxx ({ 21 }) fjmh ({ 22 }) tp ({ 23 }) gak ({ 24 }) ada ({ 25 }) pilihannya ({ 26 }) malah ({ 28 }) ada ({ 29 }) cashles ({ 30 }) itu ({ 32 }) apa ({ 33 }) sih ({ 35 }) min ({ 34 }) gak ({ 36 }) ngerti ({ 37 }) 
+# Sentence pair (1225) source length 16 target length 15 alignment score : 3.86208e-11
+hai lazada , mengapa dari kemarin saya buat laporan tidak ada penanganan ? lambat ! 
+NULL ({ }) hey ({ 1 }) lazada ({ 2 }) ini ({ 3 }) knp ({ 4 }) dr ({ 5 }) kmrin ({ 6 }) sy ({ 7 }) buat ({ 8 }) laporan ({ 9 }) kok ({ }) ga ({ 10 }) ada ({ 11 }) penanganan ({ 12 }) , ({ 13 }) lambat ({ 14 }) ! ({ 15 }) 
+# Sentence pair (1228) source length 8 target length 8 alignment score : 2.37737e-05
+halo admin xxxuserxxx . tolong cek dm . 
+NULL ({ 4 }) halo ({ 1 }) min ({ 2 }) xxxuserxxx ({ 3 }) tolong ({ 5 }) cek ({ 6 }) dm ({ 7 }) ya ({ }) . ({ 8 }) 
+# Sentence pair (1229) source length 27 target length 28 alignment score : 1.33882e-16
+maaf admin , beberapa hari ini kenapa jaringan telkomsel agak lelet ? ini umumkah , atau hanya kartu saya saja yang terkena masalah ini ? terima kasih . 
+NULL ({ 3 }) maaf ({ 1 }) min ({ 2 }) beberapa ({ 4 }) hari ({ 5 }) ini ({ 6 }) kok ({ 7 }) jaringan ({ 8 }) telkomsel ({ 9 }) agak ({ 10 }) lelet ({ 11 }) ya ({ }) . ({ 12 }) ini ({ 13 }) umumkah ({ 14 }) , ({ 15 }) atau ({ 16 }) cuma ({ 17 }) kartu ({ 18 }) saya ({ 19 }) saja ({ 20 }) yang ({ 21 }) terkena ({ 22 }) masalah ({ 23 }) ini ({ 24 }) . ({ 25 }) terima ({ 26 }) kasih ({ 27 28 }) 
+# Sentence pair (1238) source length 15 target length 15 alignment score : 5.00975e-09
+kalau komplain sudah dibalas pasti kami hapus . komplain lewat dm tidak ada responnya . 
+NULL ({ 15 }) kalau ({ 1 }) komplain ({ 2 }) sudah ({ 3 }) dibalas ({ 4 }) pasti ({ 5 }) kami ({ 6 }) hapus ({ 7 }) kok ({ }) , ({ 8 }) komplain ({ 9 }) via ({ 10 }) dm ({ 11 }) gak ({ 12 }) ada ({ 13 }) responnya ({ 14 }) 
+# Sentence pair (1241) source length 26 target length 27 alignment score : 9.90037e-12
+kencan bahagia versi saya itu yang tidak pakai rumit , sederhana , saling mengerti , tidak harus menuntut dan paling penting dia senang ketika ketemu saya . 
+NULL ({ 27 }) kencan ({ 1 }) bahagia ({ 2 }) versi ({ 3 }) gue ({ 4 }) itu ({ 5 }) yang ({ 6 }) gak ({ 7 }) pake ({ 8 }) ribet ({ 9 }) , ({ 10 }) sederhana ({ 11 }) , ({ 12 }) saling ({ 13 }) ngerti ({ 14 }) , ({ 15 }) gak ({ 16 }) harus ({ 17 }) nuntut ({ 18 }) dan ({ 19 }) paling ({ 20 }) penting ({ 21 }) dia ({ 22 }) seneng ({ 23 }) ketika ({ 24 }) ketemu ({ 25 }) gue ({ 26 }) 
+# Sentence pair (1248) source length 7 target length 11 alignment score : 2.70602e-11
+sering - sering saja nih xxxuserxxx mengadakan promo rp xxxnumberxxx . 
+NULL ({ 11 }) sering2 ({ 1 2 3 }) aja ({ 4 }) nih ({ 5 }) xxxuserxxx ({ 6 }) ngadain ({ 7 }) promo ({ 8 }) rp10 ({ 9 10 }) 
+# Sentence pair (1250) source length 13 target length 11 alignment score : 3.41031e-08
+bagaimana cara hapus daftar penumpang untuk yang dipemesanan tiket kereta ? 
+NULL ({ }) cara ({ 2 }) hapus ({ 3 }) daftar ({ 4 }) penumpang ({ 5 }) untuk ({ 6 }) yg ({ 7 }) di ({ }) pemesanan ({ 8 }) tiket ({ 9 }) kereta ({ 10 }) gimana ({ 1 }) ya ({ }) ? ({ 11 }) 
+# Sentence pair (1251) source length 20 target length 18 alignment score : 8.35157e-08
+hal apa yang lebih cepat dari gundala ? ketika cek transfer uang masuk rekening di akhir bulan . 
+NULL ({ }) hal ({ 1 }) apa ({ 2 }) yang ({ 3 }) lebih ({ 4 }) cepet ({ 5 }) dari ({ 6 }) gundala ({ 7 }) ? ({ 8 }) ketika ({ 9 }) ngecek ({ 10 }) transferan ({ 11 }) uang ({ 12 }) masuk ({ 13 }) rekening ({ 14 }) di ({ 15 }) akhir ({ 16 }) bulan ({ 17 }) 🤪 ({ 18 }) 🤪 ({ }) 🤪 ({ }) 
+# Sentence pair (1253) source length 14 target length 13 alignment score : 4.34602e-06
+saya tidak kenal nomor xxxnumberxxx dan kenapa saya bisa menerima sms ini ? 
+NULL ({ }) saya ({ 1 }) ga ({ 2 }) kenal ({ 3 }) nomor ({ 4 }) xxxnumberxxx ({ 5 }) , ({ }) dan ({ 6 }) kenapa ({ 7 }) saya ({ 8 }) bisa ({ 9 }) nerima ({ 10 }) sms ({ 11 }) ini ({ 12 }) ? ({ 13 }) 
+# Sentence pair (1254) source length 24 target length 24 alignment score : 1.7956e-12
+sudah saya coba telpon ke mandiri . dan benar saldo saya terdebit dua kali . mohon bantuannya . nomor pelaporan mandiri : c190909991030424630 . 
+NULL ({ 24 }) sudah ({ 1 }) saya ({ 2 }) coba ({ 3 }) telpon ({ 4 }) ke ({ 5 }) mandiri ({ 6 }) nya ({ }) . ({ 7 }) dan ({ 8 }) bener ({ 9 }) saldo ({ 10 }) saya ({ 11 }) kedebit ({ 12 }) xxxnumberxxx ({ 13 }) x ({ 14 }) . ({ 15 }) mohon ({ 16 }) bantuannya ({ 17 }) . ({ 18 }) nomor ({ 19 }) pelaporan ({ 20 }) mandiri ({ 21 }) : ({ 22 }) c190909991030424630 ({ 23 }) 
+# Sentence pair (1261) source length 6 target length 7 alignment score : 3.13412e-06
+bisa tolong cek dm dari saya ? 
+NULL ({ 7 }) bisa ({ 1 }) tolong ({ 2 }) cek ({ 3 }) dm ({ 4 }) dr ({ 5 }) saya ({ 6 }) 
+# Sentence pair (1263) source length 21 target length 25 alignment score : 4.28812e-15
+ingin beli kebab beku via grabfood . namun sayang , isi ovo tidak bisa terus . padahal sudah mengirimkan keluhan ke xxxuserxxx . sedih . 
+NULL ({ 10 }) pen ({ 1 }) beli ({ 2 }) kebab ({ 3 }) frozen ({ 4 }) via ({ 5 }) grabfood ({ 6 }) , ({ 7 }) tp ({ 8 }) syg ({ 9 }) isi ({ 11 }) ovo ({ 12 }) ga ({ 13 }) bs ({ 14 }) trs ({ 15 }) . ({ 16 }) pdhl ({ 17 }) udh ({ 18 }) complain ({ 19 20 }) ke ({ 21 }) xxxuserxxx ({ 22 }) sad ({ 23 24 25 }) 
+# Sentence pair (1266) source length 7 target length 6 alignment score : 0.00365825
+kakak admin xxxuserxxx tolong direspons . 
+NULL ({ }) kakak ({ 1 }) admin ({ 2 }) xxxuserxxx ({ 3 }) tlg ({ 4 }) direspon ({ 5 }) dong ({ }) . ({ 6 }) 
+# Sentence pair (1268) source length 9 target length 10 alignment score : 3.0426e-06
+minum saat sedang haus atau makan saat sedang lapar ? 
+NULL ({ }) minum ({ 1 }) pas ({ 2 }) lg ({ 3 }) haus ({ 4 }) atau ({ 5 }) makan ({ 6 }) pas ({ 7 }) lg ({ 8 }) lapar ({ 9 10 }) 
+# Sentence pair (1271) source length 8 target length 9 alignment score : 1.65263e-06
+mohon bantuan segera ya admin , saya tunggu . 
+NULL ({ 9 }) mohon ({ 1 }) bantuan ({ 2 }) segera ({ 3 }) ya ({ 4 }) min ({ 5 }) , ({ 6 }) saya ({ 7 }) tunggu ({ 8 }) 
+# Sentence pair (1272) source length 13 target length 14 alignment score : 7.67209e-08
+kenapa seharian ini tidak bisa pesan gocar di kota baru , jawa timur ? 
+NULL ({ }) knp ({ 1 }) seharian ({ 2 }) ini ({ 3 }) nggak ({ 4 }) bisa ({ 5 }) order ({ 6 }) gocar ({ 7 }) di ({ 8 }) kota ({ 9 }) batu ({ 10 }) , ({ 11 }) jatim ({ 12 13 }) ? ({ 14 }) 
+# Sentence pair (1276) source length 12 target length 9 alignment score : 3.20843e-06
+xxxuserxxx mengapa tidak bisa menggunakan kode voucher bukamartnya ? 
+NULL ({ }) ⁦ ({ }) xxxuserxxx ({ 1 }) ⁩ ({ 2 }) kok ({ }) gak ({ 3 }) bisa ({ 4 }) digunakan ({ 5 }) kode ({ 6 }) voucher ({ 7 }) bukamart ({ 8 }) nya ({ }) ? ({ 9 }) 
+# Sentence pair (1278) source length 10 target length 13 alignment score : 1.53578e-08
+tidak bisa sama sekali untuk mengakses internet . sudah berkali - kali . 
+NULL ({ 13 }) tidak ({ 1 }) bisa ({ 2 }) sama ({ 3 }) sekali ({ 4 }) untuk ({ 5 }) akses ({ 6 }) internet ({ 7 }) . ({ 8 }) sudah ({ 9 }) berkali2 ({ 10 11 12 }) 
+# Sentence pair (1281) source length 13 target length 14 alignment score : 1.38004e-07
+pembeli sudah konfirmasi dan pesanan selesai . kenapa dana tanggal xxxdatexxx baru dilepas ? 
+NULL ({ 7 }) pembeli ({ 1 }) sudah ({ 2 }) konfirmasi ({ 3 }) dan ({ 4 }) pesanan ({ 5 }) selesai ({ 6 }) kenapa ({ 8 }) dana ({ 9 }) tgl ({ 10 }) xxxdatexxx ({ 11 }) baru ({ 12 }) dilepas ({ 13 }) uii ({ 14 }) 
+# Sentence pair (1283) source length 9 target length 9 alignment score : 4.25726e-08
+persyaratannya apa mas ? kena tarik atau tidak ? 
+NULL ({ }) persyaratannya ({ 1 }) apa ({ 2 }) ya ({ }) mas ({ 3 }) , ({ 4 }) kena ({ 5 }) chas ({ 6 }) atau ({ 7 }) nggak ({ 8 9 }) 
+# Sentence pair (1285) source length 21 target length 21 alignment score : 2.89119e-10
+dear xxxuserxxx , pesanan saya kenapa belum sampai ? malah status bad address padahal alamat jelas dan ada nomor hp . 
+NULL ({ 3 }) dear ({ 1 }) xxxuserxxx ({ 2 }) pesanan ({ 4 }) saya ({ 5 }) kok ({ 6 }) blm ({ 7 }) sampai ({ 8 }) ya ({ }) ? ({ 9 }) malah ({ 10 }) status ({ 11 }) bad ({ 12 }) address ({ 13 }) pdhl ({ 14 }) alamat ({ 15 }) jelas ({ 16 }) dan ({ 17 }) ada ({ 18 }) no ({ 19 }) hp ({ 20 }) . ({ 21 }) 
+# Sentence pair (1292) source length 7 target length 8 alignment score : 2.50444e-05
+provider xl bangsat mengancam konsumen di dm . 
+NULL ({ 8 }) provider ({ 1 }) xl ({ 2 }) bangsat ({ 3 }) mengancam ({ 4 }) konsumen ({ 5 }) di ({ 6 }) dm ({ 7 }) 
+# Sentence pair (1293) source length 7 target length 8 alignment score : 2.15954e-05
+admin , cara aktivasi yang terblokir bagaimana ? 
+NULL ({ 2 }) min ({ 1 }) cara ({ 3 }) aktivasi ({ 4 }) yg ({ 5 }) terblokir ({ 6 }) bagaimana ({ 7 }) ? ({ 8 }) 
+# Sentence pair (1297) source length 9 target length 12 alignment score : 2.22303e-13
+santai , bilang saja ke admin xxxuserxxx untuk minta dibelikan hahaha . 
+NULL ({ 2 12 }) sans ({ 1 }) bilang ({ 3 }) aja ({ 4 }) ke ({ 5 }) adminnya ({ 6 }) xxxuserxxx ({ 7 }) suruh ({ }) beliin ({ 8 }) wkwkw ({ 9 10 11 }) 
+# Sentence pair (1300) source length 14 target length 14 alignment score : 1.68611e-05
+kota malang admin , biasanya cepat dapat driver . hari ini yang parah . 
+NULL ({ }) kota ({ 1 }) malang ({ 2 }) min ({ 3 }) , ({ 4 }) biasanya ({ 5 }) cepet ({ 6 }) dapet ({ 7 }) driver ({ 8 }) . ({ 9 }) hari ({ 10 }) ini ({ 11 }) yg ({ 12 }) parah ({ 13 }) . ({ 14 }) 
+# Sentence pair (1302) source length 21 target length 22 alignment score : 1.84207e-26
+untuk memeriksa pengajuan kartu kredit , apakah bisa min ? xxxnumberxxx hari yang lalu sudah mengajukan ke marketing dari cimb niaga . 
+NULL ({ }) untuk ({ 1 }) cek ({ }) status ({ }) pengajuan ({ 3 }) cc ({ 6 }) bisa ({ 8 }) tidak ({ }) min ({ 9 }) , ({ 10 }) xxxnumberxxx ({ 11 }) hari ({ 12 }) yg ({ 13 }) lalu ({ 14 }) sdh ({ 15 }) ajukan ({ 16 }) dgn ({ 17 }) marketing ({ 18 }) dr ({ 19 }) cimb ({ 2 4 20 }) niaga ({ 5 7 21 }) . ({ 22 }) 
+# Sentence pair (1310) source length 21 target length 21 alignment score : 3.08426e-12
+menu pembaruan password itu seperti ini . kenapa sangat susah mengambil dana yang ada di akun sendiri ke rekening sendiri ? 
+NULL ({ }) menu ({ 1 }) pembaharuan ({ 2 }) password ({ 3 }) itu ({ 4 }) kaya ({ 5 }) gini ({ 6 }) , ({ 7 }) kenapa ({ 8 }) sih ({ }) susah ({ 10 }) amat ({ 9 }) ambil ({ 11 }) dana ({ 12 }) yang ({ 13 }) ada ({ 14 }) di ({ 15 }) akun ({ 16 }) sendiri ({ 17 }) ke ({ 18 }) rekening ({ 19 }) sendiri ({ 20 21 }) 
+# Sentence pair (1316) source length 16 target length 16 alignment score : 9.50055e-06
+tidak merespons . kalau ditelepon juga tidak bisa diangkat . tidak bisa chat sama sekali . 
+NULL ({ }) not ({ 1 }) responding ({ 2 }) . ({ 3 }) kalau ({ 4 }) ditlp ({ 5 }) juga ({ 6 }) ga ({ 7 }) bisa ({ 8 }) diangkat ({ 9 }) . ({ 10 }) ga ({ 11 }) bisa ({ 12 }) chat ({ 13 }) sama ({ 14 }) sekali ({ 15 }) . ({ 16 }) 
+# Sentence pair (1320) source length 19 target length 21 alignment score : 1.46023e-16
+bang / mpok xxxuserxxx , indosat mengapa upload - nya jelek banget ? diomelin terus ini main counter - strike . 
+NULL ({ 21 }) bang ({ 1 }) / ({ 2 }) mpok ({ 3 }) xxxuserxxx ({ 4 }) , ({ 5 }) indosat ({ 6 }) ngapah ({ 7 9 }) uploadnya ({ 8 10 }) jelek ({ 11 }) banget ({ 12 }) si ({ }) . ({ 13 }) diomelin ({ 14 }) mulu ({ 15 }) ini ({ 16 }) main ({ 17 }) counter ({ 18 }) - ({ 19 }) strike ({ 20 }) 
+# Sentence pair (1326) source length 13 target length 15 alignment score : 3.95836e-11
+maaf admin , ingin bertanya apakah benar ini nomor dari gojek ? + xxxnumberxxx . 
+NULL ({ 3 15 }) maaf ({ 1 }) min ({ 2 }) mau ({ 4 }) nanya ({ 5 }) apakah ({ 6 }) bener ({ 7 }) ini ({ 8 }) nomor ({ 9 }) dari ({ 10 }) gojek ({ 11 }) ? ({ 12 }) + ({ 13 }) xxxnumberxxx ({ 14 }) 
+# Sentence pair (1330) source length 6 target length 7 alignment score : 3.41376e-05
+di area bali tidak ada admin . 
+NULL ({ 7 }) di ({ 1 }) area ({ 2 }) bali ({ 3 }) ga ({ 4 }) ada ({ 5 }) min ({ 6 }) 
+# Sentence pair (1333) source length 9 target length 9 alignment score : 2.98743e-08
+itu biasa . aku sering sekali seperti itu . 
+NULL ({ }) biasa ({ 1 }) lah ({ 2 }) itu ({ }) . ({ 3 }) aq ({ 4 }) sering ({ 5 }) bget ({ 6 }) kya ({ 7 }) gtu ({ 8 9 }) 
+# Sentence pair (1335) source length 19 target length 22 alignment score : 2.3779e-17
+admin . kalau lupa akun shopee bagaimana ? aku daftar lagi tetapi tidak bisa shopeepay karena sudah terdaftar . jadi bagaimana ? 
+NULL ({ 2 8 19 }) min ({ 1 }) klo ({ 3 }) lupa ({ 4 }) akun ({ 5 }) shopee ({ 6 }) gimana ({ 7 }) aku ({ 9 }) daftar ({ 10 }) lg ({ 11 }) tp ({ 12 }) gak ({ 13 }) bisa ({ 14 }) shopepay ({ 15 }) soalnya ({ 16 }) udh ({ 17 }) terdaftar ({ 18 }) jdi ({ 20 }) gimn ({ 21 }) ? ({ 22 }) 
+# Sentence pair (1339) source length 9 target length 10 alignment score : 2.03815e-06
+cara xxxuserxxx mengapresiasi pengemudinya dengan bagi - bagi hadiah . 
+NULL ({ 10 }) cara ({ 1 }) xxxuserxxx ({ 2 }) mengapresiasi ({ 3 }) drivernya ({ 4 }) dengan ({ 5 }) bagi ({ 6 }) - ({ 7 }) bagi ({ 8 }) hadiah ({ 9 }) 
+# Sentence pair (1341) source length 14 target length 16 alignment score : 9.11713e-14
+apakah upgrade kartu ke xxxnumberxxx g sendiri , dapat seperti yang ada pada situs itu ? 
+NULL ({ 8 }) cara ({ 1 }) upgrade ({ 2 }) kartu ({ 3 }) ke ({ 4 }) xxxnumberxxx ({ 5 }) g ({ 6 }) sendiri ({ 7 }) bisa ({ 9 }) kayak ({ 10 }) yg ({ 11 }) d ({ 12 }) web ({ 13 14 }) itu ({ 15 }) ? ({ 16 }) 
+# Sentence pair (1343) source length 27 target length 25 alignment score : 1.98039e-20
+ada apa dengan kurir pos ? sampai saat ini belum juga terbaharui ongkos kirimnya . padahal sejak tanggal xxxdatexxx , sudah berlaku tarif baru . 
+NULL ({ }) . ({ }) ada ({ 1 }) apa ({ 2 }) dengan ({ 3 }) kurir ({ 4 }) pos ({ 5 }) . ({ 6 }) sampai ({ 7 }) saat ({ 8 }) ini ({ 9 }) belum ({ 10 }) juga ({ 11 }) update ({ 12 }) ongkir ({ 13 14 }) nya ({ }) . ({ 15 }) padahal ({ 16 }) sudah ({ }) dari ({ 17 }) tgl ({ 18 }) . ({ 20 }) xxxdatexxx ({ 19 }) sudah ({ 21 }) berlaku ({ 22 }) tarif ({ 23 }) baru ({ 24 }) . ({ 25 }) 
+# Sentence pair (1354) source length 6 target length 7 alignment score : 0.000143855
+yang paling akhir namanya keren sekali . 
+NULL ({ }) yg ({ 1 }) paling ({ 2 }) akhir ({ 3 }) namanya ({ 4 }) keren ({ 5 }) bgtt ({ 6 7 }) 
+# Sentence pair (1356) source length 20 target length 19 alignment score : 1.32592e-17
+terima kasih . tidak perlu lagi min . mau berhenti saja pakey internetnya . tolong , bagaimana caranya ? 
+NULL ({ }) terima ({ 1 }) kasih ({ 2 }) . ({ 3 }) tdk ({ 4 }) perlu ({ 5 }) lagi ({ 6 }) min ({ 7 }) , ({ 8 }) mau ({ 9 }) berhenti ({ 10 }) saja ({ 11 }) paket ({ 12 }) internet ({ 13 }) nya ({ }) , ({ 14 }) tolong ({ 15 }) cara ({ 18 }) nya ({ 16 }) gimana ({ 17 }) ? ({ 19 }) 
+# Sentence pair (1357) source length 23 target length 26 alignment score : 5.64252e-21
+halo . mengapa saya tidak bisa login dari tadi ? kodenya tidak terkirim - kirim di nomor saya . soalnya mau ganti nomor . tolong . 
+NULL ({ 24 }) halo ({ 1 }) , ({ 2 }) ini ({ 3 }) saya ({ 4 }) login ({ 5 }) gabisa2 ({ 6 7 }) dari ({ 8 }) tadi ({ 9 }) , ({ 10 }) kodenya ({ 11 }) ga ({ 12 }) ke ({ }) send2 ({ 13 14 15 }) di ({ 16 }) nomor ({ 17 }) saya ({ 18 }) . ({ 19 }) soalnya ({ 20 }) mau ({ 21 }) ganti ({ 22 }) nomor ({ 23 }) tolong ({ 25 }) dong ({ 26 }) 
+# Sentence pair (1363) source length 7 target length 6 alignment score : 0.00310449
+walah malah lambat pakai vpn . 
+NULL ({ }) oalah ({ 1 }) malah ({ 2 }) lemot ({ 3 }) toh ({ }) pake ({ 4 }) vpn ({ 5 }) . ({ 6 }) 
+# Sentence pair (1365) source length 7 target length 7 alignment score : 0.000441749
+grab buka dm aku . penting . 
+NULL ({ }) grab ({ 1 }) buka ({ 2 }) dm ({ 3 }) ku ({ 4 }) dong ({ 5 }) penting ({ 6 }) nih ({ 7 }) 
+# Sentence pair (1366) source length 13 target length 16 alignment score : 5.10173e-14
+apakah bandwidth xxxnumberxxx xxxnumberxxx xxxnumberxxx kbps untuk buka youtube menggunakan indosat buffering terus - menerus ? 
+NULL ({ }) bandwidth ({ 1 2 }) xxxnumberxxx ({ 3 }) xxxnumberxxx ({ 4 }) xxxnumberxxx ({ 5 }) kbps ({ 6 }) buat ({ 7 }) youtubean ({ 8 9 }) menggunakan ({ 10 }) indosat ({ 11 }) buffering ({ 12 14 15 }) terus ({ 13 }) tidak ({ }) ? ({ 16 }) 
+# Sentence pair (1369) source length 15 target length 17 alignment score : 1.23429e-08
+sok - sokan diskon , bulan lalu masih sembilan puluh enam ribu . naik saja terus ! 
+NULL ({ }) sok ({ 1 }) - ({ 2 }) sokan ({ 3 }) diskon ({ 4 }) , ({ 5 }) bulan ({ 6 }) lalu ({ 7 }) masih ({ 8 }) sembilan ({ 9 }) puluh ({ 10 }) enam ({ 11 }) ribu ({ 12 }) . ({ 13 }) naek ({ 14 }) teroos ({ 15 16 17 }) 
+# Sentence pair (1373) source length 20 target length 21 alignment score : 4.15294e-08
+halo xxxuserxxx , untuk wilayah jogjakarta sampai kapan gangguan teratasi ? hampir xxxnumberxxx jam tidak bisa tarik tunai rekening ponsel . 
+NULL ({ }) hallo ({ 1 }) xxxuserxxx ({ 2 }) , ({ 3 }) untuk ({ 4 }) wilayah ({ 5 }) jogja ({ 6 }) sampai ({ 7 }) kapan ({ 8 }) gangguan ({ 9 }) teratasi ({ 10 }) ? ({ 11 }) hampir ({ 12 }) xxxnumberxxx ({ 13 }) jam ({ 14 }) tidak ({ 15 }) bisa ({ 16 }) tarik ({ 17 }) tunai ({ 18 }) rekpon ({ 19 20 }) . ({ 21 }) 
+# Sentence pair (1377) source length 19 target length 24 alignment score : 1.28655e-20
+cek dm , admin . di sana ada nomor - nomor kartu yang baru dibeli dan tidak bisa dipakai internet . dipersilahkan solusinya . 
+NULL ({ 3 5 10 24 }) cek ({ 1 }) dm ({ 2 }) min ({ 4 }) disana ({ 6 7 }) ada ({ 8 }) nomer ({ 9 }) nomer ({ 11 }) kartu ({ 12 }) yg ({ 13 }) baru ({ 14 }) dibeli ({ 15 }) dan ({ 16 }) tidak ({ 17 }) bisa ({ 18 }) dipake ({ 19 }) internet ({ 20 }) . ({ 21 }) monggo ({ 22 }) solusinya ({ 23 }) 
+# Sentence pair (1382) source length 15 target length 14 alignment score : 2.22165e-09
+kurang adil kayaknya . di tokopedia penjual bisa memberi reputasi ke akun pembeli . 
+NULL ({ 4 }) kurang ({ 1 }) adil ({ 2 }) ya ({ }) kayanya ({ 3 }) di ({ 5 }) tokped ({ 6 }) aja ({ }) penjual ({ 7 }) bisa ({ 8 }) ngasih ({ 9 }) reputasi ({ 10 }) ke ({ 11 }) akun ({ 12 }) pembeli ({ 13 }) 🤭 ({ 14 }) 
+# Sentence pair (1383) source length 10 target length 11 alignment score : 7.89316e-07
+bisa cek saja aplikasi mytelkomsel kalau tidak bisa * xxxnumberxxx * 
+NULL ({ }) bisa ({ 1 }) cek ({ 2 }) aja ({ 3 }) app ({ 4 }) mytelkomsel ({ 5 }) kalo ({ 6 }) gak ({ 7 }) bisa ({ 8 }) * ({ 9 11 }) xxxnumberxxx ({ 10 }) 
+# Sentence pair (1384) source length 22 target length 24 alignment score : 9.07671e-19
+hai xxxuserxxx . apakah top - up gopay ada masalah ? saya tadi top up lewat atm bri tetapi saldo saya belum bertambah . 
+NULL ({ 21 }) hai ({ 1 }) xxxuserxxx ({ 2 }) . ({ 3 }) apakah ({ 4 }) top ({ 5 }) up ({ 6 7 }) gopay ({ 8 }) ada ({ 9 }) masalah ({ 10 }) ? ({ 11 }) saya ({ 12 }) tadi ({ 13 }) topup ({ 14 15 }) via ({ 16 }) atm ({ 17 }) bri ({ 18 }) tapi ({ 19 }) belum ({ 22 }) nambah ({ 23 }) di ({ }) saldo ({ 20 }) . ({ 24 }) 
+# Sentence pair (1389) source length 12 target length 13 alignment score : 3.08636e-08
+tolong cek jb xxxphonexxx dari tanggal xxxnumberxxx mengapa tidak ada status lagi ? 
+NULL ({ 13 }) tolong ({ 1 }) cek ({ 2 }) jb ({ 3 }) xxxphonexxx ({ 4 }) dr ({ 5 }) tgl ({ 6 }) xxxnumberxxx ({ 7 }) kok ({ 8 }) ga ({ 9 }) ada ({ 10 }) status ({ 11 }) lagi ({ 12 }) 
+# Sentence pair (1391) source length 24 target length 26 alignment score : 8.71105e-17
+sebelumnya , saya juga pernah tukar poin untuk voucher chattime dan itu bisa dipakai voucher . tapi kenapa kali ini tidak bisa dicoba ? kesal . 
+NULL ({ 2 26 }) sebelumnya ({ 1 }) gue ({ 3 }) juga ({ 4 }) pernah ({ 5 }) tuker ({ 6 }) point ({ 7 }) buat ({ 8 }) voucher ({ 9 }) chatime ({ 10 }) dan ({ 11 }) itu ({ 12 }) bisa ({ 13 }) dipake ({ 14 }) vouchernya ({ 15 }) , ({ 16 }) tapi ({ 17 }) kenapa ({ 18 }) kali ({ 19 }) ini ({ 20 }) ga ({ 21 }) bisa ({ 22 }) coba ({ 23 }) ? ({ 24 }) kesel ({ 25 }) 
+# Sentence pair (1403) source length 9 target length 7 alignment score : 8.43448e-06
+admin dana , mohon periksa dm . 
+NULL ({ }) min ({ 1 }) dana ({ 2 }) , ({ 3 }) mohon ({ 4 }) cek ({ 5 }) dm ({ 6 }) , ({ }) please ({ }) . ({ 7 }) 
+# Sentence pair (1404) source length 8 target length 8 alignment score : 8.68069e-05
+fitur asuransi linkaja ada di nomor xxxnumberxxx . 
+NULL ({ }) fitur ({ 1 }) asuransi ({ 2 }) linkaja ({ 3 }) ada ({ 4 }) di ({ 5 }) no ({ 6 }) . ({ 8 }) xxxnumberxxx ({ 7 }) 
+# Sentence pair (1405) source length 7 target length 7 alignment score : 0.000382512
+sudah saya dm , cek dm . 
+NULL ({ }) sudah ({ 1 }) saya ({ 2 }) dm ({ 3 }) , ({ 4 }) cek ({ 5 }) dm ({ 6 }) ya ({ 7 }) 
+# Sentence pair (1407) source length 26 target length 29 alignment score : 8.77459e-22
+halo , selamat pagi kak . saya coba mendaftar lagi hari ini , mengapa tetap tidak bisa ? padahal data sudah mati dan sudah turun ke xxxnumberxxx g . 
+NULL ({ 2 29 }) halo ({ 1 }) selamat ({ 3 }) pagi ({ 4 }) kak ({ 5 }) , ({ 6 }) saya ({ 7 }) coba ({ 8 }) daftar ({ 9 }) lagi ({ 10 }) hari ({ 11 }) ini ({ 12 13 }) kok ({ 14 }) tetep ({ 15 }) gabisa ({ 16 17 }) ya ({ }) ? ({ 18 }) padahal ({ 19 }) udah ({ 21 }) mati ({ 22 }) data ({ 20 }) dan ({ 23 }) udah ({ 24 }) turun ({ 25 }) ke ({ 26 }) xxxnumberxxx ({ 27 }) g ({ 28 }) 
+# Sentence pair (1419) source length 28 target length 28 alignment score : 7.19458e-17
+hi . kalau mandiri online keblokir , selain telepon dan datang ke cabang gimana ? soalnya saya tidak tinggal di indonesia jadi sedikit susah . terima kasih . 
+NULL ({ 2 }) hi ({ 1 }) kalo ({ 3 }) mandiri ({ 4 }) online ({ 5 }) keblokir ({ 6 }) , ({ 7 }) selain ({ 8 }) telfon ({ 9 }) dan ({ 10 }) dateng ({ 11 }) ke ({ 12 }) cabang ({ 13 }) gimana ({ 14 }) ya ({ }) ? ({ 15 }) soalnya ({ 16 }) saya ({ 17 }) gak ({ 18 }) tinggal ({ 19 }) di ({ 20 }) indonesia ({ 21 }) , ({ }) jadi ({ 22 }) agak ({ 23 }) susah ({ 24 }) . ({ 25 }) thanks ({ 26 27 }) . ({ 28 }) 
+# Sentence pair (1434) source length 13 target length 15 alignment score : 2.70442e-12
+janjian malam minggu ketemuan jam xxxnumberxxx malam . aku datangnya sabtu jam xxxnumberxxx pagi . 
+NULL ({ 8 15 }) janjian ({ 1 }) malming ({ 2 3 }) ketemuan ({ 4 }) jam ({ 5 }) xxxnumberxxx ({ 6 }) malam ({ 7 }) aku ({ 9 }) datang ({ 10 }) nya ({ }) sabtu ({ 11 }) jam ({ 12 }) xxxnumberxxx ({ 13 }) pagi ({ 14 }) 
+# Sentence pair (1439) source length 29 target length 31 alignment score : 5.12936e-18
+halo . apakah sistem lazada sedang error ? saya tidak bisa checkout dan bayar . sudah dicoba via app , browser hp , & pc . sudah restart hp juga . 
+NULL ({ 23 31 }) halo ({ 1 }) . ({ 2 }) sistem ({ 3 4 }) lazada ({ 5 }) sedang ({ 6 }) error ({ 7 }) kah ({ }) ? ({ 8 }) saya ({ 9 }) tidak ({ 10 }) bisa ({ 11 }) checkout ({ 12 }) dan ({ 13 }) bayar ({ 14 }) . ({ 15 }) sudah ({ 16 }) dicoba ({ 17 }) via ({ 18 }) app ({ 19 }) , ({ 20 }) browser ({ 21 }) hp ({ 22 }) & ({ 24 }) pc ({ 25 }) , ({ 26 }) sudah ({ 27 }) restart ({ 28 }) hp ({ 29 }) juga ({ 30 }) 
+# Sentence pair (1447) source length 7 target length 9 alignment score : 3.04193e-07
+ayo ip , ikut kalau ada tantangannya lagi . 
+NULL ({ }) ayo ({ 1 }) iip ({ 2 3 }) ikutan ({ 4 }) kalo ({ 5 }) ada ({ 6 }) challengenya ({ 7 }) lagii ({ 8 9 }) 
+# Sentence pair (1449) source length 22 target length 21 alignment score : 4.187e-17
+bismillahirrahmanirrahim . nomor xxxnumberxxx min . ya allah , semoga menang . amin . xxxuserxxx xxxuserxxx xxxuserxxx , mari ikutan . 
+NULL ({ }) , ({ 2 }) bismillahirrahmanirrahim ({ 1 }) no ({ 3 }) . ({ }) xxxnumberxxx ({ 4 }) min ({ 5 }) , ({ 6 }) ya ({ 7 }) alloh ({ 8 }) semoga ({ 10 }) menang ({ 11 }) . ({ 12 }) amin ({ 13 }) . ({ 14 }) , ({ 9 }) xxxuserxxx ({ 15 }) xxxuserxxx ({ 16 }) xxxuserxxx ({ 17 }) , ({ 18 }) yuk ({ 19 }) ikutan ({ 20 }) . ({ 21 }) 
+# Sentence pair (1458) source length 15 target length 19 alignment score : 1.2283e-13
+cek resi ini admin . delivery kurir dari jam xxxnumberxxx tadi belum datang - datang . xxxnumberxxx xxxnumberxxx . 
+NULL ({ 16 19 }) cek ({ 1 }) resi ({ 2 }) ini ({ 3 }) min ({ 4 }) , ({ 5 }) delivery ({ 6 }) kurir ({ 7 }) dari ({ 8 }) jam ({ 9 }) xxxnumberxxx ({ 10 }) td ({ 11 }) belum ({ 12 }) dateng2 ({ 13 14 15 }) xxxnumberxxx ({ 17 }) xxxnumberxxx ({ 18 }) 
+# Sentence pair (1460) source length 21 target length 24 alignment score : 8.9222e-13
+mohon dibantu , saya sudah lakukan pembayaran tagihan xxxdatexxx bulanan tapi kenapa nomor hp masih belum bisa aktif , nomor hp matrik xxxnumberxxx . 
+NULL ({ 3 24 }) mohon ({ 1 }) dibantu ({ 2 }) saya ({ 4 }) sdh ({ 5 }) lakukan ({ 6 }) pembayaran ({ 7 }) tagihan ({ 8 }) xxxdatexxx ({ 9 }) bulanan ({ 10 }) tapi ({ 11 }) knpa ({ 12 }) no ({ 13 }) hp ({ 14 }) masih ({ 15 }) belum ({ 16 }) bisa ({ 17 }) aktiv ({ 18 19 }) no ({ 20 }) hp ({ 21 }) matrik ({ 22 }) xxxnumberxxx ({ 23 }) 
+# Sentence pair (1466) source length 20 target length 22 alignment score : 1.98408e-11
+alasannya tidak masuk akal . kadang perintah operator telkomsel bila lambat matikan tombol pesawat atau sebut data diri tapi tetap lambat . 
+NULL ({ 5 22 }) alasannya ({ 1 }) tdk ({ 2 }) masuk ({ 3 }) akal ({ 4 }) kadang ({ 6 }) perintah ({ 7 }) operator ({ 8 }) telkomsel ({ 9 }) bila ({ 10 }) lelet ({ 11 }) matikan ({ 12 }) tombol ({ 13 }) pesawat ({ 14 }) atau ({ 15 }) sebut ({ 16 }) data ({ 17 }) diri ({ 18 }) tp ({ 19 }) tetap ({ 20 }) lelet ({ 21 }) 
+# Sentence pair (1470) source length 12 target length 12 alignment score : 1.1808e-06
+iya nih xxxuserxxx sangat parah , masa kalah sama yang lain . 
+NULL ({ }) iya ({ 1 }) nih ({ 2 }) xxxuserxxx ({ 3 }) parah ({ 4 }) beud ({ 5 }) , ({ 6 }) masa ({ 7 }) kalah ({ 8 }) sama ({ 9 }) yg ({ 10 }) laen ({ 11 }) . ({ 12 }) 
+# Sentence pair (1473) source length 8 target length 7 alignment score : 0.0118076
+cara transfer poin bagaimana kakak admin ? 
+NULL ({ }) cara ({ 1 }) transfer ({ 2 }) poin ({ 3 }) gimana ({ 4 }) sih ({ }) kakak ({ 5 }) admin ({ 6 }) ? ({ 7 }) 
+# Sentence pair (1474) source length 9 target length 11 alignment score : 6.02153e-12
+kalian mempromosikan mereka dengan lebih baik daripada perusahaan mereka sendiri . 
+NULL ({ }) you ({ }) guys ({ }) promote ({ 1 3 }) them ({ 2 4 }) better ({ 5 6 }) than ({ 7 }) their ({ 8 }) own ({ 9 }) company ({ 10 11 }) 
+# Sentence pair (1475) source length 10 target length 9 alignment score : 2.24146e-05
+paket maxstream , bisa dipakai untuk apa saja ? 
+NULL ({ }) paket ({ 1 }) matream ({ 2 }) itu ({ 3 }) bisa ({ 4 }) dipake ({ 5 }) untuk ({ 6 }) apa ({ 7 }) aja ({ 8 }) ya ({ }) ? ({ 9 }) 
+# Sentence pair (1477) source length 17 target length 16 alignment score : 1.74972e-07
+ya , sering gangguan . seringnya waktu siang , jam xxxnumberxxx , jam xxxnumberxxx sore . 
+NULL ({ }) ya ({ 1 }) , ({ 2 }) sering ({ 3 }) gangguan ({ 4 }) . ({ 5 }) seringnya ({ 6 }) waktu ({ 7 }) siang ({ 8 }) , ({ 9 }) jam ({ 10 }) xxxnumberxxx ({ 11 }) , ({ 12 }) jam ({ 13 }) xxxnumberxxx ({ 14 }) — ({ }) sore ({ 15 }) . ({ 16 }) 
+# Sentence pair (1480) source length 19 target length 7 alignment score : 1.12789e-17
+nomor pesanan xxxnumberxxx , tolong dikonfirmasi . 
+NULL ({ }) no ({ 1 }) pesanan ({ 2 }) xxxnumberxxx ({ 3 }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) ec6 ({ 5 }) tlong ({ 6 }) segera ({ }) di ({ 4 }) konfirmasi ({ 7 }) 
+# Sentence pair (1482) source length 14 target length 14 alignment score : 1.1451e-08
+paket sensa51 flash sale yang saya gunakan , mengapa kurang xxxnumberxxx xxxnumberxxx gb ? 
+NULL ({ 8 }) paket ({ 1 }) sensa51 ({ 2 }) flash ({ 3 }) sale ({ 4 }) yang ({ 5 }) saya ({ 6 }) pake ({ 7 }) kok ({ 9 }) kurang ({ 10 }) xxxnumberxxx ({ 11 }) xxxnumberxxx ({ 12 }) gb ({ 13 }) ya ({ }) ? ({ 14 }) 
+# Sentence pair (1486) source length 10 target length 9 alignment score : 0.00212861
+saya sudah dm kak . mohon segera ditangani . 
+NULL ({ }) saya ({ 1 }) sudah ({ 2 }) dm ({ 3 }) ya ({ }) kak ({ 4 }) . ({ 5 }) mohon ({ 6 }) segera ({ 7 }) ditangani ({ 8 }) . ({ 9 }) 
+# Sentence pair (1488) source length 18 target length 18 alignment score : 6.53351e-07
+menarik hp saat meminjamkan hp ke teman tapi dia ketahuan buka buka wa suka kurang aja memang . 
+NULL ({ }) narik ({ 1 }) hp ({ 2 }) pas ({ 3 }) pinjemin ({ 4 }) hp ({ 5 }) ke ({ 6 }) temen ({ 7 }) tapi ({ 8 }) dia ({ 9 }) ketauan ({ 10 }) buka ({ 11 }) buka ({ 12 }) wa ({ 13 }) suka ({ 14 }) kurang ({ 15 }) ajar ({ 16 }) emang ({ 17 }) . ({ 18 }) 
+# Sentence pair (1491) source length 12 target length 14 alignment score : 1.90339e-09
+ini paket malam sudah saya beli , tapi pulsa terpotong saat mengakses internet . 
+NULL ({ 7 14 }) ini ({ 1 }) paket ({ 2 }) malam ({ 3 }) sudah ({ 4 }) saya ({ 5 }) beli ({ 6 }) tapi ({ 8 }) pulsa ({ 9 }) terpotong ({ 10 }) saat ({ 11 }) mengakses ({ 12 }) internet ({ 13 }) 
+# Sentence pair (1492) source length 11 target length 15 alignment score : 4.5694e-18
+saya sangat gagap teknologi soal hal seperti ini . mau cry se - river . 
+NULL ({ 15 }) gaptek ({ 1 }) banget ({ 2 }) gue ({ }) soal ({ 5 }) ginian ({ 7 8 }) , ({ 9 }) mau ({ 10 }) cry ({ 11 }) se ({ 12 }) - ({ 13 }) river ({ 3 4 6 14 }) 
+# Sentence pair (1495) source length 7 target length 10 alignment score : 3.63533e-10
+waduh , ada apa ini ramai sekali ? hahaha . 
+NULL ({ 10 }) waduh ({ 1 2 }) ada ({ 3 }) apa ({ 4 }) ini ({ 5 }) rame ({ 6 }) sekali ({ 7 }) hahah ({ 8 9 }) 
+# Sentence pair (1496) source length 14 target length 14 alignment score : 3.93218e-14
+mengapa virtual account bca xxxuserxxx , tidak dapat digunakan untuk membayar transaksi xxxuserxxx ? 
+NULL ({ 6 }) ini ({ }) kenapa ({ 1 }) ya ({ }) virtual ({ 2 }) acc ({ 3 }) bca ({ 4 }) xxxuserxxx ({ 5 }) tidak ({ 7 }) bisa ({ 8 }) buat ({ 9 10 }) bayar ({ 11 }) transaksi ({ 12 }) xxxuserxxx ({ 13 }) ? ({ 14 }) 
+# Sentence pair (1499) source length 16 target length 15 alignment score : 2.05516e-06
+halo , mau tanya kalau order dibatalkan secara sepihak oleh zalora , refundnya bagaimana ? 
+NULL ({ }) halo ({ 1 }) , ({ 2 }) mau ({ 3 }) nanya ({ 4 }) kalau ({ 5 }) order ({ 6 }) dibatalkan ({ 7 }) secara ({ 8 }) sepihak ({ 9 }) oleh ({ 10 }) zalora ({ 11 }) , ({ 12 }) refundnya ({ 13 }) bagaimana ({ 14 }) ya ({ }) ? ({ 15 }) 
+# Sentence pair (1503) source length 13 target length 13 alignment score : 4.14258e-10
+halo admin . bagaimana kelanjutannya ? belum ada balasan lagi dikirim pesan . 
+NULL ({ 13 }) halo ({ 1 }) min ({ 2 }) , ({ 3 }) bagaimana ({ 4 }) kelanjutannya ({ 5 }) ya ({ }) ? ({ 6 }) belum ({ 7 }) ada ({ 8 }) balasan ({ 9 }) lagi ({ 10 }) di ({ 11 }) dm ({ 12 }) 
+# Sentence pair (1506) source length 7 target length 8 alignment score : 5.89912e-09
+order grabfood disaat mengetahui sedang banyak promo . 
+NULL ({ 8 }) order ({ 1 }) grabfood ({ 2 }) pas ({ 3 }) tau ({ 4 }) lagi ({ 5 }) banyak ({ 6 }) promo ({ 7 }) 
+# Sentence pair (1507) source length 16 target length 19 alignment score : 1.4927e-12
+nah , sekarang setelah update semua hp tidak ada notifikasi sama sekali hahaha . hebat tokopedia memang terdepan . 
+NULL ({ 2 14 }) nah ({ 1 }) skrg ({ 3 }) hbs ({ 4 }) update ({ 5 }) semua ({ 6 }) hp ({ 7 }) gk ({ 8 }) ada ({ 9 }) notif ({ 10 }) sama ({ 11 }) sekali ({ 12 }) wkwkwkw ({ 13 }) hebat2 ({ 15 }) tokopedia ({ 16 }) emang ({ 17 }) terdepan ({ 18 19 }) 
+# Sentence pair (1515) source length 10 target length 11 alignment score : 2.19123e-06
+oke sip admin , ini nomornya saya tidak hapal admin . 
+NULL ({ 11 }) ok ({ 1 }) sip ({ 2 }) min ({ 3 }) , ({ 4 }) ini ({ 5 }) nmrnya ({ 6 }) saya ({ 7 }) ga ({ 8 }) hafal ({ 9 }) min ({ 10 }) 
+# Sentence pair (1517) source length 16 target length 26 alignment score : 3.06042e-36
+apakah indosat sedang gangguan ? di daerah kebonsari , jambangan , surabaya tidak bisa semua . kita sekeluarga gagal semua ! kita sekeluarga gagal semua . 
+NULL ({ 9 16 26 }) indosat ({ 1 2 }) lagi ({ 3 }) error ({ 4 }) kah ({ 5 }) daerah ({ 6 7 }) kebonsari ({ 8 }) jambangan ({ 10 11 }) surabaya ({ 12 }) gak ({ 13 }) bs ({ 14 }) semua ({ 15 25 }) ! ({ 21 }) kita ({ 17 22 }) sekeluarga ({ 18 23 }) zonk ({ 19 24 }) semua ({ 20 }) 
+# Sentence pair (1523) source length 11 target length 8 alignment score : 1.81625e-05
+sama , di ponsel saya juga begitu . 
+NULL ({ }) sama ({ 1 }) , ({ 2 }) di ({ 3 }) hape ({ 4 }) gw ({ 5 }) juga ({ 6 }) gitu ({ 7 }) . ({ 8 }) 🤔 ({ }) 🤔 ({ }) 🤔 ({ }) 
+# Sentence pair (1527) source length 26 target length 27 alignment score : 5.68766e-19
+admin . kenapa saya ada kuota apps xxxnumberxxx gb + xxxnumberxxx gb tidak bisa buka ig ? padahal disitu ada tulisan ig dan lain - lain . 
+NULL ({ 2 }) min ({ 1 }) kok ({ 3 }) saya ({ 4 }) ada ({ 5 }) kuota ({ 6 }) apps ({ 7 }) xxxnumberxxx ({ 8 }) gb ({ 9 }) + ({ 10 }) xxxnumberxxx ({ 11 }) gb ({ 12 }) gabisa ({ 13 14 }) buat ({ }) buka ({ 15 }) ig ({ 16 }) ya ({ }) . ({ 17 }) padahal ({ 18 }) disitu ({ 19 }) ada ({ 20 }) tulisan ({ 21 }) ig ({ 22 }) dan ({ 23 }) lain ({ 24 26 }) " ({ 25 }) . ({ 27 }) 
+# Sentence pair (1539) source length 21 target length 28 alignment score : 3.98401e-27
+admin , barusan ada yang menelepon katanya kalau saya masukkan kode itu saya akan mendapatkan uang xxxnumberxxx . xxxnumberxxx . apa itu benar , atau hanya tipuan ? 
+NULL ({ 2 20 24 }) min ({ 1 }) brusan ({ 3 }) ada ({ 4 }) yg ({ 5 }) tlpn ({ 6 }) ktnya ({ 7 }) klo ({ 8 }) mskin ({ 9 10 13 }) kode ({ 11 }) itu ({ 12 }) bakal ({ 14 }) dpt ({ 15 }) uang ({ 16 }) xxxnumberxxx ({ 17 }) . ({ 18 }) xxxnumberxxx ({ 19 }) apa ({ 21 }) benar ({ 23 }) atau ({ 25 }) hanya ({ 26 }) tipuan ({ 22 27 28 }) 
+# Sentence pair (1551) source length 14 target length 14 alignment score : 5.72326e-06
+mau keluh kesah tentang sinyal xxxuserxxx via dm tapi percuma jawabannya hanya begitu ! 
+NULL ({ }) mau ({ 1 }) keluh ({ 2 }) kesah ({ 3 }) tentang ({ 4 }) sinyal ({ 5 }) xxxuserxxx ({ 6 }) via ({ 7 }) dm ({ 8 }) tp ({ 9 }) percuma ({ 10 }) jawabanya ({ 11 }) cuma ({ 12 }) gitu ({ 13 }) ! ({ 14 }) 
+# Sentence pair (1553) source length 11 target length 11 alignment score : 4.68176e-08
+hai xxxuserxxx . tolong periksa dm saya . terima kasih ! 
+NULL ({ }) hai ({ 1 }) , ({ 3 }) xxxuserxxx ({ 2 }) tolong ({ 4 }) cek ({ 5 }) dm ({ 6 }) saya ({ 7 }) ya ({ }) , ({ 8 }) thanks ({ 9 10 }) ! ({ 11 }) 
+# Sentence pair (1556) source length 10 target length 11 alignment score : 2.1691e-06
+admin , kenapa kode promo untungjatimlur tidak bisa dipakai xxxuserxxx ? 
+NULL ({ 2 }) min ({ 1 }) kok ({ 3 }) kode ({ 4 }) promo ({ 5 }) untungjatimlur ({ 6 }) gak ({ 7 }) bisa ({ 8 }) dipake ({ 9 }) xxxuserxxx ({ 10 }) ? ({ 11 }) 
+# Sentence pair (1558) source length 9 target length 10 alignment score : 3.94404e-09
+apakah jaringan lagi jelek ? sudah xxxnumberxxx hari lambat . 
+NULL ({ 10 }) jaringan ({ 2 }) lagi ({ 3 }) jelek ({ 4 }) kah ({ 1 }) ? ({ 5 }) dah ({ 6 }) xxxnumberxxx ({ 7 }) hari ({ 8 }) lemot ({ 9 }) 
+# Sentence pair (1562) source length 18 target length 25 alignment score : 6.69801e-21
+kenapa potong pulsa terus ? tidak kenapa - kenapa tiba - tiba pulsa habis . tahu - tahu dapat sms pulsa sos . kacau . 
+NULL ({ 25 }) kenapa ({ 1 }) sih ({ }) potong ({ 2 }) pulsa ({ 3 }) terus ({ 4 }) ? ({ 5 }) gakenapa2 ({ 6 7 8 9 }) tiba2 ({ 10 11 12 }) pulsa ({ 13 }) habis ({ 14 }) . ({ 15 }) tau2 ({ 16 18 }) dapet ({ 19 }) sms ({ 20 }) pulsa ({ 21 }) sos ({ 22 }) , ({ 23 }) kacau ({ 17 24 }) 
+# Sentence pair (1573) source length 29 target length 29 alignment score : 1.00583e-15
+bisa deposit tapi tidak bisa transfer keluar , disuruh menunggu sampai sistem normal . jadi ini lagi bermasalah . oke , pakai aplikasi lain saja . terima kasih ! 
+NULL ({ }) bisa ({ 1 }) deposit ({ 2 }) tp ({ 3 }) ga ({ 4 }) bisa ({ 5 }) transfer ({ 6 }) keluar ({ 7 }) , ({ 8 }) disuruh ({ 9 }) nunggu ({ 10 }) sampai ({ 11 }) sistem ({ 12 }) normal ({ 13 }) , ({ 14 }) so ({ }) it ({ 15 }) is ({ 16 }) lagi ({ 17 }) trouble ({ 18 }) . ({ 19 }) ok ({ 20 }) deh ({ 21 }) pake ({ 22 }) app ({ 23 }) lain ({ 24 }) aja ({ 25 }) . ({ 26 }) thanx ({ 27 28 }) ! ({ 29 }) 
+# Sentence pair (1586) source length 27 target length 26 alignment score : 2.59594e-16
+admin , saya mau tanya , saya sudah top up linkaja melalui mobile banking sebesar xxxnumberxxx ribu , tapi saldonya tidak masuk . solusinya bagaimana ? 
+NULL ({ 2 18 }) min ({ 1 }) saya ({ 3 }) mau ({ 4 }) tanya ({ 5 }) , ({ 6 }) saya ({ 7 }) sudah ({ 8 }) to ({ 9 }) up ({ 10 }) linkaja ({ 11 }) melalui ({ 12 }) mobile ({ 13 }) banking ({ 14 }) sebesar ({ 15 }) xxxnumberxxx ({ 16 }) xxxnumberxxx ({ }) xxxnumberxxx ({ }) rbu ({ 17 }) tapi ({ 19 }) saldonya ({ 20 }) tidak ({ 21 }) masuk ({ 22 }) , ({ 23 }) solusinya ({ 24 }) bagaimana ({ 25 }) yah ({ }) ? ({ 26 }) 
+# Sentence pair (1593) source length 8 target length 9 alignment score : 1.29523e-06
+blacklist saja ini toko kalau seperti ini hahaha . 
+NULL ({ 9 }) blacklist ({ 1 }) aja ({ 2 }) nih ({ 3 }) toko ({ 4 }) kalo ({ 5 }) kaya ({ 6 }) gini ({ 7 }) wkwkwk ({ 8 }) 
+# Sentence pair (1595) source length 12 target length 15 alignment score : 4.47602e-14
+harus dibayar penuh , nde . kemarin aku seperti itu kalau sudah masuk tanggalnya . 
+NULL ({ 4 }) harus ({ 1 }) fully ({ 2 }) paid ({ 3 }) nde ({ 5 }) , ({ 6 }) kemaren ({ 7 }) gue ({ 8 }) gitu ({ 9 10 }) kalo ({ 11 }) udah ({ 12 }) due ({ 13 }) datenga ({ 14 15 }) 
+# Sentence pair (1598) source length 14 target length 19 alignment score : 4.72067e-13
+masalah terselesaikan ! terima kasih gojek . terima kasih juga sudah di follow kembali ! gerak cepat sekali . 
+NULL ({ 19 }) problem ({ 1 }) solved ({ 2 }) ! ({ 3 }) thanks ({ 4 5 }) gojek ({ 6 }) . ({ 7 }) thanks ({ 8 9 }) jg ({ 10 }) udah ({ 11 }) di ({ 12 }) folback ({ 13 14 }) ! ({ 15 }) gercep ({ 16 }) abiss ({ 17 18 }) 
+# Sentence pair (1602) source length 7 target length 7 alignment score : 0.00227221
+ada yang salah dengan balasan saya ? 
+NULL ({ }) ada ({ 1 }) yg ({ 2 }) salah ({ 3 }) sama ({ 4 }) balasan ({ 5 }) gue ({ 6 }) ? ({ 7 }) 
+# Sentence pair (1603) source length 7 target length 8 alignment score : 5.58686e-08
+oke , saya sudah kirim via dm . 
+NULL ({ 8 }) oke ({ 1 }) , ({ 2 }) sudah ({ 4 }) saya ({ 3 }) kirim ({ 5 }) via ({ 6 }) dm ({ 7 }) 
+# Sentence pair (1605) source length 21 target length 21 alignment score : 6.32763e-09
+siang kak , mohon bantu cek resi xxxnumberxxx dari tanggal xxxnumberxxx agustus sampai hari ini belum ada perubahan status pengiriman . 
+NULL ({ }) siang ({ 1 }) kak ({ 2 }) , ({ 3 }) mohon ({ 4 }) bantuan ({ 5 }) cek ({ 6 }) resi ({ 7 }) xxxnumberxxx ({ 8 }) dari ({ 9 }) tanggal ({ 10 }) xxxnumberxxx ({ 11 }) agustus ({ 12 }) sampai ({ 13 }) hari ({ 14 }) ini ({ 15 }) belum ({ 16 }) ada ({ 17 }) perubahan ({ 18 }) status ({ 19 }) pengiriman ({ 20 }) ? ({ 21 }) 
+# Sentence pair (1612) source length 12 target length 11 alignment score : 7.76883e-15
+apakah bisa , memblokir nomor telepon dari pihak ovonya langsung ? 
+NULL ({ 3 }) bisa ({ 2 }) gak ({ 1 }) sih ({ 11 }) blokir ({ 4 }) no ({ 5 }) telfon ({ 6 }) nya ({ }) dari ({ 7 }) pihak ({ 8 }) ovo ({ 9 }) nya ({ }) langsung ({ 10 }) 
+# Sentence pair (1617) source length 15 target length 17 alignment score : 2.60178e-14
+admin , aku barusan membeli kuota promo dari xxxnumberxxx . mengapa setelah dicek , kuotanya xxxnumberxxx ? 
+NULL ({ 2 14 }) min ({ 1 }) aku ({ 3 }) barusan ({ 4 }) beli ({ 5 }) kuota ({ 6 }) promo ({ 7 }) dari ({ 8 }) xxxnumberxxx ({ 9 }) , ({ 10 }) kok ({ 11 }) pas ({ 12 }) dicek ({ 13 }) kuotanya ({ 15 }) xxxnumberxxx ({ 16 }) ya ({ 17 }) 
+# Sentence pair (1621) source length 19 target length 24 alignment score : 4.76621e-18
+dan ternyata , dia meneror saya menggunakan xxxnumberxxx akun whatsapp yang saya kira orang genit . tapi ternyata teman sekongkolan istrinya . hahaha . 
+NULL ({ 3 16 }) dan ({ 1 }) ternyata ({ 2 }) dia ({ 4 }) neror ({ 5 }) gue ({ 6 }) pake ({ 7 }) xxxnumberxxx ({ 8 }) account ({ 9 }) whatsapp ({ 10 }) yang ({ 11 }) gue ({ 12 }) kira ({ 13 }) orang ({ 14 }) genit ({ 15 17 }) ternyata ({ 18 }) temen ({ 19 }) sekongkolan ({ 20 }) istrinya ({ 21 }) hahaahh ({ 22 23 24 }) 
+# Sentence pair (1626) source length 27 target length 25 alignment score : 5.10082e-14
+selamat malam , admin . saya ingin melaporkan penipuan online yang terjadi pada saya kemarin . apakah bisa diproses ? terima kasih atas perhatiannya . 
+NULL ({ }) selamat ({ 1 }) malam ({ 2 }) , ({ 3 }) admin ({ 4 }) . ({ 5 }) saya ({ 6 }) ingin ({ 7 }) melaporkan ({ 8 }) penipuan ({ 9 }) online ({ 10 }) yang ({ 11 }) terjadi ({ 12 }) pada ({ 13 }) saya ({ 14 }) kemarin ({ 15 }) , ({ 16 }) bisa ({ 18 }) di ({ 17 }) proses ({ 19 }) tidak ({ }) ya ({ }) ? ({ 20 }) terima ({ 21 }) kasih ({ 22 }) atas ({ 23 }) perhatiannya ({ 24 }) . ({ 25 }) 
+# Sentence pair (1633) source length 12 target length 13 alignment score : 4.84921e-07
+mengapa nomor saya tidak bisa menerima telepon atau sms ? terima kasih . 
+NULL ({ 13 }) kenapa ({ 1 }) nomor ({ 2 }) saya ({ 3 }) tidak ({ 4 }) bisa ({ 5 }) menerima ({ 6 }) telepon ({ 7 }) atau ({ 8 }) sms ({ 9 }) ya ({ }) ? ({ 10 }) terimakasih ({ 11 12 }) 
+# Sentence pair (1635) source length 14 target length 14 alignment score : 4.16222e-06
+admin , kalau untuk aktivasi paket tau lite xxxnumberxxx di iphone caranya bagaimana ? 
+NULL ({ }) min ({ 1 }) , ({ 2 }) klo ({ 3 }) untuk ({ 4 }) aktifasi ({ 5 }) paket ({ 6 }) tau ({ 7 }) lite ({ 8 }) xxxnumberxxx ({ 9 }) di ({ 10 }) iphone ({ 11 }) caranya ({ 12 }) gmn ({ 13 }) ? ({ 14 }) 
+# Sentence pair (1638) source length 23 target length 27 alignment score : 7.25844e-18
+tidak sempat mengambil foto . namun pesannya , " kartu / rekening tidak benar " di negara xxxnumberxxx hume hwy , casula nsw xxxnumberxxx , australia . 
+NULL ({ 5 8 27 }) gak ({ 1 }) sempat ({ 2 3 }) foto ({ 4 }) tetapi ({ 6 }) pesannya ({ 7 }) “ ({ 9 }) kartu ({ 10 }) / ({ 11 }) rekening ({ 12 }) tidak ({ 13 }) benar ({ 14 }) ” ({ 15 }) di ({ 16 }) negara ({ 17 }) xxxnumberxxx ({ 18 }) hume ({ 19 }) hwy ({ 20 }) , ({ 21 }) casula ({ 22 }) nsw ({ 23 }) xxxnumberxxx ({ 24 }) , ({ 25 }) australia ({ 26 }) 
+# Sentence pair (1643) source length 17 target length 21 alignment score : 1.4275e-16
+iya , dulu aku pelanggan setia freedom xxl . sekarang aku malas . kuota banyak , tapi streaming sering buffer . 
+NULL ({ 13 16 }) iya ({ 1 }) nih ({ 2 }) dulu ({ 3 }) ku ({ 4 }) pelanggan ({ 5 }) setia ({ 6 }) freedom ({ 7 }) xxl ({ 8 }) , ({ 9 }) sekarang ({ 10 }) males ({ 11 12 }) kuota ({ 14 }) banyak ({ 15 }) tp ({ 17 }) streaming ({ 18 }) sering ({ 19 }) buffer ({ 20 21 }) 
+# Sentence pair (1650) source length 19 target length 22 alignment score : 1.92665e-23
+apakah kecepatannya hanya seperti ini di jaringan penuh xxxnumberxxx g , wahai penyedia layanan terbesar di indonesia ? mohon penjelasan logisnya . 
+NULL ({ 11 22 }) ini ({ 1 5 }) speed ({ 4 }) nya ({ }) segini ({ 2 }) doang ({ 3 }) di ({ 6 }) jaringan ({ 7 }) full ({ 8 }) xxxnumberxxx ({ 9 }) g ({ 10 }) wahai ({ 12 }) provider ({ 13 }) terbesar ({ 14 15 }) di ({ 16 }) indonesia ({ 17 }) ? ({ 18 }) mohon ({ 19 }) penjelasan ({ 20 }) logisnya ({ 21 }) 
+# Sentence pair (1657) source length 27 target length 28 alignment score : 2.85527e-23
+: seberapa kamu ? : kalau ke sekolahku waktunya sekitar lima menit . sekolahku masuk jam xxxnumberxxx . : terus ? : aku berangkat jam xxxnumberxxx pagi . 
+NULL ({ 18 28 }) : ({ 1 }) seberapa ({ 2 }) kamu ({ 3 }) ? ({ 4 }) : ({ 5 }) kalo ({ 6 }) ke ({ 7 }) sekolah ({ 8 }) gua ({ }) waktunya ({ 9 }) xxxnumberxxx ({ }) menitan ({ 12 }) . ({ 13 }) sekilah ({ 10 11 14 }) gua ({ }) masuk ({ 15 }) jam ({ 16 }) xxxnumberxxx ({ 17 }) : ({ 19 }) terus ({ 20 }) ? ({ 21 }) : ({ 22 }) gua ({ 23 }) berangkat ({ 24 }) jam ({ 25 }) xxxnumberxxx ({ 26 }) pagi ({ 27 }) 
+# Sentence pair (1669) source length 8 target length 9 alignment score : 1.10197e-06
+pacar , sudah membuat sayang , menghilangnya cepat . 
+NULL ({ 9 }) gebetan ({ 1 }) , ({ 2 }) udah ({ 3 }) bikin ({ 4 }) sayang ({ 5 }) eh ({ 6 }) ngilangnya ({ 7 }) cepet ({ 8 }) 
+# Sentence pair (1672) source length 9 target length 10 alignment score : 4.11235e-08
+aduh , aku ngakak . tapi benar juga hahaha . 
+NULL ({ 2 }) aduuw ({ 1 }) aku ({ 3 }) ngakak ({ 4 }) . ({ 5 }) tapi ({ 6 }) bener ({ 7 }) juga ({ 8 }) si ({ }) wkwk ({ 9 10 }) 
+# Sentence pair (1675) source length 10 target length 8 alignment score : 1.58109e-05
+admin , maksud fitur paylater itu bagaimana ? 
+NULL ({ }) min ({ 1 }) maksud ({ 3 }) fitur ({ 4 }) pay ({ }) later ({ 5 }) itu ({ 6 }) gimana ({ 7 }) , ({ 2 }) ya ({ }) ? ({ 8 }) 
+# Sentence pair (1678) source length 15 target length 16 alignment score : 2.47806e-12
+mohon info detailnya . sudah dm dari tadi siang belum ada jawaban sampai saat ini . 
+NULL ({ 16 }) mohon ({ 1 }) info ({ 2 }) detailnya ({ 3 }) yah ({ }) ? ({ 4 }) sudah ({ 5 }) dm ({ 6 }) tadi ({ 7 8 }) siang ({ 9 }) lum ({ 10 }) ada ({ 11 }) jawaban ({ 12 }) sampai ({ 13 }) saat ({ 14 }) ini ({ 15 }) 
+# Sentence pair (1680) source length 9 target length 10 alignment score : 1.35088e-06
+balon sampai juga . jnt lama sekali jb xxxphonexxx . 
+NULL ({ 10 }) balon ({ 1 }) sampe ({ 2 }) juga ({ 3 }) nih ({ 4 }) jnt ({ 5 }) lamaa ({ 6 }) banget ({ 7 }) jb ({ 8 }) xxxphonexxx ({ 9 }) 
+# Sentence pair (1682) source length 6 target length 6 alignment score : 6.33116e-05
+sudah habis vouchernya bagaimana dong ? 
+NULL ({ }) udah ({ 1 }) habis ({ 2 }) voucher ({ 3 }) nya ({ }) gmna ({ 4 }) donkk ({ 5 6 }) 
+# Sentence pair (1684) source length 14 target length 14 alignment score : 2.49553e-05
+halo . bagaimana saya mendapatkan refund karena saya salah transfer ke rekening tokopedia ? 
+NULL ({ }) halo ({ 1 }) , ({ 2 }) bagaimana ({ 3 }) sy ({ 4 }) mendapatkan ({ 5 }) refund ({ 6 }) krn ({ 7 }) saya ({ 8 }) salah ({ 9 }) transfer ({ 10 }) ke ({ 11 }) rekening ({ 12 }) tokopedia ({ 13 }) ? ({ 14 }) 
+# Sentence pair (1687) source length 16 target length 19 alignment score : 2.71821e-15
+hati - hati ya kalau saya tidak direspons dengan baik dan cepat , tindakan saya akan lebih cepat . 
+NULL ({ 13 19 }) hati2 ({ 1 2 3 }) ya ({ 4 }) klo ({ 5 }) saya ({ 6 }) tidak ({ 7 }) di ({ }) respon ({ 8 }) dng ({ 9 }) baik ({ 10 }) dan ({ 11 }) cepat ({ 12 }) tindakan ({ 14 }) saya ({ 15 }) akan ({ 16 }) lebih ({ 17 }) cepat ({ 18 }) 
+# Sentence pair (1691) source length 14 target length 14 alignment score : 1.00284e-09
+malam kak , dari pagi saya telepon halobca kenapa tidak bisa - bisa ? 
+NULL ({ 12 }) malam ({ 1 }) ka ({ 2 }) , ({ 3 }) dri ({ 4 }) pagi ({ 5 }) saya ({ 6 }) telp ({ 7 }) halobca ({ 8 }) ko ({ 9 }) gak ({ 10 }) bisa ({ 11 }) bisa ({ 13 }) ya ({ }) ? ({ 14 }) 
+# Sentence pair (1697) source length 23 target length 26 alignment score : 3.30999e-17
+jangan , kakak . ayo kakak pantau terus web kita dan jangan lupa follow xxxuserxxx juga ya . terima kasih sobat setia smartfren . dee . 
+NULL ({ 26 }) jangan ({ 1 }) dong ({ 2 }) kakak ({ 3 }) yuk ({ 4 5 }) kak ({ 6 }) pantau ({ 7 }) terus ({ 8 }) web ({ 9 }) kita ({ 10 }) dan ({ 11 }) jangan ({ 12 }) lupa ({ 13 }) follow ({ 14 }) xxxuserxxx ({ 15 }) juga ({ 16 }) ya ({ 17 18 }) terima ({ 19 }) kasih ({ 20 }) sobat ({ 21 }) setia ({ 22 }) smartfren ({ 23 }) . ({ 24 }) dee ({ 25 }) 
+# Sentence pair (1706) source length 12 target length 13 alignment score : 2.61699e-06
+iya . padahal sisa kuota masih cukup . xxxnumberxxx g + padahal . 
+NULL ({ 13 }) iya ({ 1 }) . ({ 2 }) pdhl ({ 3 }) sisa ({ 4 }) kuota ({ 5 }) masih ({ 6 }) cukuplah ({ 7 }) . ({ 8 }) xxxnumberxxx ({ 9 }) g ({ 10 }) + ({ 11 }) padahal ({ 12 }) 
+# Sentence pair (1708) source length 15 target length 19 alignment score : 1.0579e-13
+tetap tidak bisa kak . oh iya , belum update ios . semoga nanti bisa . terima kasih . 
+NULL ({ 8 12 }) tetep ({ 1 }) gak ({ 2 }) bisa ({ 3 }) kak ({ 4 }) . ({ 5 }) hoo ({ 6 }) iya ({ 7 }) blm ({ 9 }) update ({ 10 }) ios ({ 11 }) semoga ({ 13 }) nanti ({ 14 }) bisa ({ 15 }) deh ({ 16 }) thankyou ({ 17 18 19 }) 
+# Sentence pair (1711) source length 21 target length 19 alignment score : 2.86715e-10
+admin , saya isi gopay tadi pagi kenapa tidak masuk ? padahal sudah dapat sms konfirmasi dari bca . 
+NULL ({ 2 }) min ({ 1 }) saya ({ 3 }) isi ({ 4 }) gopay ({ 5 }) td ({ 6 }) pagi ({ 7 }) ko ({ 8 }) ga ({ 9 }) masuk ({ 10 }) ya ({ }) ? ({ 11 }) pdhl ({ 12 }) udh ({ 13 }) dapet ({ 14 }) sms ({ 15 }) konfirm ({ 16 }) dr ({ 17 }) bca ({ 18 }) nya ({ }) . ({ 19 }) zz ({ }) 
+# Sentence pair (1716) source length 25 target length 28 alignment score : 8.45661e-20
+respon awal katanya harus masukin kata sandi salah , padahal sudah benar . dan yang ke dua setelah terblokir , tidak bisa memasukkan kode otp ke aplikasi . 
+NULL ({ 9 20 }) respon ({ 1 }) nya ({ }) awalnya ({ 2 }) katanya ({ 3 }) masukin ({ 4 5 }) paswod ({ 6 7 }) salah ({ 8 }) pdhl ({ 10 }) dah ({ 11 }) benar ({ 12 }) . ({ 13 }) dan ({ 14 }) yg ({ 15 }) ke ({ 16 }) xxxnumberxxx ({ 17 }) stlh ({ 18 }) terblokir ({ 19 }) ga ({ 21 }) bs ({ 22 }) masukan ({ 23 }) kode ({ 24 }) otp ({ 25 }) ke ({ 26 }) apl ({ 27 }) . ({ 28 }) 
+# Sentence pair (1723) source length 17 target length 21 alignment score : 6.07257e-13
+sama - sama , bapak rudi . semoga berkenan dengan informasi yang kami sampaikan . terima kasih . ~ toby . 
+NULL ({ 4 }) sama ({ 1 }) - ({ 2 }) sama ({ 3 }) bpk ({ 5 }) rudi ({ 6 }) , ({ 7 }) semoga ({ 8 }) berkenan ({ 9 }) dengan ({ 10 }) informasi ({ 11 }) yang ({ 12 }) kami ({ 13 }) sampaikan ({ 14 }) . ({ 15 }) tks ({ 16 17 }) ~ ({ 18 }) toby ({ 19 20 21 }) 
+# Sentence pair (1730) source length 25 target length 27 alignment score : 9.82858e-17
+selama malam xxxuserxxx xxxuserxxx . kenapa habis beli pulsa tidak ada bukti transaksi di aplikasi ? pulsa juga tidak masuk padahal pembayaran sukses . terima kasih . 
+NULL ({ 5 }) selamat ({ 1 }) malam ({ 2 }) xxxuserxxx ({ 3 }) xxxuserxxx ({ 4 }) knp ({ 6 }) habis ({ 7 }) beli ({ 8 }) pulsa ({ 9 }) gak ({ 10 }) ada ({ 11 }) bukti ({ 12 }) transaksi ({ 13 }) di ({ 14 }) aplikasi ({ 15 }) ? ({ 16 }) pulsa ({ 17 }) juga ({ 18 }) gak ({ 19 }) masuk ({ 20 }) . ({ }) padahal ({ 21 }) psmbayaran ({ 22 }) sukses ({ 23 }) ? ({ 24 }) makasi ({ 25 26 27 }) 
+# Sentence pair (1740) source length 24 target length 23 alignment score : 1.50727e-17
+masukan dari saya . kalau bisa , perusahaan kurir diberi penilaian juga di aplikasi . jadi bisa terlihat performa perusahaan kurir tersebut . 
+NULL ({ 4 }) oh ({ }) iya ({ }) masukan ({ 1 }) dari ({ 2 }) saya ({ 3 }) kalau ({ 5 }) bisa ({ 6 }) untuk ({ 7 }) perusahaan ({ 8 }) kurir ({ 9 }) di ({ }) beri ({ 10 }) rating ({ 11 }) juga ({ 12 }) di ({ 13 }) apps ({ 14 }) . ({ 15 }) jadi ({ 16 }) bisa ({ 17 }) kelihatan ({ 18 }) performa ({ 19 }) perusahaan ({ 20 }) kurirnya ({ 21 22 }) . ({ 23 }) 
+# Sentence pair (1748) source length 22 target length 25 alignment score : 2.95905e-25
+kalau dari australia mau mengirim xxxmoneyxxx apakah terkena charge ? dan apakah harus bayar charge terlebih dahulu baru bisa mendapatkan uang kita yang dikirim ? 
+NULL ({ }) kalo ({ 1 }) dari ({ 2 }) australia ({ 3 }) , ({ }) mau ({ 4 }) mentransfer ({ 5 }) xxxmoneyxxx ({ 6 7 }) apakah ({ 12 }) kena ({ 8 }) charge ({ 9 10 13 }) dan ({ 11 }) bayar ({ 14 }) charge ({ 15 16 }) dulu ({ 17 }) baru ({ 18 }) bisa ({ 19 }) dapat ({ 20 }) uang ({ 21 }) kita ({ 22 }) yg ({ 23 }) di ({ 24 }) transfer ({ 25 }) 
+# Sentence pair (1755) source length 21 target length 21 alignment score : 2.5004e-12
+kenapa kalau transfer ke rekening bank gagal terus ? sudah coba relog , update app , terus harus apa lagi ? 
+NULL ({ 21 }) kenapa ({ 1 }) kalo ({ 2 }) transfer ({ 3 }) ke ({ 4 }) rekening ({ 5 }) bank ({ 6 }) gagal ({ 7 }) mulu ({ 8 }) ya ({ }) ? ({ 9 }) udah ({ 10 }) coba ({ 11 }) relog ({ 12 }) , ({ 13 }) update ({ 14 }) app ({ 15 }) , ({ 16 }) terus ({ 17 }) harus ({ 18 }) apa ({ 19 }) lagi ({ 20 }) 
+# Sentence pair (1761) source length 9 target length 4 alignment score : 1.74676e-07
+terimakasih atas informasinya . 
+NULL ({ }) thanks ({ }) for ({ }) your ({ 1 }) information ({ 2 }) . ({ 4 }) have ({ }) a ({ }) nice ({ 3 }) day ({ }) 
+# Sentence pair (1762) source length 18 target length 18 alignment score : 9.54143e-12
+ada yang pernah dapat tidak ikutan ini ? perasaan saya sangat cepat tapi sudah habis saja semua . 
+NULL ({ 18 }) ada ({ 1 }) yg ({ 2 }) pernah ({ 3 }) dpt ({ 4 }) gk ({ 5 }) sih ({ }) ikutan ({ 6 }) ini ({ 7 }) , ({ 8 }) perasaan ({ 9 }) gw ({ 10 }) cepet ({ 12 }) bgt ({ 11 }) tapi ({ 13 }) udh ({ 14 }) abis ({ 15 }) aja ({ 16 }) smua ({ 17 }) 
+# Sentence pair (1769) source length 13 target length 18 alignment score : 1.34261e-22
+oleh sebab itu , kalau kartunya telkomsel jangan beli pulsa xl , jadi tidak masuk , kak . 
+NULL ({ 12 16 18 }) mangkannya ({ 1 2 3 6 }) kalo ({ 5 }) kartu ({ 4 }) nya ({ }) telkomsel ({ 7 }) jangan ({ 8 }) beli ({ 9 }) pulsa ({ 10 }) xl ({ 11 }) jadi ({ 13 }) ga ({ 14 }) masuk ({ 15 }) kak ({ 17 }) 
+# Sentence pair (1774) source length 13 target length 17 alignment score : 1.59151e-21
+apakah ini betul - betul tidak ditanggapi , wahai xxxuserxxx ? baik , cukup tahu saja . 
+NULL ({ 13 17 }) ini ({ 2 }) beneran ({ 1 3 5 }) gak ({ 6 }) ditanggapi ({ 4 7 }) ya ({ }) , ({ 8 }) wahai ({ 9 }) xxxuserxxx ({ 10 }) ? ({ 11 }) okedeh ({ 12 }) cukup ({ 14 }) tau ({ 15 }) aja ({ 16 }) 
+# Sentence pair (1776) source length 16 target length 21 alignment score : 4.62003e-23
+iya betul , xxxnumberxxx . sayang sekali terlambat , tidak terangkat karena sedang di jalan . terima kasih atas infonya . 
+NULL ({ 3 9 21 }) iya ({ 1 }) bener ({ 2 }) xxxnumberxxx ({ 4 }) . ({ 5 }) yaahh ({ 6 }) ( ({ 7 }) telat ({ 8 }) ga ({ 10 }) ke ({ }) angkat ({ 11 }) krn ({ 12 }) lg ({ 13 }) dijalan ({ 14 15 }) . ({ 16 }) terimakasih ({ 17 18 }) infonyaa ({ 19 20 }) 
+# Sentence pair (1777) source length 10 target length 13 alignment score : 4.03618e-12
+pulsa hilang tanggal xxxdatexxx di jam xxxnumberxxx , tolong periksa , admin . 
+NULL ({ 8 13 }) pulsa ({ 1 }) ilang ({ 2 }) tgl ({ 3 }) xxxdatexxx ({ 4 }) dijak ({ 5 6 }) xxxnumberxxx ({ 7 }) tolong ({ 9 }) cek ({ 10 }) yah ({ 11 }) min ({ 12 }) 
+# Sentence pair (1778) source length 7 target length 7 alignment score : 5.0549e-09
+apakah sudah cocok menjadi admin xxxuserxxx ? 
+NULL ({ }) sudah ({ 2 }) cocok ({ 1 3 }) jadi ({ 4 }) admin ({ 5 }) xxxuserxxx ({ 6 }) belum ({ }) ? ({ 7 }) 
+# Sentence pair (1780) source length 13 target length 13 alignment score : 2.40901e-07
+ditunggu berapa lama ? tolong dong jne kinerjanya ditingkatkan lagi seperti dulu . 
+NULL ({ 13 }) ditunggu ({ 1 }) berapa ({ 2 }) lama ({ 3 }) ya ({ }) ? ({ 4 }) tolong ({ 5 }) dong ({ 6 }) jne ({ 7 }) kinerjanya ({ 8 }) ditingkatin ({ 9 }) lagi ({ 10 }) kyk ({ 11 }) dulu ({ 12 }) 
+# Sentence pair (1785) source length 11 target length 15 alignment score : 4.87723e-12
+terima kasih xxxuserxxx . bonus tantangan jugglenautnya , sering - sering seperti ini ya . 
+NULL ({ 4 }) terimakasih ({ 1 2 }) xxxuserxxx ({ 3 }) bonus ({ 5 }) challenges ({ 6 }) jugglenaut ({ 7 }) nya ({ }) , ({ 8 }) sering2 ({ 9 10 11 }) begini ({ 12 13 }) yaa ({ 14 }) 🤣 ({ 15 }) 
+# Sentence pair (1789) source length 26 target length 24 alignment score : 6.22506e-13
+admin . mau bertanya , counter jnt di kota bekasi kecamatan mustika jaya ada dimana saja ? di pedurenan masih ada atau tidak ? 
+NULL ({ 2 }) min ({ 1 }) mau ({ 3 }) tanya ({ 4 }) dong ({ }) , ({ 5 }) counter ({ 6 }) jnt ({ 7 }) di ({ 8 }) kota ({ 9 }) bekasi ({ 10 }) kecamatan ({ 11 }) mustika ({ 12 }) jaya ({ 13 }) adanya ({ 14 }) dimana ({ 15 }) aja ({ 16 }) ? ({ 17 }) yg ({ }) di ({ 18 }) pedurenan ({ 19 }) masih ({ 20 }) ada ({ 21 }) atau ({ 22 }) engga ({ 23 }) ya ({ }) ? ({ 24 }) 
+# Sentence pair (1796) source length 20 target length 18 alignment score : 1.20678e-11
+saya mau upgrade full service , ternyata harus ke booth ovo , sedangkan disekitar jarawang tidak ada , 
+NULL ({ }) gua ({ 1 }) mau ({ 2 }) upgrade ({ 3 }) full ({ 4 }) service ({ 5 }) , ({ 6 }) ehh ({ 7 }) harus ({ 8 }) ke ({ 9 }) ovoboth ({ 10 11 }) , ({ 12 }) sedangkan ({ 13 }) di ({ }) sekitar ({ 14 }) jarawang ({ 15 }) ga ({ 16 }) ada ({ 17 }) , ({ 18 }) mohon ({ }) pencerahanya ({ }) 
+# Sentence pair (1802) source length 9 target length 9 alignment score : 3.12844e-05
+pulpen ditaruh meja depan mata hilang diambil teman . 
+NULL ({ }) pulpen ({ 1 }) ditaro ({ 2 }) meja ({ 3 }) depan ({ 4 }) mata ({ 5 }) hilang ({ 6 }) di ({ }) embat ({ 7 }) teman ({ 8 9 }) 
+# Sentence pair (1804) source length 9 target length 10 alignment score : 4.77584e-08
+pesan go - food min . tidak pakai lama . 
+NULL ({ 10 }) pesen ({ 1 }) go ({ 2 }) - ({ 3 }) food ({ 4 }) min ({ 5 }) , ({ 6 }) ga ({ 7 }) pake ({ 8 }) lama ({ 9 }) 
+# Sentence pair (1807) source length 10 target length 11 alignment score : 5.9723e-08
+oke oke oke , aku coba dulu . terima kasih . 
+NULL ({ }) oh ({ 1 }) ok ({ 2 }) ok ({ 3 }) , ({ 4 }) kucoba ({ 5 6 }) dulu ({ 7 }) . ({ 8 }) makasih ({ 9 10 }) yaa ({ }) ~ ({ 11 }) 
+# Sentence pair (1810) source length 9 target length 10 alignment score : 3.50322e-09
+masih tidak bisa . hilang terus jaringannya dari tadi . 
+NULL ({ 10 }) masih ({ 1 }) gak ({ 2 }) bisa ({ 3 }) ilangan ({ 4 5 }) terus ({ 6 }) jaringan ({ 7 }) nya ({ }) dari ({ 8 }) tadi ({ 9 }) 
+# Sentence pair (1812) source length 25 target length 24 alignment score : 5.47141e-22
+admin , kalau saya punya dua akun ovo karena ada dua nomor smartphone , bisakah memeriksa saldo ovo cukup di satu smartphone saja ? 
+NULL ({ }) min ({ 1 }) , ({ 2 }) kalo ({ 3 }) sy ({ 4 }) punya ({ 5 }) xxxnumberxxx ({ 6 }) akun ({ 7 }) ovo ({ 8 }) karena ({ 9 }) ada ({ 10 }) xxxnumberxxx ({ 11 }) no ({ 12 }) smartphone ({ 13 }) , ({ 14 }) bisa ({ 15 }) nggak ({ }) cek ({ 16 }) saldo ({ 17 }) ovo ({ 18 }) cukup ({ 19 }) di ({ 20 }) xxxnumberxxx ({ 21 }) smartphone ({ 22 }) aja ({ 23 }) . ({ 24 }) 
+# Sentence pair (1819) source length 18 target length 19 alignment score : 5.27946e-10
+es krim yang jaman sd cuma bisa lihat iklannya tapi pas punya uang es krimnya sudah tidak ada . 
+NULL ({ 19 }) es ({ 1 }) krim ({ 2 }) yg ({ 3 }) jaman ({ 4 }) sd ({ 5 }) cuma ({ 6 }) bisa ({ 7 }) liat ({ 8 }) iklannya ({ 9 }) tp ({ 10 }) pas ({ 11 }) punya ({ 12 }) duit ({ 13 }) es ({ 14 }) krimnya ({ 15 }) udah ({ 16 }) ga ({ 17 }) ada ({ 18 }) 
+# Sentence pair (1826) source length 11 target length 7 alignment score : 9.81784e-10
+tolong tindak lanjuti . bayar kemana ? 
+NULL ({ }) follow ({ 1 }) up ({ 2 }) dong ({ }) tuh ({ 3 }) . ({ 4 }) bayar ({ 5 }) kemana ({ 6 }) nih ({ }) ? ({ 7 }) cc ({ }) : ({ }) 
+# Sentence pair (1828) source length 9 target length 10 alignment score : 1.27808e-09
+bagaimana ini ? saya menelepon koneksinya masih tidak lancar ? 
+NULL ({ 3 }) ini ({ 2 }) gimana ({ 1 }) saya ({ 4 }) telfonan ({ 5 }) koneksinya ({ 6 }) masih ({ 7 }) gak ({ 8 }) lancar ({ 9 }) ? ({ 10 }) 
+# Sentence pair (1830) source length 8 target length 8 alignment score : 0.000172964
+mau top up gopay caranya bagaimana admin ? 
+NULL ({ }) mau ({ 1 }) topup ({ 2 3 }) gopay ({ 4 }) caranya ({ 5 }) gimana ({ 6 }) ya ({ }) min ({ 7 }) ? ({ 8 }) 
+# Sentence pair (1833) source length 14 target length 14 alignment score : 5.89313e-08
+alhamdulillah , rezeki anak soleh kak . * siap - siap diajak ketemuan . 
+NULL ({ }) alhamdulillah ({ 1 }) , ({ 2 }) rezeki ({ 3 }) anak ({ 4 }) shalih ({ 5 }) ya ({ }) kak ({ 6 }) . ({ 7 }) 🤲 ({ 10 }) * ({ 8 }) siap2 ({ 9 11 }) diajak ({ 12 }) ketemuan ({ 13 }) 🤭 ({ 14 }) 
+# Sentence pair (1836) source length 18 target length 23 alignment score : 2.40782e-17
+permisi admin bukalapak , mohon konfirmasi top up dana saya sebesar rp xxxnumberxxx . xxxnumberxxx . berikut bukti pembayaran . terima kasih . 
+NULL ({ 4 16 20 23 }) permisi ({ 1 }) admin ({ 2 }) bukalapak ({ 3 }) mohon ({ 5 }) konfirmasi ({ 6 }) top ({ 7 }) up ({ 8 }) dana ({ 9 }) saya ({ 10 }) sebesar ({ 11 }) rp ({ 12 }) xxxnumberxxx ({ 13 }) . ({ 14 }) xxxnumberxxx ({ 15 }) berikut ({ 17 }) bukti ({ 18 }) pembayaran ({ 19 }) terimakasih ({ 21 22 }) 
+# Sentence pair (1840) source length 26 target length 23 alignment score : 5.38048e-25
+pagi admin , mau bertanya . kalau misalnya fob barangnya xxxmoneyxxx , lalu ongkos pengirimannya xxxmoneyxxx apakah kena pajak ? terima kasih . 
+NULL ({ 12 }) pagi ({ 1 }) admin ({ 2 }) . ({ 3 }) mau ({ 4 }) tanya ({ 5 }) dong ({ 6 }) kalau ({ 7 }) misal ({ 8 }) nya ({ }) fob ({ 9 }) barang ({ 10 }) nya ({ }) xxxnumberxxx ({ }) $ ({ 11 }) terus ({ 13 }) ongkos ({ 14 }) shipping ({ 15 }) ya ({ }) xxxmoneyxxx ({ 16 17 }) itu ({ }) kena ({ 18 }) pajak ({ 19 }) ga ({ }) min ({ }) ? ({ 20 }) thanks ({ 21 22 23 }) 
+# Sentence pair (1846) source length 7 target length 8 alignment score : 0.00022172
+saya penumpang terpilih daerah semarang ? hehehe . 
+NULL ({ }) sy ({ 1 }) penumpang ({ 2 }) terpilih ({ 3 }) daerah ({ 4 }) semarang ({ 5 }) ? ({ 6 }) hehehe ({ 7 8 }) 
+# Sentence pair (1847) source length 11 target length 11 alignment score : 0.000127203
+dimana jawaban dari dm picture bukti yang sudah saya kirim ? 
+NULL ({ }) mana ({ 1 }) jawaban ({ 2 }) dari ({ 3 }) dm ({ 4 }) pict ({ 5 }) bukti ({ 6 }) yg ({ 7 }) sudah ({ 8 }) saya ({ 9 }) kirim ({ 10 }) ? ({ 11 }) 
+# Sentence pair (1850) source length 9 target length 9 alignment score : 0.00452125
+kotak masuk tidak penuh dan jaringan cukup stabil . 
+NULL ({ }) kotak ({ 1 }) masuk ({ 2 }) tidak ({ 3 }) penuh ({ 4 }) dan ({ 5 }) jaringan ({ 6 }) cukup ({ 7 }) stabil ({ 8 }) . ({ 9 }) 
+# Sentence pair (1853) source length 16 target length 20 alignment score : 1.73944e-22
+aneh , bukalapak dari kemarin - kemmarin balas cuma bisa itu - itu saja . niat membantu atau tidak ? 
+NULL ({ 12 20 }) aneh ({ 1 2 }) bukalapak ({ 3 }) dari ({ 4 }) kemaren ({ 5 6 }) kemaren ({ 7 }) balas ({ 8 }) cuma ({ 9 }) bisa ({ 10 }) itu ({ 11 }) itu ({ 13 }) saja ({ 14 }) , ({ 15 }) niat ({ 16 }) bantu ({ 17 }) apa ({ 18 }) tidak ({ 19 }) 
+# Sentence pair (1859) source length 17 target length 20 alignment score : 2.05874e-14
+saya mau beli aplikasi menggunakan pulsa tapi saat verifikasi via sms dari google play gagal terus ini , bagaimana ? 
+NULL ({ 20 }) saya ({ 1 }) mau ({ 2 }) beli ({ 3 }) aplikasi ({ 4 }) menggunakan ({ 5 }) pulsa ({ 6 }) tapi ({ 7 }) saat ({ 8 }) verifikasi ({ 9 }) via ({ 10 }) sms ({ 11 }) dari ({ 12 }) googleplay ({ 13 14 }) gagal ({ 15 }) terus ({ 16 }) ini ({ 17 18 }) gimana ({ 19 }) 
+# Sentence pair (1866) source length 7 target length 8 alignment score : 1.11612e-05
+admin tolong cek dm . terima kasih . 
+NULL ({ }) min ({ 1 }) tolong ({ 2 }) cek ({ 3 }) dm ({ 4 }) ya ({ }) . ({ 5 }) makasiih ({ 6 7 8 }) 
+# Sentence pair (1869) source length 11 target length 12 alignment score : 9.95918e-14
+coba telepon lagi . kalau tidak ditelepon terus , pasti lama . 
+NULL ({ }) telfon ({ 1 2 }) lagi ({ 3 }) gih ({ 4 12 }) , ({ 9 }) kao ({ 5 }) ga ({ 6 }) di ({ }) telfon ({ 7 }) terus ({ 8 }) lama ({ 11 }) pasti ({ 10 }) 
+# Sentence pair (1872) source length 13 target length 13 alignment score : 3.81452e-05
+saya mau ganti device bca mobile dari android ke ios bagaimana caranya ? 
+NULL ({ }) saya ({ 1 }) mau ({ 2 }) ganti ({ 3 }) device ({ 4 }) bca ({ 5 }) mobile ({ 6 }) dari ({ 7 }) android ({ 8 }) ke ({ 9 }) ios ({ 10 }) gmn ({ 11 }) cara ({ 12 }) ? ({ 13 }) 
+# Sentence pair (1875) source length 9 target length 9 alignment score : 0.00125552
+keluar update versi xxxnumberxxx . xxxnumberxxx kapan admin ? 
+NULL ({ }) keluar ({ 1 }) update ({ 2 }) versi ({ 3 }) xxxnumberxxx ({ 4 }) . ({ 5 }) xxxnumberxxx ({ 6 }) kapan ({ 7 }) min ({ 8 }) ? ({ 9 }) 
+# Sentence pair (1877) source length 20 target length 19 alignment score : 1.56093e-14
+halo xxxuserxxx , status kiriman saya damage case apa maksudnya ? nomor resi : xxxnumberxxx , mohon pencerahannya . 
+NULL ({ 16 }) halo ({ 1 }) , ({ 3 }) xxxuserxxx ({ 2 }) status ({ 4 }) kiriman ({ 5 }) saya ({ 6 }) damage ({ 7 }) case ({ 8 }) itu ({ }) maksudnya ({ 10 }) apa ({ 9 }) yah ({ }) ? ({ 11 }) no ({ 12 }) resi ({ 13 }) : ({ 14 }) xxxnumberxxx ({ 15 }) mohon ({ 17 }) pencerahannya ({ 18 }) . ({ 19 }) 
+# Sentence pair (1883) source length 16 target length 17 alignment score : 7.3965e-10
+hai admin , kalau mpin terblokir terus saat coba re - aktivasi malah gagal , bagaimana ? 
+NULL ({ }) hi ({ 1 }) min ({ 2 }) , ({ 3 }) kalau ({ 4 }) mpin ({ 5 }) terblokir ({ 6 }) terus ({ 7 }) pas ({ 8 }) coba ({ 9 }) reaktivasi ({ 10 11 12 }) malah ({ 13 }) gagal ({ 14 }) , ({ 15 }) gimana ({ 16 }) ya ({ }) ? ({ 17 }) 
+# Sentence pair (1888) source length 10 target length 11 alignment score : 2.05965e-09
+admin . tolong umumkan giveaway iphone x . sudah ditunggu . 
+NULL ({ }) min ({ 1 }) umumin ({ 2 3 }) giveaway ({ 4 5 }) ipun ({ 6 }) x ({ 7 }) nya ({ 8 }) dunds ({ 9 }) di ({ }) tungguin ({ 10 }) nihh ({ 11 }) 
+# Sentence pair (1890) source length 26 target length 27 alignment score : 6.23912e-18
+hi lazadian , demi keamanan data , bisa diinfokan nomor pesanan dan nama pemesannya melalu kirim pesan twitter xxxuserxxx agar dapat dibantu lebih lanjut . - nanda 
+NULL ({ }) hi ({ 1 }) lazadian ({ 2 }) , ({ 3 }) demi ({ 4 }) keamanan ({ 5 }) data ({ 6 }) . ({ 7 }) bisa ({ 8 }) diinfokan ({ 9 }) nomor ({ 10 }) pesanan ({ 11 }) dan ({ 12 }) nama ({ 13 }) pemesannya ({ 14 }) melalui ({ }) dm ({ 17 }) twitter ({ 18 }) xxxuserxxx ({ 19 }) agar ({ 20 }) dapat ({ 21 }) dibantu ({ 22 }) lebih ({ 23 }) lanjut ({ 24 }) . ({ 25 }) - ({ 26 }) nanda ({ 15 16 27 }) 
+# Sentence pair (1898) source length 6 target length 7 alignment score : 2.20947e-10
+oh begitu . oke terimakasih kak . 
+NULL ({ 3 }) ooh ({ 1 }) gitu ({ 2 }) oke ({ 4 }) makasi ({ 5 }) ya ({ 7 }) kak ({ 6 }) 
+# Sentence pair (1900) source length 20 target length 23 alignment score : 3.92218e-24
+admin . mengapa pengembalian uang kelebihan pembayaran ovo paylater saya lama ? sampai saat ini belum ada konfirmasinya . padahal sudah sebulan . 
+NULL ({ 2 23 }) min ({ 1 }) untuk ({ 3 }) refund ({ 4 }) kelebihan ({ 5 6 }) pembayaran ({ 7 }) ovopaylater ({ 8 9 }) saya ({ 10 }) kok ({ }) lama ({ 11 }) ya ({ }) ? ({ 12 }) sampai ({ 13 }) sekarang ({ }) belum ({ 16 }) ada ({ 17 }) konfirmasinya ({ 14 15 18 }) , ({ 19 }) padahal ({ 20 }) udah ({ 21 }) sebulan ({ 22 }) 
+# Sentence pair (1903) source length 28 target length 26 alignment score : 1.71474e-11
+ini twitter yang error apa sinyal saya yang error ? saya ig , yt , wa bisa , tapi untuk twitter sama ml tidak bisa . 
+NULL ({ }) ni ({ 1 }) twitter ({ 2 }) yg ({ 3 }) eror ({ 4 }) apa ({ 5 }) sinyal ({ 6 }) gw ({ 7 }) yg ({ 8 }) eror ({ 9 }) sih ({ }) ? ({ 10 }) gw ({ 11 }) ig ({ 12 }) , ({ 13 }) yt ({ 14 }) , ({ 15 }) wa ({ 16 }) bisa ({ 17 }) , ({ 18 }) tp ({ 19 }) buat ({ 20 }) twitter ({ 21 }) , ({ }) ama ({ 22 }) ml ({ 23 }) gak ({ 24 }) bisa ({ 25 }) . ({ 26 }) 
+# Sentence pair (1915) source length 13 target length 15 alignment score : 5.83403e-15
+apakah ovo lagi gangguan ? aku top up di alfamart , belum masuk juga . 
+NULL ({ 11 }) ovo ({ 1 2 }) lagi ({ 3 }) eror ({ 4 }) ya ({ }) ? ({ 5 }) aku ({ 6 }) top ({ 7 }) up ({ 8 }) di ({ 9 }) alfamart ({ 10 }) belum ({ 12 }) masuk ({ 13 }) nih ({ 14 15 }) 
+# Sentence pair (1919) source length 22 target length 22 alignment score : 3.54978e-17
+malam , saya mau komplain . paket statusnya sudah sampai , tetapi saya belum menerimanya . mohon bantuannya . terima kasih . 
+NULL ({ }) malam ({ 1 }) , ({ 2 }) mau ({ 3 4 }) komplain ({ 5 }) . ({ 6 }) paket ({ 7 }) statusnya ({ 8 }) sudah ({ 9 }) sampai ({ 10 }) . ({ 11 }) tapi ({ 12 }) saya ({ 13 }) belum ({ 14 }) terima ({ 15 }) paket ({ }) . ({ 16 }) mohon ({ 17 }) bantuannya ({ 18 }) . ({ 19 }) terima ({ 20 }) kasih ({ 21 }) . ({ 22 }) 
