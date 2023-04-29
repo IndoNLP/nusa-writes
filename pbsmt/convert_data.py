@@ -9,7 +9,12 @@ for split_set in ['train', 'valid', 'test']:
         isExist = os.path.exists(path)
         if not isExist:
             os.makedirs(path)
-        data_path = f'../data/nusa_kalimat-mt-{lang}-test.csv'
+        data_path = f'../data/nusa_kalimat-mt-{lang}-{split_set}.csv'
         df = pd.read_csv(data_path)
-        df['ind_text'].to_csv(f'stif-indonesia/data/{lang}/{split_set}.ind', header=None, index=False)
-        df['tgt_text'].to_csv(f'stif-indonesia/data/{lang}/{split_set}.tgt', header=None, index=False)
+
+        split_set_new = split_set
+        if split_set == 'valid':
+            split_set_new = 'dev'
+
+        df['ind_text'].to_csv(f'stif-indonesia/data/{lang}/{split_set_new}.inf', header=None, index=False)
+        df['tgt_text'].to_csv(f'stif-indonesia/data/{lang}/{split_set_new}.for', header=None, index=False)

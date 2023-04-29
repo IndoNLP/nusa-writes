@@ -13,8 +13,9 @@ experiment_semi_supervised = [
 ]
 
 nusa_menulis_experiments = [
-    'experiment-config/abs.json',
-    'experiment-config/bew.json'
+    # 'abs','btk','bew','bhp','jav','mad','mak','min','mui','rej','sun'
+    'abs','bhp','min','sun',
+    # 'btk','bew','jav','mad','mak','mui','rej',
 ]
 
 def do_experiment(exp):
@@ -26,8 +27,9 @@ def do_semi_supervised_experiment(exp):
     moses_model.run_semi_supervised()
 
 def do_nusa_menulis_experiment(exp):
-    moses_model = MosesSMTModel(exp, use_wandb=False)
-    moses_model.run_nusa_menulis_experiments()
+    exp_config = f'experiment-config/{exp}.json'
+    moses_model = MosesSMTModel(exp_config, use_wandb=False)
+    moses_model.run_nusa_menulis_experiments(exp)
 
 @click.command()
 @click.option('--exp-scenario', help='possible "supervised" or "semi-supervised"')
@@ -43,8 +45,11 @@ def main(exp_scenario: str):
         for exp in experiment_semi_supervised:
             do_semi_supervised_experiment(exp)
     if exp_scenario == 'nusa-menulis':
+        with open('results.csv','w') as f:
+            f.write('lang, bleu\n') 
+
         for exp in nusa_menulis_experiments:
-            do_nusa_menulis_experiment(exp)
+            bleu = do_nusa_menulis_experiment(exp)
 
 if __name__ == '__main__':
     main()

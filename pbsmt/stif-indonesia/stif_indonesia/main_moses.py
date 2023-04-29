@@ -89,6 +89,7 @@ class MosesSMTModel:
             logger.warning(out_file_dir + " is exist")
         out_predict = Path(out_file_dir) / self.predicted_file if not use_custom_file_name else \
             Path(out_file_dir) / custom_file_name
+        print(f"moses command: {MOSES_BIN_MOSES} -f {model_path} < {src_path} > {out_predict}")
         subprocess.run(
             [f"{MOSES_BIN_MOSES} -f {model_path} < {src_path} > {out_predict}"], capture_output=True, shell=True)
 
@@ -99,7 +100,7 @@ class MosesSMTModel:
         except FileExistsError:
             logger.warning(evaluation_dir + " is exist")
         # breakpoint()
-        
+        print(f"sys.txt command: cat {sys_file} | {MOSES_DETOKENIZER} -l en > {evaluation_dir}/sys.txt")
         subprocess.run([f"cat {ref_file} | {MOSES_DETOKENIZER} -l en > {evaluation_dir}/ref.txt"], shell=True)
         subprocess.run([f"cat {sys_file} | {MOSES_DETOKENIZER} -l en > {evaluation_dir}/sys.txt"], shell=True)
         with open(f"{evaluation_dir}/ref.txt",'r+') as file:
@@ -131,7 +132,7 @@ class MosesSMTModel:
             self.run.summary['bleu_score'] = bleu
         logger.info(f"BLEU IS {bleu}".center(10, '='))
 
-    def run_nusa_menulis_experiments(self):
+    def run_nusa_menulis_experiments(self, exp):
         lm_path = self.root_output_folder / 'lm'
         train_path = self.root_output_folder / 'train'
         logger.info("PERPARE KEN-LM".center(10, '='))
@@ -146,12 +147,17 @@ class MosesSMTModel:
         logger.info("PREDICT MOSES".center(10, '='))
         self.predict(str(train_path / 'model/moses.ini'), str(root_test_inf), str(dir_out_pred))
         logger.info("CALCULATE BLEU".center(10, '='))
-        bleu = self.eval_bleu_moses(str(self.root_data_pth / 'test.tgt'),
+        bleu = self.eval_bleu_moses(str(self.root_data_pth / 'test.for'),
                                     str(dir_out_pred),
                                     str(dir_out_pred / self.predicted_file))
         if self.use_wandb:
             self.run.summary['bleu_score'] = bleu
         logger.info(f"BLEU IS {bleu}".center(10, '='))
+
+        with open('results.csv','a') as f:
+            f.write(f'{exp}, {bleu}\n')
+        
+        return bleu
 
     def _makedir(self, new_dirs: Union[str, Path]):
         try:
