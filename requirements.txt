@@ -1,0 +1,19 @@
+pandas
+numpy
+scikit-learn
+tensorflow==2.7.0
+nltk
+unidecode
+rouge-score
+sacrebleu
+pyyaml
+# from indobenchmark toolkit >= 0.1.4 reqs
+transformers==4.27.4
+sentencepiece==0.1.95
+datasets==2.11.0
+torch==1.11.0
+#for compatibility in torch preset version defined
+torchvision==0.12.0
+torchtext==0.12.0
+torchaudio==0.11.0
+torchdata==0.3.0
