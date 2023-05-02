@@ -291,7 +291,7 @@ def load_model(args):
         # indobenchmark models
         # Prepare config & tokenizer
         vocab_path, config_path = None, None
-        tokenizer = BertTokenizer.from_pretrained(args['model_checkpoint'])
+        tokenizer = BertTokenizer.from_pretrained(args['model_checkpoint'], model_max_length=512)
         config = BertConfig.from_pretrained(args['model_checkpoint'])
         if type(args['num_labels']) == list:
             config.num_labels = max(args['num_labels'])
@@ -307,7 +307,7 @@ def load_model(args):
         # indobenchmark models
         # Prepare config & tokenizer
         vocab_path, config_path = None, None
-        tokenizer = BertTokenizer.from_pretrained(args['model_checkpoint'])
+        tokenizer = BertTokenizer.from_pretrained(args['model_checkpoint'], model_max_length=512)
         config = BertConfig.from_pretrained(args['model_checkpoint'])
         if type(args['num_labels']) == list:
             config.num_labels = max(args['num_labels'])

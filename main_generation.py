@@ -188,7 +188,7 @@ if __name__ == "__main__":
         )
         print(f"output_dir: {output_dir}")
 
-        if not os.path.exists(output_dir):
+        if not os.path.exists(f'{output_dir}/evaluation_result.csv'):
             os.makedirs(output_dir, exist_ok=True)
         elif args['force']:
             print(f'overwriting model directory `{output_dir}`')
