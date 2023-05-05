@@ -334,7 +334,7 @@ def load_generation_model(args, resize_embedding=True):
         "[bimanese]": 40008,
         "[madurese]": 40009,
         "[makassarese]": 40010,
-        "[minangkabau]": 400011,
+        "[minangkabau]": 40011,
         "[palembangese]": 40012,
         "[rejang]": 40013,
         "<mask>": 40014
