@@ -414,7 +414,6 @@ def process_classical_benchmark(args):
     
     print('== Model Performance ==')
     print(metric_df)
-    # print(metrics_scores)
     
     result_df.to_csv(output_dir + "/prediction_result.csv")
     metric_df.to_csv(output_dir + "/evaluation_result.csv")
