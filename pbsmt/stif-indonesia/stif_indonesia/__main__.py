@@ -14,8 +14,9 @@ experiment_semi_supervised = [
 
 nusa_menulis_experiments = [
     # 'abs','btk','bew','bhp','jav','mad','mak','min','mui','rej','sun'
-    'abs','bhp','min','sun',
-    # 'btk','bew','jav','mad','mak','mui','rej',
+    
+    'abs','btk','bew','bhp','jav','mad','min','mui','sun'
+    # 'mak', 'rej'
 ]
 
 def do_experiment(exp):
@@ -26,10 +27,15 @@ def do_semi_supervised_experiment(exp):
     moses_model = MosesSMTModel(exp, use_wandb=False)
     moses_model.run_semi_supervised()
 
-def do_nusa_menulis_experiment(exp):
+def do_nusa_menulis_train(exp):
     exp_config = f'experiment-config/{exp}.json'
     moses_model = MosesSMTModel(exp_config, use_wandb=False)
-    moses_model.run_nusa_menulis_experiments(exp)
+    moses_model.run_nusa_menulis_train(exp)
+
+def do_nusa_menulis_eval(exp):
+    exp_config = f'experiment-config/{exp}.json'
+    moses_model = MosesSMTModel(exp_config, use_wandb=False)
+    moses_model.run_nusa_menulis_eval(exp)
 
 @click.command()
 @click.option('--exp-scenario', help='possible "supervised" or "semi-supervised"')
@@ -44,12 +50,17 @@ def main(exp_scenario: str):
     if exp_scenario == 'semi-supervised':
         for exp in experiment_semi_supervised:
             do_semi_supervised_experiment(exp)
-    if exp_scenario == 'nusa-menulis':
+
+    if exp_scenario == 'nusa-menulis-train':
+        for exp in nusa_menulis_experiments:
+            do_nusa_menulis_train(exp)
+
+    if exp_scenario == 'nusa-menulis-eval':
         with open('results.csv','w') as f:
             f.write('lang, bleu\n') 
 
         for exp in nusa_menulis_experiments:
-            bleu = do_nusa_menulis_experiment(exp)
+            do_nusa_menulis_eval(exp)
 
 if __name__ == '__main__':
     main()

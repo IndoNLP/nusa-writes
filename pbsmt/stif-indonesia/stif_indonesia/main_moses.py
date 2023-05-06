@@ -132,7 +132,7 @@ class MosesSMTModel:
             self.run.summary['bleu_score'] = bleu
         logger.info(f"BLEU IS {bleu}".center(10, '='))
 
-    def run_nusa_menulis_experiments(self, exp):
+    def run_nusa_menulis_train(self, exp):
         lm_path = self.root_output_folder / 'lm'
         train_path = self.root_output_folder / 'train'
         logger.info("PERPARE KEN-LM".center(10, '='))
@@ -146,6 +146,10 @@ class MosesSMTModel:
         dir_out_pred = self.root_output_folder / 'evaluation'
         logger.info("PREDICT MOSES".center(10, '='))
         self.predict(str(train_path / 'model/moses.ini'), str(root_test_inf), str(dir_out_pred))
+
+
+    def run_nusa_menulis_eval(self, exp):
+        dir_out_pred = self.root_output_folder / 'evaluation'
         logger.info("CALCULATE BLEU".center(10, '='))
         bleu = self.eval_bleu_moses(str(self.root_data_pth / 'test.for'),
                                     str(dir_out_pred),

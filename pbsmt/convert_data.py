@@ -1,6 +1,13 @@
 import pandas as pd
 import os
 from tqdm import tqdm
+import string
+
+def remove_punctuations(text):
+    for punctuation in string.punctuation:
+        text = text.replace('\n','')
+        text = text.replace(punctuation, '')
+    return text
 
 for split_set in ['train', 'valid', 'test']:
     print(split_set)
@@ -16,5 +23,5 @@ for split_set in ['train', 'valid', 'test']:
         if split_set == 'valid':
             split_set_new = 'dev'
 
-        df['ind_text'].to_csv(f'stif-indonesia/data/{lang}/{split_set_new}.inf', header=None, index=False)
-        df['tgt_text'].to_csv(f'stif-indonesia/data/{lang}/{split_set_new}.for', header=None, index=False)
+        df['ind_text'].apply(remove_punctuations).to_csv(f'stif-indonesia/data/{lang}/{split_set_new}.inf', header=None, index=False)
+        df['tgt_text'].apply(remove_punctuations).to_csv(f'stif-indonesia/data/{lang}/{split_set_new}.for', header=None, index=False)
