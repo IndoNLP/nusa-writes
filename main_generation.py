@@ -1,6 +1,7 @@
 import os
 import shutil
 from copy import deepcopy
+import pickle
 import random
 import numpy as np
 import pandas as pd
@@ -317,6 +318,31 @@ def process_language_model_benchmark(args):
     result_df.to_csv(args["model_dir"] + "/prediction_result.csv")
     metric_df.describe().to_csv(args["model_dir"] + "/evaluation_result.csv")
 
+def translate_one_sentence_panlex(
+    sentence,
+    translator
+):
+    words = sentence.split(' ')
+    translated_words = []
+    for word in words:
+        tranlated_word = translator.get(word)
+        if tranlated_word:
+            translated_words.append(tranlated_word)
+        else:
+            translated_words.append(word)
+    translated_sentence = ' '.join(translated_words)
+    return translated_sentence
+
+def translate_lexical_panlex(
+    sentences,
+    src_lang,
+    dst_lang
+):
+    translator_filepath = f"./boomer/panlex_translator/{src_lang}_to_{dst_lang}.pkl"
+    with open(translator_filepath, 'rb') as fp:
+        translator = pickle.load(fp)
+    return [translate_one_sentence_panlex(s, translator) for s in sentences]
+
 def process_classical_benchmark(args):
     # Specify output dir
     output_dir = create_output_directory(
@@ -348,12 +374,18 @@ def process_classical_benchmark(args):
     print(f"#Datapoints on valid dataset: {len(dset['valid'])}")
     print(f"#Datapoints on test dataset: {len(dset['test'])}")
 
+    testset_df = pd.DataFrame(dset["test"])
     if args['model_type'] == "copy":
-        testset_df = pd.DataFrame(dset["test"]) 
-        list_hyp = testset_df['ind_text'].tolist()
         list_label = testset_df['tgt_text'].tolist()
+        list_hyp = testset_df['ind_text'].tolist()
     elif args['model_type'] == "word-substitution":
-        raise Error("Not Implemented")
+        list_label = testset_df['tgt_text'].tolist()
+        list_src = testset_df['ind_text'].tolist()
+        list_hyp = translate_lexical_panlex(
+            sentences=list_src,
+            src_lang='ind',
+            dst_lang=args["lang"]
+        )
     elif args['model_type'] == "pbsmt":
         raise Error("Not Implemented")
     else:
@@ -381,11 +413,11 @@ def process_classical_benchmark(args):
     print()
     
     print('== Model Performance ==')
-    print(metric_df.describe())
+    print(metric_df)
+    # print(metrics_scores)
     
-    result_df.to_csv(args["model_dir"] + "/prediction_result.csv")
-    metric_df.describe().to_csv(args["model_dir"] + "/evaluation_result.csv")
-
+    result_df.to_csv(output_dir + "/prediction_result.csv")
+    metric_df.to_csv(output_dir + "/evaluation_result.csv")
 
 
 if __name__ == "__main__":
