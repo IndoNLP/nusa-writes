@@ -130,8 +130,9 @@ def train_and_test(datase_name, task, lang, feat_cols, label_col, directory="../
         
         print(f"\tEvaluating {c} with feature {feature}")
         pred = clf.predict(xtest.toarray())
-        f1score = f1_score(ytest,pred, average='macro')
-        results[c] = f1score
+        f1score_macro = f1_score(ytest,pred, average='macro')
+        f1score_weighted = f1_score(ytest,pred, average='weighted')
+        results[f"{c}_macro"],results[f"{c}_weighted"] = f1score_macro, f1score_weighted
 
     return results
 
