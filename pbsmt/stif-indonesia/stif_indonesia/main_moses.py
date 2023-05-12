@@ -107,6 +107,7 @@ class MosesSMTModel:
             refs = [file.read().split('\n')]
         with open(f"{evaluation_dir}/sys.txt",'r+') as file:
             sys = file.read().split('\n')
+        breakpoint()
         bleu = sacrebleu.corpus_bleu(sys, refs)
         return bleu.score
 

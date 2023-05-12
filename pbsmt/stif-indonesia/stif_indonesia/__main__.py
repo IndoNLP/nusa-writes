@@ -12,11 +12,12 @@ experiment_semi_supervised = [
     'experiment-config/00002_default_semi_supervised_config.json',
 ]
 
-nusa_menulis_experiments = [
-    # 'abs','btk','bew','bhp','jav','mad','mak','min','mui','rej','sun'
-    
-    'abs','btk','bew','bhp','jav','mad','min','mui','sun'
-    # 'mak', 'rej'
+nusa_menulis_train_exps = [
+    'abs','btk','bew','bhp','jav','mad','mak','min','mui','rej','sun'
+]
+
+nusa_menulis_eval_exps = [
+    'abs','btk','bew','bhp','jav','mad','mak','min','mui','rej','sun'
 ]
 
 def do_experiment(exp):
@@ -52,14 +53,14 @@ def main(exp_scenario: str):
             do_semi_supervised_experiment(exp)
 
     if exp_scenario == 'nusa-menulis-train':
-        for exp in nusa_menulis_experiments:
+        for exp in nusa_menulis_train_exps:
             do_nusa_menulis_train(exp)
 
     if exp_scenario == 'nusa-menulis-eval':
         with open('results.csv','w') as f:
             f.write('lang, bleu\n') 
 
-        for exp in nusa_menulis_experiments:
+        for exp in nusa_menulis_eval_exps:
             do_nusa_menulis_eval(exp)
 
 if __name__ == '__main__':
