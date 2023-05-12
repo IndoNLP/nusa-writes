@@ -95,6 +95,8 @@ class MosesSMTModel:
 
     def eval_bleu_moses(self, ref_file: str, evaluation_dir: str, sys_file: str):
         import sacrebleu
+        from torchmetrics import CHRFScore
+        from torchmetrics.text.rouge import ROUGEScore
         try:
             os.makedirs(evaluation_dir)
         except FileExistsError:
@@ -107,9 +109,17 @@ class MosesSMTModel:
             refs = [file.read().split('\n')]
         with open(f"{evaluation_dir}/sys.txt",'r+') as file:
             sys = file.read().split('\n')
-        breakpoint()
         bleu = sacrebleu.corpus_bleu(sys, refs)
-        return bleu.score
+
+        chrf = CHRFScore(n_word_order=2)
+        chrf_score = chrf(sys, refs[0])
+        chrf_score = float(chrf_score.clone().detach().numpy())
+
+        rouge = ROUGEScore()
+        rougel_score = rouge(sys[0], refs[0][0])['rougeL_fmeasure']
+        rougel_score = float(rougel_score.clone().detach().numpy())
+
+        return bleu.score, chrf_score, rougel_score
 
     def run_experiments(self):
         lm_path = self.root_output_folder / 'lm'
@@ -152,15 +162,17 @@ class MosesSMTModel:
     def run_nusa_menulis_eval(self, exp):
         dir_out_pred = self.root_output_folder / 'evaluation'
         logger.info("CALCULATE BLEU".center(10, '='))
-        bleu = self.eval_bleu_moses(str(self.root_data_pth / 'test.for'),
+        bleu, chrf, rougel = self.eval_bleu_moses(str(self.root_data_pth / 'test.for'),
                                     str(dir_out_pred),
                                     str(dir_out_pred / self.predicted_file))
         if self.use_wandb:
             self.run.summary['bleu_score'] = bleu
         logger.info(f"BLEU IS {bleu}".center(10, '='))
+        logger.info(f"chrF++ IS {chrf}".center(10, '='))
+        logger.info(f"ROUGE-L IS {rougel}".center(10, '='))
 
         with open('results.csv','a') as f:
-            f.write(f'{exp}, {bleu}\n')
+            f.write(f'{exp}, {bleu}, {chrf}, {rougel}\n')
         
         return bleu
 

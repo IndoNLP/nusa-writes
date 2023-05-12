@@ -58,7 +58,7 @@ def main(exp_scenario: str):
 
     if exp_scenario == 'nusa-menulis-eval':
         with open('results.csv','w') as f:
-            f.write('lang, bleu\n') 
+            f.write('lang, bleu, chrf++, rougel\n') 
 
         for exp in nusa_menulis_eval_exps:
             do_nusa_menulis_eval(exp)
