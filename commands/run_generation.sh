@@ -22,7 +22,6 @@ for lang in abs bew bhp btk jav mad mak min mui rej sun; do
         # CUDA_VISIBLE_DEVICES=0 python main_generation.py --lang $lang --model_type ${model_choices[$i]} --device $device --n_epochs $n_epochs --lr $lr --train_batch_size $train_batch_size --valid_batch_size $valid_batch_size --test_batch_size $test_batch_size --seed $seed --num_sample $num_sample &
     done
     wait
-    rm -r save/nusa_kalimat/mt/$lang/*/checkpoint*
 done
 
 
@@ -34,17 +33,6 @@ for lang in abs bew bhp btk jav mad mak min mui rej sun; do
         echo "Executing MT task on lang ${lang} and model choice ${model_choices[$i]}"
         python main_generation.py --lang $lang --model_type ${model_choices_w_checkpoint[$i]} --model_checkpoint ${model_checkpoints[$i]} --device $device --n_epochs $n_epochs --lr $lr --train_batch_size $train_batch_size --valid_batch_size $valid_batch_size --test_batch_size $test_batch_size --seed $seed --num_sample $num_sample --force
         # CUDA_VISIBLE_DEVICES=0 python main_generation.py --lang $lang --model_type ${model_choices_w_checkpoint[$i]} --model_checkpoint ${model_checkpoints[$i]} --device $device --n_epochs $n_epochs --lr $lr --train_batch_size $train_batch_size --valid_batch_size $valid_batch_size --test_batch_size $test_batch_size --seed $seed --num_sample $num_sample --force
-    done
-    wait
-    rm -r save/nusa_kalimat/mt/$lang/*/checkpoint*
-done
-
-# mt with classical methods (for copy, word-substitution, and pbsmt)
-model_choices=(copy word-substitution) # add pbsmt if already implemented
-for lang in abs bew bhp btk jav mad mak min mui rej sun; do
-    for ((i = 0; i < ${#model_choices[@]}; ++i)); do
-        echo "Executing MT task on lang ${lang} and model choice ${model_choices[$i]}"
-        python main_generation.py --lang $lang --model_type ${model_choices[$i]} --seed $seed --num_sample $num_sample --force
     done
     wait
     rm -r save/nusa_kalimat/mt/$lang/*/checkpoint*
