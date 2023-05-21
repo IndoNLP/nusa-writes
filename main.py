@@ -61,7 +61,7 @@ if __name__ == "__main__":
         )
         print(f"output_dir: {output_dir}")
 
-        if not os.path.exists(output_dir):
+        if not os.path.exists(f'{output_dir}/classification_report_df.csv'):
             os.makedirs(output_dir, exist_ok=True)
         elif args['force']:
             print(f'overwriting model directory `{output_dir}`')
@@ -130,11 +130,9 @@ if __name__ == "__main__":
         gradient_accumulation_steps=args["grad_accum"], # Gradient accumulation
         logging_dir=logging_dir,            # directory for storing logs
         logging_strategy="steps",
-        evaluation_strategy='steps',
-        save_strategy="steps",
+        evaluation_strategy='epoch',
+        save_strategy="epoch",
         logging_steps=10,
-        eval_steps=300,
-        save_steps=300,
         load_best_model_at_end = True,
         save_total_limit=1
     )
@@ -192,8 +190,3 @@ if __name__ == "__main__":
         f.close()
 
     print("## -- Evaluation Done. -- ##")
-
-
-
-
-

@@ -125,50 +125,50 @@ class IndoNLGTokenizer(PreTrainedTokenizer):
         # HACK: These tokens were added by fairseq but don't seem to be actually used when duplicated in the actual
         # sentencepiece vocabulary (this is the case for <s> and </s>
         self.special_tokens_to_ids = {
-            "[english]": 40000,
-            "[indonesian]": 40001,
-            "[javanese]": 40002,
-            "[sundanese]": 40003,
-            "[ambonese]": 40004,
-            "[batak]": 40005,
-            "[betawi]": 40006,
-            "[bimanese]": 40007,
-            "[madurese]": 40008,
-            "[makassarese]": 40009,
-            "[minangkabau]": 400010,
-            "[palembangese]": 40011,
-            "[rejang]": 40012,
-            "<mask>": 40013
+            "[javanese]": 40000, 
+            "[sundanese]": 40001, 
+            "[indonesian]": 40002,
+            "<mask>": 40003,
+            "[english]": 40004,
+            "[ambonese]": 40005,
+            "[batak]": 40006,
+            "[betawi]": 40007,
+            "[bimanese]": 40008,
+            "[madurese]": 40009,
+            "[makassarese]": 40010,
+            "[minangkabau]": 40011,
+            "[palembangese]": 40012,
+            "[rejang]": 40013
         }
         self.special_ids_to_tokens = {v: k for k, v in self.special_tokens_to_ids.items()}
         
         # Store Language token ID
-        self.english_token = '[english]'
+        self.english_token = '[javanese]'
         self.english_token_id = 40000
-        self.indonesian_token = '[indonesian]'
+        self.indonesian_token = '[sundanese]'
         self.indonesian_token_id = 40001
-        self.javanese_token = '[javanese]'
+        self.javanese_token = '[indonesian]'
         self.javanese_token_id = 40002
-        self.sundanese_token = '[sundanese]'
-        self.sundanese_token_id = 40003
+        self.sundanese_token = '[english]'
+        self.sundanese_token_id = 40004
         self.ambonese_token = '[ambonese]'
-        self.ambonese_token_id = 40004
+        self.ambonese_token_id = 40005
         self.batak_token = '[batak]'
-        self.batak_token_id = 40005
+        self.batak_token_id = 40006
         self.betawi_token = '[betawi]'
-        self.betawi_token_id = 40006
+        self.betawi_token_id = 40007
         self.bimanese_token = '[bimanese]'
-        self.bimanese_token_id = 40007
+        self.bimanese_token_id = 40008
         self.madurese_token = '[madurese]'
-        self.madurese_token_id = 40008
+        self.madurese_token_id = 40009
         self.makassarese_token = '[makassarese]'
-        self.makassarese_token_id = 40009
+        self.makassarese_token_id = 40010
         self.minangkabau_token = '[minangkabau]'
-        self.minangkabau_token_id = 40010
+        self.minangkabau_token_id = 40011
         self.palembangese_token = '[palembangese]'
-        self.palembangese_token_id = 40011
+        self.palembangese_token_id = 40012
         self.rejang_token = '[rejang]'
-        self.rejang_token_id = 40012
+        self.rejang_token_id = 40013
 
 
         self.special_token_ids = [
