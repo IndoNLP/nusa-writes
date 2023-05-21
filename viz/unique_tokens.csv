@@ -1,0 +1,16 @@
+lang,type,unique_tokens
+bug,Wikipedia,17542
+mad,Wikipedia,23085
+jav,Wikipedia,483499
+min,Wikipedia,284476
+sun,Wikipedia,289629
+bug,NusaWriting,12909
+mad,NusaWriting,42443
+jav,NusaWriting,45190
+min,NusaWriting,46955
+sun,NusaWriting,47648
+bug,NusaTranslation,0
+mad,NusaTranslation,34422
+jav,NusaTranslation,28707
+min,NusaTranslation,26980
+sun,NusaTranslation,25831
