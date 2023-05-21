@@ -644,3 +644,13 @@ class IndoNLGTokenizer(PreTrainedTokenizer):
                 batch_outputs[key].append(value)
 
         return BatchEncoding(batch_outputs, tensor_type=return_tensors)
+
+    def save_vocabulary(self, save_directory, filename_prefix) -> Tuple[str]:
+        """ Save the tokenizer vocabulary to a directory. This method does *NOT* save added tokens
+            and special token mappings.
+
+            Please use :func:`~transformers.PreTrainedTokenizer.save_pretrained` `()` to save the full
+            Tokenizer state if you want to reload it using the :func:`~transformers.PreTrainedTokenizer.from_pretrained`
+            class method.
+        """
+        return (f'{save_directory}/{filename_prefix}_vocab.json',)
