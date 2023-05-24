@@ -4,11 +4,11 @@ mad,Wikipedia,106.12
 jav,Wikipedia,117.13
 min,Wikipedia,55.80
 sun,Wikipedia,89.91
-bug,NusaWriting,118.39
-mad,NusaWriting,110.12
-jav,NusaWriting,109.61
-min,NusaWriting,111.64
-sun,NusaWriting,115.89
+bug,NusaParagraph,118.39
+mad,NusaParagraph,110.12
+jav,NusaParagraph,109.61
+min,NusaParagraph,111.64
+sun,NusaParagraph,115.89
 bug,NusaTranslation,0.00
 mad,NusaTranslation,22.38
 jav,NusaTranslation,22.02

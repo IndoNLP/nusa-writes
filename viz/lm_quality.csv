@@ -4,11 +4,11 @@ balanced,Wiki,mad,3909,8.271,,,3908.86,,
 balanced,Wiki,jav,5356,8.586,,,5356.15,,
 balanced,Wiki,min,3291,8.099,AVG no bug,AVG w/ bug,3291.18,AVG no bug,AVG w/ bug
 balanced,Wiki,sun,6621,8.798,8.4385,8.468,6620.99,4794.29,4906.66
-balanced,NusaW,bug,568,6.342,,,567.93,,
-balanced,NusaW,mad,374,5.923,,,373.53,,
-balanced,NusaW,jav,1269,7.146,,,1269.02,,
-balanced,NusaW,min,374,5.923,,,373.53,,
-balanced,NusaW,sun,873,6.772,6.441,6.4212,873.06,722.28,691.41
+balanced,NusaP,bug,568,6.342,,,567.93,,
+balanced,NusaP,mad,374,5.923,,,373.53,,
+balanced,NusaP,jav,1269,7.146,,,1269.02,,
+balanced,NusaP,min,374,5.923,,,373.53,,
+balanced,NusaP,sun,873,6.772,6.441,6.4212,873.06,722.28,691.41
 balanced,NusaT,mad,313,5.747,,,313.25,,
 balanced,NusaT,jav,852,6.748,,,852.35,,
 balanced,NusaT,min,235,5.46,,,235.10,,
@@ -18,11 +18,11 @@ full,Wiki,mad,3809,8.245,,,3808.54,,
 full,Wiki,jav,2522,7.833,,,2522.49,,
 full,Wiki,min,1207,7.096,AVG no bug,AVG w/ bug,1207.13,AVG no bug,AVG w/ bug
 full,Wiki,sun,3354,8.118,7.823,7.928,3354.31,2723.11,3022.84
-full,NusaW,bug,570,6.345,,,569.64,,
-full,NusaW,mad,263,5.574,,,263.49,,
-full,NusaW,jav,901,6.804,,,901.45,,
-full,NusaW,min,199,5.292,,,198.74,,
-full,NusaW,sun,543,6.297,5.99175,6.0624,542.94,476.65,495.25
+full,NusaP,bug,570,6.345,,,569.64,,
+full,NusaP,mad,263,5.574,,,263.49,,
+full,NusaP,jav,901,6.804,,,901.45,,
+full,NusaP,min,199,5.292,,,198.74,,
+full,NusaP,sun,543,6.297,5.99175,6.0624,542.94,476.65,495.25
 full,NusaT,mad,265,5.578,,,264.54,,
 full,NusaT,jav,861,6.758,,,860.92,,
 full,NusaT,min,234,5.455,,,233.92,,
