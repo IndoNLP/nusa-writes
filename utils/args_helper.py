@@ -202,6 +202,8 @@ def append_generation_model_args(args):
         args['separator_id'] = 4 # <0x00>
         args['speaker_1_id'] = 5 # <0x01>
         args['speaker_2_id'] = 6 # <0x02>
+    elif args['model_type'] in ['copy', 'word-substitution', 'pbsmt']:
+        pass
     else: # if args['model_type'] == 'bart':
         raise ValueError('Unknown model type')
     return args
