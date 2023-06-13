@@ -57,15 +57,19 @@ def load_nlu_tasks():
 def get_logprobs(model, tokenizer, prompt, label_ids=None, label_attn=None):
     inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=1024).to('cuda')
     input_ids, output_ids = inputs["input_ids"], inputs["input_ids"][:, 1:]
-    outputs = model(**inputs, labels=input_ids)
-    logits = outputs.logits
     
     if model.config.is_encoder_decoder:
+        outputs = model(**inputs, labels=label_ids)
+        logits = outputs.logits
+        
         logprobs = torch.gather(F.log_softmax(logits, dim=2), 2, label_ids.unsqueeze(2)) * label_attn.unsqueeze(2)
-        return logprobs.sum() / label_attn.sum()
+        return logprobs.sum()
     else:
+        outputs = model(**inputs, labels=input_ids)
+        logits = outputs.logits
+        
         logprobs = torch.gather(F.log_softmax(logits, dim=2), 2, output_ids.unsqueeze(2))
-        return logprobs.mean()
+        return logprobs.sum()
 
 def predict_classification(model, tokenizer, prompt, labels):
     if model.config.is_encoder_decoder:
