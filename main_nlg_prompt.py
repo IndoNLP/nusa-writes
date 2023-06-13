@@ -69,11 +69,13 @@ def predict_generation(prompt, model_name):
     inputs = tokenizer(prompt, return_tensors="pt", truncation=True, max_length=1024).to('cuda')
     input_ids = inputs["input_ids"]
     input_size = inputs["input_ids"].shape[1]
-    outputs = model.generate(**inputs, do_sample=True, 
-             min_length=input_size+1, max_length=input_size+100)
     if 'mt0' in model_name:
+        outputs = model.generate(**inputs, do_sample=True, 
+             min_length=1, max_length=100)
         return tokenizer.decode(outputs[0], skip_special_tokens=True)
     else:
+        outputs = model.generate(**inputs, do_sample=True, 
+             min_length=input_size+1, max_length=input_size+100)
         return tokenizer.decode(outputs[0][inputs["input_ids"].shape[1]:], skip_special_tokens=True)
 
 
