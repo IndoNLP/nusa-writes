@@ -1,0 +1,1 @@
+python -m stif_indonesia --exp-scenario nusa-menulis-eval
