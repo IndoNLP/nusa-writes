@@ -63,13 +63,22 @@ nusa_paragraph_dsets = nc.load_benchmark('NusaParagraph')
 nusa_writes_dsets = nc.load_benchmark('NusaWrites')
 ```
 
-### Running PBSMT Experiment
+### Experiment Code
+
+##### Running LM Experiment
+
+We modify the `run_clm.py` code from Huggingface and made use of IndoGPT (https://huggingface.co/indobenchmark/indogpt) tokenizer in our LM experiment. 
+The code and the run script can be found under the [lm-exp](https://github.com/IndoNLP/nusa-writes/tree/main/lm-exp) folder in the repository.
+- `run_clm.py` → https://github.com/IndoNLP/nusa-writes/blob/main/lm-exp/run_clm.py
+- Bash runner script (`run_lm_exp.sh`) → https://github.com/IndoNLP/nusa-writes/blob/main/lm-exp/run_lm_exp.sh
+
+##### Running PBSMT Experiment
 
 To run the PBSMT experiment, you can follow the run the code in the following order:
-- Generate dataset => https://github.com/IndoNLP/nusa-writes/pbsmt/convert_data.py
-- Generate config => https://github.com/IndoNLP/nusa-writes/pbsmt/generate_configs.py
-- Training => https://github.com/IndoNLP/nusa-writes/blob/stif-indonesia/run_nusa_menulis_train.sh
-- Testing => https://github.com/IndoNLP/nusa-writes/blob/stif-indonesia/run_nusa_menulis_eval.sh 
+- Generate dataset → https://github.com/IndoNLP/nusa-writes/pbsmt/convert_data.py
+- Generate config → https://github.com/IndoNLP/nusa-writes/pbsmt/generate_configs.py
+- Training → https://github.com/IndoNLP/nusa-writes/blob/stif-indonesia/run_nusa_menulis_train.sh
+- Testing → https://github.com/IndoNLP/nusa-writes/blob/stif-indonesia/run_nusa_menulis_eval.sh 
 
 
 ### Research Paper
