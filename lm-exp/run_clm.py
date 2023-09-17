@@ -443,6 +443,7 @@ def main():
     model = GPT2LMHeadModel(config=config)
     n_params = sum({p.data_ptr(): p.numel() for p in model.parameters()}.values())
     logger.info(f"Training new model from scratch - Total size={n_params/2**20:.2f}M params")
+    exit()
     
     # Preprocessing the datasets.
     # First we tokenize all the texts.
