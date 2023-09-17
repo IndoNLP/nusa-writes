@@ -63,6 +63,15 @@ nusa_paragraph_dsets = nc.load_benchmark('NusaParagraph')
 nusa_writes_dsets = nc.load_benchmark('NusaWrites')
 ```
 
+### Running PBSMT Experiment
+
+To run the PBSMT experiment, you can follow the run the code in the following order:
+- Generate dataset => https://github.com/IndoNLP/nusa-writes/pbsmt/convert_data.py
+- Generate config => https://github.com/IndoNLP/nusa-writes/pbsmt/generate_configs.py
+- Training => https://github.com/IndoNLP/nusa-writes/blob/stif-indonesia/run_nusa_menulis_train.sh
+- Testing => https://github.com/IndoNLP/nusa-writes/blob/stif-indonesia/run_nusa_menulis_eval.sh 
+
+
 ### Research Paper
 Our work has been accepted in AACL 2023 and is currently waiting to be published. In the meantime, you can access the preprint version of our work [here](https://openreview.net/forum?id=gftlYED4KRp). 
 
