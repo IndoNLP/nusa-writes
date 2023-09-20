@@ -17,9 +17,9 @@
 ### How to Use
 
 The complete **NusaWrites** dataset can be accessed from our [github repository](https://github.com/IndoNLP/nusa-writes). 
-For a more easy-to-use and standardized access of all **NusaWrites** datasets, you can access it though the [HuggingFace `datasets` library]() or our [NusaCrowd library]()
+For a more easy-to-use and standardized access of all **NusaWrites** datasets, you can access it though the [Hugging Face `datasets` library]() or our [NusaCrowd library]()
 
-##### Access from HuggingFace `datasets`
+##### Access from Hugging Face `datasets`
 ```
 import datasets
 
@@ -67,7 +67,7 @@ nusa_writes_dsets = nc.load_benchmark('NusaWrites')
 
 ##### Running LM Experiment
 
-We modify the `run_clm.py` code from Huggingface and made use of IndoGPT (https://huggingface.co/indobenchmark/indogpt) tokenizer in our LM experiment. 
+We modify the `run_clm.py` code from Hugging Face and made use of IndoGPT (https://huggingface.co/indobenchmark/indogpt) tokenizer in our LM experiment. 
 The code and the run script can be found under the [lm-exp](https://github.com/IndoNLP/nusa-writes/tree/main/lm-exp) folder in the repository.
 - `run_clm.py` → https://github.com/IndoNLP/nusa-writes/blob/main/lm-exp/run_clm.py
 - Bash runner script (`run_lm_exp.sh`) → https://github.com/IndoNLP/nusa-writes/blob/main/lm-exp/run_lm_exp.sh
