@@ -1,0 +1,109 @@
+type,model,lang,performance,performance__pct
+Classical,LR,abs,0.592,59.2
+Classical,LR,bew,0.760,76.0
+Classical,LR,bhp,0.517,51.7
+Classical,LR,btk,0.739,73.9
+Classical,LR,bug,0.637,63.7
+Classical,LR,jav,0.804,80.4
+Classical,LR,mad,0.748,74.8
+Classical,LR,mak,0.706,70.6
+Classical,LR,min,0.795,79.5
+Classical,LR,mui,0.655,65.5
+Classical,LR,rej,0.598,59.8
+Classical,LR,sun,0.765,76.5
+Classical,NB,abs,0.589,58.9
+Classical,NB,bew,0.727,72.7
+Classical,NB,bhp,0.555,55.5
+Classical,NB,btk,0.696,69.6
+Classical,NB,bug,0.582,58.2
+Classical,NB,jav,0.766,76.6
+Classical,NB,mad,0.708,70.8
+Classical,NB,mak,0.693,69.3
+Classical,NB,min,0.738,73.8
+Classical,NB,mui,0.633,63.3
+Classical,NB,rej,0.584,58.4
+Classical,NB,sun,0.722,72.2
+Classical,SVM,abs,0.582,58.2
+Classical,SVM,bew,0.759,75.9
+Classical,SVM,bhp,0.578,57.8
+Classical,SVM,btk,0.728,72.8
+Classical,SVM,bug,0.620,62.0
+Classical,SVM,jav,0.797,79.7
+Classical,SVM,mad,0.740,74.0
+Classical,SVM,mak,0.699,69.9
+Classical,SVM,min,0.787,78.7
+Classical,SVM,mui,0.646,64.6
+Classical,SVM,rej,0.580,58.0
+Classical,SVM,sun,0.757,75.7
+Fine-tuned Indonesian monolingual,IB-B1,abs,0.557,55.7
+Fine-tuned Indonesian monolingual,IB-B1,bew,0.782,78.2
+Fine-tuned Indonesian monolingual,IB-B1,bhp,0.475,47.5
+Fine-tuned Indonesian monolingual,IB-B1,btk,0.697,69.7
+Fine-tuned Indonesian monolingual,IB-B1,bug,0.510,51.0
+Fine-tuned Indonesian monolingual,IB-B1,jav,0.820,82.0
+Fine-tuned Indonesian monolingual,IB-B1,mad,0.716,71.6
+Fine-tuned Indonesian monolingual,IB-B1,mak,0.677,67.7
+Fine-tuned Indonesian monolingual,IB-B1,min,0.796,79.6
+Fine-tuned Indonesian monolingual,IB-B1,mui,0.665,66.5
+Fine-tuned Indonesian monolingual,IB-B1,rej,0.539,53.9
+Fine-tuned Indonesian monolingual,IB-B1,sun,0.733,73.3
+Fine-tuned Indonesian monolingual,IB-L,abs,0.603,60.3
+Fine-tuned Indonesian monolingual,IB-L,bew,0.738,73.8
+Fine-tuned Indonesian monolingual,IB-L,bhp,0.442,44.2
+Fine-tuned Indonesian monolingual,IB-L,btk,0.676,67.6
+Fine-tuned Indonesian monolingual,IB-L,bug,0.338,33.8
+Fine-tuned Indonesian monolingual,IB-L,jav,0.830,83.0
+Fine-tuned Indonesian monolingual,IB-L,mad,0.699,69.9
+Fine-tuned Indonesian monolingual,IB-L,mak,0.673,67.3
+Fine-tuned Indonesian monolingual,IB-L,min,0.795,79.5
+Fine-tuned Indonesian monolingual,IB-L,mui,0.615,61.5
+Fine-tuned Indonesian monolingual,IB-L,rej,0.451,45.1
+Fine-tuned Indonesian monolingual,IB-L,sun,0.766,76.6
+Fine-tuned Indonesian monolingual,IB-B2,abs,0.472,47.2
+Fine-tuned Indonesian monolingual,IB-B2,bew,0.790,79.0
+Fine-tuned Indonesian monolingual,IB-B2,bhp,0.350,35.0
+Fine-tuned Indonesian monolingual,IB-B2,btk,0.694,69.4
+Fine-tuned Indonesian monolingual,IB-B2,bug,0.547,54.7
+Fine-tuned Indonesian monolingual,IB-B2,jav,0.824,82.4
+Fine-tuned Indonesian monolingual,IB-B2,mad,0.706,70.6
+Fine-tuned Indonesian monolingual,IB-B2,mak,0.660,66.0
+Fine-tuned Indonesian monolingual,IB-B2,min,0.788,78.8
+Fine-tuned Indonesian monolingual,IB-B2,mui,0.647,64.7
+Fine-tuned Indonesian monolingual,IB-B2,rej,0.526,52.6
+Fine-tuned Indonesian monolingual,IB-B2,sun,0.741,74.1
+Fine-tuned multilingual,mB,abs,0.468,46.8
+Fine-tuned multilingual,mB,bew,0.754,75.4
+Fine-tuned multilingual,mB,bhp,0.273,27.3
+Fine-tuned multilingual,mB,btk,0.679,67.9
+Fine-tuned multilingual,mB,bug,0.467,46.7
+Fine-tuned multilingual,mB,jav,0.804,80.4
+Fine-tuned multilingual,mB,mad,0.700,70.0
+Fine-tuned multilingual,mB,mak,0.640,64.0
+Fine-tuned multilingual,mB,min,0.776,77.6
+Fine-tuned multilingual,mB,mui,0.578,57.8
+Fine-tuned multilingual,mB,rej,0.281,28.1
+Fine-tuned multilingual,mB,sun,0.740,74.0
+Fine-tuned multilingual,XR-B,abs,0.515,51.5
+Fine-tuned multilingual,XR-B,bew,0.779,77.9
+Fine-tuned multilingual,XR-B,bhp,0.272,27.2
+Fine-tuned multilingual,XR-B,btk,0.682,68.2
+Fine-tuned multilingual,XR-B,bug,0.424,42.4
+Fine-tuned multilingual,XR-B,jav,0.822,82.2
+Fine-tuned multilingual,XR-B,mad,0.708,70.8
+Fine-tuned multilingual,XR-B,mak,0.632,63.2
+Fine-tuned multilingual,XR-B,min,0.784,78.4
+Fine-tuned multilingual,XR-B,mui,0.362,36.2
+Fine-tuned multilingual,XR-B,rej,0.320,32.0
+Fine-tuned multilingual,XR-B,sun,0.778,77.8
+Fine-tuned multilingual,XR-L,abs,0.611,61.1
+Fine-tuned multilingual,XR-L,bew,0.805,80.5
+Fine-tuned multilingual,XR-L,bhp,0.370,37.0
+Fine-tuned multilingual,XR-L,btk,0.718,71.8
+Fine-tuned multilingual,XR-L,bug,0.475,47.5
+Fine-tuned multilingual,XR-L,jav,0.849,84.9
+Fine-tuned multilingual,XR-L,mad,0.726,72.6
+Fine-tuned multilingual,XR-L,mak,0.670,67.0
+Fine-tuned multilingual,XR-L,min,0.821,82.1
+Fine-tuned multilingual,XR-L,mui,0.727,72.7
+Fine-tuned multilingual,XR-L,rej,0.447,44.7
+Fine-tuned multilingual,XR-L,sun,0.814,81.4

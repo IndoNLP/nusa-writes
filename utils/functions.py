@@ -11,8 +11,8 @@ from transformers import MBartTokenizer, MBartConfig, MBartForConditionalGenerat
 from transformers import T5Config, T5Tokenizer, T5ForConditionalGeneration
 from transformers import MT5ForConditionalGeneration
 from transformers import GPT2Tokenizer, GPT2Config, GPT2LMHeadModel
-# from indobenchmark import IndoNLGTokenizer
-from modules.tokenization_indonlg import IndoNLGTokenizer
+from indobenchmark import IndoNLGTokenizer
+# from modules.tokenization_indonlg import IndoNLGTokenizer
 from modules.tokenization_mbart52 import MBart52Tokenizer
 
 import json
@@ -291,7 +291,7 @@ def load_model(args):
         # indobenchmark models
         # Prepare config & tokenizer
         vocab_path, config_path = None, None
-        tokenizer = BertTokenizer.from_pretrained(args['model_checkpoint'])
+        tokenizer = BertTokenizer.from_pretrained(args['model_checkpoint'], model_max_length=512)
         config = BertConfig.from_pretrained(args['model_checkpoint'])
         if type(args['num_labels']) == list:
             config.num_labels = max(args['num_labels'])
@@ -307,7 +307,7 @@ def load_model(args):
         # indobenchmark models
         # Prepare config & tokenizer
         vocab_path, config_path = None, None
-        tokenizer = BertTokenizer.from_pretrained(args['model_checkpoint'])
+        tokenizer = BertTokenizer.from_pretrained(args['model_checkpoint'], model_max_length=512)
         config = BertConfig.from_pretrained(args['model_checkpoint'])
         if type(args['num_labels']) == list:
             config.num_labels = max(args['num_labels'])
@@ -323,41 +323,43 @@ def load_generation_model(args, resize_embedding=True):
     # IndoNLG Tokenizer vocabulary
     vocab_size = 40014
     special_tokens_to_ids = {
-            "[english]": 40000,
-            "[indonesian]": 40001,
-            "[javanese]": 40002,
-            "[sundanese]": 40003,
-            "[ambonese]": 40004,
-            "[batak]": 40005,
-            "[betawi]": 40006,
-            "[bimanese]": 40007,
-            "[madurese]": 40008,
-            "[makassarese]": 40009,
-            "[minangkabau]": 40010,
-            "[palembangese]": 40011,
-            "[rejang]": 40012,
-            "<mask>": 40013
+        "[javanese]": 40000, 
+        "[sundanese]": 40001, 
+        "[indonesian]": 40002,
+        "<mask>": 40003,
+        "[english]": 40004,
+        "[ambonese]": 40005,
+        "[batak]": 40006,
+        "[betawi]": 40007,
+        "[bimanese]": 40008,
+        "[madurese]": 40009,
+        "[makassarese]": 40010,
+        "[minangkabau]": 40011,
+        "[palembangese]": 40012,
+        "[rejang]": 40013,
+        "<mask>": 40014
     }
+
     #avoiding hardcoded in middle of script
     new_lang_tokens = 11
-    new_lang_starting_token_ids = 4004
-    indonesian_token_id = 40001
+    new_lang_starting_token_ids = 40004
+    indonesian_token_id = 40002
     special_ids_to_tokens = {v: k for k, v in special_tokens_to_ids.items()}
 
     # Store Language token ID
-    english_token, english_token_id = '[english]', 40000
-    indonesian_token, indonesian_token_id = '[indonesian]', 40001
-    javanese_token, javanese_token_id = '[javanese]', 40002
-    sundanese_token, sundanese_token_id = '[sundanese]', 40003
-    ambonese_token, ambonese_token_id = '[ambonese]', 40004
-    batak_token, batak_token_id = '[batak]', 40005
-    betawi_token, betawi_token_id = '[betawi]', 40006
-    bimanese_token, bimanese_token_id = '[bimanese]', 40007
-    madurese_token, madurese_token_id = '[madurese]', 40008
-    makassarese_token, makassarese_token_id = '[makassarese]', 40009
-    minang_token, minang_token_id = '[minangkabau]', 40010
-    palembangese_token, palembangese_token_id = '[palembangese]', 40011
-    rejang_token, rejang_token_id = '[rejang]', 40012
+    javanese_token, javanese_token_id = '[javanese]', 40000
+    sundanese_token, sundanese_token_id = '[sundanese]', 40001
+    indonesian_token, indonesian_token_id = '[indonesian]', 40002
+    english_token, english_token_id = '[english]', 40004
+    ambonese_token, ambonese_token_id = '[ambonese]', 40005
+    batak_token, batak_token_id = '[batak]', 40006
+    betawi_token, betawi_token_id = '[betawi]', 40007
+    bimanese_token, bimanese_token_id = '[bimanese]', 40008
+    madurese_token, madurese_token_id = '[madurese]', 40009
+    makassarese_token, makassarese_token_id = '[makassarese]', 40010
+    minang_token, minang_token_id = '[minangkabau]', 40011
+    palembangese_token, palembangese_token_id = '[palembangese]', 40012
+    rejang_token, rejang_token_id = '[rejang]', 40013
 
     # UNUSED lang for nusa-menulis, commented from prev codebase
     # acehnese_token, acehnese_token_id = '[acehnese]', 40004
@@ -436,7 +438,7 @@ def load_generation_model(args, resize_embedding=True):
 
         tokenizer.special_tokens_to_ids = special_tokens_to_ids
         tokenizer.special_ids_to_tokens = {v: k for k, v in special_tokens_to_ids.items()}
-        
+
         # Instantiate model
         if 'local' in args['model_type']:
             model = MBartForConditionalGeneration.from_pretrained('pretrained_models/indobenchmark/indobart-v2')

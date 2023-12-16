@@ -1,0 +1,22 @@
+{
+    "data_dir": "data/rej/",
+    "output_working_dir": "output/rej/",
+    "semi-supervised-count": 0,
+    "moses_args": {
+        "moses_ngram": 3,
+        "core_cpu": 2,
+        "reordering": "msd-bidirectional-fe",
+        "alignment": "grow-diag-final-and"
+    },
+    "data_train": "train",
+    "data_development": "dev",
+    "data_test": "test",
+    "source_file_type": ".inf",
+    "target_file_type": ".for",
+    "wandb_project_run": "nusa-menulis",
+    "wandb_notes": "rej",
+    "wandb_name": "rej",
+    "wandb_tags": [
+        "rej"
+    ]
+}
