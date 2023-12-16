@@ -1,6 +1,7 @@
 import os
 import shutil
 from copy import deepcopy
+import pickle
 import random
 import numpy as np
 import pandas as pd
@@ -41,7 +42,7 @@ def metrics_to_string(metric_dict):
 ###
     
 # Evaluate function for validation and test
-def evaluate(model, data_loader, forward_fn, metrics_fn, model_type, tokenizer, beam_size=1, max_seq_len=512, is_test=False, device='cpu'):
+def evaluate_language_model(model, data_loader, forward_fn, metrics_fn, model_type, tokenizer, beam_size=1, max_seq_len=512, is_test=False, device='cpu'):
     model.eval()
     torch.set_grad_enabled(False)
     
@@ -75,6 +76,11 @@ def evaluate(model, data_loader, forward_fn, metrics_fn, model_type, tokenizer, 
         return total_loss/(i+1), metrics, list_hyp, list_label
     else:
         return total_loss/(i+1), metrics
+
+# Evaluate function for validation and test
+def evaluate_classical(list_hyp, list_label, metrics_fn):
+    metrics = metrics_fn(list_hyp, list_label)        
+    return None, metrics, list_hyp, list_label
 
 # Training function and trainer
 def train(model, train_loader, valid_loader, optimizer, forward_fn, metrics_fn, valid_criterion, tokenizer, n_epochs, evaluate_every=1, early_stop=3, step_size=1, gamma=0.5, max_norm=10, grad_accum=1, beam_size=1, max_seq_len=512, model_type='bart', output_dir="", exp_id=None, fp16=False, device='cpu'):
@@ -196,7 +202,15 @@ if __name__ == "__main__":
             raise Exception(f'model directory `{output_dir}` already exists, use --force if you want to overwrite the folder')
         return output_dir
 
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir, exist_ok=True)
+    elif args['force']:
+        print(f'overwriting model directory `{output_dir}`')
+    else:
+        raise Exception(f'model directory `{output_dir}` already exists, use --force if you want to overwrite the folder')
+    return output_dir
 
+def process_language_model_benchmark(args):
     # Specify output dir
     output_dir = create_output_directory(
         args["model_dir"],
@@ -288,8 +302,18 @@ if __name__ == "__main__":
 
     # Evaluation
     print("=========== EVALUATION PHASE ===========")
-    test_loss, test_metrics, test_hyp, test_label = evaluate(model, data_loader=test_loader, forward_fn=args['forward_fn'], metrics_fn=args['metrics_fn'], 
-            model_type=args['model_type'], tokenizer=tokenizer, beam_size=args['beam_size'], max_seq_len=args['max_seq_len'], is_test=True, device=args['device'])
+    test_loss, test_metrics, test_hyp, test_label = evaluate_language_model(
+        model=model, 
+        data_loader=test_loader, 
+        forward_fn=args['forward_fn'], 
+        metrics_fn=args['metrics_fn'], 
+        model_type=args['model_type'], 
+        tokenizer=tokenizer, 
+        beam_size=args['beam_size'], 
+        max_seq_len=args['max_seq_len'], 
+        is_test=True, 
+        device=args['device']
+    )
 
     metrics_scores.append(test_metrics)
     result_dfs.append(pd.DataFrame({
@@ -307,5 +331,121 @@ if __name__ == "__main__":
     print('== Model Performance ==')
     print(metric_df.describe())
     
-    result_df.to_csv(args["output_dir"] + "/prediction_result.csv")
-    metric_df.describe().to_csv(args["output_dir"] + "/evaluation_result.csv")
+    result_df.to_csv(args["model_dir"] + "/prediction_result.csv")
+    metric_df.describe().to_csv(args["model_dir"] + "/evaluation_result.csv")
+
+def translate_one_sentence_panlex(
+    sentence,
+    translator
+):
+    words = sentence.split(' ')
+    translated_words = []
+    for word in words:
+        tranlated_word = translator.get(word)
+        if tranlated_word:
+            translated_words.append(tranlated_word)
+        else:
+            translated_words.append(word)
+    translated_sentence = ' '.join(translated_words)
+    return translated_sentence
+
+def translate_lexical_panlex(
+    sentences,
+    src_lang,
+    dst_lang
+):
+    translator_filepath = f"./boomer/panlex_translator/{src_lang}_to_{dst_lang}.pkl"
+    with open(translator_filepath, 'rb') as fp:
+        translator = pickle.load(fp)
+    return [translate_one_sentence_panlex(s, translator) for s in sentences]
+
+def process_classical_benchmark(args):
+    # Specify output dir
+    output_dir = create_output_directory(
+        args["model_dir"],
+        args["dataset_name"],
+        args["task"],
+        args["lang"],
+        args['model_type'].replace('/','-'),
+        args['seed'],
+        args["num_sample"],
+        args["force"]
+    )
+
+    # Set random seed
+    set_seed(args['seed'])  # Added here for reproductibility    
+    
+    metrics_scores = []
+    result_dfs = []
+
+    # Load dset
+    dset = load_dataset(
+        dataset=args["dataset_name"],
+        task=args["task"],
+        lang=args["lang"],
+        num_sample=int(args["num_sample"]),
+        base_path="./data"
+    )
+    print(f"#Datapoints on train dataset: {len(dset['train'])}")
+    print(f"#Datapoints on valid dataset: {len(dset['valid'])}")
+    print(f"#Datapoints on test dataset: {len(dset['test'])}")
+
+    testset_df = pd.DataFrame(dset["test"])
+    if args['model_type'] == "copy":
+        list_label = testset_df['tgt_text'].tolist()
+        list_hyp = testset_df['ind_text'].tolist()
+    elif args['model_type'] == "word-substitution":
+        list_label = testset_df['tgt_text'].tolist()
+        list_src = testset_df['ind_text'].tolist()
+        list_hyp = translate_lexical_panlex(
+            sentences=list_src,
+            src_lang='ind',
+            dst_lang=args["lang"]
+        )
+    elif args['model_type'] == "pbsmt":
+        raise Error("Not Implemented")
+    else:
+        raise ValueError(f"Error: Unknown model_type {args['model_type']}")
+
+    # Evaluation
+    print("=========== EVALUATION PHASE ===========")
+    test_loss, test_metrics, test_hyp, test_label = evaluate_classical(
+        list_hyp=list_hyp, 
+        list_label=list_label, 
+        metrics_fn=args['metrics_fn'], 
+    )
+
+    metrics_scores.append(test_metrics)
+    result_dfs.append(pd.DataFrame({
+        'hyp': test_hyp, 
+        'label': test_label
+    }))
+    
+    result_df = pd.concat(result_dfs)
+    metric_df = pd.DataFrame.from_records(metrics_scores)
+    
+    print('== Prediction Result ==')
+    print(result_df.head())
+    print()
+    
+    print('== Model Performance ==')
+    print(metric_df)
+    
+    result_df.to_csv(output_dir + "/prediction_result.csv")
+    metric_df.to_csv(output_dir + "/evaluation_result.csv")
+
+if __name__ == "__main__":
+    # Make sure cuda is deterministic
+    torch.backends.cudnn.deterministic = True
+    
+    # Parse args
+    args = get_generation_parser()
+    args = append_generation_dataset_args(args)
+    args = append_generation_model_args(args)
+
+    if args['model_type'] in ["indo-bart", "indo-gpt2"]:
+        process_language_model_benchmark(args)
+    elif args['model_type'] in ["copy", "word-substitution"]:
+        process_classical_benchmark(args)
+    else:
+        raise ValueError(f"Error: unrecognized model type: {args['model_type']}")
