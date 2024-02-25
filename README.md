@@ -106,16 +106,20 @@ To run the PBSMT experiment, you can follow the run the code in the following or
 
 
 ### Research Paper
-Our work has been accepted in AACL 2023 and is currently waiting to be published. In the meantime, you can access the preprint version of our work [here](https://openreview.net/forum?id=gftlYED4KRp). 
+Our work has been accepted in AACL 2023 and published [here](https://aclanthology.org/2023.ijcnlp-main.60/).
 
-If you find our work useful, please cite the following article:
+If you find our work helpful, please cite the following article:
 ```
-@unpublished{              
-	cahyawijaya2023nusawrites,              
-	title={NusaWrites: Constructing High-Quality Corpora for Underrepresented and Extremely Low-Resource Languages},              
-	author={Samuel Cahyawijaya,Holy Lovenia,Fajri Koto,Dea Adhista,Emmanuel Dave,Sarah Oktavianti,Salsabil Maulana Akbar,Jhonson Lee,Nuur Shadieq,Tjeng Wawan Cenggoro,Hanung Linuwih,Bryan Wilie,Galih Pradipta Muridan,Alham Fikri Aji,Genta Indra Winata,David Moeljadi,Ayu Purwarianti,Pascale Fung},              
-	journal={OpenReview Preprint},              
-	year={2023},              
-	note={anonymous preprint under review}          
+@inproceedings{cahyawijaya-etal-2023-nusawrites,
+    title = "{N}usa{W}rites: Constructing High-Quality Corpora for Underrepresented and Extremely Low-Resource Languages",
+    author = "Cahyawijaya, Samuel  and  Lovenia, Holy  and Koto, Fajri  and  Adhista, Dea  and  Dave, Emmanuel  and  Oktavianti, Sarah  and  Akbar, Salsabil  and  Lee, Jhonson  and  Shadieq, Nuur  and  Cenggoro, Tjeng Wawan  and  Linuwih, Hanung  and  Wilie, Bryan  and  Muridan, Galih  and  Winata, Genta  and  Moeljadi, David  and  Aji, Alham Fikri  and  Purwarianti, Ayu  and  Fung, Pascale",
+    editor = "Park, Jong C.  and  Arase, Yuki  and  Hu, Baotian  and  Lu, Wei  and  Wijaya, Derry  and  Purwarianti, Ayu  and  Krisnadhi, Adila Alfa",
+    booktitle = "Proceedings of the 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = nov,
+    year = "2023",
+    address = "Nusa Dua, Bali",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.ijcnlp-main.60",
+    pages = "921--945",
 }
 ```
