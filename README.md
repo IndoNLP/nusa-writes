@@ -24,38 +24,9 @@ For a more easy-to-use and standardized access of all **NusaWrites** datasets, y
 import datasets
 
 # NusaTranslation (all Languages mixed)
-nt_emot_dset = nc.load_dataset('indonlp/nusatranslation_emot')
-nt_senti_dset = nc.load_dataset('indonlp/nusatranslation_senti')
-nt_mt_dset = nc.load_dataset('indonlp/nusatranslation_mt')
-
-# NusaTranslation (per language)
-# Supported lang_code: abs, btk, bew, bhp, jav, mad, mak, min, mui, rej, sun
-nt_emot_dset = nc.load_dataset('indonlp/nusatranslation_emot', name='nusatranslation_emot_{lang_code}_nusantara_text')
-nt_senti_dset = nc.load_dataset('indonlp/nusatranslation_senti', name='nusatranslation_senti_{lang_code}_nusantara_text')
-nt_mt_dset = nc.load_dataset('indonlp/nusatranslation_mt', name='nusatranslation_mt_{lang_code}_nusantara_text')
-
-# NusaParagraph (all Languages mixed)
-np_emot_dset = nc.load_dataset('indonlp/nusaparagraph_emot')
-np_rhetoric_dset = nc.load_dataset('indonlp/nusaparagraph_rhetoric')
-np_topic_dset = nc.load_dataset('indonlp/nusaparagraph_topic')
-
-# NusaParagraph (per language)
-# Supported lang_code: btk, bew, bug, jav, mad, mak, min, mui, rej, sun
-np_emot_dset = nc.load_dataset('indonlp/nusaparagraph_emot', name='nusaparagraph_emot_{lang_code}_nusantara_text')
-np_rhetoric_dset = nc.load_dataset('indonlp/nusaparagraph_rhetoric', name='nusaparagraph_rhetoric_{lang_code}_nusantara_text')
-np_topic_dset = nc.load_dataset('indonlp/nusaparagraph_topic', name='nusaparagraph_topic_{lang_code}_nusantara_text')
-```
-
-##### Access from NusaCrowd
-
-Loading per task dataset
-```
-import nusacrowd as nc
-
-# NusaTranslation (all Languages mixed)
-nt_emot_dset = datasets.load_dataset('nusatranslation_emot')
-nt_senti_dset = datasets.load_dataset('nusatranslation_senti')
-nt_mt_dset = datasets.load_dataset('nusatranslation_mt')
+nt_emot_dset = datasets.load_dataset('indonlp/nusatranslation_emot')
+nt_senti_dset = datasets.load_dataset('indonlp/nusatranslation_senti')
+nt_mt_dset = datasets.load_dataset('indonlp/nusatranslation_mt')
 
 # NusaTranslation (per language)
 # Supported lang_code: abs, btk, bew, bhp, jav, mad, mak, min, mui, rej, sun
@@ -73,6 +44,35 @@ np_topic_dset = datasets.load_dataset('indonlp/nusaparagraph_topic')
 np_emot_dset = datasets.load_dataset('indonlp/nusaparagraph_emot', name='nusaparagraph_emot_{lang_code}_nusantara_text')
 np_rhetoric_dset = datasets.load_dataset('indonlp/nusaparagraph_rhetoric', name='nusaparagraph_rhetoric_{lang_code}_nusantara_text')
 np_topic_dset = datasets.load_dataset('indonlp/nusaparagraph_topic', name='nusaparagraph_topic_{lang_code}_nusantara_text')
+```
+
+##### Access from NusaCrowd
+
+Loading per task dataset
+```
+import nusacrowd as nc
+
+# NusaTranslation (all Languages mixed)
+nt_emot_dset = nc.load_dataset('nusatranslation_emot')
+nt_senti_dset = nc.load_dataset('nusatranslation_senti')
+nt_mt_dset = nc.load_dataset('nusatranslation_mt')
+
+# NusaTranslation (per language)
+# Supported lang_code: abs, btk, bew, bhp, jav, mad, mak, min, mui, rej, sun
+nt_emot_dset = nc.load_dataset('indonlp/nusatranslation_emot', name='nusatranslation_emot_{lang_code}_nusantara_text')
+nt_senti_dset = nc.load_dataset('indonlp/nusatranslation_senti', name='nusatranslation_senti_{lang_code}_nusantara_text')
+nt_mt_dset = nc.load_dataset('indonlp/nusatranslation_mt', name='nusatranslation_mt_{lang_code}_nusantara_text')
+
+# NusaParagraph (all Languages mixed)
+np_emot_dset = nc.load_dataset('indonlp/nusaparagraph_emot')
+np_rhetoric_dset = nc.load_dataset('indonlp/nusaparagraph_rhetoric')
+np_topic_dset = nc.load_dataset('indonlp/nusaparagraph_topic')
+
+# NusaParagraph (per language)
+# Supported lang_code: btk, bew, bug, jav, mad, mak, min, mui, rej, sun
+np_emot_dset = nc.load_dataset('indonlp/nusaparagraph_emot', name='nusaparagraph_emot_{lang_code}_nusantara_text')
+np_rhetoric_dset = nc.load_dataset('indonlp/nusaparagraph_rhetoric', name='nusaparagraph_rhetoric_{lang_code}_nusantara_text')
+np_topic_dset = nc.load_dataset('indonlp/nusaparagraph_topic', name='nusaparagraph_topic_{lang_code}_nusantara_text')
 ```
 
 Loading the whole benchmark
